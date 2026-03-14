@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tra cứu - Toàn thư luật pháp</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">Toàn thư luật pháp</a>
+      <nav>
+        <a href="/">Trang chủ</a>
+        <a href="/muc-luc.html">Mục lục</a>
+        <a href="/intro.html">Giới thiệu</a>
+        <a href="/guide.html">Hướng dẫn</a>
+        <a href="/search.html">Tra cứu</a>
+        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
+        <a href="/cases.html">Án lệ</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <h1>Tra cứu văn bản luật</h1>
+    <p class="search-hint">Bạn có thể mô tả nội dung cần tìm bằng từ ngữ đời thường; không cần nhớ số hiệu hay tên chính xác của văn bản.</p>
+    <div class="search-box">
+      <input type="search" id="q" placeholder="Gõ bằng từ thường, ví dụ: thuế thu nhập, ly hôn, lao động, hình sự…" autofocus>
+      <button type="button" id="btnSearch">Tìm kiếm</button>
+    </div>
+    <div class="topic-links">
+      <span class="topic-label">Tra theo chủ đề:</span>
+      <a href="/search.html?tax=1">Thuế</a>
+      <a href="/search.html?q=lao+động">Lao động</a>
+      <a href="/search.html?q=hình+sự">Hình sự</a>
+      <a href="/search.html?q=dân+sự">Dân sự</a>
+      <a href="/search.html?q=hành+chính">Hành chính</a>
+    </div>
+    <div class="filters">
+      <label>
+        <select id="country">
+          <option value="">Tất cả quốc gia</option>
+          <option value="US">Hoa Kỳ</option>
+          <option value="VN">Việt Nam</option>
+        </select>
+      </label>
+      <label>
+        <select id="type">
+          <option value="">Loại văn bản</option>
+          <option value="statute">Luật / Nghị định</option>
+          <option value="regulation">Quy định</option>
+          <option value="tax_ruling">Thuế</option>
+        </select>
+      </label>
+      <label class="filter-2026"><input type="checkbox" id="effective2026" checked> Có hiệu lực năm 2026</label>
+      <label><input type="checkbox" id="taxOnly"> Chỉ thuế</label>
+    </div>
+    <p class="disclaimer">Dữ liệu tham khảo từ nguồn công khai, không thay thế văn bản chính thức hay tư vấn pháp lý.</p>
+    <div id="results" class="result-list"></div>
+    <div id="pagination" class="pagination"></div>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    </div>
+  </footer>
+  <script src="/js/app.js"></script>
+  <script src="/js/search.js"></script>
+</body>
+</html>

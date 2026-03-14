@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cấu trúc luật 2026 - Toàn thư luật pháp</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">Toàn thư luật pháp</a>
+      <nav>
+        <a href="/">Trang chủ</a>
+        <a href="/muc-luc.html">Mục lục</a>
+        <a href="/intro.html">Giới thiệu</a>
+        <a href="/guide.html">Hướng dẫn</a>
+        <a href="/search.html">Tra cứu</a>
+        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
+        <a href="/cases.html">Án lệ</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container page-cautruc">
+    <h1>Cấu trúc luật hiện có năm 2026</h1>
+    <p class="lead">Toàn bộ chủ đề pháp luật của Hoa Kỳ và Việt Nam, tính đến năm 2026. Nhấn vào từng chủ đề để tra cứu văn bản liên quan.</p>
+
+    <div class="cautruc-grid" id="cautruc-content">
+      <p class="loading">Đang tải dữ liệu…</p>
+    </div>
+
+    <section class="toc-section" style="margin-top:2rem">
+      <h2>Cách dùng trang này</h2>
+      <p>Trang liệt kê <strong>toàn bộ lĩnh vực luật</strong> của hai nước. Mỗi chủ đề có link tra cứu tương ứng — bạn sẽ tìm thấy các văn bản, điều luật, nghị định và án lệ trong lĩnh vực đó. Để xem mục lục đầy đủ dạng sách, vào <a href="/muc-luc.html">Mục lục</a>.</p>
+    </section>
+
+    <p class="disclaimer">Dữ liệu tham khảo từ nguồn công khai, không thay thế văn bản chính thức hay tư vấn pháp lý.</p>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    </div>
+  </footer>
+  <script src="/js/app.js"></script>
+  <script>
+    (function () {
+      function escapeHtml(s) {
+        if (!s) return '';
+        var d = document.createElement('div');
+        d.textContent = s;
+        return d.innerHTML;
+      }
+
+      function buildSearchUrl(topic) {
+        if (topic.link) return topic.link;
+        var url = '/search.html?effective2026=1';
+        var s = topic.search || {};
+        if (s.country) url += '&country=' + encodeURIComponent(s.country);
+        if (s.q) url += '&q=' + encodeURIComponent(s.q);
+        if (s.tax) url += '&tax=' + s.tax;
+        if (s.type) url += '&type=' + encodeURIComponent(s.type);
+        return url;
+      }
+
+      function renderCountry(data, key) {
+        var info = data[key];
+        var html = '<div class="cautruc-country" id="cautruc-' + key + '">';
+        html += '<h2>' + escapeHtml(info.label) + ' <span class="cautruc-topic-count">(' + info.topics.length + ' chủ đề)</span></h2>';
+        html += '<ul class="cautruc-list">';
+        info.topics.forEach(function (t) {
+          var href = buildSearchUrl(t);
+          html += '<li class="cautruc-item" id="ct-' + t.id + '">';
+          html += '<a href="' + href + '" class="cautruc-link">';
+          html += '<strong>' + escapeHtml(t.name) + '</strong>';
+          if (t.nameEn) html += ' <span class="cautruc-en">(' + escapeHtml(t.nameEn) + ')</span>';
+          html += '</a>';
+          html += '<div class="cautruc-desc">' + escapeHtml(t.desc) + '</div>';
+          html += '<span class="cautruc-badge" id="badge-' + t.id + '"></span>';
+          html += '</li>';
+        });
+        html += '</ul></div>';
+        return html;
+      }
+
+      function loadCounts(topics) {
+        topics.forEach(function (t) {
+          if (t.link) return;
+          var s = t.search || {};
+          var params = { effective2026: '1', limit: 1, offset: 0 };
+          if (s.country) params.country = s.country;
+          if (s.q) params.q = s.q;
+          if (s.tax) params.tax = s.tax;
+          if (s.type) params.type = s.type;
+          window.ToanThuLuat.get('/api/search', params).then(function (res) {
+            var badge = document.getElementById('badge-' + t.id);
+            if (badge && res.total > 0) {
+              badge.textContent = res.total + ' văn bản';
+            }
+          }).catch(function () {});
+        });
+      }
+
+      fetch('/data/cau-truc-luat-2026.json')
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          var el = document.getElementById('cautruc-content');
+          el.innerHTML = renderCountry(data, 'us') + renderCountry(data, 'vn');
+          loadCounts(data.us.topics);
+          loadCounts(data.vn.topics);
+        })
+        .catch(function () {
+          document.getElementById('cautruc-content').innerHTML =
+            '<p class="error">Không tải được dữ liệu cấu trúc luật.</p>';
+        });
+    })();
+  </script>
+</body>
+</html>

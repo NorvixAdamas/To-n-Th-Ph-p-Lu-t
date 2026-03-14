@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thuế - Toàn thư luật pháp</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">Toàn thư luật pháp</a>
+      <nav>
+        <a href="/">Trang chủ</a>
+        <a href="/muc-luc.html">Mục lục</a>
+        <a href="/intro.html">Giới thiệu</a>
+        <a href="/guide.html">Hướng dẫn</a>
+        <a href="/search.html">Tra cứu</a>
+        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
+        <a href="/cases.html">Án lệ</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <h1>Văn bản pháp luật về thuế</h1>
+    <p>Tra cứu luật thuế Hoa Kỳ và Việt Nam. Mốc thời gian 2026.</p>
+    <p class="disclaimer">Dữ liệu tham khảo từ nguồn công khai, không thay thế văn bản chính thức hay tư vấn pháp lý.</p>
+    <p><a href="/search.html?tax=1" class="btn btn-primary">Xem tất cả văn bản thuế</a></p>
+    <div id="tax-results" class="result-list"></div>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    </div>
+  </footer>
+  <script src="/js/app.js"></script>
+  <script>
+    (function () {
+      window.ToanThuLuat.get('/api/search', { tax: '1', limit: 30, offset: 0 })
+        .then(function (res) {
+          var el = document.getElementById('tax-results');
+          if (!res.items || res.items.length === 0) {
+            el.innerHTML = '<p class="loading">Chưa có văn bản thuế. Chạy đồng bộ dữ liệu (npm run sync).</p>';
+            return;
+          }
+          function escapeHtml(s) {
+            if (!s) return '';
+            var d = document.createElement('div');
+            d.textContent = s;
+            return d.innerHTML;
+          }
+          el.innerHTML = '<ul class="result-list">' + res.items.map(function (item) {
+            return '<li class="result-item"><a href="/document.html?id=' + item.id + '">' + escapeHtml(item.title) + '</a><div class="result-meta">' + escapeHtml(item.jurisdiction_name || item.country) + '</div></li>';
+          }).join('') + '</ul>';
+        })
+        .catch(function () {
+          document.getElementById('tax-results').innerHTML = '<p class="loading">Không tải được danh sách.</p>';
+        });
+    })();
+  </script>
+</body>
+</html>

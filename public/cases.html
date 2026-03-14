@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Án lệ - Toàn thư luật pháp</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">Toàn thư luật pháp</a>
+      <nav>
+        <a href="/">Trang chủ</a>
+        <a href="/muc-luc.html">Mục lục</a>
+        <a href="/intro.html">Giới thiệu</a>
+        <a href="/guide.html">Hướng dẫn</a>
+        <a href="/search.html">Tra cứu</a>
+        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
+        <a href="/cases.html">Án lệ</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <h1>Tra cứu án lệ</h1>
+    <div class="search-box">
+      <input type="search" id="q" placeholder="Tên vụ án, từ khóa...">
+      <select id="country">
+        <option value="">Tất cả</option>
+        <option value="US">Hoa Kỳ</option>
+        <option value="VN">Việt Nam</option>
+      </select>
+      <button type="button" id="btnSearch">Tìm</button>
+    </div>
+    <div id="results" class="result-list"></div>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    </div>
+  </footer>
+  <script src="/js/app.js"></script>
+  <script>
+    (function () {
+      function escapeHtml(s) {
+        if (!s) return '';
+        var d = document.createElement('div');
+        d.textContent = s;
+        return d.innerHTML;
+      }
+      function load() {
+        document.getElementById('results').innerHTML = '<p class="loading">Đang tải...</p>';
+        window.ToanThuLuat.get('/api/cases', {
+          q: document.getElementById('q').value,
+          country: document.getElementById('country').value,
+          limit: 30,
+          offset: 0
+        }).then(function (res) {
+          var el = document.getElementById('results');
+          if (!res.items || res.items.length === 0) {
+            el.innerHTML = '<p class="loading">Không có kết quả.</p>';
+            return;
+          }
+          el.innerHTML = '<ul class="result-list">' + res.items.map(function (item) {
+            return '<li class="result-item"><a href="/case.html?id=' + item.id + '">' + escapeHtml(item.case_name || 'Không tên') + '</a><div class="result-meta">' + escapeHtml(item.court || '') + ' · ' + escapeHtml(item.date_decided || '') + '</div></li>';
+          }).join('') + '</ul>';
+        }).catch(function (err) {
+          document.getElementById('results').innerHTML = '<p class="error">' + escapeHtml(err.message) + '</p>';
+        });
+      }
+      document.getElementById('btnSearch').addEventListener('click', load);
+      document.getElementById('q').addEventListener('keydown', function (e) { if (e.key === 'Enter') load(); });
+      var params = new URLSearchParams(window.location.search);
+      if (params.get('country')) document.getElementById('country').value = params.get('country');
+      load();
+    })();
+  </script>
+</body>
+</html>
