@@ -12,7 +12,7 @@ Tài liệu mô tả mọi tính năng, kiến trúc, dữ liệu và vận hàn
 | **Mục đích** | Bộ sách tham khảo trực tuyến về pháp luật của 13 quốc gia chính, mốc thời gian 2026 |
 | **Đối tượng** | Sinh viên luật, luật sư, thẩm phán, doanh nghiệp, công dân |
 | **Stack** | Node.js (Express), HTML/CSS/JS, SQLite hoặc PostgreSQL |
-| **Repo** | https://github.com/NorvixAdamas/toanthuluat |
+| **Repo** | https://github.com/NorvixAdamas/To-n-Th-Lu-t-Ph-p |
 
 ---
 
