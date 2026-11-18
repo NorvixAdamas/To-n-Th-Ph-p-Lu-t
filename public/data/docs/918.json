@@ -1,0 +1,80 @@
+{
+ "id": 918,
+ "sourceId": "de-civ-extra",
+ "title": "Schuldrecht – Vertragsrecht (Law of Obligations)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/bgb/",
+ "tags": [],
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 918,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "BGB Schuldrecht. Law of obligations, contracts. Civil BGB Bürgerliches Gesetzbuch tort liability."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 307,
+   "title": "Bürgerliches Gesetzbuch (BGB) – Bộ luật Dân sự Đức",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 312,
+   "title": "Verwaltungsverfahrensgesetz (VwVfG) – Luật Hành chính Đức",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 318,
+   "title": "BGB Familienrecht (Luật Gia đình Đức)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 923,
+   "title": "Ehegesetz – Marriage and Divorce Law Germany",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 924,
+   "title": "Verbraucherschutzgesetz – Consumer Protection",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3013,
+   "title": "Bürgerliches Gesetzbuch (BGB)",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

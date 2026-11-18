@@ -1,0 +1,220 @@
+{
+ "id": 11,
+ "sourceId": "us-crim-3",
+ "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.ussc.gov/guidelines",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "immigration"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Di trú & quốc tịch"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6538,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 6317,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 6096,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 5837,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 5616,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 5357,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 5136,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 4915,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 4694,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 4473,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 4252,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 3276,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 3055,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 2790,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 2569,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 2156,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 1935,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 1688,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 1433,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 1212,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 991,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 635,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 414,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  },
+  {
+   "id": 11,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Sentencing Guidelines Manual (USSG).\nChapter 1: Introduction and general application principles.\nChapter 2: Offense conduct. Part A: Offenses against the person. Part B: Basic economic offenses. Part D: Offenses involving drugs. Part J: Offenses involving immigration.\nChapter 3: Adjustments. Acceptance of responsibility. Role in the offense.\nChapter 4: Criminal history and criminal livelihood.\nChapter 5: Determining the sentence. Sentencing table (offense level × criminal history category)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "id": 2,
+ "sourceId": "us-const-2",
+ "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://constitution.congress.gov/browse/amendment",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6529,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 6308,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 6087,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 5828,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 5607,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 5348,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 5127,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 4906,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 4685,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 4464,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 4243,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 3267,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 3046,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 2781,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 2560,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 2147,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 1926,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 1679,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 1424,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 1203,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 982,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 626,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 405,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  },
+  {
+   "id": 2,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bill of Rights (Tu chính án 1–10, 1791).\nAmendment 1: Freedom of speech, religion, press, assembly, petition.\nAmendment 2: Right to bear arms.\nAmendment 3: No quartering of soldiers.\nAmendment 4: Protection against unreasonable searches and seizures.\nAmendment 5: Due process, double jeopardy, self-incrimination, eminent domain.\nAmendment 6: Right to speedy and public trial, jury trial in criminal cases.\nAmendment 7: Right to jury trial in civil cases.\nAmendment 8: No excessive bail or fines, no cruel and unusual punishment.\nAmendment 9: Rights retained by the people.\nAmendment 10: Powers reserved to states and the people."
+  }
+ ],
+ "fullTextAvailable": true,
+ "fullTextLength": 2805,
+ "fullText": {
+  "documentId": 2,
+  "countryCode": "US",
+  "schemaVersion": "2.1",
+  "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+  "officialNumber": "",
+  "language": "en",
+  "issuedDate": "1789-09-25",
+  "effectiveDate": "1791-12-15",
+  "legalStatus": "in_force",
+  "authority": "First Congress of the United States",
+  "completeness": "full",
+  "source": {
+   "name": "U.S. National Archives and Records Administration",
+   "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+   "license": "PUBLIC_DOMAIN",
+   "licenseNote": "U.S. federal government transcription; public domain in the United States.",
+   "retrievedAt": "2026-11-07"
+  },
+  "labels": {
+   "chapter": "Amendment",
+   "article": "Amendment"
+  },
+  "notes": "Bản ghi nguyên văn 10 tu chính án đầu tiên; chính tả và dấu câu theo bản transcription của National Archives.",
+  "chapters": [
+   {
+    "number": "I",
+    "title": "Amendment I",
+    "content": "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances."
+   },
+   {
+    "number": "II",
+    "title": "Amendment II",
+    "content": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed."
+   },
+   {
+    "number": "III",
+    "title": "Amendment III",
+    "content": "No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law."
+   },
+   {
+    "number": "IV",
+    "title": "Amendment IV",
+    "content": "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized."
+   },
+   {
+    "number": "V",
+    "title": "Amendment V",
+    "content": "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation."
+   },
+   {
+    "number": "VI",
+    "title": "Amendment VI",
+    "content": "In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence."
+   },
+   {
+    "number": "VII",
+    "title": "Amendment VII",
+    "content": "In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law."
+   },
+   {
+    "number": "VIII",
+    "title": "Amendment VIII",
+    "content": "Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted."
+   },
+   {
+    "number": "IX",
+    "title": "Amendment IX",
+    "content": "The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people."
+   },
+   {
+    "number": "X",
+    "title": "Amendment X",
+    "content": "The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."
+   }
+  ],
+  "available": true,
+  "charCount": 2805,
+  "wordCount": 482
+ },
+ "related": [
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

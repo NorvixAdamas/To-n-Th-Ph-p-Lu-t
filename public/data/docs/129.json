@@ -1,0 +1,220 @@
+{
+ "id": 129,
+ "sourceId": "us-ip-4",
+ "title": "Digital Millennium Copyright Act – DMCA (Bản quyền Kỹ thuật số)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.copyright.gov/dmca/",
+ "tags": [],
+ "fields": [
+  "ip",
+  "tech"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6656,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 6435,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 6214,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 5955,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 5734,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 5475,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 5254,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 5033,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 4812,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 4591,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 4370,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 3394,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 3173,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 2908,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 2687,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 2274,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 2053,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 1806,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 1551,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 1330,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 1109,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 753,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 532,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  },
+  {
+   "id": 129,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Digital Millennium Copyright Act (DMCA) – 17 USC §512, §1201-1205.\n§512: Safe harbor cho nhà cung cấp dịch vụ trực tuyến. Notice-and-takedown: chủ bản quyền gửi yêu cầu gỡ → ISP gỡ → counter-notification.\n§1201: Cấm phá vỡ biện pháp bảo vệ kỹ thuật (anti-circumvention). Ngoại lệ: nghiên cứu, reverse engineering, thư viện.\nHình phạt: $500,000 phạt, 5 năm tù (lần đầu)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 33,
+   "title": "Title 17 USC – Copyright (Bản quyền)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 34,
+   "title": "Title 35 USC – Patents (Sáng chế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 35,
+   "title": "Lanham Act – Trademark (Nhãn hiệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

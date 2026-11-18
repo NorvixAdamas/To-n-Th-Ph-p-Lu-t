@@ -1,0 +1,58 @@
+{
+ "id": 28,
+ "sourceId": "vn-case-13",
+ "name": "Án lệ số 26/2018/AL – Về quyền sử dụng đất khi ly hôn",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-26/2018",
+ "dateDecided": "2018-10-15",
+ "year": 2018,
+ "summary": "Về vấn đề: Khi ly hôn, đất được cấp cho hộ gia đình mà vợ chồng là thành viên: Tòa án chỉ chia phần quyền sử dụng đất tương ứng với phần của vợ chồng trong hộ gia đình, không chia toàn bộ thửa đất.",
+ "fields": [
+  "civil",
+  "family",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình",
+  "Y tế"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "OM",
+  "code3": "OMN",
+  "slug": "oman",
+  "nameVi": "Oman",
+  "nameEn": "Oman",
+  "flag": "🇴🇲",
+  "region": "middle-east",
+  "regionName": "Trung Đông",
+  "subregion": "Western Asia",
+  "capital": "Muscat",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

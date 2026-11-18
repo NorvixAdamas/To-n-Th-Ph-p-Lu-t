@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "LB",
+  "code3": "LBN",
+  "slug": "lebanon",
+  "nameVi": "Li-băng",
+  "nameEn": "Lebanon",
+  "flag": "🇱🇧",
+  "region": "middle-east",
+  "regionName": "Trung Đông",
+  "subregion": "Western Asia",
+  "capital": "Beirut",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

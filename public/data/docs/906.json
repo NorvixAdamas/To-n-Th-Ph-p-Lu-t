@@ -1,0 +1,62 @@
+{
+ "id": 906,
+ "sourceId": "sg-crim-extra",
+ "title": "Misuse of Drugs Act (Luật Ma túy Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/MDA1973",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 906,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Misuse of Drugs Act. Drug trafficking offences, mandatory death penalty. Criminal penal enforcement."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 290,
+   "title": "Penal Code 1871 (Bộ luật Hình sự Singapore)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 291,
+   "title": "Criminal Procedure Code 2010 – CPC (Tố tụng Hình sự)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 3009,
+   "title": "Evidence Act 1893",
+   "kindLabel": "Đạo luật",
+   "year": 1893
+  }
+ ]
+}

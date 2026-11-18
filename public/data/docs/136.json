@@ -1,0 +1,218 @@
+{
+ "id": 136,
+ "sourceId": "us-env-4",
+ "title": "CERCLA – Superfund (Luật Xử lý Ô nhiễm Chất thải Nguy hại)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.epa.gov/superfund/superfund-cercla-overview",
+ "tags": [],
+ "fields": [
+  "environment"
+ ],
+ "fieldLabels": [
+  "Môi trường"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6663,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 6442,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 6221,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 5962,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 5741,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 5482,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 5261,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 5040,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 4819,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 4598,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 4377,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 3401,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 3180,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 2915,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 2694,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 2281,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 2060,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 1813,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 1558,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 1337,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 1116,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 760,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 539,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  },
+  {
+   "id": 136,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CERCLA – Comprehensive Environmental Response, Compensation, and Liability Act (Superfund).\n§107: Trách nhiệm chung và riêng (joint and several liability) cho: chủ sở hữu/điều hành hiện tại, chủ cũ thời ô nhiễm, người vận chuyển, người tạo ra chất thải.\nNational Priorities List (NPL): danh sách các địa điểm ô nhiễm ưu tiên. Superfund Trust Fund: quỹ dọn dẹp. PRP: Potentially Responsible Parties."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 40,
+   "title": "Clean Water Act (Luật Nước Sạch)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 138,
+   "title": "Endangered Species Act – ESA (Luật Bảo vệ Loài nguy cấp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 230,
+   "title": "Clean Air Act",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

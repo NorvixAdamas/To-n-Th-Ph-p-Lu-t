@@ -1,0 +1,68 @@
+{
+ "id": 388,
+ "sourceId": "in-fin-1",
+ "title": "Banking Regulation Act (Luật Ngân hàng Ấn Độ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.rbi.org.in/",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 388,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of all banking firms in India."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 967,
+   "title": "Patents Act 1970 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 968,
+   "title": "Trade Marks Act 1999 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 970,
+   "title": "SEBI Act 1992 (Securities Regulation India)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3034,
+   "title": "Consumer Protection Act 2019",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

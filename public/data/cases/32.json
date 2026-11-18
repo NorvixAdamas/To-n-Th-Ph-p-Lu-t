@@ -1,0 +1,42 @@
+{
+ "id": 32,
+ "sourceId": "uk-case-1",
+ "name": "Donoghue v Stevenson [1932] AC 562 (Neighbour Principle)",
+ "court": "House of Lords",
+ "docket": "[1932] AC 562",
+ "dateDecided": "1932-05-26",
+ "year": 1932,
+ "summary": "Landmark UK negligence case. Mrs Donoghue drank ginger beer containing decomposed snail. Lord Atkin established Neighbour Principle: you must take reasonable care to avoid acts or omissions which you can reasonably foresee would injure your neighbour. Foundation of modern tort of negligence in common law. Adopted across Commonwealth including Singapore.",
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.bailii.org/uk/cases/UKHL/1932/100.html",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "related": [
+  {
+   "id": 34,
+   "name": "Pepper v Hart [1992] UKHL 3 – Hansard",
+   "court": "House of Lords",
+   "year": 1992
+  },
+  {
+   "id": 33,
+   "name": "R v R [1991] UKHL 12 – Marital Rape",
+   "court": "House of Lords",
+   "year": 1991
+  }
+ ]
+}

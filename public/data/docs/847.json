@@ -1,0 +1,80 @@
+{
+ "id": 847,
+ "sourceId": "us-com-extra-2",
+ "title": "Dodd-Frank Wall Street Reform Act (Luật Cải cách Tài chính)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.sec.gov/about/laws/wallstreetreform-cpa.pdf",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 847,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Act. Financial regulation, consumer protection, systemic risk oversight. Volcker Rule. Commerce corporate banking reform."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,1070 @@
+{
+ "country": {
+  "code": "SG",
+  "code3": "SGP",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "South-Eastern Asia",
+  "capital": "Singapore",
+  "legalFamily": "Hệ thống hỗn hợp common law và dân luật",
+  "overview": "Singapore kế thừa common law Anh, đồng thời chịu ảnh hưởng của truyền thống dân luật trong một số lĩnh vực. Luật do Nghị viện ban hành được công bố trên Singapore Statutes Online; Hiến pháp là văn bản tối cao. Hệ thống tòa án gồm Tòa án Tối cao và các tòa án cấp dưới.",
+  "sources": [
+   {
+    "name": "Singapore Statutes Online",
+    "url": "https://sso.agc.gov.sg"
+   },
+   {
+    "name": "Judiciary of Singapore",
+    "url": "https://www.judiciary.gov.sg"
+   },
+   {
+    "name": "Supreme Court of Singapore",
+    "url": "https://www.supremecourt.gov.sg"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 32,
+   "versions": 32,
+   "cases": 2,
+   "courts": 1,
+   "fields": 18,
+   "fullTextDocuments": 0,
+   "latestYear": 2024
+  },
+  "fieldCounts": {
+   "constitution": 1,
+   "criminal": 4,
+   "administrative": 3,
+   "civil": 7,
+   "other": 1,
+   "tax": 4,
+   "commercial": 5,
+   "labor": 5,
+   "land": 4,
+   "health": 2,
+   "defense": 1,
+   "ip": 2,
+   "tech": 4,
+   "immigration": 2,
+   "environment": 2,
+   "education": 1,
+   "family": 2,
+   "enterprise": 1
+  },
+  "courts": [
+   {
+    "name": "Court of Appeal of Singapore",
+    "count": 2
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 289,
+   "title": "Constitution of the Republic of Singapore (Hiến pháp Singapore)",
+   "sourceId": "sg-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CONS1963",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 290,
+   "title": "Penal Code 1871 (Bộ luật Hình sự Singapore)",
+   "sourceId": "sg-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PC1871",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 291,
+   "title": "Criminal Procedure Code 2010 – CPC (Tố tụng Hình sự)",
+   "sourceId": "sg-crim-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CPC2010",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 292,
+   "title": "Rules of Court 2021 (Quy tắc Tố tụng Dân sự Singapore)",
+   "sourceId": "sg-civpro-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/SL/SCJA1969-OR1",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 293,
+   "title": "Companies Act 1967 (Luật Công ty Singapore)",
+   "sourceId": "sg-co-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CoA1967",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 294,
+   "title": "Income Tax Act 1947 (Luật Thuế Thu nhập Singapore)",
+   "sourceId": "sg-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/ITA1947",
+   "fields": [
+    "tax",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 295,
+   "title": "Goods and Services Tax Act – GST (Luật Thuế GTGT)",
+   "sourceId": "sg-tax-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/GSTA1993",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 296,
+   "title": "Stamp Duties Act / ABSD (Luật Thuế Tem Singapore)",
+   "sourceId": "sg-tax-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/SDA1929",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 297,
+   "title": "Employment Act 1968 (Luật Lao động Singapore)",
+   "sourceId": "sg-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/EA1968",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 298,
+   "title": "Central Provident Fund Act – CPF (Luật Quỹ Trung ương)",
+   "sourceId": "sg-labor-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CPFA1953",
+   "fields": [
+    "labor",
+    "land",
+    "health",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật đất đai & nhà ở",
+    "Y tế",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 299,
+   "title": "Land Titles Act (Luật Đăng ký Đất đai Singapore)",
+   "sourceId": "sg-land-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/LTA1993",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 300,
+   "title": "Securities and Futures Act – SFA (Luật Chứng khoán)",
+   "sourceId": "sg-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/SFA2001",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 301,
+   "title": "Copyright Act 2021 (Luật Bản quyền Singapore)",
+   "sourceId": "sg-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CA2021",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 302,
+   "title": "Personal Data Protection Act – PDPA (Luật Bảo vệ Dữ liệu)",
+   "sourceId": "sg-data-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PDPA2012",
+   "fields": [
+    "tech",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 303,
+   "title": "Employment of Foreign Manpower Act – EFMA (Luật Di trú)",
+   "sourceId": "sg-imm-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/EFMA1990",
+   "fields": [
+    "labor",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 304,
+   "title": "Carbon Pricing Act 2018 (Luật Môi trường Singapore)",
+   "sourceId": "sg-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CPA2018",
+   "fields": [
+    "tax",
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 305,
+   "title": "Women's Charter (Luật Hôn nhân và Gia đình Singapore)",
+   "sourceId": "sg-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/WC1961",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 906,
+   "title": "Misuse of Drugs Act (Luật Ma túy Singapore)",
+   "sourceId": "sg-crim-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/MDA1973",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 907,
+   "title": "Limitation Act (Singapore)",
+   "sourceId": "sg-civ-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/LA1959",
+   "fields": [
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 908,
+   "title": "Sale of Goods Act (Singapore)",
+   "sourceId": "sg-co-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/SOGA1979",
+   "fields": [
+    "enterprise",
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 909,
+   "title": "Work Injury Compensation Act (Singapore)",
+   "sourceId": "sg-emp-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/WICA2019",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 910,
+   "title": "Housing and Development Act – HDB",
+   "sourceId": "sg-land-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/HDA1959",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 911,
+   "title": "Patents Act Singapore",
+   "sourceId": "sg-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PA1994",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 912,
+   "title": "Payment Services Act (Fintech Singapore)",
+   "sourceId": "sg-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PSA2019",
+   "fields": [
+    "tech",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 913,
+   "title": "Government Proceedings Act (Judicial Review)",
+   "sourceId": "sg-adm-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/GPA1956",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 914,
+   "title": "Guardianship of Infants Act Singapore",
+   "sourceId": "sg-fam-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/GIA1934",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 915,
+   "title": "Immigration Act Singapore",
+   "sourceId": "sg-imm-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/IA1959",
+   "fields": [
+    "labor",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 916,
+   "title": "Environmental Public Health Act Singapore",
+   "sourceId": "sg-env-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/EPHA1987",
+   "fields": [
+    "environment",
+    "health"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 917,
+   "title": "Cybersecurity Act 2018 Singapore",
+   "sourceId": "sg-tech-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/CA2018",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3009,
+   "title": "Evidence Act 1893",
+   "sourceId": "sg-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/EA1893",
+   "fields": [
+    "civil",
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Luật hình sự"
+   ],
+   "year": 1893,
+   "effectiveDate": "1893-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3011,
+   "title": "Personal Data Protection Act 2012",
+   "sourceId": "sg-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PDPA2012",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2012,
+   "effectiveDate": "2012-10-15",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3012,
+   "title": "Planning Act 1998",
+   "sourceId": "sg-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sso.agc.gov.sg/Act/PA1998",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 1998,
+   "effectiveDate": "1998-02-27",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 38,
+   "name": "Lim Meng Suang v AG [2015] 1 SLR 26",
+   "sourceId": "sg-case-2",
+   "court": "Court of Appeal of Singapore",
+   "docket": "[2014] SGCA 53",
+   "dateDecided": "2014-10-29",
+   "year": 2014,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "summary": "Court of Appeal upheld Section 377A Penal Code (criminalising male homosexual acts) as constitutional. Government subsequently announced repeal in September 2022. Section 377A repealed by Penal Code (Amendment) Act 2022. Reflects evolution of Singapore law on personal liberties. Constitutional Article 12 equal protecti",
+   "sourceUrl": "https://www.singaporelawwatch.sg"
+  },
+  {
+   "id": 37,
+   "name": "Spandeck Engineering v DSTA [2007] 4 SLR 100",
+   "sourceId": "sg-case-1",
+   "court": "Court of Appeal of Singapore",
+   "docket": "[2007] SGCA 37",
+   "dateDecided": "2007-08-11",
+   "year": 2007,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "summary": "Landmark Singapore Court of Appeal establishing unified two-stage test for duty of care in negligence: (1) factual foreseeability, then (2) proximity and policy considerations. Departing from English Caparo three-stage test. Shows Singapore developing its own common law independently. Consistently applied as definitive",
+   "sourceUrl": "https://www.singaporelawwatch.sg"
+  }
+ ],
+ "topics": [
+  {
+   "id": "sg-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution & Foundations",
+   "desc": "Constitution of the Republic of Singapore, Maintenance of Religious Harmony Act",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "sg-criminal",
+   "name": "Hình sự",
+   "nameEn": "Criminal Law",
+   "desc": "Penal Code, Criminal Procedure Code, Evidence Act, Misuse of Drugs Act",
+   "q": "criminal penal",
+   "tax": false
+  },
+  {
+   "id": "sg-civil",
+   "name": "Dân sự / Tố tụng",
+   "nameEn": "Civil Procedure & Torts",
+   "desc": "Rules of Court 2021 (ROC), Civil Law Act, Limitation Act",
+   "q": "civil procedure rules court",
+   "tax": false
+  },
+  {
+   "id": "sg-company",
+   "name": "Doanh nghiệp / Thương mại",
+   "nameEn": "Company & Commercial Law",
+   "desc": "Companies Act, Partnership Act, Sale of Goods Act, Electronic Transactions Act",
+   "q": "company commercial partnership",
+   "tax": false
+  },
+  {
+   "id": "sg-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Income Tax Act 1947, Goods and Services Tax (GST) Act, Property Tax Act, Stamp Duties Act",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "sg-labor",
+   "name": "Lao động",
+   "nameEn": "Employment Law",
+   "desc": "Employment Act, Central Provident Fund (CPF) Act, Work Injury Compensation Act",
+   "q": "employment labor provident",
+   "tax": false
+  },
+  {
+   "id": "sg-land",
+   "name": "Bất động sản / Đất đai",
+   "nameEn": "Land & Property Law",
+   "desc": "Land Titles Act, Planning Act, Housing and Development Act (HDB), Conveyancing",
+   "q": "land property housing",
+   "tax": false
+  },
+  {
+   "id": "sg-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Act 2021, Patents Act, Trade Marks Act, Registered Designs Act",
+   "q": "copyright patent trademark designs",
+   "tax": false
+  },
+  {
+   "id": "sg-finance",
+   "name": "Ngân hàng / Tài chính",
+   "nameEn": "Banking & Financial Law",
+   "desc": "Banking Act, Securities and Futures Act, Monetary Authority of Singapore (MAS) regulations, Payment Services Act",
+   "q": "banking finance securities MAS",
+   "tax": false
+  },
+  {
+   "id": "sg-admin",
+   "name": "Hành chính / Tư pháp",
+   "nameEn": "Administrative & Public Law",
+   "desc": "Government Proceedings Act, Judicial Review, Public Sector Act, Freedom of Information",
+   "q": "administrative government judicial",
+   "tax": false
+  },
+  {
+   "id": "sg-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Women's Charter, Guardianship of Infants Act, Adoption of Children Act, Intestate Succession Act",
+   "q": "family women charter adoption",
+   "tax": false
+  },
+  {
+   "id": "sg-immigration",
+   "name": "Di trú",
+   "nameEn": "Immigration",
+   "desc": "Immigration Act, Employment of Foreign Manpower Act, work pass framework (EP, SP, WP)",
+   "q": "immigration employment pass",
+   "tax": false
+  },
+  {
+   "id": "sg-environment",
+   "name": "Môi trường / Bền vững",
+   "nameEn": "Environmental & Sustainability Law",
+   "desc": "Environmental Public Health Act, Carbon Pricing Act, Singapore Green Plan 2030",
+   "q": "environment carbon sustainability",
+   "tax": false
+  },
+  {
+   "id": "sg-tech",
+   "name": "CNTT / Dữ liệu",
+   "nameEn": "Technology & Data",
+   "desc": "Personal Data Protection Act (PDPA), Computer Misuse Act, Cybersecurity Act",
+   "q": "data protection cyber technology PDPA",
+   "tax": false
+  },
+  {
+   "id": "sg-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Singapore Court of Appeal, High Court decisions, Singapore Law Reports (SLR)",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

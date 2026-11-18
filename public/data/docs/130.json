@@ -1,0 +1,224 @@
+{
+ "id": 130,
+ "sourceId": "us-ip-5",
+ "title": "Defend Trade Secrets Act 2016 – DTSA (Bảo vệ Bí mật Thương mại)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/114th-congress/senate-bill/1890",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "ip",
+  "commercial",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Sở hữu trí tuệ",
+  "Luật thương mại",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6657,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 6436,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 6215,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 5956,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 5735,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 5476,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 5255,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 5034,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 4813,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 4592,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 4371,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 3395,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 3174,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 2909,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 2688,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 2275,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 2054,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 1807,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 1552,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 1331,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 1110,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 754,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 533,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  },
+  {
+   "id": 130,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defend Trade Secrets Act (DTSA) 2016 – 18 USC §1836.\nQuyền kiện liên bang về đánh cắp bí mật thương mại (trade secret misappropriation). Biện pháp: lệnh cấm (injunction), bồi thường thiệt hại, gấp đôi nếu cố ý (willful). Ex parte seizure: tịch thu tài sản khẩn cấp. Bảo vệ whistleblower: miễn trừ hình sự khi tiết lộ cho luật sư/chính phủ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

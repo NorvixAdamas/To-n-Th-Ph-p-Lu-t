@@ -1,0 +1,226 @@
+{
+ "id": 161,
+ "sourceId": "us-edu-4",
+ "title": "Family Educational Rights and Privacy Act – FERPA (Quyền riêng tư Giáo dục)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html",
+ "tags": [],
+ "fields": [
+  "tech",
+  "civil",
+  "family",
+  "health",
+  "education"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật dân sự",
+  "Gia đình",
+  "Y tế",
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6688,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 6467,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 6246,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 5987,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 5766,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 5507,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 5286,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 5065,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 4844,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 4623,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 4402,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 3426,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 3205,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 2940,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 2719,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 2306,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 2085,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 1838,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 1583,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 1362,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 1141,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 785,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 564,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  },
+  {
+   "id": 161,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family Educational Rights and Privacy Act (FERPA) – 20 USC §1232g.\nBảo vệ quyền riêng tư hồ sơ giáo dục sinh viên. Phụ huynh có quyền truy cập hồ sơ (chuyển sang sinh viên khi đủ 18). Trường không được tiết lộ PII mà không có consent. Directory information exceptions. Vi phạm: mất tài trợ liên bang."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

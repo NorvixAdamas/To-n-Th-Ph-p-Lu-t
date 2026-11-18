@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "BY",
+  "code3": "BLR",
+  "slug": "belarus",
+  "nameVi": "Belarus",
+  "nameEn": "Belarus",
+  "flag": "🇧🇾",
+  "region": "europe",
+  "regionName": "Châu Âu",
+  "subregion": "Eastern Europe",
+  "capital": "Minsk",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

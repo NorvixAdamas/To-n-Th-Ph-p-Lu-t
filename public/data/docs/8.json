@@ -1,0 +1,222 @@
+{
+ "id": 8,
+ "sourceId": "us-tax-5",
+ "title": "FATCA – Foreign Account Tax Compliance Act",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Hành chính"
+ ],
+ "year": 2010,
+ "effectiveDate": "2010-03-18",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6535,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 6314,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 6093,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 5834,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 5613,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 5354,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 5133,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 4912,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 4691,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 4470,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 4249,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 3273,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 3052,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 2787,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 2566,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 2153,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 1932,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 1685,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 1430,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 1209,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 988,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 632,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 411,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  },
+  {
+   "id": 8,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "text": "Foreign Account Tax Compliance Act (FATCA). Requires foreign financial institutions to report accounts held by U.S. taxpayers. Withholding of 30% on certain payments to non-participating FFIs. Individual reporting: Form 8938 (Statement of Specified Foreign Financial Assets). Intergovernmental Agreements (IGAs) with partner jurisdictions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "id": 244,
+ "sourceId": "vn-land-1",
+ "title": "Luật Đất đai 2024",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "land"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật đất đai & nhà ở"
+ ],
+ "year": 2025,
+ "effectiveDate": "2025-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6603,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 6382,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 6161,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 5902,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 5681,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 5422,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 5201,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 4980,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 4759,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 4538,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 4317,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 3341,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 3120,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 2855,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 2634,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 2221,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 2000,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 1753,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 1498,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 1277,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 1056,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 700,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 479,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Đất đai 2024 (Luật số 31/2024/QH15).\nĐiều 1. Phạm vi: Chế độ sở hữu đất đai, quyền và nghĩa vụ của người sử dụng đất, quản lý nhà nước về đất đai.\nĐiều 4. Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu.\nĐiều 9. Phân loại đất: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\nĐiều 26-28. Quyền của người sử dụng đất: chuyển đổi, chuyển nhượng, cho thuê, thế chấp, góp vốn.\nĐiều 78-79. Thu hồi đất.\nĐiều 89-95. Bồi thường khi Nhà nước thu hồi đất.\nĐiều 128. Bảng giá đất."
+  },
+  {
+   "id": 244,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  }
+ ]
+}

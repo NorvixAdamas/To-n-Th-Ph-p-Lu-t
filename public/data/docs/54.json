@@ -1,0 +1,220 @@
+{
+ "id": 54,
+ "sourceId": "vn-admin-2",
+ "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Hành chính"
+ ],
+ "year": 2022,
+ "effectiveDate": "2022-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6581,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 6360,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 6139,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 5880,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 5659,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 5400,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 5179,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 4958,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 4737,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 4516,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 4295,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 3319,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 3098,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 2833,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 2612,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 2199,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 1978,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 1731,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 1476,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 1255,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 1034,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 678,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 457,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  },
+  {
+   "id": 54,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Xử phạt vi phạm hành chính, áp dụng biện pháp khắc phục hậu quả, biện pháp xử lý hành chính.\nĐiều 21. Các hình thức xử phạt: cảnh cáo, phạt tiền, tước quyền sử dụng giấy phép, đình chỉ hoạt động, tịch thu tang vật, trục xuất.\nĐiều 23. Mức phạt tiền tối đa: 1-2 tỷ đồng (cá nhân), 2-4 tỷ đồng (tổ chức) tùy lĩnh vực.\nĐiều 56. Thẩm quyền xử phạt."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

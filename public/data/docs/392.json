@@ -1,0 +1,43 @@
+{
+ "id": 392,
+ "sourceId": "ch-const-1",
+ "title": "Federal Constitution of the Swiss Confederation (Hiến pháp Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1999/404/en",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 392,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Fundamental law defining the democratic structure and rights in Switzerland."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

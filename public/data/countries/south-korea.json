@@ -1,0 +1,730 @@
+{
+ "country": {
+  "code": "KR",
+  "code3": "KOR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Eastern Asia",
+  "capital": "Seoul",
+  "legalFamily": "Dân luật, chịu ảnh hưởng Đức và Nhật Bản",
+  "overview": "Hàn Quốc theo truyền thống dân luật với luật thành văn là nguồn chính. Hiến pháp 1987 xác lập chế độ dân chủ và Tòa án Hiến pháp. Hệ thống pháp luật chịu ảnh hưởng của mô hình Đức và Nhật Bản, được bổ sung bởi án lệ của Tòa án Tối cao.",
+  "sources": [
+   {
+    "name": "Korean Law Information Center",
+    "url": "https://www.law.go.kr"
+   },
+   {
+    "name": "Supreme Court of Korea",
+    "url": "https://www.scourt.go.kr"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 21,
+   "versions": 21,
+   "cases": 1,
+   "courts": 1,
+   "fields": 14,
+   "fullTextDocuments": 0,
+   "latestYear": 2026
+  },
+  "fieldCounts": {
+   "constitution": 1,
+   "civil": 2,
+   "family": 2,
+   "criminal": 1,
+   "tax": 1,
+   "enterprise": 4,
+   "labor": 2,
+   "ip": 2,
+   "administrative": 1,
+   "environment": 1,
+   "education": 1,
+   "commercial": 8,
+   "tech": 2,
+   "other": 2
+  },
+  "courts": [
+   {
+    "name": "Constitutional Court of Korea",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 367,
+   "title": "Constitution of Korea (Hiến pháp Hàn Quốc)",
+   "sourceId": "kr-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 368,
+   "title": "Civil Act (Bộ luật Dân sự Hàn Quốc)",
+   "sourceId": "kr-civil-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 369,
+   "title": "Criminal Act (Bộ luật Hình sự Hàn Quốc)",
+   "sourceId": "kr-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 370,
+   "title": "Income Tax Act (Luật Thuế Thu nhập Hàn Quốc)",
+   "sourceId": "kr-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.nts.go.kr/english/main.do",
+   "fields": [
+    "tax",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 371,
+   "title": "Labor Standards Act (Luật Lao động Hàn Quốc)",
+   "sourceId": "kr-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 372,
+   "title": "Copyright Act (Luật Bản quyền Hàn Quốc)",
+   "sourceId": "kr-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.kipo.go.kr/en/MainApp",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 373,
+   "title": "Administrative Procedures Act (Luật Hành chính Hàn Quốc)",
+   "sourceId": "kr-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 374,
+   "title": "Environmental Policy Act (Luật Môi trường Hàn Quốc)",
+   "sourceId": "kr-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 375,
+   "title": "Banking Act (Luật Ngân hàng Hàn Quốc)",
+   "sourceId": "kr-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 376,
+   "title": "Family Litigation Act (Luật Gia đình Hàn Quốc)",
+   "sourceId": "kr-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 377,
+   "title": "Personal Information Protection Act (Luật Bảo vệ Dữ liệu Hàn Quốc)",
+   "sourceId": "kr-data-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.pipc.go.kr/eng/index.do",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 378,
+   "title": "Consumer Protection Act (Luật Bảo vệ Người tiêu dùng Hàn Quốc)",
+   "sourceId": "kr-cons-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 379,
+   "title": "Road Traffic Act (Luật Giao thông Hàn Quốc)",
+   "sourceId": "kr-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 956,
+   "title": "Trade Union and Collective Bargaining Act Korea",
+   "sourceId": "kr-lab-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "labor",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 957,
+   "title": "Patent Act Korea (특허법)",
+   "sourceId": "kr-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.kipo.go.kr/en/MainApp",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 958,
+   "title": "Financial Investment Services and Capital Markets Act",
+   "sourceId": "kr-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 959,
+   "title": "Network Act – Information and Communications Act Korea",
+   "sourceId": "kr-data-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 960,
+   "title": "Aviation Safety Act Korea",
+   "sourceId": "kr-trans-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3029,
+   "title": "Commercial Act",
+   "sourceId": "kr-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engLsSc.do?menuId=2&section=lawNm&query=Commercial+Act&x=0&y=0#liBgcolor0",
+   "fields": [
+    "commercial",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3031,
+   "title": "Framework Act on Consumers",
+   "sourceId": "kr-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engLsSc.do?menuId=2&section=lawNm&query=Framework+Act+on+Consumers&x=0&y=0#liBgcolor0",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3032,
+   "title": "Capital Markets Act",
+   "sourceId": "kr-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://law.go.kr/LSW/eng/engLsSc.do?menuId=2&section=lawNm&query=Financial+Investment+Services+and+Capital+Markets+Act&x=0&y=0#liBgcolor0",
+   "fields": [
+    "commercial",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 44,
+   "name": "Impeachment of Park Geun-hye (2017)",
+   "sourceId": "kr-case-1",
+   "court": "Constitutional Court of Korea",
+   "docket": "2016Hun-Na1",
+   "dateDecided": "2017-03-10",
+   "year": 2017,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "summary": "The first successful impeachment of a sitting South Korean president. The Court ruled that Park committed acts that impaired the nature of representative democracy and the rule of law.",
+   "sourceUrl": "https://www.constitutionalcourt.go.kr/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "kr-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution",
+   "desc": "Constitution of the Republic of Korea, Constitutional Court",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "kr-civil",
+   "name": "Dân sự",
+   "nameEn": "Civil Act",
+   "desc": "Civil Act, Commercial Act",
+   "q": "civil act",
+   "tax": false
+  },
+  {
+   "id": "kr-criminal",
+   "name": "Hình sự",
+   "nameEn": "Criminal Act",
+   "desc": "Criminal Act, Criminal Procedure Act",
+   "q": "criminal act",
+   "tax": false
+  },
+  {
+   "id": "kr-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Income Tax Act, Corporate Tax Act",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "kr-labor",
+   "name": "Lao động",
+   "nameEn": "Labor Law",
+   "desc": "Labor Standards Act, Trade Union Act",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "kr-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Act, Patent Act, Trademark Act",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "kr-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Administrative Procedures Act, administrative litigation",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "kr-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Family litigation, marriage, succession",
+   "q": "family",
+   "tax": false
+  },
+  {
+   "id": "kr-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Framework Act on Environmental Policy",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "kr-finance",
+   "name": "Tài chính / Ngân hàng",
+   "nameEn": "Banking & Finance",
+   "desc": "Banking Act, Financial Investment Services Act",
+   "q": "banking finance",
+   "tax": false
+  },
+  {
+   "id": "kr-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "Consumer Protection",
+   "desc": "Framework Act on Consumers",
+   "q": "consumer",
+   "tax": false
+  },
+  {
+   "id": "kr-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Road Traffic Act, Aviation Safety Act",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "kr-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Supreme Court, Constitutional Court decisions",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

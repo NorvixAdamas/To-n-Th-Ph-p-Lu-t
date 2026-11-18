@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chủ đề pháp luật – Toàn thư luật pháp 2.1</title>
+  <meta name="description" content="18 nhóm pháp luật và 192 chủ đề tra cứu theo quốc gia: thuế, lao động, hình sự, dân sự, đất đai, doanh nghiệp, sở hữu trí tuệ.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/encyclopedia.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="./" class="logo" aria-label="Toàn thư luật pháp 2.1 – Trang chủ">
+        <span class="logo-seal">§</span>
+        <span class="logo-text">Toàn thư luật pháp <small>2.1</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Điều hướng chính">
+        <a href="countries.html">Quốc gia</a>
+        <a href="search.html">Tra cứu</a>
+        <a href="cases.html">Án lệ</a>
+        <a href="topics.html">Chủ đề</a>
+        <a href="treaties.html">Điều ước</a>
+        <a href="coverage.html">Độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="./">Trang chủ</a><span>/</span><span>Chủ đề</span>
+    </nav>
+
+    <section class="page-hero">
+      <div class="eyebrow">Mục từ pháp luật</div>
+      <h1>Chủ đề và lĩnh vực</h1>
+      <p>
+        Bắt đầu từ lĩnh vực bạn quan tâm, rồi đi sang văn bản hoặc án lệ cụ thể. Các chủ đề theo quốc gia
+        là những gợi ý tra cứu đã lọc sẵn, không phải danh sách văn bản pháp luật.
+      </p>
+    </section>
+
+    <div class="directory-tools">
+      <input type="search" id="topicSearch" placeholder="Tìm chủ đề: thuế, lao động, hình sự, hợp đồng…" aria-label="Tìm chủ đề">
+      <span id="topicCount" class="result-count">Đang tải…</span>
+    </div>
+
+    <div id="topicsContent">
+      <p class="loading">Đang tải chủ đề…</p>
+    </div>
+
+    <p class="disclaimer">
+      Số lượng văn bản theo lĩnh vực được tính tự động từ thẻ phân loại của bộ dữ liệu tĩnh; một văn bản có thể thuộc nhiều lĩnh vực.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <strong>Toàn thư luật pháp 2.1</strong>
+        <p>Thư viện tra cứu văn bản luật và án lệ toàn cầu, chạy hoàn toàn tĩnh trên Netlify.</p>
+      </div>
+      <div class="footer-links">
+        <a href="guide.html">Hướng dẫn</a>
+        <a href="coverage.html">Báo cáo độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+        <a href="https://github.com/NorvixAdamas/toanthuluat" target="_blank" rel="noopener">Mã nguồn</a>
+      </div>
+    </div>
+    <div class="container footer-note">
+      <p>Nội dung chỉ để tham khảo, không thay thế văn bản chính thức hay tư vấn pháp lý. Luôn đối chiếu nguồn của cơ quan ban hành.</p>
+    </div>
+  </footer>
+
+  <script src="js/core.js"></script>
+  <script src="js/topics.js"></script>
+</body>
+</html>

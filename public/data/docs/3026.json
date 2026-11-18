@@ -1,0 +1,67 @@
+{
+ "id": 3026,
+ "sourceId": "ca-deep-2",
+ "title": "Criminal Code",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+ "tags": [
+  "ca-deep",
+  "criminal"
+ ],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2026,
+ "effectiveDate": "2026-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 3026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "text": "Primary criminal statute of Canada governing offenses, procedure and sentencing provisions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 357,
+   "title": "Criminal Code of Canada (Bộ luật Hình sự Canada)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 361,
+   "title": "Financial Administration Act (Luật Hành chính Canada)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 952,
+   "title": "Federal Courts Act Canada",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

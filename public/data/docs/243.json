@@ -1,0 +1,218 @@
+{
+ "id": 243,
+ "sourceId": "vn-ent-1",
+ "title": "Luật Doanh nghiệp 2020",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 243,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về việc thành lập, tổ chức quản lý, hoạt động của doanh nghiệp."
+  },
+  {
+   "id": 6597,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 6376,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 6155,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 5896,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 5675,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 5416,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 5195,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 4974,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 4753,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 4532,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 4311,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 3335,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 3114,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 2849,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 2628,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 2215,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 1994,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 1747,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 1492,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 1271,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 1050,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 694,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  },
+  {
+   "id": 473,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Doanh nghiệp 2020 (Luật số 59/2020/QH14).\nĐiều 1. Phạm vi: Thành lập, tổ chức quản lý, tổ chức lại, giải thể, hoạt động liên quan của doanh nghiệp.\nĐiều 4. Loại hình doanh nghiệp: công ty TNHH (một thành viên, hai thành viên trở lên), công ty cổ phần, công ty hợp danh, doanh nghiệp tư nhân.\nĐiều 17. Quyền của doanh nghiệp.\nĐiều 26. Hồ sơ đăng ký doanh nghiệp.\nĐiều 46. Vốn điều lệ.\nĐiều 111-176. Công ty cổ phần: cổ phần, cổ đông, đại hội đồng cổ đông, hội đồng quản trị.\nĐiều 207-213. Giải thể doanh nghiệp."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 74,
+   "title": "Luật Phá sản 2014",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 75,
+   "title": "Luật Hợp tác xã 2023",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 85,
+   "title": "Luật Chứng khoán 2019 (Luật số 54/2019/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 87,
+   "title": "Luật Xây dựng 2014 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  }
+ ]
+}

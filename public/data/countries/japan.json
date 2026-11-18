@@ -1,0 +1,799 @@
+{
+ "country": {
+  "code": "JP",
+  "code3": "JPN",
+  "slug": "japan",
+  "nameVi": "Nhật Bản",
+  "nameEn": "Japan",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Eastern Asia",
+  "capital": "Tokyo",
+  "legalFamily": "Dân luật, chịu ảnh hưởng Đức và Hoa Kỳ",
+  "overview": "Nhật Bản theo truyền thống dân luật với luật thành văn là nguồn chính. Hiến pháp 1946 xác lập mô hình dân chủ nghị viện và quyền tư pháp độc lập. Các bộ luật lớn (Dân sự, Hình sự, Thương mại, Tố tụng) được bổ sung bởi luật chuyên ngành và án lệ.",
+  "sources": [
+   {
+    "name": "e-Gov Laws",
+    "url": "https://elaws.e-gov.go.jp"
+   },
+   {
+    "name": "Courts in Japan",
+    "url": "https://www.courts.go.jp"
+   },
+   {
+    "name": "Cabinet Office",
+    "url": "https://www.cao.go.jp"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 23,
+   "versions": 23,
+   "cases": 1,
+   "courts": 1,
+   "fields": 15,
+   "fullTextDocuments": 0,
+   "latestYear": 2026
+  },
+  "fieldCounts": {
+   "constitution": 1,
+   "criminal": 2,
+   "tax": 1,
+   "labor": 3,
+   "ip": 2,
+   "administrative": 2,
+   "environment": 1,
+   "education": 1,
+   "commercial": 6,
+   "civil": 6,
+   "family": 3,
+   "tech": 3,
+   "other": 1,
+   "enterprise": 2,
+   "defense": 1
+  },
+  "courts": [
+   {
+    "name": "Supreme Court of Japan",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 319,
+   "title": "The Constitution of Japan (Hiến pháp Nhật Bản)",
+   "sourceId": "jp-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 321,
+   "title": "Penal Code of Japan (Bộ luật Hình sự Nhật Bản)",
+   "sourceId": "jp-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=140AC0000000045",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 322,
+   "title": "Income Tax Act (Luật Thuế Thu nhập Nhật Bản)",
+   "sourceId": "jp-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=340AC0000000033",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 323,
+   "title": "Labor Standards Act (Luật Lao động Nhật Bản)",
+   "sourceId": "jp-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=322AC0000000049",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 324,
+   "title": "Copyright Act (Luật Bản quyền Nhật Bản)",
+   "sourceId": "jp-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=345AC0000000048",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 325,
+   "title": "Administrative Procedure Act (Luật Hành chính Nhật Bản)",
+   "sourceId": "jp-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=405AC0000000088",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 326,
+   "title": "Basic Environment Act (Luật Môi trường Nhật Bản)",
+   "sourceId": "jp-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=405AC0000000091",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 327,
+   "title": "Banking Act (Luật Ngân hàng Nhật Bản)",
+   "sourceId": "jp-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=356AC0000000059",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 328,
+   "title": "Family Register Act (Luật Hộ tịch Nhật Bản)",
+   "sourceId": "jp-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=322AC0000000224",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 329,
+   "title": "APPI (Luật Bảo vệ Dữ liệu Nhật Bản)",
+   "sourceId": "jp-data-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=415AC0000000057",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 330,
+   "title": "Consumer Contract Act (Luật Bảo vệ Người tiêu dùng Nhật)",
+   "sourceId": "jp-cons-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=412AC0000000061",
+   "fields": [
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 331,
+   "title": "Road Transport Act (Luật Giao thông đường bộ Nhật)",
+   "sourceId": "jp-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=326AC000000183",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 926,
+   "title": "Code of Criminal Procedure Japan",
+   "sourceId": "jp-crim-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=323AC0000000131",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 927,
+   "title": "Labor Contract Act Japan (Rodokeiyakuho)",
+   "sourceId": "jp-lab-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=419AC0000000128",
+   "fields": [
+    "labor",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 928,
+   "title": "Patent Act Japan (Tokkyoho)",
+   "sourceId": "jp-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=334AC0000000121",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 929,
+   "title": "Financial Instruments and Exchange Act Japan",
+   "sourceId": "jp-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=323AC0000000025",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 930,
+   "title": "Marriage and Divorce Law Japan – Civil Code Books IV-V",
+   "sourceId": "jp-fam-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=129AC0000000089",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 931,
+   "title": "My Number Act (Japanese Data Identification)",
+   "sourceId": "jp-data-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=425AC0000000027",
+   "fields": [
+    "labor",
+    "tech",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 932,
+   "title": "Product Liability Act Japan",
+   "sourceId": "jp-cons-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=406AC0000000085",
+   "fields": [
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 933,
+   "title": "Railway Business Act Japan",
+   "sourceId": "jp-trans-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=361AC0000000092",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3017,
+   "title": "Civil Code of Japan",
+   "sourceId": "jp-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://www.japaneselawtranslation.go.jp/en/laws/view/3494",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3019,
+   "title": "Companies Act of Japan",
+   "sourceId": "jp-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.japaneselawtranslation.go.jp/en/laws/view/3963",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3020,
+   "title": "Act on the Protection of Personal Information",
+   "sourceId": "jp-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.japaneselawtranslation.go.jp/en/laws/view/4241",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 40,
+   "name": "The Sunagawa Case (1959)",
+   "sourceId": "jp-case-1",
+   "court": "Supreme Court of Japan",
+   "docket": "Gyo-Tsu No. 110",
+   "dateDecided": "1959-12-16",
+   "year": 1959,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "summary": "Major Japanese constitutional case regarding Article 9 and US-Japan Security Treaty. Court ruled it lacked jurisdiction on political questions (Acts of State doctrine).",
+   "sourceUrl": "https://www.courts.go.jp/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "jp-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution (Nihon-koku Kenpō)",
+   "desc": "1947 Constitution, Article 9, Emperor system, Diet",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "jp-civil",
+   "name": "Dân sự",
+   "nameEn": "Civil Code (Minpō)",
+   "desc": "Civil Code, Property, Obligations, Family, Succession",
+   "q": "civil code",
+   "tax": false
+  },
+  {
+   "id": "jp-criminal",
+   "name": "Hình sự",
+   "nameEn": "Penal Code (Keihō)",
+   "desc": "Penal Code, Code of Criminal Procedure",
+   "q": "penal criminal",
+   "tax": false
+  },
+  {
+   "id": "jp-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Income Tax Act, Corporation Tax Act, Consumption Tax",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "jp-labor",
+   "name": "Lao động",
+   "nameEn": "Labor Law",
+   "desc": "Labor Standards Act, Labor Contract Act, trade unions",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "jp-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Act, Patent Act, Trademark Act",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "jp-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Administrative Procedure Act, administrative litigation",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "jp-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Basic Environment Act, pollution control",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "jp-finance",
+   "name": "Tài chính / Ngân hàng",
+   "nameEn": "Banking & Finance",
+   "desc": "Banking Act, Financial Instruments and Exchange Act",
+   "q": "banking finance",
+   "tax": false
+  },
+  {
+   "id": "jp-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Family Register Act, marriage and succession",
+   "q": "family",
+   "tax": false
+  },
+  {
+   "id": "jp-data",
+   "name": "Dữ liệu / Kỹ thuật số",
+   "nameEn": "Data & Digital",
+   "desc": "Act on the Protection of Personal Information (APPI)",
+   "q": "data protection",
+   "tax": false
+  },
+  {
+   "id": "jp-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "Consumer Protection",
+   "desc": "Consumer Contract Act, Product Liability Act",
+   "q": "consumer",
+   "tax": false
+  },
+  {
+   "id": "jp-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Road Transport Act, Railway Business Act",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "jp-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Supreme Court of Japan decisions",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

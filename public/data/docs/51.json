@@ -1,0 +1,226 @@
+{
+ "id": 51,
+ "sourceId": "vn-civpro-1",
+ "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor",
+  "commercial",
+  "civil",
+  "family",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật thương mại",
+  "Luật dân sự",
+  "Gia đình",
+  "Hành chính"
+ ],
+ "year": 2017,
+ "effectiveDate": "2017-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6578,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 6357,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 6136,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 5877,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 5656,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 5397,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 5176,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 4955,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 4734,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 4513,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 4292,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 3316,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 3095,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 2830,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 2609,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 2196,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 1975,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 1728,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 1473,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 1252,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 1031,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 675,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 454,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  },
+  {
+   "id": 51,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT TỐ TỤNG DÂN SỰ 2015 (Luật số 92/2015/QH13)\n\nĐiều 1. Phạm vi: trình tự, thủ tục khởi kiện, giải quyết vụ án dân sự, hôn nhân gia đình, kinh doanh thương mại, lao động tại Tòa án nhân dân.\nĐiều 4. Quyền yêu cầu Tòa án bảo vệ quyền và lợi ích hợp pháp.\nĐiều 5. Quyền quyết định và tự định đoạt của đương sự.\nĐiều 10. Hòa giải. Điều 24. Tranh tụng tại phiên tòa.\nĐiều 186. Quyền khởi kiện. Điều 189. Đơn khởi kiện.\nĐiều 203. Thời hạn chuẩn bị xét xử: 4-6 tháng.\nĐiều 247. Thủ tục xét xử sơ thẩm.\nĐiều 270. Kháng cáo. Điều 293. Xét xử phúc thẩm.\nĐiều 325. Giám đốc thẩm."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

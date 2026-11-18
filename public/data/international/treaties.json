@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-11-07",
+  "note": "Danh mục điều ước quốc tế đa phương tiêu biểu. Thông tin chỉ để tra cứu; xem bản gốc tại nguồn chính thức.",
+  "treaties": [
+    {
+      "id": "un-charter-1945",
+      "nameVi": "Hiến chương Liên Hợp Quốc",
+      "nameEn": "Charter of the United Nations",
+      "adopted": "1945-06-26",
+      "place": "San Francisco, Hoa Kỳ",
+      "tags": ["quốc tế", "hiến chương", "liên hợp quốc"],
+      "summary": "Văn kiện thành lập Liên Hợp Quốc, quy định mục đích, nguyên tắc và cơ cấu tổ chức của tổ chức quốc tế phổ quát này.",
+      "sourceUrl": "https://www.un.org/en/about-us/un-charter"
+    },
+    {
+      "id": "vclt-1969",
+      "nameVi": "Công ước Viên về Luật Điều ước quốc tế",
+      "nameEn": "Vienna Convention on the Law of Treaties",
+      "adopted": "1969-05-23",
+      "place": "Viên, Áo",
+      "tags": ["điều ước", "luật quốc tế"],
+      "summary": "Công ước điều chỉnh việc ký kết, hiệu lực, giải thích, sửa đổi và chấm dứt điều ước quốc tế giữa các quốc gia.",
+      "sourceUrl": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf"
+    },
+    {
+      "id": "iccpr-1966",
+      "nameVi": "Công ước Quốc tế về các Quyền Dân sự và Chính trị",
+      "nameEn": "International Covenant on Civil and Political Rights",
+      "adopted": "1966-12-16",
+      "place": "New York, Hoa Kỳ",
+      "tags": ["nhân quyền", "quyền dân sự"],
+      "summary": "Bảo vệ các quyền dân sự và chính trị cơ bản như tự do biểu đạt, tự do tôn giáo, quyền bầu cử, quyền xét xử công bằng và cấm tra tấn.",
+      "sourceUrl": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights"
+    },
+    {
+      "id": "icescr-1966",
+      "nameVi": "Công ước Quốc tế về các Quyền Kinh tế, Xã hội và Văn hóa",
+      "nameEn": "International Covenant on Economic, Social and Cultural Rights",
+      "adopted": "1966-12-16",
+      "place": "New York, Hoa Kỳ",
+      "tags": ["nhân quyền", "kinh tế", "xã hội"],
+      "summary": "Ghi nhận các quyền về lao động, an sinh xã hội, giáo dục, y tế, văn hóa và mức sống đầy đủ.",
+      "sourceUrl": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights"
+    },
+    {
+      "id": "cedaw-1979",
+      "nameVi": "Công ước về Xóa bỏ mọi hình thức Phân biệt đối xử với Phụ nữ",
+      "nameEn": "Convention on the Elimination of All Forms of Discrimination against Women",
+      "adopted": "1979-12-18",
+      "place": "New York, Hoa Kỳ",
+      "tags": ["nhân quyền", "giới", "phụ nữ"],
+      "summary": "Yêu cầu các quốc gia thành viên xóa bỏ phân biệt đối xử và bảo đảm quyền bình đẳng của phụ nữ trong đời sống chính trị, kinh tế, xã hội, văn hóa và gia đình.",
+      "sourceUrl": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women"
+    },
+    {
+      "id": "crc-1989",
+      "nameVi": "Công ước Quốc tế về Quyền Trẻ em",
+      "nameEn": "Convention on the Rights of the Child",
+      "adopted": "1989-11-20",
+      "place": "New York, Hoa Kỳ",
+      "tags": ["nhân quyền", "trẻ em", "gia đình"],
+      "summary": "Công ước nhân quyền được phê chuẩn rộng rãi nhất, quy định quyền sống, phát triển, bảo vệ và tham gia của trẻ em.",
+      "sourceUrl": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child"
+    },
+    {
+      "id": "rome-statute-1998",
+      "nameVi": "Quy chế Rome của Tòa án Hình sự Quốc tế",
+      "nameEn": "Rome Statute of the International Criminal Court",
+      "adopted": "1998-07-17",
+      "place": "Rome, Ý",
+      "tags": ["luật hình sự quốc tế", "ICC"],
+      "summary": "Thành lập Tòa án Hình sự Quốc tế và quy định thẩm quyền đối với tội diệt chủng, tội chống loài người, tội chiến tranh và tội xâm lược.",
+      "sourceUrl": "https://www.icc-cpi.int/sites/default/files/2024-05/Rome-Statute-eng.pdf"
+    },
+    {
+      "id": "geneva-conventions-1949",
+      "nameVi": "Các Công ước Geneva năm 1949",
+      "nameEn": "Geneva Conventions of 1949",
+      "adopted": "1949-08-12",
+      "place": "Geneva, Thụy Sĩ",
+      "tags": ["luật nhân đạo quốc tế", "xung đột vũ trang"],
+      "summary": "Bốn công ước bảo vệ thương binh, bệnh binh, quân nhân bị bắt giữ và dân thường trong xung đột vũ trang, cùng các nghị định thư bổ sung năm 1977.",
+      "sourceUrl": "https://www.icrc.org/en/document/geneva-conventions-1949-additional-protocols"
+    },
+    {
+      "id": "paris-agreement-2015",
+      "nameVi": "Hiệp định Paris về Biến đổi Khí hậu",
+      "nameEn": "Paris Agreement",
+      "adopted": "2015-12-12",
+      "place": "Paris, Pháp",
+      "tags": ["môi trường", "khí hậu"],
+      "summary": "Hiệp định khí hậu toàn cầu đặt mục tiêu giữ mức tăng nhiệt độ trung bình toàn cầu dưới 2°C và nỗ lực hướng tới 1,5°C so với thời kỳ tiền công nghiệp.",
+      "sourceUrl": "https://unfccc.int/process-and-meetings/the-paris-agreement"
+    },
+    {
+      "id": "wto-agreement-1994",
+      "nameVi": "Hiệp định Marrakesh thành lập Tổ chức Thương mại Thế giới",
+      "nameEn": "Marrakesh Agreement Establishing the World Trade Organization",
+      "adopted": "1994-04-15",
+      "place": "Marrakesh, Maroc",
+      "tags": ["thương mại", "WTO"],
+      "summary": "Thành lập WTO và đặt nền tảng cho hệ thống thương mại đa phương, bao gồm các hiệp định về hàng hóa, dịch vụ và sở hữu trí tuệ.",
+      "sourceUrl": "https://www.wto.org/english/docs_e/legal_e/04-wto_e.htm"
+    },
+    {
+      "id": "new-york-convention-1958",
+      "nameVi": "Công ước New York về Công nhận và Thi hành Phán quyết Trọng tài Nước ngoài",
+      "nameEn": "New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards",
+      "adopted": "1958-06-10",
+      "place": "New York, Hoa Kỳ",
+      "tags": ["trọng tài", "thương mại"],
+      "summary": "Công ước về công nhận và thi hành phán quyết trọng tài nước ngoài, là nền tảng của trọng tài thương mại quốc tế.",
+      "sourceUrl": "https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards"
+    },
+    {
+      "id": "vienna-diplomatic-1961",
+      "nameVi": "Công ước Viên về Quan hệ Ngoại giao",
+      "nameEn": "Vienna Convention on Diplomatic Relations",
+      "adopted": "1961-04-18",
+      "place": "Viên, Áo",
+      "tags": ["ngoại giao", "quốc tế"],
+      "summary": "Quy định địa vị, quyền ưu đãi và miễn trừ của cơ quan đại diện ngoại giao và viên chức ngoại giao.",
+      "sourceUrl": "https://legal.un.org/ilc/texts/instruments/english/conventions/9_1_1961.pdf"
+    }
+  ]
+}

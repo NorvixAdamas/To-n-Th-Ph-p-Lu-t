@@ -1,0 +1,50 @@
+{
+ "id": 949,
+ "sourceId": "ca-civ-extra",
+ "title": "Quebec Civil Code / Common Law Torts",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991",
+ "tags": [],
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 949,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil law Quebec Civil Code. Common law torts property contracts. Canadian civil law dual system."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 953,
+   "title": "Children Law Reform Act / Custody",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

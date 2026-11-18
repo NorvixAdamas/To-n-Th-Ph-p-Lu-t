@@ -1,0 +1,50 @@
+{
+ "id": 371,
+ "sourceId": "kr-labor-1",
+ "title": "Labor Standards Act (Luật Lao động Hàn Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "KR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 371,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Establishes minimum standards for working conditions and protection of workers rights."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 956,
+   "title": "Trade Union and Collective Bargaining Act Korea",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

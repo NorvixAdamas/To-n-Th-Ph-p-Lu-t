@@ -1,0 +1,54 @@
+{
+ "id": 10,
+ "sourceId": "vn-case-2",
+ "name": "Án lệ số 02/2016/AL – Tranh chấp đòi lại tài sản",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-02/2016",
+ "dateDecided": "2016-04-06",
+ "year": 2016,
+ "summary": "Về vấn đề: Xác định thời hiệu khởi kiện đối với tranh chấp quyền sử dụng đất. Khi Nhà nước đã cấp giấy chứng nhận quyền sử dụng đất cho người khác, thì không áp dụng thời hiệu để kiện đòi lại đất đó.",
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  },
+  {
+   "id": 30,
+   "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  }
+ ]
+}

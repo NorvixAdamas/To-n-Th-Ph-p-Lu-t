@@ -1,0 +1,220 @@
+{
+ "id": 166,
+ "sourceId": "vn-admin-6",
+ "title": "Luật Tố cáo 2018",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2019,
+ "effectiveDate": "2019-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6693,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 6472,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 6251,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 5992,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 5771,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 5512,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 5291,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 5070,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 4849,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 4628,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 4407,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 3431,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 3210,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 2945,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 2724,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 2311,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 2090,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 1843,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 1588,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 1367,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 1146,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 790,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 569,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  },
+  {
+   "id": 166,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Tố cáo 2018.\nĐiều 1. Phạm vi: Tố cáo hành vi vi phạm pháp luật của cán bộ, công chức, viên chức.\nĐiều 9. Quyền của người tố cáo: được bảo vệ bí mật, được thông báo kết quả.\nĐiều 23. Thẩm quyền giải quyết: người quản lý trực tiếp (cán bộ bị tố cáo).\nĐiều 29. Bảo vệ người tố cáo."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

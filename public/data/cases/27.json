@@ -1,0 +1,54 @@
+{
+ "id": 27,
+ "sourceId": "vn-case-12",
+ "name": "Án lệ số 22/2018/AL – Về trách nhiệm hình sự đối với hành vi giết người",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-22/2018",
+ "dateDecided": "2018-10-15",
+ "year": 2018,
+ "summary": "Về vấn đề: Phân biệt giữa \"giết người\" (Điều 123 BLHS) và \"cố ý gây thương tích dẫn đến chết người\" (Điều 134 BLHS). Căn cứ vào: vị trí tấn công (vùng trọng yếu hay không), công cụ, cường độ, thái độ sau khi gây thương tích.",
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  },
+  {
+   "id": 30,
+   "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  }
+ ]
+}

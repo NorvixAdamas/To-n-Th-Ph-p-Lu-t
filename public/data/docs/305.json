@@ -1,0 +1,82 @@
+{
+ "id": 305,
+ "sourceId": "sg-fam-1",
+ "title": "Women's Charter (Luật Hôn nhân và Gia đình Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/WC1961",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 305,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Women's Charter. Marriage registration, divorce, maintenance, and protection of women and children from violence."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 292,
+   "title": "Rules of Court 2021 (Quy tắc Tố tụng Dân sự Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 302,
+   "title": "Personal Data Protection Act – PDPA (Luật Bảo vệ Dữ liệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 907,
+   "title": "Limitation Act (Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 908,
+   "title": "Sale of Goods Act (Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 914,
+   "title": "Guardianship of Infants Act Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3009,
+   "title": "Evidence Act 1893",
+   "kindLabel": "Đạo luật",
+   "year": 1893
+  }
+ ]
+}

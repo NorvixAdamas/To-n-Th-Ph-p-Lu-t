@@ -1,0 +1,218 @@
+{
+ "id": 157,
+ "sourceId": "us-trans-3",
+ "title": "Infrastructure Investment and Jobs Act 2021 (Luật Hạ tầng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/3684",
+ "tags": [],
+ "fields": [
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6684,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 6463,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 6242,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 5983,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 5762,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 5503,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 5282,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 5061,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 4840,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 4619,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 4398,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 3422,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 3201,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 2936,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 2715,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 2302,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 2081,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 1834,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 1579,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 1358,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 1137,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 781,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 560,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  },
+  {
+   "id": 157,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Infrastructure Investment and Jobs Act (IIJA) 2021.\n$1.2 nghìn tỷ tổng chi ($550 tỷ mới). Đường bộ/cầu: $110 tỷ. Giao thông công cộng: $39 tỷ. Đường sắt (Amtrak): $66 tỷ. Xe điện: $7.5 tỷ (trạm sạc). Băng thông rộng: $65 tỷ. Nước sạch: $55 tỷ. Lưới điện: $65 tỷ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 99,
+   "title": "Earned Income Tax Credit – EITC (Tín dụng thuế thu nhập kiếm được)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 103,
+   "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

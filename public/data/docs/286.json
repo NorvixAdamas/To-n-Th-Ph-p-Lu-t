@@ -1,0 +1,70 @@
+{
+ "id": 286,
+ "sourceId": "fr-data-1",
+ "title": "RGPD / Dữ liệu cá nhân (GDPR áp dụng tại Pháp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on",
+ "tags": [],
+ "fields": [
+  "tech",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 286,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RGPD applicable in France. Privacy rights, CNIL authority, data protection obligations for companies."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 276,
+   "title": "Code civil français (Bộ luật Dân sự Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 283,
+   "title": "Code civil - Mariage et Divorce (Luật Hôn nhân và Gia đình Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 901,
+   "title": "PACS – Pacte civil de solidarité",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 904,
+   "title": "Loi Informatique et Libertés (CNIL)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

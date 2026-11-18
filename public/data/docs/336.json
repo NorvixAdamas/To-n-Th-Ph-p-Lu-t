@@ -1,0 +1,43 @@
+{
+ "id": 336,
+ "sourceId": "au-crim-1",
+ "title": "Criminal Code Act 1995 (Luật Hình sự Úc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.legislation.gov.au/Details/C2023C00185",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "versions": [
+  {
+   "id": 336,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Codification of federal criminal law in Australia."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

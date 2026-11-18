@@ -1,0 +1,222 @@
+{
+ "id": 226,
+ "sourceId": "us-labor-1",
+ "title": "Fair Labor Standards Act – FLSA",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.dol.gov/agencies/whd/flsa",
+ "tags": [],
+ "fields": [
+  "labor",
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6548,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 6327,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 6106,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 5847,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 5626,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 5367,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 5146,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 4925,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 4704,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 4483,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 4262,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 3286,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 3065,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 2800,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 2579,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 2166,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 1945,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 1698,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 1443,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 1222,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 1001,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 645,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 424,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 29 – Labor.\nChapter 8: Fair Labor Standards. §206: Minimum wage ($7.25 federal). §207: Maximum hours (overtime after 40 hours). §213: Exemptions (executive, administrative, professional).\nChapter 7: Labor-Management Relations (NLRA). §151: National Labor Relations Board. §157: Right to self-organization (Section 7 rights). §158: Unfair labor practices.\nChapter 15: Occupational Safety and Health. §651: Purpose. §654: Duties of employers."
+  },
+  {
+   "id": 226,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Establishes minimum wage, overtime pay, recordkeeping, and youth employment standards."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": 911,
+ "sourceId": "sg-ip-extra",
+ "title": "Patents Act Singapore",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/PA1994",
+ "tags": [],
+ "fields": [
+  "ip",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 911,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patents Act Singapore. Invention patent registration. Copyright trademark patent designs IPOS."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 294,
+   "title": "Income Tax Act 1947 (Luật Thuế Thu nhập Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 300,
+   "title": "Securities and Futures Act – SFA (Luật Chứng khoán)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 301,
+   "title": "Copyright Act 2021 (Luật Bản quyền Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 908,
+   "title": "Sale of Goods Act (Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 912,
+   "title": "Payment Services Act (Fintech Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "id": 109,
+ "sourceId": "us-civil-5",
+ "title": "Federal Tort Claims Act – FTCA (Luật Bồi thường Thiệt hại Liên bang)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title28/partVI/chapter171",
+ "tags": [],
+ "fields": [
+  "civil",
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6636,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 6415,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 6194,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 5935,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 5714,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 5455,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 5234,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 5013,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 4792,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 4571,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 4350,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 3374,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 3153,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 2888,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 2667,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 2254,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 2033,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 1786,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 1531,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 1310,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 1089,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 733,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 512,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  },
+  {
+   "id": 109,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Tort Claims Act (FTCA) – 28 USC §2671-2680.\nCho phép kiện chính phủ liên bang về hành vi sai trái của nhân viên. Điều kiện: nộp đơn hành chính trước khi kiện. Loại trừ: quyết định tùy ý (discretionary function), tuyên bố sai sự thật, lạm dụng. Không được bồi thẩm đoàn. Không bồi thường trừng phạt (punitive damages)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

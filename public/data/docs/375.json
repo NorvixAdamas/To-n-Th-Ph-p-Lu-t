@@ -1,0 +1,80 @@
+{
+ "id": 375,
+ "sourceId": "kr-fin-1",
+ "title": "Banking Act (Luật Ngân hàng Hàn Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "KR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 375,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of banking institutions and financial services in Korea."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 378,
+   "title": "Consumer Protection Act (Luật Bảo vệ Người tiêu dùng Hàn Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 956,
+   "title": "Trade Union and Collective Bargaining Act Korea",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 957,
+   "title": "Patent Act Korea (특허법)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 958,
+   "title": "Financial Investment Services and Capital Markets Act",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3029,
+   "title": "Commercial Act",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  },
+  {
+   "id": 3031,
+   "title": "Framework Act on Consumers",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

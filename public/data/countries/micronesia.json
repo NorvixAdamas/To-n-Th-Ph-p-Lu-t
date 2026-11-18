@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "FM",
+  "code3": "FSM",
+  "slug": "micronesia",
+  "nameVi": "Micronesia",
+  "nameEn": "Micronesia",
+  "flag": "🇫🇲",
+  "region": "oceania",
+  "regionName": "Châu Đại Dương",
+  "subregion": "Micronesia",
+  "capital": "Palikir",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

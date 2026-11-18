@@ -1,0 +1,220 @@
+{
+ "id": 100,
+ "sourceId": "us-tax-7",
+ "title": "Estate and Gift Tax – IRC Subtitle B (Thuế di sản và quà tặng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title26/subtitleB",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax"
+ ],
+ "fieldLabels": [
+  "Luật thuế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6627,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 6406,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 6185,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 5926,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 5705,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 5446,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 5225,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 5004,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 4783,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 4562,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 4341,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 3365,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 3144,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 2879,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 2658,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 2245,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 1777,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 1522,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 1301,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 1080,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 724,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 503,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  },
+  {
+   "id": 100,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Estate and Gift Tax – IRC Subtitle B.\n§2001: Estate tax: thuế suất 40% trên tài sản vượt ngưỡng miễn thuế ($13.61 triệu/người năm 2024).\n§2501-2524: Gift tax: thuế suất 40% trên quà tặng vượt ngưỡng. Loại trừ hàng năm: $18,000/người nhận (2024).\nPortability: vợ/chồng có thể chuyển phần miễn thuế chưa dùng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

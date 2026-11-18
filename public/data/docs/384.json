@@ -1,0 +1,56 @@
+{
+ "id": 384,
+ "sourceId": "in-labor-1",
+ "title": "Industrial Disputes Act (Luật Lao động Ấn Độ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://labour.gov.in/acts-rules",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 384,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of industrial relations and settlement of disputes."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 965,
+   "title": "Code on Wages 2019 India",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 966,
+   "title": "Code on Social Security 2020 India",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

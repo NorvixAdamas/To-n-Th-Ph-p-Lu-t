@@ -1,0 +1,82 @@
+{
+ "id": 912,
+ "sourceId": "sg-fin-extra",
+ "title": "Payment Services Act (Fintech Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/PSA2019",
+ "tags": [],
+ "fields": [
+  "tech",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 912,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Payment Services Act 2019. Digital payment, cryptocurrency. Banking finance securities MAS regulation."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 294,
+   "title": "Income Tax Act 1947 (Luật Thuế Thu nhập Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 300,
+   "title": "Securities and Futures Act – SFA (Luật Chứng khoán)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 302,
+   "title": "Personal Data Protection Act – PDPA (Luật Bảo vệ Dữ liệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 908,
+   "title": "Sale of Goods Act (Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 911,
+   "title": "Patents Act Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 917,
+   "title": "Cybersecurity Act 2018 Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

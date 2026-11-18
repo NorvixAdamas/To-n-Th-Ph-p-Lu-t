@@ -1,0 +1,226 @@
+{
+ "id": 59,
+ "sourceId": "vn-tax-3",
+ "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "labor",
+  "health",
+  "education"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật lao động",
+  "Y tế",
+  "Giáo dục"
+ ],
+ "year": 2016,
+ "effectiveDate": "2016-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6586,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 6365,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 6144,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 5885,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 5664,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 5405,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 5184,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 4963,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 4742,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 4521,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 4300,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 3324,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 3103,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 2838,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 2617,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 2204,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 1983,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 1736,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 1481,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 1260,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 1039,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 683,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 462,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  },
+  {
+   "id": 59,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016).\nĐiều 1. Phạm vi: Thuế GTGT là thuế tính trên giá trị tăng thêm của hàng hóa, dịch vụ.\nĐiều 5. Đối tượng không chịu thuế: sản phẩm nông nghiệp chưa chế biến, dịch vụ y tế, giáo dục, bảo hiểm nhân thọ.\nĐiều 8. Thuế suất: 0% (xuất khẩu), 5% (nước sạch, phân bón, dạy học, sách), 10% (phổ thông).\nĐiều 10-13. Phương pháp tính thuế: khấu trừ, trực tiếp trên GTGT."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 61,
+   "title": "Luật Thuế tài nguyên 2009",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  }
+ ]
+}

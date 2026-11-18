@@ -1,0 +1,218 @@
+{
+ "id": 139,
+ "sourceId": "us-env-7",
+ "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.epa.gov/tsca-inventory",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6666,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 6445,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 6224,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 5965,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 5744,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 5485,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 5264,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 5043,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 4822,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 4601,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 4380,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 3404,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 3183,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 2918,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 2697,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 2284,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 2063,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 1816,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 1561,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 1340,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 1119,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 763,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 542,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  },
+  {
+   "id": 139,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Toxic Substances Control Act (TSCA) – 15 USC §2601 et seq.\nEPA quản lý hóa chất công nghiệp. TSCA Inventory: ~86,000 hóa chất. Lautenberg Chemical Safety Act 2016 (sửa đổi TSCA): yêu cầu đánh giá rủi ro cho hóa chất hiện có, quy trình premanufacture notice cho hóa chất mới. §6: EPA có quyền cấm/hạn chế hóa chất nguy hiểm (amiăng, PCBs, formaldehyde)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 156,
+   "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

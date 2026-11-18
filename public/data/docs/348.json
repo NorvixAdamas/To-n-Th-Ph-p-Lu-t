@@ -1,0 +1,74 @@
+{
+ "id": 348,
+ "sourceId": "cn-com-1",
+ "title": "Company Law of the PRC (Luật Công ty Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+ "tags": [],
+ "fields": [
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 348,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Establishment and operation of limited liability companies and joint stock companies."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 346,
+   "title": "Enterprise Income Tax Law (Luật Thuế Doanh nghiệp TQ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 941,
+   "title": "Securities Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 942,
+   "title": "Antimonopoly Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 947,
+   "title": "Securities Investment Fund Law PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3042,
+   "title": "Company Law of the People's Republic of China",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

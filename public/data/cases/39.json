@@ -1,0 +1,29 @@
+{
+ "id": 39,
+ "sourceId": "de-case-1",
+ "name": "Lüth Case (1958)",
+ "court": "Federal Constitutional Court",
+ "docket": "BVerfGE 7, 198",
+ "dateDecided": "1958-01-15",
+ "year": 1958,
+ "summary": "Landmark German case on basic rights. Established that fundamental rights (Grundrechte) serve as an objective order of values influencing all areas of law, including private law (Horizontale Wirkung).",
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.bundesverfassungsgericht.de/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "related": []
+}

@@ -1,0 +1,84 @@
+{
+ "id": 256,
+ "sourceId": "uk-const-2",
+ "title": "Constitutional Reform Act 2005 (Luật Cải cách Hiến pháp Anh)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/2005/4/contents",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "civil",
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật dân sự",
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 256,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Constitutional Reform Act 2005. Established the UK Supreme Court. Reformed the office of Lord Chancellor. Supreme Court has jurisdiction over civil and criminal appeals."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 255,
+   "title": "Human Rights Act 1998 (Luật Nhân quyền Anh Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 257,
+   "title": "Serious Crime Act 2015 (Luật Tội phạm Nghiêm trọng Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 258,
+   "title": "Police and Criminal Evidence Act 1984 – PACE (Luật Cảnh sát và Bằng chứng Hình sự)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 259,
+   "title": "Civil Procedure Rules 1998 (Quy tắc Tố tụng Dân sự Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 883,
+   "title": "Parliament Acts 1911 and 1949",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 884,
+   "title": "Criminal Justice Act 2003",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

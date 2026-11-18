@@ -1,0 +1,220 @@
+{
+ "id": 146,
+ "sourceId": "us-def-3",
+ "title": "National Defense Authorization Act – NDAA (Luật Ủy quyền Quốc phòng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/118th-congress/house-bill/2670",
+ "tags": [],
+ "fields": [
+  "tech",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6673,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 6452,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 6231,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 5972,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 5751,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 5492,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 5271,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 5050,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 4829,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 4608,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 4387,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 3411,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 3190,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 2925,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 2704,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 2291,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 2070,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 1823,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 1568,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 1347,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 1126,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 770,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 549,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  },
+  {
+   "id": 146,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Defense Authorization Act (NDAA).\nLuật ủy quyền ngân sách quốc phòng hàng năm. Quy định: quân số, hệ thống vũ khí, chính sách quân sự, lương quân nhân. FY2024 NDAA: ~$886 tỷ. Thường bao gồm quy định phi quốc phòng (sanctions, CFIUS, cybersecurity)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

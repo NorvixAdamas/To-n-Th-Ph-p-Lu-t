@@ -1,0 +1,50 @@
+{
+ "id": 311,
+ "sourceId": "de-ip-1",
+ "title": "Urheberrechtsgesetz (Luật Bản quyền Đức)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/urhg/",
+ "tags": [],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 311,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Act on Copyright and Related Rights. Protection of literary, scientific and artistic works."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 921,
+   "title": "Patentgesetz (Patentrecht Germany)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

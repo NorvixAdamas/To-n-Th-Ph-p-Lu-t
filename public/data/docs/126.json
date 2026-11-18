@@ -1,0 +1,218 @@
+{
+ "id": 126,
+ "sourceId": "us-fam-3",
+ "title": "Uniform Child Custody Jurisdiction and Enforcement Act – UCCJEA",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.uniformlaws.org/committees/community-home?CommunityKey=12311",
+ "tags": [],
+ "fields": [
+  "family"
+ ],
+ "fieldLabels": [
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6653,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 6432,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 6211,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 5952,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 5731,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 5472,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 5251,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 5030,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 4809,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 4588,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 4367,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 3391,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 3170,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 2905,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 2684,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 2271,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 2050,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 1803,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 1548,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 1327,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 1106,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 750,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 529,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  },
+  {
+   "id": 126,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA).\nXác định bang nào có thẩm quyền về quyền nuôi con. Home state jurisdiction: bang nơi trẻ sống 6 tháng liên tiếp gần nhất. Ngăn chặn \"forum shopping\" giữa các bang. Thi hành lệnh nuôi con xuyên bang."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 123,
+   "title": "Deferred Action for Childhood Arrivals – DACA (Hoãn Trục xuất Trẻ em)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 127,
+   "title": "Adoption and Safe Families Act 1997 (Luật Nhận con nuôi và Gia đình An toàn)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 128,
+   "title": "Uniform Parentage Act – UPA (Luật Thống nhất Quan hệ Cha mẹ Con)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 141,
+   "title": "Children Online Privacy Protection Act – COPPA (Bảo vệ Trẻ em Trực tuyến)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

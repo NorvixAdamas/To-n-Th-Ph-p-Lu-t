@@ -1,0 +1,220 @@
+{
+ "id": 122,
+ "sourceId": "us-admin-6",
+ "title": "Government in the Sunshine Act (Luật Chính phủ Minh bạch)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.law.cornell.edu/uscode/text/5/552b",
+ "tags": [],
+ "fields": [
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6649,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 6428,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 6207,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 5948,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 5727,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 5468,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 5247,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 5026,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 4805,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 4584,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 4363,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 3387,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 3166,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 2901,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 2680,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 2267,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 2046,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 1799,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 1544,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 1323,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 1102,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 746,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 525,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  },
+  {
+   "id": 122,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Government in the Sunshine Act – 5 USC §552b.\nYêu cầu các cơ quan liên bang do hội đồng/ủy ban điều hành (FERC, SEC, FTC, FCC, NLRB, v.v.) phải họp công khai. 10 ngoại lệ cho phép họp kín (quốc phòng, nhân sự, điều tra)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

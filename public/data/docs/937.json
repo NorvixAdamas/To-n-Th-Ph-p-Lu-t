@@ -1,0 +1,80 @@
+{
+ "id": 937,
+ "sourceId": "au-fin-extra",
+ "title": "National Consumer Credit Protection Act 2009",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.au/Details/C2023C00053",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "versions": [
+  {
+   "id": 937,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Consumer Credit Protection. Banking finance lending. APRA regulated financial institutions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 334,
+   "title": "Corporations Act 2001 (Luật Công ty Úc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 340,
+   "title": "Banking Act 1959 (Luật Ngân hàng Úc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 342,
+   "title": "Australian Consumer Law (Luật Bảo vệ Người tiêu dùng Úc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 934,
+   "title": "ASIC Act 2001 – Australian Securities and Investments Commission",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 936,
+   "title": "Patents Act 1990 Australia",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 939,
+   "title": "Competition and Consumer Act 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

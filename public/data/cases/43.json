@@ -1,0 +1,25 @@
+{
+ "id": 43,
+ "sourceId": "ca-case-1",
+ "name": "Reference re Secession of Quebec [1998] 2 SCR 217",
+ "court": "Supreme Court of Canada",
+ "docket": "25506",
+ "dateDecided": "1998-08-20",
+ "year": 1998,
+ "summary": "Landmark case on the legality of a unilateral secession of Quebec. The Court identified four underlying constitutional principles: federalism, democracy, constitutionalism and the rule of law, and protection of minorities.",
+ "fields": [],
+ "fieldLabels": [],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://scc-csc.lexum.com/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "related": []
+}

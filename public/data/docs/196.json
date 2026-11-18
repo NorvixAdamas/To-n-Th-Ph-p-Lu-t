@@ -1,0 +1,220 @@
+{
+ "id": 196,
+ "sourceId": "vn-agri-5",
+ "title": "Luật Chăn nuôi 2018",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật thương mại"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6723,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 6502,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 6281,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 6022,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 5801,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 5542,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 5321,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 5100,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 4879,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 4658,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 4437,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 3461,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 3240,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 2975,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 2754,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 2341,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 2120,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 1873,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 1618,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 1397,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 1176,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 820,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 599,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  },
+  {
+   "id": 196,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Chăn nuôi 2018.\nĐiều 1. Phạm vi: Hoạt động chăn nuôi: giống vật nuôi, thức ăn chăn nuôi, điều kiện chăn nuôi.\nĐiều 22-29. Giống vật nuôi: khảo nghiệm, công nhận. Ngân hàng gen vật nuôi.\nĐiều 35-42. Thức ăn chăn nuôi: đăng ký, kiểm tra chất lượng.\nĐiều 53-60. Điều kiện chăn nuôi: khoảng cách, xử lý chất thải, phúc lợi động vật."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  }
+ ]
+}

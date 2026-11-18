@@ -1,0 +1,66 @@
+{
+ "id": 903,
+ "sourceId": "fr-hlt-extra",
+ "title": "Code de la sécurité sociale",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006073189/",
+ "tags": [],
+ "fields": [
+  "labor",
+  "health",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 903,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code de la securite sociale. Assurance maladie, retraite, allocations. Health social security sante."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 278,
+   "title": "Code du travail (Bộ luật Lao động Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 285,
+   "title": "Code de la santé publique (Bộ luật Y tế Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 898,
+   "title": "Accords de Grenelle – Droit du travail",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

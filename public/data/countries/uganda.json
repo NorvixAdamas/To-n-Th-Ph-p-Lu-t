@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "UG",
+  "code3": "UGA",
+  "slug": "uganda",
+  "nameVi": "Uganda",
+  "nameEn": "Uganda",
+  "flag": "🇺🇬",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Eastern Africa",
+  "capital": "Kampala",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

@@ -1,0 +1,82 @@
+{
+ "id": 885,
+ "sourceId": "uk-civil-extra",
+ "title": "Limitation Act 1980 (Thời hiệu Dân sự)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/1980/58/contents",
+ "tags": [],
+ "fields": [
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 885,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Limitation Act. Time limits for civil procedure claims, torts. Limitation periods for property and contractual disputes."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 255,
+   "title": "Human Rights Act 1998 (Luật Nhân quyền Anh Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 256,
+   "title": "Constitutional Reform Act 2005 (Luật Cải cách Hiến pháp Anh)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 259,
+   "title": "Civil Procedure Rules 1998 (Quy tắc Tố tụng Dân sự Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 274,
+   "title": "Freedom of Information Act 2000 – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 886,
+   "title": "Sale of Goods Act 1979",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 887,
+   "title": "Insolvency Act 1986",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

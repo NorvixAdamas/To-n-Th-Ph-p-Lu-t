@@ -1,0 +1,76 @@
+{
+ "id": 291,
+ "sourceId": "sg-crim-2",
+ "title": "Criminal Procedure Code 2010 – CPC (Tố tụng Hình sự)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/CPC2010",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 291,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Criminal Procedure Code. Police powers, arrest, remand, disclosure, community sentences, and sentencing framework."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 290,
+   "title": "Penal Code 1871 (Bộ luật Hình sự Singapore)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 906,
+   "title": "Misuse of Drugs Act (Luật Ma túy Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 907,
+   "title": "Limitation Act (Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 913,
+   "title": "Government Proceedings Act (Judicial Review)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3009,
+   "title": "Evidence Act 1893",
+   "kindLabel": "Đạo luật",
+   "year": 1893
+  }
+ ]
+}

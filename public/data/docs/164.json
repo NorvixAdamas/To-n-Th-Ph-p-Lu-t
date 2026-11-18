@@ -1,0 +1,222 @@
+{
+ "id": 164,
+ "sourceId": "vn-civil-5",
+ "title": "Luật Hòa giải, đối thoại tại Tòa án 2020",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "civil",
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2021,
+ "effectiveDate": "2021-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6691,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 6470,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 6249,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 5990,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 5769,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 5510,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 5289,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 5068,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 4847,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 4626,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 4405,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 3429,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 3208,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 2943,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 2722,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 2309,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 2088,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 1841,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 1586,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 1365,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 1144,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 788,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 567,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  },
+  {
+   "id": 164,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Hòa giải, đối thoại tại Tòa án 2020.\nĐiều 1. Phạm vi: Hòa giải vụ việc dân sự, đối thoại vụ án hành chính tại Tòa án.\nĐiều 2. Hòa giải viên: người được Tòa án cử để hòa giải.\nĐiều 14. Nguyên tắc: tự nguyện, bảo mật, tôn trọng pháp luật.\nĐiều 32. Kết quả hòa giải thành: Tòa án ra quyết định công nhận."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

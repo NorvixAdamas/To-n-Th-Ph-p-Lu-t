@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "CD",
+  "code3": "COD",
+  "slug": "democratic-republic-of-the-congo",
+  "nameVi": "Congo - Kinshasa",
+  "nameEn": "DR Congo",
+  "flag": "🇨🇩",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Middle Africa",
+  "capital": "Kinshasa",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

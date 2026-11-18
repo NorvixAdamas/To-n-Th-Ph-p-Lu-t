@@ -1,0 +1,85 @@
+{
+ "id": 3039,
+ "sourceId": "ch-deep-3",
+ "title": "Swiss Civil Procedure Code",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/2010/262/en",
+ "tags": [
+  "ch-deep",
+  "civil-procedure"
+ ],
+ "fields": [
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2011,
+ "effectiveDate": "2011-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 3039,
+   "effectiveDate": "2011-01-01",
+   "repealDate": null,
+   "text": "Federal code for civil litigation procedure across Swiss cantons."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 393,
+   "title": "Swiss Civil Code (Bộ luật Dân sự Thụy Sĩ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 398,
+   "title": "Federal Administrative Procedure Act (Luật Hành chính Thụy Sĩ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 401,
+   "title": "Swiss Civil Code - Family (Luật Gia đình Thụy Sĩ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 973,
+   "title": "Code of Obligations – OR (Luật Nghĩa vụ Thụy Sĩ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 974,
+   "title": "Swiss Code of Criminal Procedure (StPO)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 975,
+   "title": "Code of Obligations – Employment Contracts OR Art. 319",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

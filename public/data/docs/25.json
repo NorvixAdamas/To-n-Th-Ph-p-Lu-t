@@ -1,0 +1,226 @@
+{
+ "id": 25,
+ "sourceId": "us-labor-5",
+ "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.dol.gov/agencies/whd/fmla",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil",
+  "family",
+  "health",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự",
+  "Gia đình",
+  "Y tế",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6552,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 6331,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 6110,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 5851,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 5630,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 5371,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 5150,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 4929,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 4708,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 4487,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 4266,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 3290,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 3069,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 2804,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 2583,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 2170,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 1949,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 1702,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 1447,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 1226,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 1005,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 649,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 428,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  },
+  {
+   "id": 25,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Family and Medical Leave Act (FMLA) – 29 USC §2601 et seq.\n§2612: Leave requirement – 12 workweeks unpaid leave in 12-month period for: birth/adoption, serious health condition of employee or family member, qualifying exigency related to military service. §2614: Employment and benefits protection – restoration to same or equivalent position. §2615: Prohibited acts. §2617: Enforcement."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

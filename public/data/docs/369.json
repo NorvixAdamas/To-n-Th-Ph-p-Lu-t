@@ -1,0 +1,43 @@
+{
+ "id": 369,
+ "sourceId": "kr-crim-1",
+ "title": "Criminal Act (Bộ luật Hình sự Hàn Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://law.go.kr/LSW/eng/engMain.do",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "KR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 369,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Defines criminal offenses and their corresponding punishments in South Korea."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": 301,
+ "sourceId": "sg-ip-1",
+ "title": "Copyright Act 2021 (Luật Bản quyền Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/CA2021",
+ "tags": [],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 301,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Copyright Act 2021. Protection of original works, films, and broadcasts. Duration life + 70 years. New performers rights."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 911,
+   "title": "Patents Act Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

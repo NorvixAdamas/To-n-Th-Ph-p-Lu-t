@@ -1,0 +1,222 @@
+{
+ "id": 114,
+ "sourceId": "us-com-9",
+ "title": "Clayton Antitrust Act (Luật Chống Độc quyền Clayton)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter1",
+ "tags": [],
+ "fields": [
+  "labor",
+  "commercial",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật thương mại",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6641,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 6420,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 6199,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 5940,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 5719,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 5460,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 5239,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 5018,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 4797,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 4576,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 4355,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 3379,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 3158,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 2893,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 2672,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 2259,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 2038,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 1791,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 1536,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 1315,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 1094,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 738,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 517,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  },
+  {
+   "id": 114,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clayton Antitrust Act – 15 USC §12-27.\n§3: Cấm hợp đồng ràng buộc (tying) và exclusive dealing.\n§7: Cấm sáp nhập/mua lại nếu giảm cạnh tranh đáng kể.\n§4: Bồi thường gấp 3 (treble damages) cho người bị thiệt hại do vi phạm antitrust.\n§6: Miễn trừ cho tổ chức lao động (công đoàn không phải liên kết bất hợp pháp)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

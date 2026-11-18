@@ -1,0 +1,2791 @@
+{
+ "generatedAt": "2026-11-07",
+ "fields": [
+  {
+   "key": "tax",
+   "name": "Luật thuế",
+   "count": 58,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 26
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 17
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 4
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 1
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "civil",
+   "name": "Luật dân sự",
+   "count": 96,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 22
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 20
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 7
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 7
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 7
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 6
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 6
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 5
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 5
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 4
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 3
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "key": "criminal",
+   "name": "Luật hình sự",
+   "count": 51,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 20
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 6
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 4
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 4
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 4
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 3
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "commercial",
+   "name": "Luật thương mại",
+   "count": 112,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 24
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 20
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 8
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 8
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 7
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 7
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 6
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 6
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 6
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 5
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 5
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 5
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 5
+    }
+   ]
+  },
+  {
+   "key": "labor",
+   "name": "Luật lao động",
+   "count": 65,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 22
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 14
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 5
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 3
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 3
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 3
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 3
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "key": "land",
+   "name": "Luật đất đai & nhà ở",
+   "count": 29,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 17
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 4
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 3
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "enterprise",
+   "name": "Luật doanh nghiệp & đầu tư",
+   "count": 46,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 17
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 9
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 6
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 4
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 2
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 1
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "ip",
+   "name": "Sở hữu trí tuệ",
+   "count": 34,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 8
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 3
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 3
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 2
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 2
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 2
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 2
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "name": "Công nghệ & dữ liệu",
+   "count": 49,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 17
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 14
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 4
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 3
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 2
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "constitution",
+   "name": "Hiến pháp",
+   "count": 18,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 3
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 1
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 1
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "name": "Gia đình",
+   "count": 46,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 12
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 7
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 4
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 3
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 3
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 3
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 2
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "key": "administrative",
+   "name": "Hành chính",
+   "count": 90,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 33
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 24
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 5
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 5
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 5
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 4
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 3
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 3
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 3
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "immigration",
+   "name": "Di trú & quốc tịch",
+   "count": 17,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 9
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 3
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 2
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "environment",
+   "name": "Môi trường",
+   "count": 27,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 7
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 6
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 2
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "health",
+   "name": "Y tế",
+   "count": 46,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 19
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 18
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 2
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 2
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 2
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "education",
+   "name": "Giáo dục",
+   "count": 35,
+   "countries": [
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 17
+    },
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 7
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 1
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 1
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 1
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 1
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 1
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "defense",
+   "name": "Quốc phòng & an ninh",
+   "count": 31,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 18
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 7
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 1
+    },
+    {
+     "slug": "france",
+     "nameVi": "Pháp",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "australia",
+     "nameVi": "Australia",
+     "count": 1
+    },
+    {
+     "slug": "china",
+     "nameVi": "Trung Quốc",
+     "count": 1
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "key": "other",
+   "name": "Lĩnh vực khác",
+   "count": 32,
+   "countries": [
+    {
+     "slug": "united-states",
+     "nameVi": "Hoa Kỳ",
+     "count": 10
+    },
+    {
+     "slug": "vietnam",
+     "nameVi": "Việt Nam",
+     "count": 9
+    },
+    {
+     "slug": "india",
+     "nameVi": "Ấn Độ",
+     "count": 3
+    },
+    {
+     "slug": "germany",
+     "nameVi": "Đức",
+     "count": 2
+    },
+    {
+     "slug": "south-korea",
+     "nameVi": "Hàn Quốc",
+     "count": 2
+    },
+    {
+     "slug": "switzerland",
+     "nameVi": "Thụy Sĩ",
+     "count": 2
+    },
+    {
+     "slug": "united-kingdom",
+     "nameVi": "Vương quốc Anh",
+     "count": 1
+    },
+    {
+     "slug": "singapore",
+     "nameVi": "Singapore",
+     "count": 1
+    },
+    {
+     "slug": "japan",
+     "nameVi": "Nhật Bản",
+     "count": 1
+    },
+    {
+     "slug": "canada",
+     "nameVi": "Canada",
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "countries": [
+  {
+   "code": "AU",
+   "slug": "australia",
+   "nameVi": "Australia",
+   "flag": "🇦🇺",
+   "regionName": "Châu Đại Dương",
+   "topics": [
+    {
+     "id": "au-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution & Foundations",
+     "desc": "Commonwealth of Australia Constitution Act, Separation of powers",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "au-company",
+     "name": "Doanh nghiệp / Thương mại",
+     "nameEn": "Corporations Law",
+     "desc": "Corporations Act 2001, ASIC regulations",
+     "q": "corporations company",
+     "tax": false
+    },
+    {
+     "id": "au-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Assessment Acts (1936/1997), GST",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "au-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Criminal Code Act, state-level criminal codes",
+     "q": "criminal",
+     "tax": false
+    },
+    {
+     "id": "au-labor",
+     "name": "Lao động",
+     "nameEn": "Employment Law",
+     "desc": "Fair Work Act 2009, modern awards, enterprise agreements",
+     "q": "employment labor",
+     "tax": false
+    },
+    {
+     "id": "au-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patents Act, Trade Marks Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "au-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Administrative Appeals Tribunal (AAT), FOI Act",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "au-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "EPBC Act, sustainable development",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "au-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Banking Act, National Consumer Credit Protection",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "au-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Family Law Act 1975, custody and property settlements",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "au-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Australian Consumer Law (ACL), competition law",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "au-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Aviation, maritime, and road transport regulations",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "au-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "High Court of Australia, Federal Court decisions",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "IN",
+   "slug": "india",
+   "nameVi": "Ấn Độ",
+   "flag": "🇮🇳",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "in-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution",
+     "desc": "Constitution of India, Federalism, Fundamental Rights",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "in-civil",
+     "name": "Dân sự / Tố tụng",
+     "nameEn": "Civil Law",
+     "desc": "Code of Civil Procedure (CPC), Indian Contract Act, Transfer of Property",
+     "q": "civil procedure contract",
+     "tax": false
+    },
+    {
+     "id": "in-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita, CrPC",
+     "q": "penal criminal",
+     "tax": false
+    },
+    {
+     "id": "in-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act 1961, Goods and Services Tax (GST)",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "in-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law",
+     "desc": "Industrial Disputes Act, Code on Wages, Social Security",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "in-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patents Act, Trademarks Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "in-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Right to Information (RTI) Act, Lokpal",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "in-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Hindu Marriage Act, Special Marriage Act, Personal laws",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "in-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Environment Protection Act, Air/Water Acts",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "in-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Banking Regulation Act, SEBI Act",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "in-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Consumer Protection Act 2019",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "in-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Motor Vehicles Act, Railways Act",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "in-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court of India, High Courts",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "CA",
+   "slug": "canada",
+   "nameVi": "Canada",
+   "flag": "🇨🇦",
+   "regionName": "Bắc Mỹ",
+   "topics": [
+    {
+     "id": "ca-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution & Foundations",
+     "desc": "Constitution Acts (1867, 1982), Charter of Rights and Freedoms",
+     "q": "constitution charter rights",
+     "tax": false
+    },
+    {
+     "id": "ca-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Criminal Code of Canada, Youth Criminal Justice Act",
+     "q": "criminal code",
+     "tax": false
+    },
+    {
+     "id": "ca-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act, Excise Tax Act (GST/HST)",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "ca-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Law",
+     "desc": "Torts, property, contracts (Common law outside Quebec, Civil Code in Quebec)",
+     "q": "civil law",
+     "tax": false
+    },
+    {
+     "id": "ca-labor",
+     "name": "Lao động",
+     "nameEn": "Labor & Employment",
+     "desc": "Canada Labour Code, provincial labor standards",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "ca-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patent Act, Trademarks Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "ca-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Judicial review, federal/provincial boards and tribunals",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "ca-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Divorce Act, provincial family laws, custody",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "ca-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Canadian Environmental Protection Act, impact assessments",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "ca-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Bank Act, OSFI regulations, securities (provincial)",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "ca-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Provincial consumer protection acts, competition law",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "ca-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Canada Transportation Act, aviation and marine safety",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "ca-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court of Canada, Provincial courts",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "DE",
+   "slug": "germany",
+   "nameVi": "Đức",
+   "flag": "🇩🇪",
+   "regionName": "Châu Âu",
+   "topics": [
+    {
+     "id": "de-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Basic Law (Grundgesetz)",
+     "desc": "Grundgesetz (GG), BVerfG jurisprudence, federalism",
+     "q": "constitution grundgesetz",
+     "tax": false
+    },
+    {
+     "id": "de-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Law (BGB)",
+     "desc": "Bürgerliches Gesetzbuch (BGB) — contracts, torts, property, family, inheritance",
+     "q": "civil BGB",
+     "tax": false
+    },
+    {
+     "id": "de-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law (StGB)",
+     "desc": "Strafgesetzbuch (StGB), Strafprozessordnung (StPO)",
+     "q": "criminal penal StGB",
+     "tax": false
+    },
+    {
+     "id": "de-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Abgabenordnung (AO), Einkommensteuer (EStG), Umsatzsteuer (UStG)",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "de-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law (Arbeitsrecht)",
+     "desc": "Employment contracts, collective bargaining, protection against dismissal",
+     "q": "labor arbeidsrecht",
+     "tax": false
+    },
+    {
+     "id": "de-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright (Urheberrecht), Patents, Trademarks",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "de-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "VwVfG, administrative courts, public regulations",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "de-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "BImSchG, waste management, climate protection",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "de-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "KWG, banking supervision, capital markets",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "de-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Marriage, divorce, maintenance, custody",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "de-data",
+     "name": "Dữ liệu / Kỹ thuật số",
+     "nameEn": "Data & Digital",
+     "desc": "BDSG, GDPR compliance, telecommunications law",
+     "q": "data protection",
+     "tax": false
+    },
+    {
+     "id": "de-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Consumer contracts, liability, unfair competition",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "de-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "StVG, road traffic, railway law",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "de-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "BVerfG, BGH, BVerwG decisions",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "KR",
+   "slug": "south-korea",
+   "nameVi": "Hàn Quốc",
+   "flag": "🇰🇷",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "kr-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution",
+     "desc": "Constitution of the Republic of Korea, Constitutional Court",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "kr-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Act",
+     "desc": "Civil Act, Commercial Act",
+     "q": "civil act",
+     "tax": false
+    },
+    {
+     "id": "kr-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Act",
+     "desc": "Criminal Act, Criminal Procedure Act",
+     "q": "criminal act",
+     "tax": false
+    },
+    {
+     "id": "kr-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act, Corporate Tax Act",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "kr-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law",
+     "desc": "Labor Standards Act, Trade Union Act",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "kr-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patent Act, Trademark Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "kr-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Administrative Procedures Act, administrative litigation",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "kr-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Family litigation, marriage, succession",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "kr-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Framework Act on Environmental Policy",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "kr-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Banking Act, Financial Investment Services Act",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "kr-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Framework Act on Consumers",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "kr-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Road Traffic Act, Aviation Safety Act",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "kr-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court, Constitutional Court decisions",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "US",
+   "slug": "united-states",
+   "nameVi": "Hoa Kỳ",
+   "flag": "🇺🇸",
+   "regionName": "Bắc Mỹ",
+   "topics": [
+    {
+     "id": "us-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution & Foundations",
+     "desc": "Constitution, Bill of Rights, Amendments",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "us-tax",
+     "name": "Thuế",
+     "nameEn": "Tax / Internal Revenue",
+     "desc": "Internal Revenue Code (IRC), Treasury Regulations, State tax",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "us-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Title 18 USC, Federal criminal procedure, Sentencing Guidelines",
+     "q": "criminal",
+     "tax": false
+    },
+    {
+     "id": "us-civil",
+     "name": "Dân sự / Tố tụng",
+     "nameEn": "Civil Procedure & Torts",
+     "desc": "Federal Rules of Civil Procedure (FRCP), Evidence, Torts",
+     "q": "civil procedure",
+     "tax": false
+    },
+    {
+     "id": "us-commerce",
+     "name": "Thương mại / Doanh nghiệp",
+     "nameEn": "Commerce & Corporate",
+     "desc": "Securities, Bankruptcy (Title 11), Contract, Corporate law",
+     "q": "commerce corporate",
+     "tax": false
+    },
+    {
+     "id": "us-labor",
+     "name": "Lao động",
+     "nameEn": "Labor & Employment",
+     "desc": "Fair Labor Standards Act, NLRB, OSHA, ADA",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "us-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Administrative Procedure Act, EPA, FDA, FCC regulations",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "us-immigration",
+     "name": "Di trú",
+     "nameEn": "Immigration",
+     "desc": "Immigration and Nationality Act (INA), CFR liên quan",
+     "q": "immigration",
+     "tax": false
+    },
+    {
+     "id": "us-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Family law (theo từng bang; liên bang khi có)",
+     "q": "family law",
+     "tax": false
+    },
+    {
+     "id": "us-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright (Title 17), Patent (Title 35), Trademark (Lanham Act)",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "us-health",
+     "name": "Y tế / An sinh xã hội",
+     "nameEn": "Public Health & Social Security",
+     "desc": "Title 42 USC – Public Health, Social Security, Medicare, Medicaid",
+     "q": "public health social security",
+     "tax": false
+    },
+    {
+     "id": "us-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Clean Air Act, Clean Water Act, NEPA, EPA regulations",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "us-telecom",
+     "name": "Viễn thông / Công nghệ",
+     "nameEn": "Telecommunications & Technology",
+     "desc": "Title 47 (Telecommunications), FCC, privacy / data protection",
+     "q": "telecommunications",
+     "tax": false
+    },
+    {
+     "id": "us-defense",
+     "name": "Quốc phòng / An ninh",
+     "nameEn": "National Defense & Security",
+     "desc": "UCMJ, PATRIOT Act, NDAA, Armed Forces (Title 10)",
+     "q": "defense military",
+     "tax": false
+    },
+    {
+     "id": "us-rights",
+     "name": "Dân quyền",
+     "nameEn": "Civil Rights",
+     "desc": "Civil Rights Act, Voting Rights Act, Fair Housing Act",
+     "q": "civil rights",
+     "tax": false
+    },
+    {
+     "id": "us-energy",
+     "name": "Năng lượng",
+     "nameEn": "Energy & Nuclear",
+     "desc": "Department of Energy, Energy Policy Act, Nuclear Regulatory",
+     "q": "energy",
+     "tax": false
+    },
+    {
+     "id": "us-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Title 49 (Transportation), FAA, Infrastructure Act",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "us-education",
+     "name": "Giáo dục",
+     "nameEn": "Education",
+     "desc": "Title 20 (Education), IDEA, HEA, FERPA",
+     "q": "education",
+     "tax": false
+    },
+    {
+     "id": "us-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court, Federal Courts of Appeals, án lệ theo chủ đề",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "JP",
+   "slug": "japan",
+   "nameVi": "Nhật Bản",
+   "flag": "🇯🇵",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "jp-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution (Nihon-koku Kenpō)",
+     "desc": "1947 Constitution, Article 9, Emperor system, Diet",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "jp-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Code (Minpō)",
+     "desc": "Civil Code, Property, Obligations, Family, Succession",
+     "q": "civil code",
+     "tax": false
+    },
+    {
+     "id": "jp-criminal",
+     "name": "Hình sự",
+     "nameEn": "Penal Code (Keihō)",
+     "desc": "Penal Code, Code of Criminal Procedure",
+     "q": "penal criminal",
+     "tax": false
+    },
+    {
+     "id": "jp-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act, Corporation Tax Act, Consumption Tax",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "jp-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law",
+     "desc": "Labor Standards Act, Labor Contract Act, trade unions",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "jp-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patent Act, Trademark Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "jp-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Administrative Procedure Act, administrative litigation",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "jp-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Basic Environment Act, pollution control",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "jp-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Banking Act, Financial Instruments and Exchange Act",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "jp-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Family Register Act, marriage and succession",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "jp-data",
+     "name": "Dữ liệu / Kỹ thuật số",
+     "nameEn": "Data & Digital",
+     "desc": "Act on the Protection of Personal Information (APPI)",
+     "q": "data protection",
+     "tax": false
+    },
+    {
+     "id": "jp-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Consumer Contract Act, Product Liability Act",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "jp-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Road Transport Act, Railway Business Act",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "jp-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court of Japan decisions",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "FR",
+   "slug": "france",
+   "nameVi": "Pháp",
+   "flag": "🇫🇷",
+   "regionName": "Châu Âu",
+   "topics": [
+    {
+     "id": "fr-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution & Foundations",
+     "desc": "Constitution de la Ve République (1958), Déclaration des droits de l'Homme, Conseil constitutionnel",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "fr-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Law (Code Civil)",
+     "desc": "Code civil napoleonien — hợp đồng, sở hữu, hôn nhân, thừa kế; nguồn gốc BLDS Việt Nam",
+     "q": "civil code",
+     "tax": false
+    },
+    {
+     "id": "fr-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law (Code Pénal)",
+     "desc": "Code pénal, Code de procédure pénale, crimes et délits",
+     "q": "penal criminal",
+     "tax": false
+    },
+    {
+     "id": "fr-commercial",
+     "name": "Thương mại / Doanh nghiệp",
+     "nameEn": "Commercial & Corporate Law",
+     "desc": "Code de commerce, société anonyme (SA), SARL, contrats commerciaux, faillite",
+     "q": "commercial company",
+     "tax": false
+    },
+    {
+     "id": "fr-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law (Code Général des Impôts)",
+     "desc": "Code général des impôts (CGI) — IS, IR, TVA, impôts locaux",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "fr-labor",
+     "name": "Lao động",
+     "nameEn": "Labour Law (Code du Travail)",
+     "desc": "Code du travail — contrat de travail, congés payés, durée du travail, syndicats",
+     "q": "labour travail employment",
+     "tax": false
+    },
+    {
+     "id": "fr-admin",
+     "name": "Hành chính / Công vụ",
+     "nameEn": "Administrative Law",
+     "desc": "Droit administratif, Conseil d'État, Code des relations entre le public et l'administration",
+     "q": "administrative public",
+     "tax": false
+    },
+    {
+     "id": "fr-property",
+     "name": "Bất động sản",
+     "nameEn": "Property & Housing Law",
+     "desc": "Loi Hoguet, bail d'habitation (loi Alur), urbanisme, copropriété",
+     "q": "property housing immobilier",
+     "tax": false
+    },
+    {
+     "id": "fr-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Code de la propriété intellectuelle — droits d'auteur, brevets, marques",
+     "q": "intellectual property propriete",
+     "tax": false
+    },
+    {
+     "id": "fr-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Code civil — mariage, divorce, adoption, autorité parentale, succession",
+     "q": "family marriage divorce",
+     "tax": false
+    },
+    {
+     "id": "fr-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Code de l'environnement, loi Energie-Climat 2019, responsabilité environnementale",
+     "q": "environment climate energie",
+     "tax": false
+    },
+    {
+     "id": "fr-health",
+     "name": "Y tế / Bảo hiểm xã hội",
+     "nameEn": "Health & Social Security",
+     "desc": "Code de la santé publique, Code de la sécurité sociale, Assurance maladie",
+     "q": "health social security sante",
+     "tax": false
+    },
+    {
+     "id": "fr-data",
+     "name": "Dữ liệu / Kỹ thuật số",
+     "nameEn": "Data Protection & Digital",
+     "desc": "RGPD (GDPR), loi Informatique et Libertés (CNIL), loi pour une République numérique",
+     "q": "data protection digital RGPD",
+     "tax": false
+    },
+    {
+     "id": "fr-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Law",
+     "desc": "Code de la consommation, pratiques commerciales déloyales, crédit à la consommation",
+     "q": "consumer consommation",
+     "tax": false
+    },
+    {
+     "id": "fr-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Cour de cassation, Conseil d'État, jurisprudence des Cours d'appel",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "SG",
+   "slug": "singapore",
+   "nameVi": "Singapore",
+   "flag": "🇸🇬",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "sg-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution & Foundations",
+     "desc": "Constitution of the Republic of Singapore, Maintenance of Religious Harmony Act",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "sg-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Penal Code, Criminal Procedure Code, Evidence Act, Misuse of Drugs Act",
+     "q": "criminal penal",
+     "tax": false
+    },
+    {
+     "id": "sg-civil",
+     "name": "Dân sự / Tố tụng",
+     "nameEn": "Civil Procedure & Torts",
+     "desc": "Rules of Court 2021 (ROC), Civil Law Act, Limitation Act",
+     "q": "civil procedure rules court",
+     "tax": false
+    },
+    {
+     "id": "sg-company",
+     "name": "Doanh nghiệp / Thương mại",
+     "nameEn": "Company & Commercial Law",
+     "desc": "Companies Act, Partnership Act, Sale of Goods Act, Electronic Transactions Act",
+     "q": "company commercial partnership",
+     "tax": false
+    },
+    {
+     "id": "sg-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act 1947, Goods and Services Tax (GST) Act, Property Tax Act, Stamp Duties Act",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "sg-labor",
+     "name": "Lao động",
+     "nameEn": "Employment Law",
+     "desc": "Employment Act, Central Provident Fund (CPF) Act, Work Injury Compensation Act",
+     "q": "employment labor provident",
+     "tax": false
+    },
+    {
+     "id": "sg-land",
+     "name": "Bất động sản / Đất đai",
+     "nameEn": "Land & Property Law",
+     "desc": "Land Titles Act, Planning Act, Housing and Development Act (HDB), Conveyancing",
+     "q": "land property housing",
+     "tax": false
+    },
+    {
+     "id": "sg-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act 2021, Patents Act, Trade Marks Act, Registered Designs Act",
+     "q": "copyright patent trademark designs",
+     "tax": false
+    },
+    {
+     "id": "sg-finance",
+     "name": "Ngân hàng / Tài chính",
+     "nameEn": "Banking & Financial Law",
+     "desc": "Banking Act, Securities and Futures Act, Monetary Authority of Singapore (MAS) regulations, Payment Services Act",
+     "q": "banking finance securities MAS",
+     "tax": false
+    },
+    {
+     "id": "sg-admin",
+     "name": "Hành chính / Tư pháp",
+     "nameEn": "Administrative & Public Law",
+     "desc": "Government Proceedings Act, Judicial Review, Public Sector Act, Freedom of Information",
+     "q": "administrative government judicial",
+     "tax": false
+    },
+    {
+     "id": "sg-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Women's Charter, Guardianship of Infants Act, Adoption of Children Act, Intestate Succession Act",
+     "q": "family women charter adoption",
+     "tax": false
+    },
+    {
+     "id": "sg-immigration",
+     "name": "Di trú",
+     "nameEn": "Immigration",
+     "desc": "Immigration Act, Employment of Foreign Manpower Act, work pass framework (EP, SP, WP)",
+     "q": "immigration employment pass",
+     "tax": false
+    },
+    {
+     "id": "sg-environment",
+     "name": "Môi trường / Bền vững",
+     "nameEn": "Environmental & Sustainability Law",
+     "desc": "Environmental Public Health Act, Carbon Pricing Act, Singapore Green Plan 2030",
+     "q": "environment carbon sustainability",
+     "tax": false
+    },
+    {
+     "id": "sg-tech",
+     "name": "CNTT / Dữ liệu",
+     "nameEn": "Technology & Data",
+     "desc": "Personal Data Protection Act (PDPA), Computer Misuse Act, Cybersecurity Act",
+     "q": "data protection cyber technology PDPA",
+     "tax": false
+    },
+    {
+     "id": "sg-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Singapore Court of Appeal, High Court decisions, Singapore Law Reports (SLR)",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "CH",
+   "slug": "switzerland",
+   "nameVi": "Thụy Sĩ",
+   "flag": "🇨🇭",
+   "regionName": "Châu Âu",
+   "topics": [
+    {
+     "id": "ch-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Federal Constitution",
+     "desc": "Federal Constitution of the Swiss Confederation, Direct democracy",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "ch-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Code (ZGB/OR)",
+     "desc": "Swiss Civil Code (ZGB), Code of Obligations (OR)",
+     "q": "civil code obligations",
+     "tax": false
+    },
+    {
+     "id": "ch-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Code (StGB)",
+     "desc": "Swiss Criminal Code, Criminal Procedure Code",
+     "q": "criminal penal",
+     "tax": false
+    },
+    {
+     "id": "ch-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Federal Direct Tax Act, VAT, Cantonal taxes",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "ch-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law",
+     "desc": "Employment contracts (OR), Labor Act",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "ch-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Act, Patent Act, Trademark Act",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "ch-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Federal Administrative Procedure Act",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "ch-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Marriage, divorce, children (ZGB)",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "ch-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Environmental Protection Act (USG)",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "ch-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Banking Act, Stock Exchange Act",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "ch-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Consumer Credit Act, unfair competition",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "ch-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Road Traffic Act, Aviation Act",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "ch-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Federal Supreme Court decisions",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "CN",
+   "slug": "china",
+   "nameVi": "Trung Quốc",
+   "flag": "🇨🇳",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "cn-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitution",
+     "desc": "Constitution of the PRC, National People's Congress",
+     "q": "constitution",
+     "tax": false
+    },
+    {
+     "id": "cn-civil",
+     "name": "Dân sự",
+     "nameEn": "Civil Code",
+     "desc": "Civil Code of the PRC (2020) — Property, Contracts, Marriage",
+     "q": "civil code",
+     "tax": false
+    },
+    {
+     "id": "cn-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Individual Income Tax, Enterprise Income Tax, VAT",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "cn-commerce",
+     "name": "Thương mại / Doanh nghiệp",
+     "nameEn": "Commercial Law",
+     "desc": "Company Law, Partnership Enterprise Law, Securities Law",
+     "q": "company commercial",
+     "tax": false
+    },
+    {
+     "id": "cn-labor",
+     "name": "Lao động",
+     "nameEn": "Labor Law",
+     "desc": "Labor Law, Labor Contract Law, Social Insurance Law",
+     "q": "labor employment",
+     "tax": false
+    },
+    {
+     "id": "cn-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Law, Patent Law, Trademark Law",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "cn-admin",
+     "name": "Hành chính",
+     "nameEn": "Administrative Law",
+     "desc": "Administrative Procedure Law, Administrative Punishment Law",
+     "q": "administrative",
+     "tax": false
+    },
+    {
+     "id": "cn-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Environmental Protection Law, Climate change policies",
+     "q": "environment",
+     "tax": false
+    },
+    {
+     "id": "cn-finance",
+     "name": "Tài chính / Ngân hàng",
+     "nameEn": "Banking & Finance",
+     "desc": "Commercial Banking Law, People's Bank of China Law",
+     "q": "banking finance",
+     "tax": false
+    },
+    {
+     "id": "cn-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Marriage and Family (Civil Code Book V), Adoptions",
+     "q": "family",
+     "tax": false
+    },
+    {
+     "id": "cn-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "Consumer Protection",
+     "desc": "Consumer Rights Protection Law, E-commerce Law",
+     "q": "consumer",
+     "tax": false
+    },
+    {
+     "id": "cn-transport",
+     "name": "Giao thông",
+     "nameEn": "Transportation",
+     "desc": "Railway Law, Civil Aviation Law",
+     "q": "transport",
+     "tax": false
+    },
+    {
+     "id": "cn-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Guiding Cases",
+     "desc": "Supreme People's Court Guiding Cases",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "VN",
+   "slug": "vietnam",
+   "nameVi": "Việt Nam",
+   "flag": "🇻🇳",
+   "regionName": "Châu Á",
+   "topics": [
+    {
+     "id": "vn-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "",
+     "desc": "Hiến pháp 2013, Luật Ban hành văn bản QPPL",
+     "q": "hiến pháp",
+     "tax": false
+    },
+    {
+     "id": "vn-civil",
+     "name": "Dân sự",
+     "nameEn": "",
+     "desc": "Bộ luật Dân sự 2015 (sửa đổi), Luật Trách nhiệm bồi thường của Nhà nước",
+     "q": "dân sự",
+     "tax": false
+    },
+    {
+     "id": "vn-criminal",
+     "name": "Hình sự",
+     "nameEn": "",
+     "desc": "Bộ luật Hình sự 2015 (sửa đổi), Bộ luật Tố tụng hình sự",
+     "q": "hình sự",
+     "tax": false
+    },
+    {
+     "id": "vn-civil-procedure",
+     "name": "Tố tụng dân sự",
+     "nameEn": "",
+     "desc": "Bộ luật Tố tụng dân sự, Luật Trọng tài thương mại",
+     "q": "tố tụng dân sự",
+     "tax": false
+    },
+    {
+     "id": "vn-admin",
+     "name": "Hành chính",
+     "nameEn": "",
+     "desc": "Luật Tố tụng hành chính, Luật Xử lý vi phạm hành chính",
+     "q": "hành chính",
+     "tax": false
+    },
+    {
+     "id": "vn-tax",
+     "name": "Thuế",
+     "nameEn": "",
+     "desc": "Thuế TNDN, TNCN, GTGT, Tiêu thụ đặc biệt, Tài nguyên, Quản lý thuế",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "vn-labor",
+     "name": "Lao động",
+     "nameEn": "",
+     "desc": "Bộ luật Lao động 2019, Luật BHXH, Luật An toàn vệ sinh lao động",
+     "q": "lao động",
+     "tax": false
+    },
+    {
+     "id": "vn-enterprise",
+     "name": "Doanh nghiệp / Thương mại",
+     "nameEn": "",
+     "desc": "Luật Doanh nghiệp, Luật Đầu tư, Luật Thương mại, Luật Cạnh tranh, Luật Phá sản",
+     "q": "doanh nghiệp thương mại",
+     "tax": false
+    },
+    {
+     "id": "vn-land",
+     "name": "Đất đai / Nhà ở",
+     "nameEn": "",
+     "desc": "Luật Đất đai, Luật Nhà ở, Luật Kinh doanh bất động sản",
+     "q": "đất đai nhà ở",
+     "tax": false
+    },
+    {
+     "id": "vn-family",
+     "name": "Hôn nhân & Gia đình",
+     "nameEn": "",
+     "desc": "Luật Hôn nhân và gia đình",
+     "q": "hôn nhân gia đình",
+     "tax": false
+    },
+    {
+     "id": "vn-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "",
+     "desc": "Luật Sở hữu trí tuệ",
+     "q": "sở hữu trí tuệ",
+     "tax": false
+    },
+    {
+     "id": "vn-banking",
+     "name": "Ngân hàng / Chứng khoán",
+     "nameEn": "",
+     "desc": "Luật Các tổ chức tín dụng, Luật Chứng khoán",
+     "q": "ngân hàng chứng khoán",
+     "tax": false
+    },
+    {
+     "id": "vn-environment",
+     "name": "Môi trường / Xây dựng",
+     "nameEn": "",
+     "desc": "Luật Bảo vệ môi trường, Luật Xây dựng",
+     "q": "môi trường xây dựng",
+     "tax": false
+    },
+    {
+     "id": "vn-education",
+     "name": "Giáo dục",
+     "nameEn": "",
+     "desc": "Luật Giáo dục, Luật Giáo dục đại học",
+     "q": "giáo dục",
+     "tax": false
+    },
+    {
+     "id": "vn-health",
+     "name": "Y tế / Dược",
+     "nameEn": "",
+     "desc": "Luật Khám bệnh chữa bệnh, Luật Dược, Luật BHYT",
+     "q": "y tế dược",
+     "tax": false
+    },
+    {
+     "id": "vn-defense",
+     "name": "Quốc phòng / An ninh",
+     "nameEn": "",
+     "desc": "Luật Quốc phòng, Luật An ninh quốc gia, An ninh mạng, Nghĩa vụ quân sự",
+     "q": "quốc phòng an ninh",
+     "tax": false
+    },
+    {
+     "id": "vn-transport",
+     "name": "Giao thông vận tải",
+     "nameEn": "",
+     "desc": "Luật Giao thông đường bộ, Hàng không, Đường sắt, Hàng hải",
+     "q": "giao thông",
+     "tax": false
+    },
+    {
+     "id": "vn-agriculture",
+     "name": "Tài nguyên / Nông nghiệp",
+     "nameEn": "",
+     "desc": "Luật Tài nguyên nước, Lâm nghiệp, Thủy sản, Khoáng sản",
+     "q": "tài nguyên lâm nghiệp thủy sản",
+     "tax": false
+    },
+    {
+     "id": "vn-it",
+     "name": "CNTT / Truyền thông",
+     "nameEn": "",
+     "desc": "Luật CNTT, Giao dịch điện tử, Viễn thông, Báo chí",
+     "q": "công nghệ viễn thông",
+     "tax": false
+    },
+    {
+     "id": "vn-consumer",
+     "name": "Bảo vệ người tiêu dùng",
+     "nameEn": "",
+     "desc": "Luật Bảo vệ quyền lợi NTD, An toàn thực phẩm, Chất lượng sản phẩm",
+     "q": "bảo vệ người tiêu dùng",
+     "tax": false
+    },
+    {
+     "id": "vn-judiciary",
+     "name": "Tư pháp / Luật sư",
+     "nameEn": "",
+     "desc": "Luật Tổ chức Tòa án, Viện kiểm sát, Luật Luật sư, Trợ giúp pháp lý",
+     "q": "tòa án luật sư tư pháp",
+     "tax": false
+    },
+    {
+     "id": "vn-caselaw",
+     "name": "Án lệ",
+     "nameEn": "",
+     "desc": "Án lệ TAND Tối cao, bản án các cấp (dân sự, hình sự, hành chính, kinh tế)",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  },
+  {
+   "code": "GB",
+   "slug": "united-kingdom",
+   "nameVi": "Vương quốc Anh",
+   "flag": "🇬🇧",
+   "regionName": "Châu Âu",
+   "topics": [
+    {
+     "id": "uk-constitution",
+     "name": "Hiến pháp & nền tảng",
+     "nameEn": "Constitutional Law & Foundations",
+     "desc": "Magna Carta, Parliament Acts, Constitutional Reform Act 2005, Human Rights Act 1998",
+     "q": "constitutional parliament",
+     "tax": false
+    },
+    {
+     "id": "uk-criminal",
+     "name": "Hình sự",
+     "nameEn": "Criminal Law",
+     "desc": "Serious Crime Act, Proceeds of Crime Act, Criminal Justice Acts, Police and Criminal Evidence Act",
+     "q": "criminal justice",
+     "tax": false
+    },
+    {
+     "id": "uk-civil",
+     "name": "Dân sự / Tố tụng",
+     "nameEn": "Civil Procedure & Torts",
+     "desc": "Civil Procedure Rules (CPR), Limitation Act, Torts — negligence, defamation",
+     "q": "civil procedure tort",
+     "tax": false
+    },
+    {
+     "id": "uk-contract",
+     "name": "Hợp đồng",
+     "nameEn": "Contract Law",
+     "desc": "Common law contracts, Sale of Goods Act, Consumer Rights Act 2015",
+     "q": "contract",
+     "tax": false
+    },
+    {
+     "id": "uk-company",
+     "name": "Doanh nghiệp / Thương mại",
+     "nameEn": "Company & Commercial Law",
+     "desc": "Companies Act 2006, Insolvency Act, Partnerships, Financial Services and Markets Act",
+     "q": "company commercial",
+     "tax": false
+    },
+    {
+     "id": "uk-tax",
+     "name": "Thuế",
+     "nameEn": "Tax Law",
+     "desc": "Income Tax Act 2007, Corporation Tax Act, VAT Act 1994, HMRC regulations",
+     "q": "Thuế",
+     "tax": true
+    },
+    {
+     "id": "uk-labor",
+     "name": "Lao động",
+     "nameEn": "Employment Law",
+     "desc": "Employment Rights Act 1996, Equality Act 2010, National Minimum Wage Act, Trade Union & Labour Relations Act",
+     "q": "employment",
+     "tax": false
+    },
+    {
+     "id": "uk-land",
+     "name": "Bất động sản / Đất đai",
+     "nameEn": "Land & Property Law",
+     "desc": "Land Registration Act 2002, Law of Property Act 1925, Landlord and Tenant Acts",
+     "q": "land property",
+     "tax": false
+    },
+    {
+     "id": "uk-ip",
+     "name": "Sở hữu trí tuệ",
+     "nameEn": "Intellectual Property",
+     "desc": "Copyright Designs & Patents Act 1988, Trade Marks Act 1994, Patents Act 1977",
+     "q": "copyright patent trademark",
+     "tax": false
+    },
+    {
+     "id": "uk-admin",
+     "name": "Hành chính công",
+     "nameEn": "Administrative & Public Law",
+     "desc": "Judicial Review, Freedom of Information Act, Data Protection Act, GDPR (UK)",
+     "q": "administrative judicial review",
+     "tax": false
+    },
+    {
+     "id": "uk-immigration",
+     "name": "Di trú",
+     "nameEn": "Immigration & Asylum",
+     "desc": "Immigration Act 1971, Nationality, Immigration and Asylum Act, post-Brexit rules",
+     "q": "immigration asylum",
+     "tax": false
+    },
+    {
+     "id": "uk-family",
+     "name": "Gia đình",
+     "nameEn": "Family Law",
+     "desc": "Family Law Act 1996, Children Act 1989, Matrimonial Causes Act, Adoption Act",
+     "q": "family children matrimonial",
+     "tax": false
+    },
+    {
+     "id": "uk-environment",
+     "name": "Môi trường",
+     "nameEn": "Environmental Law",
+     "desc": "Environment Act 2021, Climate Change Act 2008, Environmental Protection Act 1990",
+     "q": "environment climate",
+     "tax": false
+    },
+    {
+     "id": "uk-health",
+     "name": "Y tế",
+     "nameEn": "Health & Social Care",
+     "desc": "National Health Service Act, Health and Social Care Act, Medicines Act",
+     "q": "health social care NHS",
+     "tax": false
+    },
+    {
+     "id": "uk-caselaw",
+     "name": "Án lệ",
+     "nameEn": "Case Law",
+     "desc": "Supreme Court, Court of Appeal, High Court decisions — common law precedents",
+     "q": "Án lệ",
+     "tax": false
+    }
+   ]
+  }
+ ]
+}

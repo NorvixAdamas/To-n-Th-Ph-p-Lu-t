@@ -1,0 +1,218 @@
+{
+ "id": 112,
+ "sourceId": "us-com-7",
+ "title": "Dodd-Frank Wall Street Reform Act 2010 (Cải cách Phố Wall)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/4173",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6639,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 6418,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 6197,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 5938,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 5717,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 5458,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 5237,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 5016,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 4795,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 4574,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 4353,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 3377,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 3156,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 2891,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 2670,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 2257,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 2036,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 1789,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 1534,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 1313,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 1092,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 736,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 515,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  },
+  {
+   "id": 112,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Wall Street Reform Act 2010.\nTitle I: Financial Stability Oversight Council (FSOC).\nTitle II: Orderly Liquidation Authority (phá sản có trật tự cho TCTD lớn).\nTitle III: Sáp nhập OTS vào OCC.\nTitle VII: Quy định swap/derivative.\nTitle X: Consumer Financial Protection Bureau (CFPB).\nVolcker Rule: Cấm ngân hàng giao dịch tự doanh."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

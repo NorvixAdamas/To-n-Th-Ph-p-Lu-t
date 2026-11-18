@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "VA",
+  "code3": "VAT",
+  "slug": "vatican-city",
+  "nameVi": "Thành Vatican",
+  "nameEn": "Vatican City",
+  "flag": "🇻🇦",
+  "region": "europe",
+  "regionName": "Châu Âu",
+  "subregion": "Southern Europe",
+  "capital": "Vatican City",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

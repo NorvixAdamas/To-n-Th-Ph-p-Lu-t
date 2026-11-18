@@ -1,0 +1,218 @@
+{
+ "id": 252,
+ "sourceId": "vn-trans-1",
+ "title": "Luật Giao thông Đường bộ 2024",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "land"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở"
+ ],
+ "year": 2025,
+ "effectiveDate": "2025-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6713,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 6492,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 6271,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 6012,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 5791,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 5532,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 5311,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 5090,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 4869,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 4648,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 4427,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 3451,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 3230,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 2965,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 2744,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 2331,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 2110,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 1863,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 1608,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 1387,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 1166,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 810,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 589,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Giao thông Đường bộ 2024.\nĐiều 1. Phạm vi: Quy hoạch, xây dựng, quản lý, bảo trì kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ.\nĐiều 5-10. Phân loại đường bộ: quốc lộ, tỉnh lộ, huyện lộ, đường xã.\nĐiều 23-32. Quản lý, bảo trì đường bộ. Quỹ bảo trì đường bộ.\nĐiều 55-62. Phương tiện giao thông: đăng ký, kiểm định."
+  },
+  {
+   "id": 252,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về quy tắc giao thông đường bộ; điều kiện bảo đảm an toàn giao thông."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 77,
+   "title": "Luật Nhà ở 2023 (Luật số 27/2023/QH15)",
+   "kindLabel": "Đạo luật",
+   "year": 2025
+  },
+  {
+   "id": 78,
+   "title": "Luật Kinh doanh Bất động sản 2023",
+   "kindLabel": "Đạo luật",
+   "year": 2025
+  }
+ ]
+}

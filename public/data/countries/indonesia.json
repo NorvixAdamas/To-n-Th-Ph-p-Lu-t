@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "ID",
+  "code3": "IDN",
+  "slug": "indonesia",
+  "nameVi": "Indonesia",
+  "nameEn": "Indonesia",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "South-Eastern Asia",
+  "capital": "Jakarta",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

@@ -1,0 +1,43 @@
+{
+ "id": 366,
+ "sourceId": "ca-trans-1",
+ "title": "Canada Transportation Act (Luật Giao thông Canada)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/T-18/",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 366,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National transportation policy and regulation of aviation, rail, and marine transport."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

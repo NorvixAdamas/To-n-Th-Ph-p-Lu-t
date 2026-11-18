@@ -1,0 +1,64 @@
+{
+ "id": 901,
+ "sourceId": "fr-fam-extra",
+ "title": "PACS – Pacte civil de solidarité",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.service-public.fr/particuliers/vosdroits/F1026",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 901,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "PACS. Civil union partnership in France. Family marriage divorce, droits des couples pacsés."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 276,
+   "title": "Code civil français (Bộ luật Dân sự Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 283,
+   "title": "Code civil - Mariage et Divorce (Luật Hôn nhân và Gia đình Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 286,
+   "title": "RGPD / Dữ liệu cá nhân (GDPR áp dụng tại Pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

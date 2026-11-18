@@ -1,0 +1,228 @@
+{
+ "id": 132,
+ "sourceId": "us-health-4",
+ "title": "HIPAA – Health Insurance Portability and Accountability Act (Bảo mật Thông tin Y tế)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.hhs.gov/hipaa/index.html",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "labor",
+  "tech",
+  "health",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật lao động",
+  "Công nghệ & dữ liệu",
+  "Y tế",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6659,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 6438,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 6217,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 5958,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 5737,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 5478,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 5257,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 5036,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 4815,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 4594,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 4373,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 3397,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 3176,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 2911,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 2690,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 2277,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 2056,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 1809,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 1554,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 1333,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 1112,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 756,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 535,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  },
+  {
+   "id": 132,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "HIPAA – Health Insurance Portability and Accountability Act 1996.\nTitle I: Portability – bảo đảm bảo hiểm y tế khi đổi việc.\nTitle II: Privacy Rule (45 CFR Part 164): Bảo vệ thông tin y tế cá nhân (PHI). Security Rule: Yêu cầu bảo mật điện tử. Breach Notification Rule. HIPAA violation penalties: $100-$50,000/vi phạm, tối đa $1.5 triệu/năm. Hình sự: đến 10 năm tù."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

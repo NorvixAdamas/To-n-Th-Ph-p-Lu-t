@@ -1,0 +1,220 @@
+{
+ "id": 92,
+ "sourceId": "vn-health-2",
+ "title": "Luật Dược 2016",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "commercial",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật thương mại",
+  "Y tế"
+ ],
+ "year": 2017,
+ "effectiveDate": "2017-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6619,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 6398,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 6177,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 5918,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 5697,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 5438,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 5217,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 4996,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 4775,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 4554,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 4333,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 3357,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 3136,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 2871,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 2650,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 2237,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 2016,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 1769,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 1514,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 1293,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 1072,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 716,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 495,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  },
+  {
+   "id": 92,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "Luật Dược 2016.\nĐiều 1. Phạm vi: Chính sách của Nhà nước về dược, kinh doanh dược, đăng ký, sản xuất, nhập khẩu, lưu hành thuốc.\nĐiều 6. Phân loại thuốc: thuốc kê đơn, thuốc không kê đơn.\nĐiều 33-47. Kinh doanh dược: điều kiện cấp giấy chứng nhận đủ điều kiện.\nĐiều 56-62. Đăng ký thuốc."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 64,
+   "title": "Luật Thuế sử dụng đất phi nông nghiệp 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2012
+  }
+ ]
+}

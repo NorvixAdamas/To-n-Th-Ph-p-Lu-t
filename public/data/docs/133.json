@@ -1,0 +1,220 @@
+{
+ "id": 133,
+ "sourceId": "us-health-5",
+ "title": "Mental Health Parity and Addiction Equity Act (Bình đẳng Sức khỏe Tâm thần)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.cms.gov/CCIIO/Programs-and-Initiatives/Other-Insurance-Protections/mhpaea_factsheet",
+ "tags": [],
+ "fields": [
+  "labor",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6660,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 6439,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 6218,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 5959,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 5738,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 5479,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 5258,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 5037,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 4816,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 4595,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 4374,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 3398,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 3177,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 2912,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 2691,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 2278,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 2057,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 1810,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 1555,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 1334,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 1113,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 757,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 536,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  },
+  {
+   "id": 133,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Mental Health Parity and Addiction Equity Act (MHPAEA).\nYêu cầu bảo hiểm y tế cung cấp phúc lợi sức khỏe tâm thần và điều trị nghiện tương đương phúc lợi y tế/phẫu thuật. Không giới hạn số lần khám, copay và deductible tương đương."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

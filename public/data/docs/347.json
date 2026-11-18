@@ -1,0 +1,76 @@
+{
+ "id": 347,
+ "sourceId": "cn-labor-1",
+ "title": "Labor Law of the PRC (Luật Lao động Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 347,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of labor relations, employment contracts, and social insurance."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 345,
+   "title": "Civil Code of the PRC (Bộ luật Dân sự Trung Quốc)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 353,
+   "title": "Civil Code - Marriage and Family (Luật Gia đình Trung Quốc)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 943,
+   "title": "Labor Contract Law PRC 2007",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 944,
+   "title": "Social Insurance Law PRC 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3041,
+   "title": "Civil Code of the People's Republic of China",
+   "kindLabel": "Bộ luật",
+   "year": 2021
+  }
+ ]
+}

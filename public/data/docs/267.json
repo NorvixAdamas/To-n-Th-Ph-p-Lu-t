@@ -1,0 +1,64 @@
+{
+ "id": 267,
+ "sourceId": "uk-land-1",
+ "title": "Land Registration Act 2002 (Luật Đăng ký Đất đai Anh)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/2002/9/contents",
+ "tags": [],
+ "fields": [
+  "land",
+  "tech"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở",
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 267,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "An Act to make provision about land registration; and for connected purposes. Electronic conveyancing, adverse possession, and registration systems."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 261,
+   "title": "Companies Act 2006 (Luật Công ty Anh Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 269,
+   "title": "UK GDPR / Data Protection Act 2018 (Luật Bảo vệ Dữ liệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 889,
+   "title": "Law of Property Act 1925",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

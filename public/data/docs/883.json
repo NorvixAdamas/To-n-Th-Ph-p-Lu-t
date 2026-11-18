@@ -1,0 +1,50 @@
+{
+ "id": 883,
+ "sourceId": "uk-const-extra",
+ "title": "Parliament Acts 1911 and 1949",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/Geo5/1-2/13/contents",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 883,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Parliament Acts establishing relations between Lords and Commons. Constitutional parliamentary sovereignty."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 256,
+   "title": "Constitutional Reform Act 2005 (Luật Cải cách Hiến pháp Anh)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  }
+ ]
+}

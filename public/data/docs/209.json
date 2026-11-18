@@ -1,0 +1,218 @@
+{
+ "id": 209,
+ "sourceId": "vn-legal-3",
+ "title": "Luật Luật sư 2006 (sửa đổi 2012)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2013,
+ "effectiveDate": "2013-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6736,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 6515,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 6294,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 6035,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 5814,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 5555,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 5334,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 5113,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 4892,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 4671,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 4450,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 3474,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 3253,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 2988,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 2767,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 2354,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 2133,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 1886,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 1631,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 1410,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 1189,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 833,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 612,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  },
+  {
+   "id": 209,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "text": "Luật Luật sư 2006 (sửa đổi 2012).\nĐiều 1. Phạm vi: Nguyên tắc, điều kiện hành nghề luật sư, tổ chức hành nghề.\nĐiều 10. Điều kiện: cử nhân luật + đào tạo nghề + tập sự 12 tháng.\nĐiều 22-24. Hình thức hành nghề: VPLS, công ty luật, luật sư hành nghề với tư cách cá nhân.\nĐiều 64-68. Tổ chức xã hội - nghề nghiệp: Liên đoàn Luật sư Việt Nam, Đoàn Luật sư tỉnh."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 170,
+   "title": "Luật Phòng, chống tham nhũng 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 187,
+   "title": "Luật Trật tự, An toàn Giao thông Đường bộ 2024",
+   "kindLabel": "Đạo luật",
+   "year": 2025
+  },
+  {
+   "id": 190,
+   "title": "Luật Giao thông Đường thủy nội địa 2004 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 193,
+   "title": "Luật Lâm nghiệp 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 194,
+   "title": "Luật Thủy sản 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 195,
+   "title": "Luật Trồng trọt 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "id": 242,
+ "sourceId": "vn-labor-1",
+ "title": "Bộ luật Lao động 2019",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 242,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động."
+  },
+  {
+   "id": 6592,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 6371,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 6150,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 5891,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 5670,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 5411,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 5190,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 4969,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 4748,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 4527,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 4306,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 3330,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 3109,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 2844,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 2623,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 2210,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 1989,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 1742,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 1487,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 1266,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 1045,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 689,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  },
+  {
+   "id": 468,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT LAO ĐỘNG 2019 (Luật số 45/2019/QH14)\n\nChương I: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi: tiêu chuẩn lao động, quyền và nghĩa vụ của người lao động và người sử dụng lao động, quản lý nhà nước về lao động.\nĐiều 2. Đối tượng: NLĐ, NSDLĐ, tổ chức đại diện.\n\nChương III: HỢP ĐỒNG LAO ĐỘNG\nĐiều 13. Hợp đồng lao động là thỏa thuận giữa NLĐ và NSDLĐ.\nĐiều 20. Loại HĐLĐ: không xác định thời hạn, xác định thời hạn (≤36 tháng).\nĐiều 34. Các trường hợp chấm dứt HĐLĐ.\nĐiều 46. Trợ cấp thôi việc.\n\nChương V: TIỀN LƯƠNG\nĐiều 90. Tiền lương. Điều 91. Mức lương tối thiểu.\n\nChương VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\nĐiều 105. Thời giờ làm việc bình thường: ≤8 giờ/ngày, ≤48 giờ/tuần.\nĐiều 107. Làm thêm giờ: ≤40 giờ/tháng, ≤200 giờ/năm (trường hợp đặc biệt: 300 giờ/năm).\nĐiều 112-113. Nghỉ lễ, nghỉ hằng năm (12-16 ngày).\n\nChương X: LAO ĐỘNG NỮ, BÌNH ĐẲNG GIỚI\nĐiều 137. Nghỉ thai sản: 6 tháng.\n\nChương XIII: TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG\nChương XIV: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG\nĐiều 179. Tranh chấp lao động cá nhân. Điều 191. Tranh chấp lao động tập thể. Điều 198. Đình công."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 67,
+   "title": "Luật An toàn, Vệ sinh Lao động 2015",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 69,
+   "title": "Luật Bảo hiểm Y tế 2008 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  }
+ ]
+}

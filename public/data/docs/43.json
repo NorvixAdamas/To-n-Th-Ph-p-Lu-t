@@ -1,0 +1,226 @@
+{
+ "id": 43,
+ "sourceId": "us-tel-2",
+ "title": "Communications Act 1934 / Telecommunications Act 1996",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fcc.gov/general/telecommunications-act-1996",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "tech",
+  "commercial",
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Công nghệ & dữ liệu",
+  "Luật thương mại",
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6570,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 6349,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 6128,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 5869,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 5648,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 5389,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 5168,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 4947,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 4726,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 4505,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 4284,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 3308,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 3087,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 2822,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 2601,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 2188,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 1967,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 1720,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 1465,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 1244,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 1023,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 667,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 446,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  },
+  {
+   "id": 43,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Communications Act of 1934 / Telecommunications Act of 1996.\nTitle I: General provisions. FCC establishment and jurisdiction.\nTitle II: Common carriers. Local exchange carrier obligations. Interconnection requirements.\nTitle III: Radio. Spectrum allocation. Broadcasting licenses.\nTitle IV: Procedural and administrative provisions.\nTitle V: Penal provisions.\nTitle VI: Cable communications. Title VII: Miscellaneous.\n1996 Act: Promotion of competition, deregulation, universal service."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

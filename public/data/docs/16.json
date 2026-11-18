@@ -1,0 +1,218 @@
+{
+ "id": 16,
+ "sourceId": "us-com-1",
+ "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title15",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6543,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 6322,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 6101,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 5842,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 5621,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 5362,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 5141,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 4920,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 4699,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 4478,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 4257,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 3281,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 3060,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 2795,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 2574,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 2161,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 1940,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 1693,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 1438,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 1217,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 996,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 640,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 419,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  },
+  {
+   "id": 16,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 15 – Commerce and Trade.\nChapter 1: Monopolies and combinations in restraint of trade (Sherman Antitrust Act §1-7). §1: Trusts, etc., in restraint of trade illegal. §2: Monopolizing trade.\nChapter 2: Federal Trade Commission (FTC Act). §41: Federal Trade Commission established. §45: Unfair methods of competition; unfair or deceptive acts.\nChapter 2A: Securities and Trust Indentures.\nChapter 2B: Securities Exchanges.\nChapter 41: Consumer Credit Protection (Truth in Lending)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

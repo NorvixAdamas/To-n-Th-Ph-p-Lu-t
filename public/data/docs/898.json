@@ -1,0 +1,56 @@
+{
+ "id": 898,
+ "sourceId": "fr-lab-extra",
+ "title": "Accords de Grenelle – Droit du travail",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050/",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 898,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "French labour employment law. Code du travail. 35-hour work week. Droit du travail syndicats greve."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 278,
+   "title": "Code du travail (Bộ luật Lao động Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 903,
+   "title": "Code de la sécurité sociale",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

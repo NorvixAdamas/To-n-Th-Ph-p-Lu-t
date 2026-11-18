@@ -1,0 +1,77 @@
+{
+ "id": 3042,
+ "sourceId": "cn-deep-2",
+ "title": "Company Law of the People's Republic of China",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384123.htm",
+ "tags": [
+  "cn-deep",
+  "company"
+ ],
+ "fields": [
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2026,
+ "effectiveDate": "2026-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 3042,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "text": "Company governance, incorporation and shareholder framework under Chinese law."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 346,
+   "title": "Enterprise Income Tax Law (Luật Thuế Doanh nghiệp TQ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 348,
+   "title": "Company Law of the PRC (Luật Công ty Trung Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 941,
+   "title": "Securities Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 942,
+   "title": "Antimonopoly Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 947,
+   "title": "Securities Investment Fund Law PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 45,
+ "sourceId": "in-case-1",
+ "name": "Kesavananda Bharati v. State of Kerala (1973)",
+ "court": "Supreme Court of India",
+ "docket": "Writ Petition (Civil) 135 of 1970",
+ "dateDecided": "1973-04-24",
+ "year": 1973,
+ "summary": "Established the \"Basic Structure Doctrine\" - Parliament cannot amend the basic structure of the Constitution. One of the most important cases in Indian constitutional law.",
+ "fields": [],
+ "fieldLabels": [],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://main.sci.gov.in/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "related": []
+}

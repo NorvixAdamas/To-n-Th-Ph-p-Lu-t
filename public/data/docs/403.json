@@ -1,0 +1,50 @@
+{
+ "id": 403,
+ "sourceId": "ch-trans-1",
+ "title": "Road Traffic Act (Luật Giao thông Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/en",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 403,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Rules for road traffic and motor vehicles in Switzerland."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 979,
+   "title": "Railways Act (Eisenbahngesetz) Switzerland",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

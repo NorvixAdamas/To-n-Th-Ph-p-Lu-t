@@ -1,0 +1,29 @@
+{
+ "id": 35,
+ "sourceId": "fr-case-1",
+ "name": "Arret Blieck – Responsabilite du fait dautrui (1991)",
+ "court": "Assemblee pleniere – Cour de cassation",
+ "docket": "Ass. plen. 29 mars 1991",
+ "dateDecided": "1991-03-29",
+ "year": 1991,
+ "summary": "Arret fondateur de la Cour de cassation sur la responsabilite generale du fait dautrui (art.1384 al.1 Code civil). Une association chargee dun handicape mental responsable du dommage cause par celui-ci. Principe: celui qui organise et controle le mode de vie dautrui est responsable. Socle du droit de la responsabilite civile francais moderne.",
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.legifrance.gouv.fr",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "related": []
+}

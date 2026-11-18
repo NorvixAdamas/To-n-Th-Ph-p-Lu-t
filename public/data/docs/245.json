@@ -1,0 +1,220 @@
+{
+ "id": 245,
+ "sourceId": "vn-fam-1",
+ "title": "Luật Hôn nhân và Gia đình 2014",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 245,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho các quan hệ gia đình."
+  },
+  {
+   "id": 6606,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 6385,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 6164,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 5905,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 5684,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 5425,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 5204,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 4983,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 4762,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 4541,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 4320,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 3344,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 3123,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 2858,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 2637,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 2224,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 2003,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 1756,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 1501,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 1280,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 1059,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 703,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  },
+  {
+   "id": 482,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hôn nhân và Gia đình 2014 (Luật số 52/2014/QH13).\nĐiều 1. Phạm vi: Chế độ hôn nhân và gia đình; quan hệ hôn nhân và gia đình.\nĐiều 5. Bảo vệ chế độ hôn nhân và gia đình.\nĐiều 8. Điều kiện kết hôn: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi; tự nguyện.\nĐiều 9. Đăng ký kết hôn.\nĐiều 33-44. Tài sản vợ chồng: tài sản chung, tài sản riêng.\nĐiều 51-64. Ly hôn: thuận tình, đơn phương. Điều 56-60. Chia tài sản khi ly hôn.\nĐiều 68-84. Quan hệ cha mẹ con: quyền và nghĩa vụ nuôi dưỡng, giáo dục.\nĐiều 110-116. Cấp dưỡng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 69,
+   "title": "Luật Bảo hiểm Y tế 2008 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2006
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  }
+ ]
+}

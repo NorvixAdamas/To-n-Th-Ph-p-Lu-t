@@ -1,0 +1,64 @@
+{
+ "id": 974,
+ "sourceId": "ch-crim-extra",
+ "title": "Swiss Code of Criminal Procedure (StPO)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/2010/267/en",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 974,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Swiss Criminal Procedure Code StPO. Criminal penal procedure investigation trial. StGB enforcement."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 394,
+   "title": "Swiss Criminal Code (Bộ luật Hình sự Thụy Sĩ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 398,
+   "title": "Federal Administrative Procedure Act (Luật Hành chính Thụy Sĩ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3039,
+   "title": "Swiss Civil Procedure Code",
+   "kindLabel": "Bộ luật",
+   "year": 2011
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "id": 19,
+ "sourceId": "us-com-4",
+ "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.sec.gov/about/laws/sea34.pdf",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6546,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 6325,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 6104,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 5845,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 5624,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 5365,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 5144,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 4923,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 4702,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 4481,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 4260,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 3284,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 3063,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 2798,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 2577,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 2164,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 1943,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 1696,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 1441,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 1220,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 999,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 643,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 422,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  },
+  {
+   "id": 19,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Exchange Act of 1934 (15 USC §78a et seq.). Governs secondary trading of securities. §10(b): Manipulative and deceptive devices (Rule 10b-5). §13: Reporting requirements. §14: Proxies. §16: Short-swing profits. §21D: Private Securities Litigation Reform Act."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

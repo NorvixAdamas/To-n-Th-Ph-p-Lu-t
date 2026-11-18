@@ -1,0 +1,224 @@
+{
+ "id": 23,
+ "sourceId": "us-labor-3",
+ "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.osha.gov/laws-regs/oshact/completeoshact",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "labor",
+  "land",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật lao động",
+  "Luật đất đai & nhà ở",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6550,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 6329,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 6108,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 5849,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 5628,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 5369,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 5148,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 4927,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 4706,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 4485,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 4264,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 3288,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 3067,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 2802,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 2581,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 2168,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 1947,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 1700,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 1445,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 1224,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 1003,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 647,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 426,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  },
+  {
+   "id": 23,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Occupational Safety and Health Act (OSH Act) – 29 USC §651 et seq.\nGeneral Duty Clause §654(a)(1): Employers must provide workplace free from recognized hazards. OSHA Standards: 29 CFR Part 1910 (General Industry), Part 1926 (Construction). Inspections: §657. Citations and penalties: §666. Whistleblower protection: §660(c)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

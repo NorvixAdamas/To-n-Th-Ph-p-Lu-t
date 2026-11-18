@@ -1,0 +1,220 @@
+{
+ "id": 115,
+ "sourceId": "us-com-10",
+ "title": "Consumer Financial Protection Act – CFPB (Bảo vệ Tài chính Người tiêu dùng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.consumerfinance.gov",
+ "tags": [],
+ "fields": [
+  "commercial",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thương mại",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6642,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 6421,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 6200,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 5941,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 5720,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 5461,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 5240,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 5019,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 4798,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 4577,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 4356,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 3380,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 3159,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 2894,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 2673,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 2260,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 2039,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 1792,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 1537,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 1316,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 1095,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 739,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 518,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  },
+  {
+   "id": 115,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Consumer Financial Protection Act – Title X Dodd-Frank.\nThành lập CFPB: cơ quan bảo vệ tài chính người tiêu dùng.\nQuy định: thế chấp (mortgage), thẻ tín dụng, vay sinh viên, vay ngày lương (payday lending).\nEnforcement: kiểm tra tổ chức tài chính, xử phạt hành vi không công bằng/lạm dụng.\nComplaint database: Người tiêu dùng gửi khiếu nại trực tuyến."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": 964,
+ "sourceId": "in-crim-extra2",
+ "title": "Code of Criminal Procedure India",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://legislative.gov.in/actno-2-of-1974/",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 964,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Criminal Procedure CrPC India. Criminal investigation trial procedure. IPC BNS enforcement."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 381,
+   "title": "Code of Civil Procedure (Bộ luật Tố tụng Dân sự Ấn Độ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 382,
+   "title": "Indian Penal Code (Bộ luật Hình sự Ấn Độ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 386,
+   "title": "Right to Information Act (Luật Hành chính Ấn Độ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 963,
+   "title": "Bharatiya Nyaya Sanhita 2023 (New IPC)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 969,
+   "title": "Lokpal and Lokayuktas Act 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3035,
+   "title": "Right to Information Act 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2005
+  }
+ ]
+}

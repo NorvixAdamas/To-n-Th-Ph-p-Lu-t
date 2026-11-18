@@ -1,0 +1,222 @@
+{
+ "id": 104,
+ "sourceId": "us-crim-6",
+ "title": "Computer Fraud and Abuse Act – CFAA (Luật Gian lận Máy tính)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partI/chapter47",
+ "tags": [],
+ "fields": [
+  "civil",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6631,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 6410,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 6189,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 5930,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 5709,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 5450,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 5229,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 5008,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 4787,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 4566,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 4345,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 3369,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 3148,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 2883,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 2662,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 2249,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 2028,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 1781,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 1526,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 1305,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 1084,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 728,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 507,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  },
+  {
+   "id": 104,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Computer Fraud and Abuse Act (CFAA) – 18 USC §1030.\n§1030(a)(1): Truy cập trái phép máy tính chính phủ/quốc phòng.\n§1030(a)(2): Truy cập trái phép để lấy thông tin.\n§1030(a)(5): Gây thiệt hại máy tính (malware, virus, DDoS).\n§1030(a)(7): Tống tiền liên quan máy tính (ransomware).\nHình phạt: 1-20 năm tù tùy mức độ. Quyền kiện dân sự: §1030(g)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

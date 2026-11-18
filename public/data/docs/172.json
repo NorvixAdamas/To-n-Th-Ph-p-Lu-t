@@ -1,0 +1,220 @@
+{
+ "id": 172,
+ "sourceId": "vn-ent-8",
+ "title": "Luật Đầu tư công 2019",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "enterprise",
+  "education"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Giáo dục"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6699,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 6478,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 6257,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 5998,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 5777,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 5518,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 5297,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 5076,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 4855,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 4634,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 4413,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 3437,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 3216,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 2951,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 2730,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 2317,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 2096,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 1849,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 1594,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 1373,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 1152,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 796,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 575,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  },
+  {
+   "id": 172,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư công 2019.\nĐiều 1. Phạm vi: Quản lý và sử dụng vốn đầu tư công.\nĐiều 6-8. Phân loại dự án: quan trọng quốc gia (>10,000 tỷ), nhóm A (>2,300 tỷ), B (>120 tỷ), C (dưới ngưỡng B).\nĐiều 17-28. Trình tự lập, thẩm định, phê duyệt chủ trương đầu tư.\nĐiều 39-50. Quản lý thực hiện dự án."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 73,
+   "title": "Luật Cạnh tranh 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  }
+ ]
+}

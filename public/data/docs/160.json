@@ -1,0 +1,218 @@
+{
+ "id": 160,
+ "sourceId": "us-edu-3",
+ "title": "Higher Education Act – HEA (Luật Giáo dục Đại học)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/89th-congress/senate-bill/600",
+ "tags": [],
+ "fields": [
+  "education"
+ ],
+ "fieldLabels": [
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6687,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 6466,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 6245,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 5986,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 5765,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 5506,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 5285,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 5064,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 4843,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 4622,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 4401,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 3425,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 3204,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 2939,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 2718,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 2305,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 2084,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 1837,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 1582,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 1361,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 1140,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 784,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 563,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  },
+  {
+   "id": 160,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Higher Education Act (HEA) – 20 USC §1001 et seq.\nTitle I: General provisions. Title II: Teacher quality. Title IV: Student assistance – Pell Grants (max $7,395/năm 2024-25), Federal Direct Loans (subsidized/unsubsidized), PLUS Loans, Federal Work-Study. Income-Driven Repayment (IDR): SAVE, IBR, PAYE, ICR. Public Service Loan Forgiveness (PSLF): 120 payments."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 161,
+   "title": "Family Educational Rights and Privacy Act – FERPA (Quyền riêng tư Giáo dục)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 233,
+   "title": "Civil Rights Act 1964",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 236,
+   "title": "Title 20 USC – Education",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 859,
+   "title": "Elementary and Secondary Education Act – ESEA / ESSA",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

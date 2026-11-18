@@ -1,0 +1,50 @@
+{
+ "id": 321,
+ "sourceId": "jp-crim-1",
+ "title": "Penal Code of Japan (Bộ luật Hình sự Nhật Bản)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=140AC0000000045",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "JP",
+  "slug": "japan",
+  "nameVi": "Nhật Bản",
+  "nameEn": "Japan",
+  "flag": "🇯🇵",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 321,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Keihō. Crimes and punishments. General provisions and specific crimes like homicide and theft."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 926,
+   "title": "Code of Criminal Procedure Japan",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

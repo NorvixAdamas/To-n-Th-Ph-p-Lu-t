@@ -1,0 +1,220 @@
+{
+ "id": 124,
+ "sourceId": "us-imm-4",
+ "title": "Refugee Act 1980 (Luật Tị nạn)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/96th-congress/senate-bill/643",
+ "tags": [],
+ "fields": [
+  "immigration",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Di trú & quốc tịch",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6651,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 6430,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 6209,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 5950,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 5729,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 5470,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 5249,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 5028,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 4807,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 4586,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 4365,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 3389,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 3168,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 2903,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 2682,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 2269,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 2048,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 1801,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 1546,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 1325,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 1104,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 748,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 527,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  },
+  {
+   "id": 124,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Refugee Act 1980.\nThiết lập hệ thống tiếp nhận tị nạn của Hoa Kỳ. Tổng thống ấn định quota hàng năm (tham vấn Quốc hội). Định nghĩa \"refugee\" theo Công ước Geneva 1951. Quy trình: đăng ký UNHCR → phỏng vấn → kiểm tra an ninh → tái định cư. Quy chế tị nạn (asylum): nộp đơn trong 1 năm kể từ ngày nhập cảnh."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

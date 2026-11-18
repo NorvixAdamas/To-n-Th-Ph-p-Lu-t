@@ -1,0 +1,25 @@
+{
+ "id": 36,
+ "sourceId": "fr-case-2",
+ "name": "Conseil constitutionnel – Loi Veil IVG (1975)",
+ "court": "Conseil constitutionnel",
+ "docket": "No 74-54 DC",
+ "dateDecided": "1975-01-15",
+ "year": 1975,
+ "summary": "Decision du Conseil constitutionnel sur la loi autorisant lIVG (loi Veil). Loi declaree conforme a la Constitution. Principe important: le Conseil constitutionnel nest pas juge de la conformite aux traites internationaux. Separation entre controle de constitutionnalite et controle de conventionnalite. Base de la jurisprudence constitutionnelle francaise.",
+ "fields": [],
+ "fieldLabels": [],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.conseil-constitutionnel.fr/decision/1975/7454DC.htm",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "related": []
+}

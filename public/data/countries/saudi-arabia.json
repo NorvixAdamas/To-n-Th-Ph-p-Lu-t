@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "SA",
+  "code3": "SAU",
+  "slug": "saudi-arabia",
+  "nameVi": "Ả Rập Xê-út",
+  "nameEn": "Saudi Arabia",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "regionName": "Trung Đông",
+  "subregion": "Western Asia",
+  "capital": "Riyadh",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

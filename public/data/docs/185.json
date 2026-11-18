@@ -1,0 +1,224 @@
+{
+ "id": 185,
+ "sourceId": "vn-def-5",
+ "title": "Luật An ninh mạng 2018",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tech",
+  "enterprise",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật doanh nghiệp & đầu tư",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2019,
+ "effectiveDate": "2019-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6712,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 6491,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 6270,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 6011,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 5790,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 5531,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 5310,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 5089,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 4868,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 4647,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 4426,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 3450,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 3229,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 2964,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 2743,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 2330,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 2109,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 1862,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 1607,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 1386,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 1165,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 809,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 588,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  },
+  {
+   "id": 185,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật An ninh mạng 2018.\nĐiều 1. Phạm vi: Bảo vệ an ninh quốc gia, trật tự ATXH trên không gian mạng.\nĐiều 8. Hành vi bị cấm: chống Nhà nước, xuyên tạc lịch sử, kích động bạo loạn, xâm phạm quyền cá nhân.\nĐiều 16-21. Hệ thống thông tin quan trọng: phân loại, đánh giá an ninh mạng.\nĐiều 26. Lưu trữ dữ liệu: doanh nghiệp trong/ngoài nước phải lưu trữ dữ liệu người dùng VN tại Việt Nam."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

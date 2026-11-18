@@ -1,0 +1,43 @@
+{
+ "id": 355,
+ "sourceId": "cn-trans-1",
+ "title": "Railway Law (Luật Đường sắt Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384013.htm",
+ "tags": [],
+ "fields": [
+  "land"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 355,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulations for railway construction, transportation, and safety."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

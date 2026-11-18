@@ -1,0 +1,50 @@
+{
+ "id": 268,
+ "sourceId": "uk-ip-1",
+ "title": "Copyright Designs and Patents Act 1988 – CDPA (Bản quyền và Sáng chế)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/1988/48/contents",
+ "tags": [],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 268,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "CDPA 1988. Copyright duration (life + 70 years). Fair dealing, Design rights, and Patents Act 1977."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 890,
+   "title": "Trade Marks Act 1994",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

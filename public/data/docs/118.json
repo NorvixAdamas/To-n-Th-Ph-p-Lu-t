@@ -1,0 +1,218 @@
+{
+ "id": 118,
+ "sourceId": "us-labor-8",
+ "title": "Age Discrimination in Employment Act – ADEA (Chống Phân biệt Tuổi)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6645,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 6424,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 6203,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 5944,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 5723,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 5464,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 5243,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 5022,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 4801,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 4580,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 4359,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 3383,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 3162,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 2897,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 2676,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 2263,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 2042,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 1795,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 1540,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 1319,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 1098,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 742,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 521,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  },
+  {
+   "id": 118,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Age Discrimination in Employment Act (ADEA) – 29 USC §621-634.\nBảo vệ người lao động từ 40 tuổi trở lên khỏi phân biệt đối xử về tuổi tác.\nÁp dụng cho NSDLĐ ≥20 nhân viên.\nLoại trừ: bona fide occupational qualification (BFOQ), hệ thống thâm niên, reasonable factors other than age (RFOA)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": 963,
+ "sourceId": "in-crim-extra",
+ "title": "Bharatiya Nyaya Sanhita 2023 (New IPC)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://legislative.gov.in",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 963,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bharatiya Nyaya Sanhita 2023. Replaces Indian Penal Code IPC. Criminal offences punishments India."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 382,
+   "title": "Indian Penal Code (Bộ luật Hình sự Ấn Độ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 964,
+   "title": "Code of Criminal Procedure India",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "id": 107,
+ "sourceId": "us-crim-9",
+ "title": "Dodd-Frank Wall Street Reform – Whistleblower Protection (Bảo vệ Người tố giác)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.sec.gov/whistleblower",
+ "tags": [],
+ "fields": [
+  "health"
+ ],
+ "fieldLabels": [
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6634,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 6413,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 6192,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 5933,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 5712,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 5453,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 5232,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 5011,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 4790,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 4569,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 4348,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 3372,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 3151,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 2886,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 2665,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 2252,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 2031,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 1784,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 1529,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 1308,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 1087,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 731,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 510,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  },
+  {
+   "id": 107,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Dodd-Frank Whistleblower Protection.\n15 USC §78u-6: SEC Whistleblower Program. Thưởng 10-30% khoản tiền phạt thu được >$1 triệu. Bảo vệ chống trả đũa: phục hồi vị trí, gấp đôi tiền lương bị mất. Từ 2011, SEC đã thưởng >$2 tỷ cho whistleblowers."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

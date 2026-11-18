@@ -1,0 +1,218 @@
+{
+ "id": 110,
+ "sourceId": "us-civil-6",
+ "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title9",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6637,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 6416,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 6195,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 5936,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 5715,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 5456,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 5235,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 5014,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 4793,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 4572,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 4351,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 3375,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 3154,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 2889,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 2668,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 2255,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 2034,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 1787,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 1532,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 1311,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 1090,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 734,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 513,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  },
+  {
+   "id": 110,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Arbitration Act (FAA) – 9 USC §1-16.\n§2: Thỏa thuận trọng tài bằng văn bản là hợp lệ và có hiệu lực thi hành.\n§3: Tòa án phải hoãn vụ kiện nếu có thỏa thuận trọng tài.\n§9-11: Xác nhận, sửa đổi, hủy phán quyết trọng tài. Căn cứ hủy: gian lận, thiên vị, vượt thẩm quyền."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 156,
+   "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

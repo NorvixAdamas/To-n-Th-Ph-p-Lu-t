@@ -1,0 +1,82 @@
+{
+ "id": 278,
+ "sourceId": "fr-labor-1",
+ "title": "Code du travail (Bộ luật Lao động Pháp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006072050/",
+ "tags": [],
+ "fields": [
+  "labor",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 278,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code du travail. Individual and collective labour relations. 35 hours/week. Paid leave, SMIC minimum wage, unions, dismissal procedures."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 275,
+   "title": "Constitution de la Ve République (1958) – Hiến pháp Pháp",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 280,
+   "title": "Code de commerce (Bộ luật Thương mại Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 288,
+   "title": "Code des relations entre công chúng et l'administration (Luật Hành chính)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 896,
+   "title": "Code de procédure pénale (Tố tụng hình sự Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 898,
+   "title": "Accords de Grenelle – Droit du travail",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 903,
+   "title": "Code de la sécurité sociale",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": 20,
+ "sourceId": "us-case-12",
+ "name": "Chevron U.S.A., Inc. v. Natural Resources Defense Council, 467 U.S. 837 (1984)",
+ "court": "Supreme Court of the United States",
+ "docket": "467 U.S. 837",
+ "dateDecided": "1984-06-25",
+ "year": 1984,
+ "summary": "Chevron deference: khi luật mơ hồ, tòa án phải tuân theo cách giải thích hợp lý của cơ quan hành chính. Bước 1: Quốc hội đã phát biểu rõ ràng chưa? Bước 2: Nếu chưa, giải thích của cơ quan có hợp lý không? BỊ LẬT ĐỔ BỞI Loper Bright v. Raimondo (2024) – tòa tự giải thích luật.",
+ "fields": [
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://supreme.justia.com/cases/federal/us/467/837/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "related": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "court": "Supreme Court of the United States",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "court": "Supreme Court of the United States",
+   "year": 2022
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "court": "Supreme Court of the United States",
+   "year": 2015
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "court": "Supreme Court of the United States",
+   "year": 2010
+  }
+ ]
+}

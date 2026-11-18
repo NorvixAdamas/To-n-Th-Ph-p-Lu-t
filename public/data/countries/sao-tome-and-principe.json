@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "ST",
+  "code3": "STP",
+  "slug": "sao-tome-and-principe",
+  "nameVi": "São Tomé và Príncipe",
+  "nameEn": "São Tomé and Príncipe",
+  "flag": "🇸🇹",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Middle Africa",
+  "capital": "São Tomé",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

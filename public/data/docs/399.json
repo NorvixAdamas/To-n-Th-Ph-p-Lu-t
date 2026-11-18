@@ -1,0 +1,45 @@
+{
+ "id": 399,
+ "sourceId": "ch-env-1",
+ "title": "Environmental Protection Act (Luật Môi trường Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/en",
+ "tags": [],
+ "fields": [
+  "environment",
+  "education"
+ ],
+ "fieldLabels": [
+  "Môi trường",
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 399,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Protection of the environment and sustainable development."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

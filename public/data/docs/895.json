@@ -1,0 +1,50 @@
+{
+ "id": 895,
+ "sourceId": "uk-hlt-extra",
+ "title": "Health and Social Care Act 2012",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/2012/7/contents",
+ "tags": [],
+ "fields": [
+  "health"
+ ],
+ "fieldLabels": [
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 895,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Health and Social Care Act 2012. NHS restructuring. Public health social care services."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 273,
+   "title": "National Health Service Act 2006 (Luật Dịch vụ Y tế Quốc gia Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

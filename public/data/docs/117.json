@@ -1,0 +1,222 @@
+{
+ "id": 117,
+ "sourceId": "us-labor-7",
+ "title": "Title VII – Civil Rights Act 1964 – Employment Discrimination (Chống Phân biệt Lao động)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6644,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 6423,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 6202,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 5943,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 5722,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 5463,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 5242,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 5021,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 4800,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 4579,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 4358,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 3382,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 3161,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 2896,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 2675,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 2262,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 2041,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 1794,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 1539,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 1318,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 1097,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 741,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 520,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  },
+  {
+   "id": 117,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title VII – Civil Rights Act 1964 (Employment).\nCấm phân biệt đối xử trong tuyển dụng, sa thải, lương, điều kiện làm việc dựa trên: chủng tộc, màu da, tôn giáo, giới tính, nguồn gốc quốc gia.\nĐiều 703: Unlawful employment practices.\nĐiều 706: Đơn khiếu nại tới EEOC trước khi kiện. 300 ngày.\nBurden-shifting: McDonnell Douglas framework."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

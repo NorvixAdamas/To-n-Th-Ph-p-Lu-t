@@ -1,0 +1,218 @@
+{
+ "id": 231,
+ "sourceId": "us-tel-1",
+ "title": "Telecommunications Act of 1996",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fcc.gov/general/telecommunications-act-1996",
+ "tags": [],
+ "fields": [
+  "tech"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6569,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 6348,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 6127,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 5868,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 5647,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 5388,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 5167,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 4946,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 4725,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 4504,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 4283,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 3307,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 3086,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 2821,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 2600,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 2187,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 1966,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 1719,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 1464,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 1243,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 1022,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 666,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 445,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 47 – Telecommunications.\nChapter 5: Wire or Radio Communication. §151: Federal Communications Commission (FCC). §201-205: Common carrier regulation. §230: Protection for private blocking and screening of offensive material (Section 230 internet liability). §251-252: Interconnection. §254: Universal service. §332: Mobile services."
+  },
+  {
+   "id": 231,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "The first major overhaul of American telecommunications law in over 60 years."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 120,
+   "title": "Privacy Act 1974 (Luật Quyền riêng tư)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 129,
+   "title": "Digital Millennium Copyright Act – DMCA (Bản quyền Kỹ thuật số)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": 381,
+ "sourceId": "in-civil-1",
+ "title": "Code of Civil Procedure (Bộ luật Tố tụng Dân sự Ấn Độ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://legislative.gov.in/actno-5-of-1908/",
+ "tags": [],
+ "fields": [
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 381,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Rules for the procedure of civil courts in India."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 386,
+   "title": "Right to Information Act (Luật Hành chính Ấn Độ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 389,
+   "title": "Hindu Marriage Act (Luật Gia đình Ấn Độ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 962,
+   "title": "Transfer of Property Act 1882 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 964,
+   "title": "Code of Criminal Procedure India",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 969,
+   "title": "Lokpal and Lokayuktas Act 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 971,
+   "title": "Special Marriage Act 1954 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

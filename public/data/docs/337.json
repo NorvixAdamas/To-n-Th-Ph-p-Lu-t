@@ -1,0 +1,50 @@
+{
+ "id": 337,
+ "sourceId": "au-ip-1",
+ "title": "Copyright Act 1968 (Luật Bản quyền Úc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.au/Details/C2023C00018",
+ "tags": [],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "versions": [
+  {
+   "id": 337,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Protection of copyright in works and other subject matter."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 936,
+   "title": "Patents Act 1990 Australia",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

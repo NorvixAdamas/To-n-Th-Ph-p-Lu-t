@@ -1,0 +1,218 @@
+{
+ "id": 150,
+ "sourceId": "us-rights-3",
+ "title": "Civil Rights Act 1991 (Luật Dân quyền 1991)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/102nd-congress/senate-bill/1745",
+ "tags": [],
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6677,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 6456,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 6235,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 5976,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 5755,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 5496,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 5275,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 5054,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 4833,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 4612,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 4391,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 3415,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 3194,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 2929,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 2708,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 2295,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 2074,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 1827,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 1572,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 1351,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 1130,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 774,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 553,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  },
+  {
+   "id": 150,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1991.\nSửa đổi Title VII: cho phép bồi thẩm đoàn trong vụ kiện phân biệt đối xử, cho phép compensatory và punitive damages (cap $50,000-$300,000 tùy quy mô NSDLĐ). Mixed-motive analysis. Extraterritorial application cho nhân viên Mỹ ở nước ngoài."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 103,
+   "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

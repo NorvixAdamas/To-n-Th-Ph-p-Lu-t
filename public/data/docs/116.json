@@ -1,0 +1,218 @@
+{
+ "id": 116,
+ "sourceId": "us-labor-6",
+ "title": "National Labor Relations Act – NLRA / Wagner Act (Luật Quan hệ Lao động Quốc gia)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6643,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 6422,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 6201,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 5942,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 5721,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 5462,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 5241,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 5020,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 4799,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 4578,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 4357,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 3381,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 3160,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 2895,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 2674,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 2261,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 2040,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 1793,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 1538,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 1317,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 1096,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 740,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 519,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  },
+  {
+   "id": 116,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "National Labor Relations Act (NLRA) – 29 USC §151-169.\n§7: Quyền của người lao động: tự tổ chức, thành lập/gia nhập công đoàn, đàm phán tập thể, đình công.\n§8(a): Unfair labor practices của NSDLĐ: can thiệp quyền §7, phân biệt đối xử, từ chối đàm phán.\n§8(b): Unfair labor practices của công đoàn.\n§9: Bầu đại diện công đoàn. NLRB giám sát."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

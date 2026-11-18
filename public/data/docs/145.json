@@ -1,0 +1,222 @@
+{
+ "id": 145,
+ "sourceId": "us-def-2",
+ "title": "USA PATRIOT Act 2001 (Luật Yêu nước Mỹ – Chống Khủng bố)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/107th-congress/house-bill/3162",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "commercial",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật thương mại",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6672,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 6451,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 6230,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 5971,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 5750,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 5491,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 5270,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 5049,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 4828,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 4607,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 4386,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 3410,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 3189,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 2924,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 2703,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 2290,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 2069,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 1822,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 1567,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 1346,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 1125,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 769,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 548,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  },
+  {
+   "id": 145,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "USA PATRIOT Act 2001 (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism).\nTitle II: Enhanced surveillance. §215: Thu thập hồ sơ kinh doanh (telephone metadata – sửa đổi bởi USA Freedom Act 2015). National Security Letters (NSLs). Roving wiretaps.\nTitle III: Anti-money laundering. Title V: Removing obstacles to investigating terrorism."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

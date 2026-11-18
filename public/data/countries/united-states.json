@@ -1,0 +1,3612 @@
+{
+ "country": {
+  "code": "US",
+  "code3": "USA",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "region": "north-america",
+  "regionName": "Bắc Mỹ",
+  "subregion": "North America",
+  "capital": "Washington D.C.",
+  "legalFamily": "Common law liên bang, bang có hệ thống riêng",
+  "overview": "Hoa Kỳ kết hợp luật thành văn của Quốc hội với án lệ của hệ thống tòa án. Hiến pháp 1787 là văn bản tối cao; mỗi bang có hiến pháp và hệ thống pháp luật riêng. United States Code tập hợp luật liên bang, còn Code of Federal Regulations tập hợp quy định hành chính liên bang.",
+  "sources": [
+   {
+    "name": "Congress.gov",
+    "url": "https://www.congress.gov"
+   },
+   {
+    "name": "GovInfo",
+    "url": "https://www.govinfo.gov"
+   },
+   {
+    "name": "eCFR – Electronic Code of Federal Regulations",
+    "url": "https://www.ecfr.gov"
+   },
+   {
+    "name": "CourtListener",
+    "url": "https://www.courtlistener.com"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 114,
+   "versions": 2529,
+   "cases": 14,
+   "courts": 1,
+   "fields": 18,
+   "fullTextDocuments": 2,
+   "latestYear": 2024
+  },
+  "fieldCounts": {
+   "criminal": 20,
+   "civil": 22,
+   "other": 10,
+   "tax": 17,
+   "labor": 22,
+   "administrative": 24,
+   "commercial": 20,
+   "enterprise": 9,
+   "immigration": 9,
+   "health": 18,
+   "land": 2,
+   "tech": 14,
+   "defense": 18,
+   "family": 12,
+   "environment": 7,
+   "ip": 8,
+   "education": 7,
+   "constitution": 1
+  },
+  "courts": [
+   {
+    "name": "Supreme Court of the United States",
+    "count": 14
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "sourceId": "us-const-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://constitution.congress.gov/browse/amendment",
+   "fields": [
+    "criminal",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": true,
+   "fullTextLength": 2805,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "sourceId": "us-const-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://constitution.congress.gov/browse/amendment",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "sourceId": "us-tax-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.ecfr.gov/current/title-26",
+   "fields": [
+    "tax",
+    "labor",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "sourceId": "us-tax-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/115th-congress/house-bill/1",
+   "fields": [
+    "tax",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "sourceId": "us-tax-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/5376",
+   "fields": [
+    "tax",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2022,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "sourceId": "us-tax-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca",
+   "fields": [
+    "tax",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Hành chính"
+   ],
+   "year": 2010,
+   "effectiveDate": "2010-03-18",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "sourceId": "us-crim-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "sourceId": "us-crim-3",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.ussc.gov/guidelines",
+   "fields": [
+    "criminal",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "sourceId": "us-crim-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title21/chapter13",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "sourceId": "us-civil-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "sourceId": "us-civil-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title28",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "sourceId": "us-com-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title15",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "sourceId": "us-com-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title11",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "sourceId": "us-com-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.sec.gov/about/laws/sa33.pdf",
+   "fields": [
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "sourceId": "us-com-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.sec.gov/about/laws/sea34.pdf",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "sourceId": "us-com-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://www.law.cornell.edu/ucc",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "sourceId": "us-labor-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.osha.gov/laws-regs/oshact/completeoshact",
+   "fields": [
+    "criminal",
+    "labor",
+    "land",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật lao động",
+    "Luật đất đai & nhà ở",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "sourceId": "us-labor-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.ada.gov/law-and-regs/ada/",
+   "fields": [
+    "labor",
+    "tech",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "sourceId": "us-labor-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.dol.gov/agencies/whd/fmla",
+   "fields": [
+    "labor",
+    "civil",
+    "family",
+    "health",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Gia đình",
+    "Y tế",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "sourceId": "us-admin-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://www.ecfr.gov",
+   "fields": [
+    "tax",
+    "criminal",
+    "labor",
+    "tech",
+    "commercial",
+    "environment",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật hình sự",
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Luật thương mại",
+    "Môi trường",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "sourceId": "us-admin-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.foia.gov",
+   "fields": [
+    "ip",
+    "tech",
+    "commercial",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Công nghệ & dữ liệu",
+    "Luật thương mại",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "sourceId": "us-imm-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.ecfr.gov/current/title-8",
+   "fields": [
+    "labor",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "sourceId": "us-fam-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title42/chapter7/subchapterIV/partD",
+   "fields": [
+    "enterprise",
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 33,
+   "title": "Title 17 USC – Copyright (Bản quyền)",
+   "sourceId": "us-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title17",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 34,
+   "title": "Title 35 USC – Patents (Sáng chế)",
+   "sourceId": "us-ip-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title35",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 35,
+   "title": "Lanham Act – Trademark (Nhãn hiệu)",
+   "sourceId": "us-ip-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter22",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "sourceId": "us-health-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/3590",
+   "fields": [
+    "tax",
+    "criminal",
+    "enterprise",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật hình sự",
+    "Luật doanh nghiệp & đầu tư",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "sourceId": "us-health-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.ssa.gov/OP_Home/ssact/comp-toc.htm",
+   "fields": [
+    "tax",
+    "criminal",
+    "labor",
+    "health",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật hình sự",
+    "Luật lao động",
+    "Y tế",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 40,
+   "title": "Clean Water Act (Luật Nước Sạch)",
+   "sourceId": "us-env-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "sourceId": "us-env-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/nepa",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "sourceId": "us-tel-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.fcc.gov/general/telecommunications-act-1996",
+   "fields": [
+    "criminal",
+    "tech",
+    "commercial",
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Công nghệ & dữ liệu",
+    "Luật thương mại",
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 99,
+   "title": "Earned Income Tax Credit – EITC (Tín dụng thuế thu nhập kiếm được)",
+   "sourceId": "us-tax-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+   "fields": [
+    "tax",
+    "labor",
+    "enterprise",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Luật doanh nghiệp & đầu tư",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 100,
+   "title": "Estate and Gift Tax – IRC Subtitle B (Thuế di sản và quà tặng)",
+   "sourceId": "us-tax-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title26/subtitleB",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 101,
+   "title": "Alternative Minimum Tax – AMT (Thuế tối thiểu thay thế)",
+   "sourceId": "us-tax-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.irs.gov/newsroom/alternative-minimum-tax",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 102,
+   "title": "SECURE Act 2.0 – Retirement Savings (Luật Tiết kiệm Hưu trí 2022)",
+   "sourceId": "us-tax-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/2954",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 103,
+   "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+   "sourceId": "us-crim-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partI/chapter96",
+   "fields": [
+    "criminal",
+    "enterprise",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật doanh nghiệp & đầu tư",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 104,
+   "title": "Computer Fraud and Abuse Act – CFAA (Luật Gian lận Máy tính)",
+   "sourceId": "us-crim-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partI/chapter47",
+   "fields": [
+    "civil",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 105,
+   "title": "Federal Death Penalty Act 1994 (Luật Án tử hình Liên bang)",
+   "sourceId": "us-crim-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partII/chapter228",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 106,
+   "title": "Anti-Money Laundering Act – Bank Secrecy Act (Luật Chống Rửa tiền)",
+   "sourceId": "us-crim-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.fincen.gov/resources/statutes-and-regulations",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 107,
+   "title": "Dodd-Frank Wall Street Reform – Whistleblower Protection (Bảo vệ Người tố giác)",
+   "sourceId": "us-crim-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.sec.gov/whistleblower",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "sourceId": "us-civil-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-114",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 109,
+   "title": "Federal Tort Claims Act – FTCA (Luật Bồi thường Thiệt hại Liên bang)",
+   "sourceId": "us-civil-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title28/partVI/chapter171",
+   "fields": [
+    "civil",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "sourceId": "us-civil-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title9",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 111,
+   "title": "Sarbanes-Oxley Act 2002 – SOX (Luật Kiểm soát Tài chính Doanh nghiệp)",
+   "sourceId": "us-com-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/107th-congress/house-bill/3763",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 112,
+   "title": "Dodd-Frank Wall Street Reform Act 2010 (Cải cách Phố Wall)",
+   "sourceId": "us-com-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/4173",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 113,
+   "title": "Sherman Antitrust Act (Luật Chống Độc quyền Sherman)",
+   "sourceId": "us-com-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter1",
+   "fields": [
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 114,
+   "title": "Clayton Antitrust Act (Luật Chống Độc quyền Clayton)",
+   "sourceId": "us-com-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter1",
+   "fields": [
+    "labor",
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 115,
+   "title": "Consumer Financial Protection Act – CFPB (Bảo vệ Tài chính Người tiêu dùng)",
+   "sourceId": "us-com-10",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.consumerfinance.gov",
+   "fields": [
+    "commercial",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 116,
+   "title": "National Labor Relations Act – NLRA / Wagner Act (Luật Quan hệ Lao động Quốc gia)",
+   "sourceId": "us-labor-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 117,
+   "title": "Title VII – Civil Rights Act 1964 – Employment Discrimination (Chống Phân biệt Lao động)",
+   "sourceId": "us-labor-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964",
+   "fields": [
+    "labor",
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 118,
+   "title": "Age Discrimination in Employment Act – ADEA (Chống Phân biệt Tuổi)",
+   "sourceId": "us-labor-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 119,
+   "title": "Worker Adjustment and Retraining Notification Act – WARN (Thông báo Sa thải Hàng loạt)",
+   "sourceId": "us-labor-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.dol.gov/agencies/eta/layoffs/warn",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 120,
+   "title": "Privacy Act 1974 (Luật Quyền riêng tư)",
+   "sourceId": "us-admin-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.justice.gov/opcl/privacy-act-1974",
+   "fields": [
+    "tech",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 121,
+   "title": "Federal Register Act (Luật Công báo Liên bang)",
+   "sourceId": "us-admin-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.archives.gov/federal-register/laws",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 122,
+   "title": "Government in the Sunshine Act (Luật Chính phủ Minh bạch)",
+   "sourceId": "us-admin-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.law.cornell.edu/uscode/text/5/552b",
+   "fields": [
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 123,
+   "title": "Deferred Action for Childhood Arrivals – DACA (Hoãn Trục xuất Trẻ em)",
+   "sourceId": "us-imm-3",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.uscis.gov/DACA",
+   "fields": [
+    "family",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Gia đình",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 124,
+   "title": "Refugee Act 1980 (Luật Tị nạn)",
+   "sourceId": "us-imm-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/96th-congress/senate-bill/643",
+   "fields": [
+    "immigration",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Di trú & quốc tịch",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 125,
+   "title": "Illegal Immigration Reform and Immigrant Responsibility Act – IIRIRA 1996",
+   "sourceId": "us-imm-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/104th-congress/house-bill/3610",
+   "fields": [
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 126,
+   "title": "Uniform Child Custody Jurisdiction and Enforcement Act – UCCJEA",
+   "sourceId": "us-fam-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.uniformlaws.org/committees/community-home?CommunityKey=12311",
+   "fields": [
+    "family"
+   ],
+   "fieldLabels": [
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 127,
+   "title": "Adoption and Safe Families Act 1997 (Luật Nhận con nuôi và Gia đình An toàn)",
+   "sourceId": "us-fam-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/105th-congress/house-bill/867",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 128,
+   "title": "Uniform Parentage Act – UPA (Luật Thống nhất Quan hệ Cha mẹ Con)",
+   "sourceId": "us-fam-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.uniformlaws.org",
+   "fields": [
+    "tax",
+    "civil",
+    "family",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật dân sự",
+    "Gia đình",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 129,
+   "title": "Digital Millennium Copyright Act – DMCA (Bản quyền Kỹ thuật số)",
+   "sourceId": "us-ip-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.copyright.gov/dmca/",
+   "fields": [
+    "ip",
+    "tech"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 130,
+   "title": "Defend Trade Secrets Act 2016 – DTSA (Bảo vệ Bí mật Thương mại)",
+   "sourceId": "us-ip-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/114th-congress/senate-bill/1890",
+   "fields": [
+    "criminal",
+    "ip",
+    "commercial",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Sở hữu trí tuệ",
+    "Luật thương mại",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 131,
+   "title": "America Invents Act – AIA 2011 (Cải cách Sáng chế)",
+   "sourceId": "us-ip-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/112th-congress/house-bill/1249",
+   "fields": [
+    "tax",
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 132,
+   "title": "HIPAA – Health Insurance Portability and Accountability Act (Bảo mật Thông tin Y tế)",
+   "sourceId": "us-health-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.hhs.gov/hipaa/index.html",
+   "fields": [
+    "criminal",
+    "labor",
+    "tech",
+    "health",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Y tế",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 133,
+   "title": "Mental Health Parity and Addiction Equity Act (Bình đẳng Sức khỏe Tâm thần)",
+   "sourceId": "us-health-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.cms.gov/CCIIO/Programs-and-Initiatives/Other-Insurance-Protections/mhpaea_factsheet",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 134,
+   "title": "EMTALA – Emergency Medical Treatment & Labor Act (Cấp cứu Y tế Bắt buộc)",
+   "sourceId": "us-health-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.cms.gov/Regulations-and-Guidance/Legislation/EMTALA",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 135,
+   "title": "Food, Drug, and Cosmetic Act – FDCA (Luật Thực phẩm, Dược phẩm, Mỹ phẩm)",
+   "sourceId": "us-health-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title21/chapter9",
+   "fields": [
+    "criminal",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 136,
+   "title": "CERCLA – Superfund (Luật Xử lý Ô nhiễm Chất thải Nguy hại)",
+   "sourceId": "us-env-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/superfund/superfund-cercla-overview",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "sourceId": "us-env-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/rcra",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 138,
+   "title": "Endangered Species Act – ESA (Luật Bảo vệ Loài nguy cấp)",
+   "sourceId": "us-env-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.fws.gov/law/endangered-species-act",
+   "fields": [
+    "environment",
+    "health"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "sourceId": "us-env-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/tsca-inventory",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 140,
+   "title": "Electronic Communications Privacy Act – ECPA (Quyền riêng tư Điện tử)",
+   "sourceId": "us-tel-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 141,
+   "title": "Children Online Privacy Protection Act – COPPA (Bảo vệ Trẻ em Trực tuyến)",
+   "sourceId": "us-tel-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa",
+   "fields": [
+    "tech",
+    "family",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Gia đình",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 142,
+   "title": "CAN-SPAM Act 2003 (Luật Chống Thư rác)",
+   "sourceId": "us-tel-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.ftc.gov/legal-library/browse/rules/can-spam-rule",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 143,
+   "title": "Section 230 – Communications Decency Act (Miễn trừ Trách nhiệm Nền tảng)",
+   "sourceId": "us-tel-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.law.cornell.edu/uscode/text/47/230",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 145,
+   "title": "USA PATRIOT Act 2001 (Luật Yêu nước Mỹ – Chống Khủng bố)",
+   "sourceId": "us-def-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/107th-congress/house-bill/3162",
+   "fields": [
+    "criminal",
+    "commercial",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật thương mại",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 146,
+   "title": "National Defense Authorization Act – NDAA (Luật Ủy quyền Quốc phòng)",
+   "sourceId": "us-def-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/118th-congress/house-bill/2670",
+   "fields": [
+    "tech",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 147,
+   "title": "Uniform Code of Military Justice – UCMJ (Bộ luật Quân sự Thống nhất)",
+   "sourceId": "us-def-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title10/subtitleA/partII/chapter47",
+   "fields": [
+    "criminal",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 149,
+   "title": "Voting Rights Act 1965 (Luật Quyền Bầu cử)",
+   "sourceId": "us-rights-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/89th-congress/senate-bill/1564",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 150,
+   "title": "Civil Rights Act 1991 (Luật Dân quyền 1991)",
+   "sourceId": "us-rights-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/102nd-congress/senate-bill/1745",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 151,
+   "title": "Fair Housing Act (Luật Nhà ở Công bằng)",
+   "sourceId": "us-rights-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.justice.gov/crt/fair-housing-act-1",
+   "fields": [
+    "tax",
+    "land",
+    "civil",
+    "family",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở",
+    "Luật dân sự",
+    "Gia đình",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 153,
+   "title": "Energy Policy Act 2005 (Luật Chính sách Năng lượng)",
+   "sourceId": "us-energy-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/109th-congress/house-bill/6",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 154,
+   "title": "Nuclear Regulatory Act – NRC (Luật Quy định Hạt nhân)",
+   "sourceId": "us-energy-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.nrc.gov/about-nrc/governing-laws.html",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 156,
+   "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+   "sourceId": "us-trans-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.ecfr.gov/current/title-14",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 157,
+   "title": "Infrastructure Investment and Jobs Act 2021 (Luật Hạ tầng)",
+   "sourceId": "us-trans-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/3684",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "sourceId": "us-edu-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://sites.ed.gov/idea/",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 160,
+   "title": "Higher Education Act – HEA (Luật Giáo dục Đại học)",
+   "sourceId": "us-edu-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/89th-congress/senate-bill/600",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 161,
+   "title": "Family Educational Rights and Privacy Act – FERPA (Quyền riêng tư Giáo dục)",
+   "sourceId": "us-edu-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html",
+   "fields": [
+    "tech",
+    "civil",
+    "family",
+    "health",
+    "education"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật dân sự",
+    "Gia đình",
+    "Y tế",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 222,
+   "title": "Constitution of the United States (Hiến pháp Hoa Kỳ)",
+   "sourceId": "us-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://constitution.congress.gov",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": true,
+   "fullTextLength": 26042,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 223,
+   "title": "Internal Revenue Code – Title 26 USC (Bộ luật Thuế nội bộ)",
+   "sourceId": "us-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title26",
+   "fields": [
+    "tax",
+    "labor",
+    "enterprise",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Luật doanh nghiệp & đầu tư",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 224,
+   "title": "Title 18 USC – Crimes and Criminal Procedure",
+   "sourceId": "us-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title18",
+   "fields": [
+    "criminal",
+    "civil",
+    "family",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật dân sự",
+    "Gia đình",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 225,
+   "title": "Federal Rules of Civil Procedure – FRCP",
+   "sourceId": "us-civil-1",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "regulation",
+   "kindLabel": "Văn bản dưới luật",
+   "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure",
+   "fields": [
+    "civil",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 226,
+   "title": "Fair Labor Standards Act – FLSA",
+   "sourceId": "us-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.dol.gov/agencies/whd/flsa",
+   "fields": [
+    "labor",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 227,
+   "title": "Administrative Procedure Act – APA",
+   "sourceId": "us-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.law.cornell.edu/uscode/text/5/part-I/chapter-5",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 228,
+   "title": "Immigration and Nationality Act – INA",
+   "sourceId": "us-imm-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title8",
+   "fields": [
+    "labor",
+    "civil",
+    "family",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Gia đình",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 229,
+   "title": "Affordable Care Act – ACA (Obamacare)",
+   "sourceId": "us-health-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/3590",
+   "fields": [
+    "criminal",
+    "labor",
+    "civil",
+    "health",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật lao động",
+    "Luật dân sự",
+    "Y tế",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 230,
+   "title": "Clean Air Act",
+   "sourceId": "us-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.epa.gov/clean-air-act-overview",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 231,
+   "title": "Telecommunications Act of 1996",
+   "sourceId": "us-tel-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.fcc.gov/general/telecommunications-act-1996",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 232,
+   "title": "Title 10 USC – Armed Forces",
+   "sourceId": "us-def-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title10",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 233,
+   "title": "Civil Rights Act 1964",
+   "sourceId": "us-rights-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/88th-congress/house-bill/7152",
+   "fields": [
+    "labor",
+    "civil",
+    "immigration",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Di trú & quốc tịch",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 234,
+   "title": "Energy Policy Act of 2005",
+   "sourceId": "us-energy-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/109th-congress/house-bill/6",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 235,
+   "title": "Title 49 USC – Transportation",
+   "sourceId": "us-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title49",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 236,
+   "title": "Title 20 USC – Education",
+   "sourceId": "us-edu-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title20",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 237,
+   "title": "Violence Against Women Act – VAWA",
+   "sourceId": "us-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/117th-congress/senate-bill/3623",
+   "fields": [
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Di trú & quốc tịch"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 847,
+   "title": "Dodd-Frank Wall Street Reform Act (Luật Cải cách Tài chính)",
+   "sourceId": "us-com-extra-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.sec.gov/about/laws/wallstreetreform-cpa.pdf",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 848,
+   "title": "National Labor Relations Act – NLRA (Luật Quan hệ Lao động)",
+   "sourceId": "us-lab-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 849,
+   "title": "Defense of Marriage Act / Obergefell v Hodges (Luật Hôn nhân)",
+   "sourceId": "us-fam-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.law.cornell.edu/wex/family_law",
+   "fields": [
+    "civil",
+    "family",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 850,
+   "title": "DMCA – Digital Millennium Copyright Act",
+   "sourceId": "us-ip-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.copyright.gov/legislation/dmca.pdf",
+   "fields": [
+    "ip",
+    "tech",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Công nghệ & dữ liệu",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 853,
+   "title": "USA PATRIOT Act (Luật An ninh Quốc gia)",
+   "sourceId": "us-def-extra-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/107th-congress/house-bill/3162",
+   "fields": [
+    "criminal",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 856,
+   "title": "Nuclear Energy Act – Atomic Energy Act",
+   "sourceId": "us-energy-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://uscode.house.gov/browse/prelim@title42/chapter23",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 857,
+   "title": "Energy Independence and Security Act 2007",
+   "sourceId": "us-energy-extra-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.congress.gov/bill/110th-congress/house-bill/6",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 858,
+   "title": "FAA Reauthorization Act (Hàng không Dân dụng)",
+   "sourceId": "us-trans-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.faa.gov/regulations_policies/reauthorization",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 859,
+   "title": "Elementary and Secondary Education Act – ESEA / ESSA",
+   "sourceId": "us-edu-extra-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.ed.gov/essa",
+   "fields": [
+    "tech",
+    "education"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  }
+ ],
+ "cases": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "sourceId": "us-case-13",
+   "court": "Supreme Court of the United States",
+   "docket": "22-451",
+   "dateDecided": "2024-06-28",
+   "year": 2024,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "enterprise",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Y tế",
+    "Hành chính"
+   ],
+   "summary": "Lật đổ Chevron deference (1984). Tòa Tối cao: Tòa án phải tự mình giải thích luật liên bang, không được nhường (defer) cho cơ quan hành chính. \"Courts must exercise their independent judgment in deciding whether an agency has acted within its statutory authority.\" Thay đổi lớn nhất trong luật hành chính Mỹ 40 năm qua.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/603/22-451/"
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "sourceId": "us-case-6",
+   "court": "Supreme Court of the United States",
+   "docket": "19-1392",
+   "dateDecided": "2022-06-24",
+   "year": 2022,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "summary": "Tòa Tối cao lật đổ Roe v. Wade, trả quyền quy định phá thai về cho các bang. \"The Constitution does not confer a right to abortion.\"",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/597/19-1392/"
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "sourceId": "us-case-5",
+   "court": "Supreme Court of the United States",
+   "docket": "576 U.S. 644",
+   "dateDecided": "2015-06-26",
+   "year": 2015,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "summary": "Tòa Tối cao công nhận quyền kết hôn đồng giới trong tất cả 50 bang. Tu chính án 14 bảo đảm quyền bình đẳng cho các cặp đồng giới trong việc kết hôn.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/576/644/"
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "sourceId": "us-case-8",
+   "court": "Supreme Court of the United States",
+   "docket": "558 U.S. 310",
+   "dateDecided": "2010-01-21",
+   "year": 2010,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "summary": "Tòa Tối cao cho phép doanh nghiệp và tổ chức chi tiêu không giới hạn cho quảng cáo chính trị. Tu chính án 1 bảo vệ quyền tự do ngôn luận của tổ chức. Dẫn đến sự gia tăng Super PACs.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/558/310/"
+  },
+  {
+   "id": 22,
+   "name": "Kelo v. City of New London, 545 U.S. 469 (2005)",
+   "sourceId": "us-case-14",
+   "court": "Supreme Court of the United States",
+   "docket": "545 U.S. 469",
+   "dateDecided": "2005-06-23",
+   "year": 2005,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "summary": "Eminent domain / Tước quyền sở hữu: Chính phủ có thể tước quyền sở hữu tài sản tư nhân cho mục đích phát triển kinh tế tư nhân, miễn là phục vụ \"public use\" (mở rộng khái niệm). Tu chính án 5: just compensation required. Nhiều bang sau đó ban hành luật hạn chế eminent domain.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/545/469/"
+  },
+  {
+   "id": 20,
+   "name": "Chevron U.S.A., Inc. v. Natural Resources Defense Council, 467 U.S. 837 (1984)",
+   "sourceId": "us-case-12",
+   "court": "Supreme Court of the United States",
+   "docket": "467 U.S. 837",
+   "dateDecided": "1984-06-25",
+   "year": 1984,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "summary": "Chevron deference: khi luật mơ hồ, tòa án phải tuân theo cách giải thích hợp lý của cơ quan hành chính. Bước 1: Quốc hội đã phát biểu rõ ràng chưa? Bước 2: Nếu chưa, giải thích của cơ quan có hợp lý không? BỊ LẬT ĐỔ BỞI Loper Bright v. Raimondo (2024) – tòa tự giải thích luật.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/467/837/"
+  },
+  {
+   "id": 4,
+   "name": "Roe v. Wade, 410 U.S. 113 (1973)",
+   "sourceId": "us-case-4",
+   "court": "Supreme Court of the United States",
+   "docket": "410 U.S. 113",
+   "dateDecided": "1973-01-22",
+   "year": 1973,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tech",
+    "health"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Y tế"
+   ],
+   "summary": "Tòa Tối cao công nhận quyền phá thai trong khuôn khổ quyền riêng tư theo Tu chính án 14. Bị lật đổ bởi Dobbs v. Jackson Women's Health Organization (2022).",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/410/113/"
+  },
+  {
+   "id": 3,
+   "name": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+   "sourceId": "us-case-3",
+   "court": "Supreme Court of the United States",
+   "docket": "384 U.S. 436",
+   "dateDecided": "1966-06-13",
+   "year": 1966,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "summary": "Xác lập quyền Miranda: cảnh sát phải thông báo quyền của nghi phạm trước khi thẩm vấn. \"You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney.\"",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/384/436/"
+  },
+  {
+   "id": 17,
+   "name": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+   "sourceId": "us-case-9",
+   "court": "Supreme Court of the United States",
+   "docket": "376 U.S. 254",
+   "dateDecided": "1964-03-09",
+   "year": 1964,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tax",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Y tế"
+   ],
+   "summary": "Xác lập tiêu chuẩn \"actual malice\" cho kiện phỉ báng (defamation) nhân vật công. Để thắng kiện, nhân vật công phải chứng minh phát ngôn sai sự thật được đưa ra với \"actual malice\" – biết là sai hoặc bất cần sự thật (reckless disregard for the truth). Bảo vệ quyền tự do báo chí Tu chính án 1.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/376/254/"
+  },
+  {
+   "id": 7,
+   "name": "Gideon v. Wainwright, 372 U.S. 335 (1963)",
+   "sourceId": "us-case-7",
+   "court": "Supreme Court of the United States",
+   "docket": "372 U.S. 335",
+   "dateDecided": "1963-03-18",
+   "year": 1963,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "criminal",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Y tế"
+   ],
+   "summary": "Tòa Tối cao xác lập quyền được luật sư bào chữa miễn phí trong vụ án hình sự cho bị cáo không có khả năng tài chính. Tu chính án 6 áp dụng cho cả tòa bang thông qua Tu chính án 14.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/372/335/"
+  },
+  {
+   "id": 18,
+   "name": "Mapp v. Ohio, 367 U.S. 643 (1961)",
+   "sourceId": "us-case-10",
+   "court": "Supreme Court of the United States",
+   "docket": "367 U.S. 643",
+   "dateDecided": "1961-06-19",
+   "year": 1961,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "summary": "Exclusionary Rule: chứng cứ thu được bất hợp pháp (vi phạm Tu chính án 4) không được sử dụng tại tòa bang. \"Fruit of the poisonous tree\" – bất kỳ bằng chứng nào có nguồn gốc từ khám xét/thu giữ bất hợp pháp đều bị loại bỏ.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/367/643/"
+  },
+  {
+   "id": 2,
+   "name": "Brown v. Board of Education, 347 U.S. 483 (1954)",
+   "sourceId": "us-case-2",
+   "court": "Supreme Court of the United States",
+   "docket": "347 U.S. 483",
+   "dateDecided": "1954-05-17",
+   "year": 1954,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "summary": "Tòa Tối cao tuyên bố phân biệt chủng tộc trong trường công là vi hiến. \"Separate educational facilities are inherently unequal.\" Lật đổ án lệ Plessy v. Ferguson (1896). Nền tảng cho phong trào dân quyền.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/347/483/"
+  },
+  {
+   "id": 23,
+   "name": "Wickard v. Filburn, 317 U.S. 111 (1942)",
+   "sourceId": "us-case-15",
+   "court": "Supreme Court of the United States",
+   "docket": "317 U.S. 111",
+   "dateDecided": "1942-11-09",
+   "year": 1942,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "commercial",
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "summary": "Commerce Clause: mở rộng quyền lực Quốc hội. Nông dân trồng lúa mì cho gia đình dùng cũng thuộc thẩm quyền Quốc hội vì ảnh hưởng tổng hợp đến thương mại liên bang. Nền tảng cho quyền lực liên bang mở rộng trong thế kỷ 20.",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/317/111/"
+  },
+  {
+   "id": 1,
+   "name": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
+   "sourceId": "us-case-1",
+   "court": "Supreme Court of the United States",
+   "docket": "5 U.S. 137",
+   "dateDecided": "1803-02-24",
+   "year": 1803,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "summary": "Án lệ xác lập quyền judicial review (tư pháp thẩm tra). Tòa Tối cao có quyền xem xét tính hợp hiến của đạo luật do Quốc hội ban hành. Chief Justice John Marshall: \"It is emphatically the province and duty of the judicial department to say what the law is.\"",
+   "sourceUrl": "https://supreme.justia.com/cases/federal/us/5/137/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "us-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution & Foundations",
+   "desc": "Constitution, Bill of Rights, Amendments",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "us-tax",
+   "name": "Thuế",
+   "nameEn": "Tax / Internal Revenue",
+   "desc": "Internal Revenue Code (IRC), Treasury Regulations, State tax",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "us-criminal",
+   "name": "Hình sự",
+   "nameEn": "Criminal Law",
+   "desc": "Title 18 USC, Federal criminal procedure, Sentencing Guidelines",
+   "q": "criminal",
+   "tax": false
+  },
+  {
+   "id": "us-civil",
+   "name": "Dân sự / Tố tụng",
+   "nameEn": "Civil Procedure & Torts",
+   "desc": "Federal Rules of Civil Procedure (FRCP), Evidence, Torts",
+   "q": "civil procedure",
+   "tax": false
+  },
+  {
+   "id": "us-commerce",
+   "name": "Thương mại / Doanh nghiệp",
+   "nameEn": "Commerce & Corporate",
+   "desc": "Securities, Bankruptcy (Title 11), Contract, Corporate law",
+   "q": "commerce corporate",
+   "tax": false
+  },
+  {
+   "id": "us-labor",
+   "name": "Lao động",
+   "nameEn": "Labor & Employment",
+   "desc": "Fair Labor Standards Act, NLRB, OSHA, ADA",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "us-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Administrative Procedure Act, EPA, FDA, FCC regulations",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "us-immigration",
+   "name": "Di trú",
+   "nameEn": "Immigration",
+   "desc": "Immigration and Nationality Act (INA), CFR liên quan",
+   "q": "immigration",
+   "tax": false
+  },
+  {
+   "id": "us-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Family law (theo từng bang; liên bang khi có)",
+   "q": "family law",
+   "tax": false
+  },
+  {
+   "id": "us-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright (Title 17), Patent (Title 35), Trademark (Lanham Act)",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "us-health",
+   "name": "Y tế / An sinh xã hội",
+   "nameEn": "Public Health & Social Security",
+   "desc": "Title 42 USC – Public Health, Social Security, Medicare, Medicaid",
+   "q": "public health social security",
+   "tax": false
+  },
+  {
+   "id": "us-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Clean Air Act, Clean Water Act, NEPA, EPA regulations",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "us-telecom",
+   "name": "Viễn thông / Công nghệ",
+   "nameEn": "Telecommunications & Technology",
+   "desc": "Title 47 (Telecommunications), FCC, privacy / data protection",
+   "q": "telecommunications",
+   "tax": false
+  },
+  {
+   "id": "us-defense",
+   "name": "Quốc phòng / An ninh",
+   "nameEn": "National Defense & Security",
+   "desc": "UCMJ, PATRIOT Act, NDAA, Armed Forces (Title 10)",
+   "q": "defense military",
+   "tax": false
+  },
+  {
+   "id": "us-rights",
+   "name": "Dân quyền",
+   "nameEn": "Civil Rights",
+   "desc": "Civil Rights Act, Voting Rights Act, Fair Housing Act",
+   "q": "civil rights",
+   "tax": false
+  },
+  {
+   "id": "us-energy",
+   "name": "Năng lượng",
+   "nameEn": "Energy & Nuclear",
+   "desc": "Department of Energy, Energy Policy Act, Nuclear Regulatory",
+   "q": "energy",
+   "tax": false
+  },
+  {
+   "id": "us-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Title 49 (Transportation), FAA, Infrastructure Act",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "us-education",
+   "name": "Giáo dục",
+   "nameEn": "Education",
+   "desc": "Title 20 (Education), IDEA, HEA, FERPA",
+   "q": "education",
+   "tax": false
+  },
+  {
+   "id": "us-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Supreme Court, Federal Courts of Appeals, án lệ theo chủ đề",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

@@ -64,7 +64,18 @@ function runSchema(db) {
        ============================================================ */
     INSERT OR IGNORE INTO jurisdictions (code, name, country, level) VALUES
       ('US-FED', 'Liên bang Hoa Kỳ', 'US', 'federal'),
-      ('VN-TW',  'Trung ương Việt Nam', 'VN', 'federal');
+      ('VN-TW',  'Trung ương Việt Nam', 'VN', 'federal'),
+      ('UK-FED', 'Vương quốc Anh (United Kingdom)', 'UK', 'federal'),
+      ('FR-FED', 'Cộng hòa Pháp (France)', 'FR', 'federal'),
+      ('SG-FED', 'Cộng hòa Singapore', 'SG', 'federal'),
+      ('DE-FED', 'CHLB Đức (Germany)', 'DE', 'federal'),
+      ('JP-FED', 'Nhật Bản (Japan)', 'JP', 'federal'),
+      ('AU-FED', 'Úc (Australia)', 'AU', 'federal'),
+      ('CN-FED', 'Trung Quốc (China)', 'CN', 'federal'),
+      ('CA-FED', 'Canada', 'CA', 'federal'),
+      ('KR-FED', 'Hàn Quốc (South Korea)', 'KR', 'federal'),
+      ('IN-FED', 'Ấn Độ (India)', 'IN', 'federal'),
+      ('CH-FED', 'Thụy Sĩ (Switzerland)', 'CH', 'federal');
 
     /* ============================================================
        DOCUMENTS — HOA KỲ (US)

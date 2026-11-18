@@ -1,0 +1,42 @@
+{
+ "id": 34,
+ "sourceId": "uk-case-3",
+ "name": "Pepper v Hart [1992] UKHL 3 – Hansard",
+ "court": "House of Lords",
+ "docket": "[1993] AC 593",
+ "dateDecided": "1992-11-26",
+ "year": 1992,
+ "summary": "House of Lords permitted reference to Hansard (parliamentary debates) when interpreting ambiguous legislation. Overturned prior exclusionary rule. Courts may look at ministerial statements on the purpose of legislation. Significant impact on UK statutory interpretation methodology.",
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.bailii.org/uk/cases/UKHL/1992/3.html",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "related": [
+  {
+   "id": 33,
+   "name": "R v R [1991] UKHL 12 – Marital Rape",
+   "court": "House of Lords",
+   "year": 1991
+  },
+  {
+   "id": 32,
+   "name": "Donoghue v Stevenson [1932] AC 562 (Neighbour Principle)",
+   "court": "House of Lords",
+   "year": 1932
+  }
+ ]
+}

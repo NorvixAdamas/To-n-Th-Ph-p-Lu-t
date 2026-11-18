@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-11-07",
+  "note": "Danh mục tòa án và cơ chế tài phán quốc tế tiêu biểu. Thông tin chỉ để tra cứu.",
+  "courts": [
+    {
+      "id": "icj",
+      "nameVi": "Tòa án Quốc tế (ICJ)",
+      "nameEn": "International Court of Justice",
+      "seat": "The Hague, Hà Lan",
+      "scope": "Cơ quan tư pháp chính của Liên Hợp Quốc; giải quyết tranh chấp giữa các quốc gia và đưa ra ý kiến tư vấn.",
+      "url": "https://www.icj-cij.org"
+    },
+    {
+      "id": "icc",
+      "nameVi": "Tòa án Hình sự Quốc tế (ICC)",
+      "nameEn": "International Criminal Court",
+      "seat": "The Hague, Hà Lan",
+      "scope": "Xét xử cá nhân về tội diệt chủng, tội chống loài người, tội chiến tranh và tội xâm lược theo Quy chế Rome.",
+      "url": "https://www.icc-cpi.int"
+    },
+    {
+      "id": "echr",
+      "nameVi": "Tòa án Nhân quyền châu Âu (ECtHR)",
+      "nameEn": "European Court of Human Rights",
+      "seat": "Strasbourg, Pháp",
+      "scope": "Xem xét đơn cá nhân và giữa các quốc gia về vi phạm Công ước châu Âu về Nhân quyền.",
+      "url": "https://www.echr.coe.int"
+    },
+    {
+      "id": "iachr",
+      "nameVi": "Tòa án Nhân quyền Liên Mỹ (IACtHR)",
+      "nameEn": "Inter-American Court of Human Rights",
+      "seat": "San José, Costa Rica",
+      "scope": "Giải thích và áp dụng Công ước Mỹ về Nhân quyền trong các vụ việc do Ủy ban Liên Mỹ chuyển đến.",
+      "url": "https://www.corteidh.or.cr"
+    },
+    {
+      "id": "itlos",
+      "nameVi": "Tòa án Quốc tế về Luật Biển (ITLOS)",
+      "nameEn": "International Tribunal for the Law of the Sea",
+      "seat": "Hamburg, Đức",
+      "scope": "Giải quyết tranh chấp liên quan đến giải thích và áp dụng Công ước Liên Hợp Quốc về Luật Biển (UNCLOS).",
+      "url": "https://www.itlos.org"
+    },
+    {
+      "id": "wto-dsb",
+      "nameVi": "Cơ quan Giải quyết Tranh chấp WTO (DSB)",
+      "nameEn": "WTO Dispute Settlement Body",
+      "seat": "Geneva, Thụy Sĩ",
+      "scope": "Quản lý thủ tục giải quyết tranh chấp thương mại giữa các thành viên WTO, gồm ban hội thẩm và Cơ quan Phúc thẩm.",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm"
+    },
+    {
+      "id": "cjeu",
+      "nameVi": "Tòa án Công lý Liên minh châu Âu (CJEU)",
+      "nameEn": "Court of Justice of the European Union",
+      "seat": "Luxembourg",
+      "scope": "Bảo đảm việc giải thích và áp dụng pháp luật EU thống nhất, gồm Tòa án Công lý và Tòa án Chung.",
+      "url": "https://curia.europa.eu"
+    },
+    {
+      "id": "african-court",
+      "nameVi": "Tòa án Nhân quyền và Quyền của Các dân tộc châu Phi",
+      "nameEn": "African Court on Human and Peoples' Rights",
+      "seat": "Arusha, Tanzania",
+      "scope": "Xem xét các vụ việc về vi phạm Hiến chương châu Phi về Nhân quyền và Quyền của Các dân tộc.",
+      "url": "https://www.african-court.org"
+    }
+  ]
+}

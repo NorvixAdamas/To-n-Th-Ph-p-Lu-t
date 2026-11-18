@@ -1,0 +1,52 @@
+{
+ "id": 1665,
+ "sourceId": "vn-ip-law",
+ "title": "Luật Sở hữu trí tuệ (sửa đổi 2022)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn/TW/Pages/default.aspx",
+ "tags": [
+  "so-huu-tri-tue"
+ ],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2023,
+ "effectiveDate": "2023-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:26:17",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 1665,
+   "effectiveDate": "2023-01-01",
+   "repealDate": null,
+   "text": "Quy định quyền tác giả, sáng chế, nhãn hiệu và bảo vệ quyền SHTT."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 246,
+   "title": "Luật Sở hữu trí tuệ 2005 (sửa đổi 2022)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

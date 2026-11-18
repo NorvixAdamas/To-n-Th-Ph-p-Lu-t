@@ -1,0 +1,224 @@
+{
+ "id": 80,
+ "sourceId": "vn-fam-2",
+ "title": "Luật Trẻ em 2016",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tech",
+  "family",
+  "education",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Gia đình",
+  "Giáo dục",
+  "Hành chính"
+ ],
+ "year": 2017,
+ "effectiveDate": "2017-06-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6607,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 6386,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 6165,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 5906,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 5685,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 5426,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 5205,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 4984,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 4763,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 4542,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 4321,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 3345,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 3124,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 2859,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 2638,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 2225,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 2004,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 1757,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 1502,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 1281,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 1060,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 704,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 483,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  },
+  {
+   "id": 80,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "text": "Luật Trẻ em 2016.\nĐiều 1. Phạm vi: Quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em.\nĐiều 12-37. Quyền của trẻ em: sống, khai sinh, chăm sóc sức khỏe, giáo dục, vui chơi, bí mật đời sống riêng tư, tài sản, không bị bóc lột.\nĐiều 80-81. Xử lý vi phạm hành chính đối với người chưa thành niên."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

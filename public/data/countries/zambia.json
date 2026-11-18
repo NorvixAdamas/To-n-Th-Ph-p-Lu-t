@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "ZM",
+  "code3": "ZMB",
+  "slug": "zambia",
+  "nameVi": "Zambia",
+  "nameEn": "Zambia",
+  "flag": "🇿🇲",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Eastern Africa",
+  "capital": "Lusaka",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

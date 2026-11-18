@@ -1,0 +1,226 @@
+{
+ "id": 55,
+ "sourceId": "vn-admin-3",
+ "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "land",
+  "constitution",
+  "education",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở",
+  "Hiến pháp",
+  "Giáo dục",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6582,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 6361,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 6140,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 5881,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 5660,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 5401,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 5180,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 4959,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 4738,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 4517,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 4296,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 3320,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 3099,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 2834,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 2613,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 2200,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 1979,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 1732,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 1477,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 1256,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 1035,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 679,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 458,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  },
+  {
+   "id": 55,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019).\nĐiều 1. Vị trí, chức năng: Chính phủ là cơ quan hành chính nhà nước cao nhất.\nĐiều 3. Nhiệm vụ, quyền hạn: tổ chức thi hành Hiến pháp, luật; đề xuất, xây dựng chính sách; quản lý nhà nước về kinh tế, văn hóa, xã hội, quốc phòng, an ninh, đối ngoại.\nĐiều 28. Cơ cấu Chính phủ: Thủ tướng, Phó Thủ tướng, Bộ trưởng, Thủ trưởng cơ quan ngang bộ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

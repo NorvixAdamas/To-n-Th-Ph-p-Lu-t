@@ -1,0 +1,218 @@
+{
+ "id": 156,
+ "sourceId": "us-trans-2",
+ "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.ecfr.gov/current/title-14",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6683,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 6462,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 6241,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 5982,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 5761,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 5502,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 5281,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 5060,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 4839,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 4618,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 4397,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 3421,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 3200,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 2935,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 2714,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 2301,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 2080,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 1833,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 1578,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 1357,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 1136,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 780,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 559,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  },
+  {
+   "id": 156,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Aviation Regulations (14 CFR).\nPart 1: Definitions. Part 21: Certification (type certificates, airworthiness).\nPart 61: Pilot certificates. Part 91: General operating rules.\nPart 121: Operating requirements for airlines.\nPart 135: Commuter and on-demand operations.\nPart 107: Small unmanned aircraft (drones). FAA Reauthorization Act 2024."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": 402,
+ "sourceId": "ch-cons-1",
+ "title": "Consumer Credit Act (Luật Bảo vệ Người tiêu dùng Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/2002/593/en",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 402,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of consumer credit and protection against over-indebtedness."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 400,
+   "title": "Banking Act (Luật Ngân hàng Thụy Sĩ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 976,
+   "title": "Patent Act Switzerland (Patentgesetz)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 977,
+   "title": "Financial Market Infrastructure Act – FMIA Switzerland",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 978,
+   "title": "Federal Act against Unfair Competition (UWG)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3037,
+   "title": "Swiss Code of Obligations",
+   "kindLabel": "Bộ luật",
+   "year": 2026
+  },
+  {
+   "id": 3040,
+   "title": "Swiss Consumer Credit Act",
+   "kindLabel": "Đạo luật",
+   "year": 2003
+  }
+ ]
+}

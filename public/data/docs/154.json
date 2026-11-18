@@ -1,0 +1,218 @@
+{
+ "id": 154,
+ "sourceId": "us-energy-3",
+ "title": "Nuclear Regulatory Act – NRC (Luật Quy định Hạt nhân)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.nrc.gov/about-nrc/governing-laws.html",
+ "tags": [],
+ "fields": [
+  "tax"
+ ],
+ "fieldLabels": [
+  "Luật thuế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6681,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 6460,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 6239,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 5980,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 5759,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 5500,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 5279,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 5058,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 4837,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 4616,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 4395,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 3419,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 3198,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 2933,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 2712,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 2299,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 2078,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 1831,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 1576,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 1355,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 1134,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 778,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 557,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  },
+  {
+   "id": 154,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Atomic Energy Act / Nuclear Regulatory Commission.\n42 USC §2011 et seq. Nuclear Regulatory Commission (NRC): cấp phép, quy định, giám sát nhà máy điện hạt nhân, vật liệu hạt nhân, chất thải phóng xạ. 10 CFR Parts 20, 50, 52, 72. NRC regions: 4 vùng giám sát."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

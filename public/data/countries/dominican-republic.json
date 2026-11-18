@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "DO",
+  "code3": "DOM",
+  "slug": "dominican-republic",
+  "nameVi": "Cộng hòa Dominica",
+  "nameEn": "Dominican Republic",
+  "flag": "🇩🇴",
+  "region": "north-america",
+  "regionName": "Bắc Mỹ",
+  "subregion": "Caribbean",
+  "capital": "Santo Domingo",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

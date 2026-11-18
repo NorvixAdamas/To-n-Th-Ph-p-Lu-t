@@ -1,0 +1,218 @@
+{
+ "id": 239,
+ "sourceId": "vn-civil-1",
+ "title": "Bộ luật Dân sự 2015",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 239,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân."
+  },
+  {
+   "id": 6573,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 6352,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 6131,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 5872,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 5651,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 5392,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 5171,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 4950,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 4729,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 4508,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 4287,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 3311,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 3090,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 2825,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 2604,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 2191,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 1970,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 1723,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 1468,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 1247,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 1026,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 670,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  },
+  {
+   "id": 449,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT DÂN SỰ 2015 (Luật số 91/2015/QH13)\n\nPhần thứ nhất: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh: Quy định địa vị pháp lý, chuẩn mực pháp lý về cách ứng xử của cá nhân, pháp nhân; quyền, nghĩa vụ về nhân thân và tài sản.\nĐiều 3. Nguyên tắc cơ bản: bình đẳng, tự do ý chí, thiện chí, trung thực.\nĐiều 5. Áp dụng Bộ luật Dân sự, áp dụng tập quán, áp dụng tương tự pháp luật.\n\nPhần thứ hai: QUYỀN SỞ HỮU VÀ QUYỀN KHÁC ĐỐI VỚI TÀI SẢN\nĐiều 158. Quyền sở hữu. Điều 160. Nội dung quyền sở hữu: chiếm hữu, sử dụng, định đoạt.\n\nPhần thứ ba: NGHĨA VỤ VÀ HỢP ĐỒNG\nĐiều 274. Nghĩa vụ là việc bên có nghĩa vụ phải chuyển giao vật, chuyển giao quyền, trả tiền hoặc giấy tờ có giá, thực hiện công việc hoặc không thực hiện công việc nhất định.\nĐiều 385. Hợp đồng là sự thỏa thuận giữa các bên.\nĐiều 584. Căn cứ phát sinh trách nhiệm bồi thường thiệt hại.\n\nPhần thứ tư: THỪA KẾ\nĐiều 609. Quyền thừa kế. Điều 624. Di chúc. Điều 649. Thừa kế theo pháp luật.\n\nPhần thứ năm: PHÁP LUẬT ÁP DỤNG ĐỐI VỚI QUAN HỆ DÂN SỰ CÓ YẾU TỐ NƯỚC NGOÀI"
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2006
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "kindLabel": "Đạo luật",
+   "year": 2023
+  },
+  {
+   "id": 94,
+   "title": "Nghị định 145/2020/NĐ-CP – Hướng dẫn Bộ luật Lao động",
+   "kindLabel": "Nghị định",
+   "year": 2021
+  }
+ ]
+}

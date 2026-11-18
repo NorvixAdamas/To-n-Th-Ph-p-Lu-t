@@ -1,0 +1,218 @@
+{
+ "id": 230,
+ "sourceId": "us-env-1",
+ "title": "Clean Air Act",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.epa.gov/clean-air-act-overview",
+ "tags": [],
+ "fields": [
+  "environment"
+ ],
+ "fieldLabels": [
+  "Môi trường"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6566,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 6345,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 6124,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 5865,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 5644,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 5385,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 5164,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 4943,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 4722,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 4501,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 4280,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 3304,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 3083,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 2818,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 2597,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 2184,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 1963,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 1716,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 1461,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 1240,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 1019,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 663,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 442,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Air Act (42 USC §7401 et seq.).\n§108-109: National Ambient Air Quality Standards (NAAQS) – criteria pollutants (PM, ozone, CO, NO2, SO2, lead).\n§110: State Implementation Plans (SIPs).\n§111: Standards of performance for new stationary sources (NSPS).\n§112: Hazardous air pollutants (NESHAPs).\nTitle II: Mobile sources – vehicle emission standards.\nTitle IV: Acid Rain Program.\nTitle V: Operating permits.\nTitle VI: Stratospheric ozone protection."
+  },
+  {
+   "id": 230,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal law designed to control air pollution on a national level."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 40,
+   "title": "Clean Water Act (Luật Nước Sạch)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 136,
+   "title": "CERCLA – Superfund (Luật Xử lý Ô nhiễm Chất thải Nguy hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 138,
+   "title": "Endangered Species Act – ESA (Luật Bảo vệ Loài nguy cấp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

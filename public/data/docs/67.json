@@ -1,0 +1,220 @@
+{
+ "id": 67,
+ "sourceId": "vn-labor-3",
+ "title": "Luật An toàn, Vệ sinh Lao động 2015",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế"
+ ],
+ "year": 2016,
+ "effectiveDate": "2016-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6594,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 6373,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 6152,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 5893,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 5672,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 5413,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 5192,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 4971,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 4750,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 4529,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 4308,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 3332,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 3111,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 2846,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 2625,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 2212,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 1991,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 1744,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 1489,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 1268,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 1047,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 691,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 470,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  },
+  {
+   "id": 67,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "text": "Luật An toàn, Vệ sinh Lao động 2015.\nĐiều 1. Phạm vi: Bảo đảm an toàn, vệ sinh lao động; chế độ cho người bị tai nạn lao động, bệnh nghề nghiệp.\nĐiều 6. Quyền của NLĐ: được bảo đảm ATLĐ, được trang bị phương tiện bảo hộ.\nĐiều 16. Nghĩa vụ của NSDLĐ: bảo đảm điều kiện ATLĐ, huấn luyện ATLĐ.\nĐiều 43-46. Khai báo, điều tra tai nạn lao động."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 69,
+   "title": "Luật Bảo hiểm Y tế 2008 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "kindLabel": "Đạo luật",
+   "year": 2023
+  }
+ ]
+}

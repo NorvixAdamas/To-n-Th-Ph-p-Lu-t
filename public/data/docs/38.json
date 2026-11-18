@@ -1,0 +1,226 @@
+{
+ "id": 38,
+ "sourceId": "us-health-3",
+ "title": "Social Security Act (Luật An sinh Xã hội)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.ssa.gov/OP_Home/ssact/comp-toc.htm",
+ "tags": [],
+ "fields": [
+  "tax",
+  "criminal",
+  "labor",
+  "health",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật hình sự",
+  "Luật lao động",
+  "Y tế",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6565,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 6344,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 6123,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 5864,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 5643,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 5384,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 5163,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 4942,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 4721,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 4500,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 4279,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 3303,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 3082,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 2817,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 2596,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 2183,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 1962,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 1715,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 1460,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 1239,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 1018,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 662,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 441,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  },
+  {
+   "id": 38,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Social Security Act (42 USC §301 et seq.).\nTitle II: Federal Old-Age, Survivors, and Disability Insurance (OASDI). §202: Old-age benefits. §223: Disability insurance benefits. Full retirement age: 66-67 (depending on birth year). Funding: FICA tax (6.2% employer + 6.2% employee on wages up to $168,600 in 2024).\nTitle XVIII: Medicare. Part A: Hospital insurance. Part B: Supplementary medical insurance. Part C: Medicare Advantage. Part D: Prescription drug benefit.\nTitle XIX: Medicaid."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

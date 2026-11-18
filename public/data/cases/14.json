@@ -1,0 +1,58 @@
+{
+ "id": 14,
+ "sourceId": "vn-case-6",
+ "name": "Án lệ số 13/2017/AL – Về quyền lập di chúc",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-13/2017",
+ "dateDecided": "2017-10-14",
+ "year": 2017,
+ "summary": "Về vấn đề: Người để lại di sản có quyền lập di chúc để lại tài sản cho bất kỳ ai, không bắt buộc phải để lại cho người thừa kế theo pháp luật. Tuy nhiên, di chúc phải dành một phần cho những người được hưởng di sản không phụ thuộc vào nội dung di chúc (Điều 644 BLDS 2015).",
+ "fields": [
+  "tech",
+  "civil",
+  "health"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật dân sự",
+  "Y tế"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 950,
+ "sourceId": "ca-lab-extra",
+ "title": "Employment Insurance Act Canada",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/E-5.6/",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 950,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Employment Insurance Act. Labor employment benefits. Canada Labour Code workplace standards."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 359,
+   "title": "Canada Labour Code (Luật Lao động Canada)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "id": 105,
+ "sourceId": "us-crim-7",
+ "title": "Federal Death Penalty Act 1994 (Luật Án tử hình Liên bang)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partII/chapter228",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6632,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 6411,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 6190,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 5931,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 5710,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 5451,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 5230,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 5009,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 4788,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 4567,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 4346,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 3370,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 3149,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 2884,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 2663,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 2250,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 2029,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 1782,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 1527,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 1306,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 1085,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 729,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 508,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  },
+  {
+   "id": 105,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Death Penalty Act 1994 – 18 USC §3591-3599.\n§3591: Tội phạm đủ điều kiện tử hình: giết người hàng loạt, khủng bố gây chết người, giết quan chức liên bang, buôn ma túy quy mô lớn gây chết.\n§3592: Tình tiết tăng nặng và giảm nhẹ.\n§3593: Thủ tục xét xử riêng về tử hình (bồi thẩm đoàn).\n§3596: Thi hành: tiêm thuốc độc (phương pháp mặc định liên bang)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

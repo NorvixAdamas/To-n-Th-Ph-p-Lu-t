@@ -1,0 +1,218 @@
+{
+ "id": 227,
+ "sourceId": "us-admin-1",
+ "title": "Administrative Procedure Act – APA",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.law.cornell.edu/uscode/text/5/part-I/chapter-5",
+ "tags": [],
+ "fields": [
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6553,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 6332,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 6111,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 5852,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 5631,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 5372,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 5151,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 4930,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 4709,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 4488,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 4267,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 3291,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 3070,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 2805,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 2584,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 2171,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 1950,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 1703,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 1448,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 1227,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 1006,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 650,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 429,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Administrative Procedure Act (APA) – 5 USC §551 et seq.\n§553: Rulemaking – Notice-and-comment rulemaking. Notice of Proposed Rulemaking (NPRM). Public comment period. Final rule publication in Federal Register.\n§554: Adjudications – formal hearings.\n§701-706: Judicial review. §706: Scope of review – arbitrary, capricious, abuse of discretion standard. Substantial evidence standard. De novo review."
+  },
+  {
+   "id": 227,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Governs the process by which federal agencies develop and issue regulations."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

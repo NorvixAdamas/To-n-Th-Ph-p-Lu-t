@@ -1,0 +1,54 @@
+{
+ "id": 203,
+ "sourceId": "vn-2024-dsgdt-33",
+ "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+ "court": "TANDCC tại Thành phố Hồ Chí Minh",
+ "docket": "33/2024/DS-GĐT",
+ "dateDecided": "2024-01-11",
+ "year": 2024,
+ "summary": "Nguồn án công khai chính thức về tranh chấp hợp đồng mua bán nhà.",
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://anle.toaan.gov.vn/webcenter/portal/anle/chitietnguonanle?dDocName=TAND340881",
+ "updatedAt": "2026-04-03 02:26:17",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 29,
+   "name": "Án lệ số 35/2020/AL – Về hợp đồng chuyển nhượng quyền sử dụng đất vi phạm điều cấm",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2020
+  },
+  {
+   "id": 28,
+   "name": "Án lệ số 26/2018/AL – Về quyền sử dụng đất khi ly hôn",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2018
+  },
+  {
+   "id": 14,
+   "name": "Án lệ số 13/2017/AL – Về quyền lập di chúc",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2017
+  },
+  {
+   "id": 26,
+   "name": "Án lệ số 15/2017/AL – Về di sản thừa kế theo di chúc miệng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2017
+  }
+ ]
+}

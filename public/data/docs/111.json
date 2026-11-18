@@ -1,0 +1,218 @@
+{
+ "id": 111,
+ "sourceId": "us-com-6",
+ "title": "Sarbanes-Oxley Act 2002 – SOX (Luật Kiểm soát Tài chính Doanh nghiệp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/107th-congress/house-bill/3763",
+ "tags": [],
+ "fields": [
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6638,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 6417,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 6196,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 5937,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 5716,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 5457,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 5236,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 5015,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 4794,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 4573,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 4352,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 3376,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 3155,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 2890,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 2669,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 2256,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 2035,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 1788,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 1533,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 1312,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 1091,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 735,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 514,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  },
+  {
+   "id": 111,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sarbanes-Oxley Act (SOX) 2002.\n§302: CEO/CFO phải xác nhận tính chính xác của báo cáo tài chính.\n§404: Kiểm soát nội bộ đối với báo cáo tài chính – yêu cầu kiểm toán.\n§802: Phạt tù đến 20 năm cho hủy tài liệu.\n§806: Bảo vệ whistleblower.\n§906: Xác nhận sai báo cáo tài chính – phạt đến $5 triệu và 20 năm tù."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 99,
+   "title": "Earned Income Tax Credit – EITC (Tín dụng thuế thu nhập kiếm được)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 103,
+   "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

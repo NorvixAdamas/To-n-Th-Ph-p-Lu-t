@@ -1,0 +1,226 @@
+{
+ "id": 28,
+ "sourceId": "us-admin-3",
+ "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.foia.gov",
+ "tags": [],
+ "fields": [
+  "ip",
+  "tech",
+  "commercial",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Công nghệ & dữ liệu",
+  "Luật thương mại",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6555,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 6334,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 6113,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 5854,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 5633,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 5374,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 5153,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 4932,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 4711,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 4490,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 4269,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 3293,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 3072,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 2807,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 2586,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 2173,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 1952,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 1705,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 1450,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 1229,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 1008,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 652,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 431,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  },
+  {
+   "id": 28,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Freedom of Information Act (FOIA) – 5 USC §552.\nRight of public access to federal agency records. Nine exemptions: (1) classified national defense, (2) internal personnel rules, (3) statutory exemptions, (4) trade secrets, (5) inter-agency memoranda, (6) personal privacy, (7) law enforcement records, (8) financial institution regulation, (9) geological information."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

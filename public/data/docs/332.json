@@ -1,0 +1,43 @@
+{
+ "id": 332,
+ "sourceId": "au-const-1",
+ "title": "The Constitution of Australia (Hiến pháp Úc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://www.legislation.gov.au/Details/C2013Q00005",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "versions": [
+  {
+   "id": 332,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Commonwealth of Australia Constitution Act. Powers of the Parliament, Executive, and Judicature."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

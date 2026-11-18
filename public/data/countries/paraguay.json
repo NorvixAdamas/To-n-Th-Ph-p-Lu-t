@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "PY",
+  "code3": "PRY",
+  "slug": "paraguay",
+  "nameVi": "Paraguay",
+  "nameEn": "Paraguay",
+  "flag": "🇵🇾",
+  "region": "south-america",
+  "regionName": "Nam Mỹ",
+  "subregion": "South America",
+  "capital": "Asunción",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

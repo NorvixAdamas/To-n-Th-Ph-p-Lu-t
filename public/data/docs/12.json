@@ -1,0 +1,218 @@
+{
+ "id": 12,
+ "sourceId": "us-crim-4",
+ "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title21/chapter13",
+ "tags": [],
+ "fields": [
+  "health"
+ ],
+ "fieldLabels": [
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6539,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 6318,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 6097,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 5838,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 5617,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 5358,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 5137,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 4916,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 4695,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 4474,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 4253,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 3277,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 3056,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 2791,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 2570,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 2157,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 1936,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 1689,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 1434,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 1213,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 992,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 636,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 415,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  },
+  {
+   "id": 12,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Controlled Substances Act (21 USC §801 et seq.).\nSchedule I: High potential for abuse, no accepted medical use (heroin, LSD, marijuana under federal law).\nSchedule II: High potential for abuse, accepted medical use (fentanyl, oxycodone, methamphetamine).\nSchedule III: Moderate potential (ketamine, testosterone).\nSchedule IV: Low potential (benzodiazepines, tramadol).\nSchedule V: Lowest potential (cough preparations with codeine)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 99,
+   "title": "Earned Income Tax Credit – EITC (Tín dụng thuế thu nhập kiếm được)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

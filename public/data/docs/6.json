@@ -1,0 +1,222 @@
+{
+ "id": 6,
+ "sourceId": "us-tax-3",
+ "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/115th-congress/house-bill/1",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật thương mại"
+ ],
+ "year": 2017,
+ "effectiveDate": "2017-12-22",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6533,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 6312,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 6091,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 5832,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 5611,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 5352,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 5131,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 4910,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 4689,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 4468,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 4247,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 3271,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 3050,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 2785,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 2564,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 2151,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 1930,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 1683,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 1428,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 1207,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 986,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 630,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 409,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  },
+  {
+   "id": 6,
+   "effectiveDate": "2017-12-22",
+   "repealDate": null,
+   "text": "Tax Cuts and Jobs Act (Public Law 115-97). Major provisions: Reduced corporate tax rate to 21%. Modified individual income tax brackets. Increased standard deduction. Limited state and local tax deduction (SALT) to $10,000. Created qualified business income deduction (Section 199A). Modified estate tax exemption."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

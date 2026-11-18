@@ -1,0 +1,80 @@
+{
+ "id": 354,
+ "sourceId": "cn-cons-1",
+ "title": "Consumer Law (Luật Bảo vệ Người tiêu dùng Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384074.htm",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 354,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Law on the Protection of Consumer Rights and Interests."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 352,
+   "title": "Commercial Banking Law (Luật Ngân hàng Trung Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 941,
+   "title": "Securities Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 942,
+   "title": "Antimonopoly Law of the PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 945,
+   "title": "Copyright Law PRC (Amended 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 946,
+   "title": "Trademark Law PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 947,
+   "title": "Securities Investment Fund Law PRC",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

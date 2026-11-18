@@ -1,0 +1,50 @@
+{
+ "id": 356,
+ "sourceId": "ca-const-1",
+ "title": "Constitution Acts (Hiến pháp Canada)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://laws-lois.justice.gc.ca/eng/Const/index.html",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 356,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Constitution Acts 1867 and 1982. Charter of Rights and Freedoms. Federalism and division of powers."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3025,
+   "title": "Canadian Charter of Rights and Freedoms",
+   "kindLabel": "Đạo luật",
+   "year": 1982
+  }
+ ]
+}

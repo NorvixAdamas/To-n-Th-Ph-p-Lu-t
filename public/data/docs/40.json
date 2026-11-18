@@ -1,0 +1,218 @@
+{
+ "id": 40,
+ "sourceId": "us-env-2",
+ "title": "Clean Water Act (Luật Nước Sạch)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.epa.gov/laws-regulations/summary-clean-water-act",
+ "tags": [],
+ "fields": [
+  "environment"
+ ],
+ "fieldLabels": [
+  "Môi trường"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6567,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 6346,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 6125,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 5866,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 5645,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 5386,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 5165,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 4944,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 4723,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 4502,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 4281,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 3305,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 3084,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 2819,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 2598,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 2185,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 1964,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 1717,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 1462,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 1241,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 1020,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 664,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 443,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  },
+  {
+   "id": 40,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Clean Water Act (33 USC §1251 et seq.).\n§301: Effluent limitations. §402: NPDES permit program (National Pollutant Discharge Elimination System). §404: Permits for dredged or fill material (wetlands). §303(d): Impaired waters – Total Maximum Daily Loads (TMDLs). §311: Oil and hazardous substance spill prevention. §319: Nonpoint source management."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 136,
+   "title": "CERCLA – Superfund (Luật Xử lý Ô nhiễm Chất thải Nguy hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 138,
+   "title": "Endangered Species Act – ESA (Luật Bảo vệ Loài nguy cấp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 230,
+   "title": "Clean Air Act",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

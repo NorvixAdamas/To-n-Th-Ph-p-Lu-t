@@ -1,0 +1,45 @@
+{
+ "id": 387,
+ "sourceId": "in-env-1",
+ "title": "Environment Protection Act (Luật Môi trường Ấn Độ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://cpcb.nic.in/environmental-acts-rules/",
+ "tags": [],
+ "fields": [
+  "environment",
+  "education"
+ ],
+ "fieldLabels": [
+  "Môi trường",
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 387,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Prevention of environmental pollution and protection of ecology."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

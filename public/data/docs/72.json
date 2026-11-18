@@ -1,0 +1,220 @@
+{
+ "id": 72,
+ "sourceId": "vn-ent-3",
+ "title": "Luật Thương mại 2005",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "commercial",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật thương mại",
+  "Luật dân sự"
+ ],
+ "year": 2006,
+ "effectiveDate": "2006-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6599,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 6378,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 6157,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 5898,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 5677,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 5418,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 5197,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 4976,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 4755,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 4534,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 4313,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 3337,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 3116,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 2851,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 2630,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 2217,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 1996,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 1749,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 1494,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 1273,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 1052,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 696,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 475,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  },
+  {
+   "id": 72,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "text": "Luật Thương mại 2005.\nĐiều 1. Phạm vi: Hoạt động thương mại trên lãnh thổ Việt Nam và hoạt động thương mại quốc tế.\nĐiều 3. Giải thích từ ngữ: Hoạt động thương mại là hoạt động nhằm mục đích sinh lợi.\nĐiều 24-73. Mua bán hàng hóa. Điều 74-87. Cung ứng dịch vụ.\nĐiều 127-149. Đại lý thương mại. Điều 155-165. Gia công.\nĐiều 235-258. Xúc tiến thương mại: quảng cáo, khuyến mại, hội chợ.\nĐiều 292. Chế tài: buộc thực hiện hợp đồng, phạt vi phạm, bồi thường thiệt hại, tạm ngừng, đình chỉ, hủy bỏ hợp đồng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 64,
+   "title": "Luật Thuế sử dụng đất phi nông nghiệp 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2012
+  }
+ ]
+}

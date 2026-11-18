@@ -1,0 +1,218 @@
+{
+ "id": 153,
+ "sourceId": "us-energy-2",
+ "title": "Energy Policy Act 2005 (Luật Chính sách Năng lượng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/109th-congress/house-bill/6",
+ "tags": [],
+ "fields": [
+  "tax"
+ ],
+ "fieldLabels": [
+  "Luật thuế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6680,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 6459,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 6238,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 5979,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 5758,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 5499,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 5278,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 5057,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 4836,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 4615,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 4394,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 3418,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 3197,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 2932,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 2711,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 2298,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 2077,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 1830,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 1575,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 1354,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 1133,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 777,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 556,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  },
+  {
+   "id": 153,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Energy Policy Act 2005.\nTitle I-II: Hiệu quả năng lượng, tiêu chuẩn thiết bị. Title IV: Năng lượng hạt nhân – loan guarantees. Title IX: R&D năng lượng. Title XIII: Ưu đãi thuế cho năng lượng tái tạo. Ethanol mandate (Renewable Fuel Standard). Daylight Saving Time extension."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

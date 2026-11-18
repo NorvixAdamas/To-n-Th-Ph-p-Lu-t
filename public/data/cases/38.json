@@ -1,0 +1,38 @@
+{
+ "id": 38,
+ "sourceId": "sg-case-2",
+ "name": "Lim Meng Suang v AG [2015] 1 SLR 26",
+ "court": "Court of Appeal of Singapore",
+ "docket": "[2014] SGCA 53",
+ "dateDecided": "2014-10-29",
+ "year": 2014,
+ "summary": "Court of Appeal upheld Section 377A Penal Code (criminalising male homosexual acts) as constitutional. Government subsequently announced repeal in September 2022. Section 377A repealed by Penal Code (Amendment) Act 2022. Reflects evolution of Singapore law on personal liberties. Constitutional Article 12 equal protection analysis.",
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.singaporelawwatch.sg",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 37,
+   "name": "Spandeck Engineering v DSTA [2007] 4 SLR 100",
+   "court": "Court of Appeal of Singapore",
+   "year": 2007
+  }
+ ]
+}

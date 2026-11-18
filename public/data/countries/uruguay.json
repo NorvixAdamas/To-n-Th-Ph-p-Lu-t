@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "UY",
+  "code3": "URY",
+  "slug": "uruguay",
+  "nameVi": "Uruguay",
+  "nameEn": "Uruguay",
+  "flag": "🇺🇾",
+  "region": "south-america",
+  "regionName": "Nam Mỹ",
+  "subregion": "South America",
+  "capital": "Montevideo",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

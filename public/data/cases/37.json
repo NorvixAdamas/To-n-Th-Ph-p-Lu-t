@@ -1,0 +1,36 @@
+{
+ "id": 37,
+ "sourceId": "sg-case-1",
+ "name": "Spandeck Engineering v DSTA [2007] 4 SLR 100",
+ "court": "Court of Appeal of Singapore",
+ "docket": "[2007] SGCA 37",
+ "dateDecided": "2007-08-11",
+ "year": 2007,
+ "summary": "Landmark Singapore Court of Appeal establishing unified two-stage test for duty of care in negligence: (1) factual foreseeability, then (2) proximity and policy considerations. Departing from English Caparo three-stage test. Shows Singapore developing its own common law independently. Consistently applied as definitive Singapore negligence authority.",
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.singaporelawwatch.sg",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 38,
+   "name": "Lim Meng Suang v AG [2015] 1 SLR 26",
+   "court": "Court of Appeal of Singapore",
+   "year": 2014
+  }
+ ]
+}

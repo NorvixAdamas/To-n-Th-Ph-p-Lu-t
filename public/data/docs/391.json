@@ -1,0 +1,56 @@
+{
+ "id": 391,
+ "sourceId": "in-trans-1",
+ "title": "Motor Vehicles Act (Luật Giao thông Ấn Độ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://morth.nic.in/motor-vehicles-act-1988",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 391,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulation of road transport and motor vehicles in India."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 972,
+   "title": "Railways Act 1989 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3036,
+   "title": "Motor Vehicles Act 1988",
+   "kindLabel": "Đạo luật",
+   "year": 1988
+  }
+ ]
+}

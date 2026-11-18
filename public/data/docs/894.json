@@ -1,0 +1,50 @@
+{
+ "id": 894,
+ "sourceId": "uk-env-extra",
+ "title": "Climate Change Act 2008",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/2008/27/contents",
+ "tags": [],
+ "fields": [
+  "environment"
+ ],
+ "fieldLabels": [
+  "Môi trường"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 894,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Climate Change Act 2008. Net zero emissions target. Environment climate carbon budgets."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 272,
+   "title": "Environment Act 2021 (Luật Môi trường Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

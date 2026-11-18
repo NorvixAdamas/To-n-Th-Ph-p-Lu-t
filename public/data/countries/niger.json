@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "NE",
+  "code3": "NER",
+  "slug": "niger",
+  "nameVi": "Niger",
+  "nameEn": "Niger",
+  "flag": "🇳🇪",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Western Africa",
+  "capital": "Niamey",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

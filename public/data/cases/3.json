@@ -1,0 +1,54 @@
+{
+ "id": 3,
+ "sourceId": "us-case-3",
+ "name": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+ "court": "Supreme Court of the United States",
+ "docket": "384 U.S. 436",
+ "dateDecided": "1966-06-13",
+ "year": 1966,
+ "summary": "Xác lập quyền Miranda: cảnh sát phải thông báo quyền của nghi phạm trước khi thẩm vấn. \"You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney.\"",
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://supreme.justia.com/cases/federal/us/384/436/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "related": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "court": "Supreme Court of the United States",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "court": "Supreme Court of the United States",
+   "year": 2022
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "court": "Supreme Court of the United States",
+   "year": 2015
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "court": "Supreme Court of the United States",
+   "year": 2010
+  }
+ ]
+}

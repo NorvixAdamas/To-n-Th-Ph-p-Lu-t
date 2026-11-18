@@ -1,0 +1,56 @@
+{
+ "id": 398,
+ "sourceId": "ch-admin-1",
+ "title": "Federal Administrative Procedure Act (Luật Hành chính Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/1969/737_757_755/en",
+ "tags": [],
+ "fields": [
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 398,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Rules for administrative decisions and legal protection."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 974,
+   "title": "Swiss Code of Criminal Procedure (StPO)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 3039,
+   "title": "Swiss Civil Procedure Code",
+   "kindLabel": "Bộ luật",
+   "year": 2011
+  }
+ ]
+}

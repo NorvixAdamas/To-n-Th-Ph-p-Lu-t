@@ -1,0 +1,218 @@
+{
+ "id": 14,
+ "sourceId": "us-civil-2",
+ "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-evidence",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6541,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 6320,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 6099,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 5840,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 5619,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 5360,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 5139,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 4918,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 4697,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 4476,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 4255,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 3279,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 3058,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 2793,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 2572,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 2159,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 1938,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 1691,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 1436,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 1215,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 994,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 638,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 417,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  },
+  {
+   "id": 14,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Evidence (FRE).\nArticle I: General provisions. Rule 102: Purpose.\nArticle II: Judicial notice. Rule 201.\nArticle III: Presumptions.\nArticle IV: Relevance. Rule 401: Test for relevant evidence. Rule 403: Excluding relevant evidence (prejudice).\nArticle V: Privileges.\nArticle VI: Witnesses. Rule 602: Need for personal knowledge. Rule 611: Mode and order.\nArticle VII: Opinions and expert testimony. Rule 702: Expert witness (Daubert standard).\nArticle VIII: Hearsay. Rule 801: Definitions. Rule 802: The rule against hearsay. Rule 803–807: Exceptions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 156,
+   "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

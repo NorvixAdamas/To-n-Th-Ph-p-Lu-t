@@ -1,0 +1,218 @@
+{
+ "id": 140,
+ "sourceId": "us-tel-3",
+ "title": "Electronic Communications Privacy Act – ECPA (Quyền riêng tư Điện tử)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285",
+ "tags": [],
+ "fields": [
+  "tech"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6667,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 6446,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 6225,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 5966,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 5745,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 5486,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 5265,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 5044,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 4823,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 4602,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 4381,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 3405,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 3184,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 2919,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 2698,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 2285,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 2064,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 1817,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 1562,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 1341,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 1120,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 764,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 543,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  },
+  {
+   "id": 140,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Electronic Communications Privacy Act (ECPA) 1986.\nTitle I – Wiretap Act: Cấm nghe lén điện thoại/email/truyền thông điện tử. Ngoại lệ: lệnh tòa, consent, nhà cung cấp.\nTitle II – Stored Communications Act: Bảo vệ email, tin nhắn lưu trữ. Lệnh tòa để truy cập nội dung >180 ngày.\nTitle III – Pen Register Act: Theo dõi metadata cuộc gọi cần lệnh tòa."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 120,
+   "title": "Privacy Act 1974 (Luật Quyền riêng tư)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 129,
+   "title": "Digital Millennium Copyright Act – DMCA (Bản quyền Kỹ thuật số)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

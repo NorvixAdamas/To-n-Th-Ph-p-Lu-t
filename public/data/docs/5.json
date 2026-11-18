@@ -1,0 +1,224 @@
+{
+ "id": 5,
+ "sourceId": "us-tax-2",
+ "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.ecfr.gov/current/title-26",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "labor",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật lao động",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6532,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 6311,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 6090,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 5831,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 5610,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 5351,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 5130,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 4909,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 4688,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 4467,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 4246,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 3270,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 3049,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 2784,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 2563,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 2150,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 1929,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 1682,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 1427,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 1206,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 985,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 629,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 408,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  },
+  {
+   "id": 5,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Treasury Regulations (26 CFR). Interpretive regulations issued by the Department of the Treasury and IRS implementing the Internal Revenue Code.\nPart 1: Income taxes (§1.1-1 through §1.9100).\nPart 20: Estate tax.\nPart 25: Gift tax.\nPart 31: Employment taxes and Collection of Income Tax at Source.\nPart 301: Procedure and Administration."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

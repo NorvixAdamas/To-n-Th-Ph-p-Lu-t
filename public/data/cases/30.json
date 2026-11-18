@@ -1,0 +1,56 @@
+{
+ "id": 30,
+ "sourceId": "vn-case-15",
+ "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-43/2021",
+ "dateDecided": "2021-07-12",
+ "year": 2021,
+ "summary": "Về vấn đề: Người điều khiển phương tiện vi phạm luật giao thông gây tai nạn chết người bị truy tố theo Điều 260 BLHS 2015. Tình tiết tăng nặng: có nồng độ cồn vượt mức, bỏ chạy khỏi hiện trường.",
+ "fields": [
+  "criminal",
+  "education"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Giáo dục"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  },
+  {
+   "id": 29,
+   "name": "Án lệ số 35/2020/AL – Về hợp đồng chuyển nhượng quyền sử dụng đất vi phạm điều cấm",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2020
+  }
+ ]
+}

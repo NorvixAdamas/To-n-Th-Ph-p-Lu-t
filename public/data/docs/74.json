@@ -1,0 +1,222 @@
+{
+ "id": 74,
+ "sourceId": "vn-ent-5",
+ "title": "Luật Phá sản 2014",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "enterprise",
+  "commercial",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Luật thương mại",
+  "Hành chính"
+ ],
+ "year": 2015,
+ "effectiveDate": "2015-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6601,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 6380,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 6159,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 5900,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 5679,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 5420,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 5199,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 4978,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 4757,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 4536,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 4315,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 3339,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 3118,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 2853,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 2632,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 2219,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 1998,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 1751,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 1496,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 1275,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 1054,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 698,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 477,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  },
+  {
+   "id": 74,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Phá sản 2014.\nĐiều 4. Doanh nghiệp, hợp tác xã mất khả năng thanh toán là doanh nghiệp, HTX không thực hiện nghĩa vụ thanh toán trong thời hạn 3 tháng kể từ ngày đến hạn.\nĐiều 5. Quyền nộp đơn yêu cầu mở thủ tục phá sản.\nĐiều 71-88. Hội nghị chủ nợ. Thương lượng về phương án phục hồi.\nĐiều 105-116. Tuyên bố phá sản và thanh lý tài sản."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  }
+ ]
+}

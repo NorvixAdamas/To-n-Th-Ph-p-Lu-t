@@ -1,0 +1,56 @@
+{
+ "id": 889,
+ "sourceId": "uk-land-extra",
+ "title": "Law of Property Act 1925",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/contents",
+ "tags": [],
+ "fields": [
+  "land"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 889,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Law of Property Act 1925. Land and property transfer law. Landlord tenant conveyancing."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 261,
+   "title": "Companies Act 2006 (Luật Công ty Anh Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 267,
+   "title": "Land Registration Act 2002 (Luật Đăng ký Đất đai Anh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

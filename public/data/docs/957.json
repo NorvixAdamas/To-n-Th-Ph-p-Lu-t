@@ -1,0 +1,82 @@
+{
+ "id": 957,
+ "sourceId": "kr-ip-extra",
+ "title": "Patent Act Korea (특허법)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.kipo.go.kr/en/MainApp",
+ "tags": [],
+ "fields": [
+  "ip",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "KR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 957,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patent Act Korea. Invention patent trademark copyright intellectual property KIPO registration."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 372,
+   "title": "Copyright Act (Luật Bản quyền Hàn Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 375,
+   "title": "Banking Act (Luật Ngân hàng Hàn Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 378,
+   "title": "Consumer Protection Act (Luật Bảo vệ Người tiêu dùng Hàn Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 956,
+   "title": "Trade Union and Collective Bargaining Act Korea",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 958,
+   "title": "Financial Investment Services and Capital Markets Act",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3029,
+   "title": "Commercial Act",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

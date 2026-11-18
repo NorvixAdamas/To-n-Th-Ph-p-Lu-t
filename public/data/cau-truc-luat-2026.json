@@ -1,0 +1,1390 @@
+{
+  "us": {
+    "label": "Hoa Kỳ (United States)",
+    "topics": [
+      {
+        "id": "us-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution & Foundations",
+        "desc": "Constitution, Bill of Rights, Amendments",
+        "search": { "country": "US", "q": "constitution" }
+      },
+      {
+        "id": "us-tax",
+        "name": "Thuế",
+        "nameEn": "Tax / Internal Revenue",
+        "desc": "Internal Revenue Code (IRC), Treasury Regulations, State tax",
+        "search": { "country": "US", "tax": "1" }
+      },
+      {
+        "id": "us-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Title 18 USC, Federal criminal procedure, Sentencing Guidelines",
+        "search": { "country": "US", "q": "criminal" }
+      },
+      {
+        "id": "us-civil",
+        "name": "Dân sự / Tố tụng",
+        "nameEn": "Civil Procedure & Torts",
+        "desc": "Federal Rules of Civil Procedure (FRCP), Evidence, Torts",
+        "search": { "country": "US", "q": "civil procedure" }
+      },
+      {
+        "id": "us-commerce",
+        "name": "Thương mại / Doanh nghiệp",
+        "nameEn": "Commerce & Corporate",
+        "desc": "Securities, Bankruptcy (Title 11), Contract, Corporate law",
+        "search": { "country": "US", "q": "commerce corporate" }
+      },
+      {
+        "id": "us-labor",
+        "name": "Lao động",
+        "nameEn": "Labor & Employment",
+        "desc": "Fair Labor Standards Act, NLRB, OSHA, ADA",
+        "search": { "country": "US", "q": "labor employment" }
+      },
+      {
+        "id": "us-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Administrative Procedure Act, EPA, FDA, FCC regulations",
+        "search": { "country": "US", "q": "administrative" }
+      },
+      {
+        "id": "us-immigration",
+        "name": "Di trú",
+        "nameEn": "Immigration",
+        "desc": "Immigration and Nationality Act (INA), CFR liên quan",
+        "search": { "country": "US", "q": "immigration" }
+      },
+      {
+        "id": "us-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Family law (theo từng bang; liên bang khi có)",
+        "search": { "country": "US", "q": "family law" }
+      },
+      {
+        "id": "us-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright (Title 17), Patent (Title 35), Trademark (Lanham Act)",
+        "search": { "country": "US", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "us-health",
+        "name": "Y tế / An sinh xã hội",
+        "nameEn": "Public Health & Social Security",
+        "desc": "Title 42 USC – Public Health, Social Security, Medicare, Medicaid",
+        "search": { "country": "US", "q": "public health social security" }
+      },
+      {
+        "id": "us-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Clean Air Act, Clean Water Act, NEPA, EPA regulations",
+        "search": { "country": "US", "q": "environment" }
+      },
+      {
+        "id": "us-telecom",
+        "name": "Viễn thông / Công nghệ",
+        "nameEn": "Telecommunications & Technology",
+        "desc": "Title 47 (Telecommunications), FCC, privacy / data protection",
+        "search": { "country": "US", "q": "telecommunications" }
+      },
+      {
+        "id": "us-defense",
+        "name": "Quốc phòng / An ninh",
+        "nameEn": "National Defense & Security",
+        "desc": "UCMJ, PATRIOT Act, NDAA, Armed Forces (Title 10)",
+        "search": { "country": "US", "q": "defense military" }
+      },
+      {
+        "id": "us-rights",
+        "name": "Dân quyền",
+        "nameEn": "Civil Rights",
+        "desc": "Civil Rights Act, Voting Rights Act, Fair Housing Act",
+        "search": { "country": "US", "q": "civil rights" }
+      },
+      {
+        "id": "us-energy",
+        "name": "Năng lượng",
+        "nameEn": "Energy & Nuclear",
+        "desc": "Department of Energy, Energy Policy Act, Nuclear Regulatory",
+        "search": { "country": "US", "q": "energy" }
+      },
+      {
+        "id": "us-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Title 49 (Transportation), FAA, Infrastructure Act",
+        "search": { "country": "US", "q": "transport" }
+      },
+      {
+        "id": "us-education",
+        "name": "Giáo dục",
+        "nameEn": "Education",
+        "desc": "Title 20 (Education), IDEA, HEA, FERPA",
+        "search": { "country": "US", "q": "education" }
+      },
+      {
+        "id": "us-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court, Federal Courts of Appeals, án lệ theo chủ đề",
+        "link": "/cases.html?country=US"
+      }
+    ]
+  },
+  "vn": {
+    "label": "Việt Nam",
+    "topics": [
+      {
+        "id": "vn-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "desc": "Hiến pháp 2013, Luật Ban hành văn bản QPPL",
+        "search": { "country": "VN", "q": "hiến pháp" }
+      },
+      {
+        "id": "vn-civil",
+        "name": "Dân sự",
+        "desc": "Bộ luật Dân sự 2015 (sửa đổi), Luật Trách nhiệm bồi thường của Nhà nước",
+        "search": { "country": "VN", "q": "dân sự" }
+      },
+      {
+        "id": "vn-criminal",
+        "name": "Hình sự",
+        "desc": "Bộ luật Hình sự 2015 (sửa đổi), Bộ luật Tố tụng hình sự",
+        "search": { "country": "VN", "q": "hình sự" }
+      },
+      {
+        "id": "vn-civil-procedure",
+        "name": "Tố tụng dân sự",
+        "desc": "Bộ luật Tố tụng dân sự, Luật Trọng tài thương mại",
+        "search": { "country": "VN", "q": "tố tụng dân sự" }
+      },
+      {
+        "id": "vn-admin",
+        "name": "Hành chính",
+        "desc": "Luật Tố tụng hành chính, Luật Xử lý vi phạm hành chính",
+        "search": { "country": "VN", "q": "hành chính" }
+      },
+      {
+        "id": "vn-tax",
+        "name": "Thuế",
+        "desc": "Thuế TNDN, TNCN, GTGT, Tiêu thụ đặc biệt, Tài nguyên, Quản lý thuế",
+        "search": { "country": "VN", "tax": "1" }
+      },
+      {
+        "id": "vn-labor",
+        "name": "Lao động",
+        "desc": "Bộ luật Lao động 2019, Luật BHXH, Luật An toàn vệ sinh lao động",
+        "search": { "country": "VN", "q": "lao động" }
+      },
+      {
+        "id": "vn-enterprise",
+        "name": "Doanh nghiệp / Thương mại",
+        "desc": "Luật Doanh nghiệp, Luật Đầu tư, Luật Thương mại, Luật Cạnh tranh, Luật Phá sản",
+        "search": { "country": "VN", "q": "doanh nghiệp thương mại" }
+      },
+      {
+        "id": "vn-land",
+        "name": "Đất đai / Nhà ở",
+        "desc": "Luật Đất đai, Luật Nhà ở, Luật Kinh doanh bất động sản",
+        "search": { "country": "VN", "q": "đất đai nhà ở" }
+      },
+      {
+        "id": "vn-family",
+        "name": "Hôn nhân & Gia đình",
+        "desc": "Luật Hôn nhân và gia đình",
+        "search": { "country": "VN", "q": "hôn nhân gia đình" }
+      },
+      {
+        "id": "vn-ip",
+        "name": "Sở hữu trí tuệ",
+        "desc": "Luật Sở hữu trí tuệ",
+        "search": { "country": "VN", "q": "sở hữu trí tuệ" }
+      },
+      {
+        "id": "vn-banking",
+        "name": "Ngân hàng / Chứng khoán",
+        "desc": "Luật Các tổ chức tín dụng, Luật Chứng khoán",
+        "search": { "country": "VN", "q": "ngân hàng chứng khoán" }
+      },
+      {
+        "id": "vn-environment",
+        "name": "Môi trường / Xây dựng",
+        "desc": "Luật Bảo vệ môi trường, Luật Xây dựng",
+        "search": { "country": "VN", "q": "môi trường xây dựng" }
+      },
+      {
+        "id": "vn-education",
+        "name": "Giáo dục",
+        "desc": "Luật Giáo dục, Luật Giáo dục đại học",
+        "search": { "country": "VN", "q": "giáo dục" }
+      },
+      {
+        "id": "vn-health",
+        "name": "Y tế / Dược",
+        "desc": "Luật Khám bệnh chữa bệnh, Luật Dược, Luật BHYT",
+        "search": { "country": "VN", "q": "y tế dược" }
+      },
+      {
+        "id": "vn-defense",
+        "name": "Quốc phòng / An ninh",
+        "desc": "Luật Quốc phòng, Luật An ninh quốc gia, An ninh mạng, Nghĩa vụ quân sự",
+        "search": { "country": "VN", "q": "quốc phòng an ninh" }
+      },
+      {
+        "id": "vn-transport",
+        "name": "Giao thông vận tải",
+        "desc": "Luật Giao thông đường bộ, Hàng không, Đường sắt, Hàng hải",
+        "search": { "country": "VN", "q": "giao thông" }
+      },
+      {
+        "id": "vn-agriculture",
+        "name": "Tài nguyên / Nông nghiệp",
+        "desc": "Luật Tài nguyên nước, Lâm nghiệp, Thủy sản, Khoáng sản",
+        "search": { "country": "VN", "q": "tài nguyên lâm nghiệp thủy sản" }
+      },
+      {
+        "id": "vn-it",
+        "name": "CNTT / Truyền thông",
+        "desc": "Luật CNTT, Giao dịch điện tử, Viễn thông, Báo chí",
+        "search": { "country": "VN", "q": "công nghệ viễn thông" }
+      },
+      {
+        "id": "vn-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "desc": "Luật Bảo vệ quyền lợi NTD, An toàn thực phẩm, Chất lượng sản phẩm",
+        "search": { "country": "VN", "q": "bảo vệ người tiêu dùng" }
+      },
+      {
+        "id": "vn-judiciary",
+        "name": "Tư pháp / Luật sư",
+        "desc": "Luật Tổ chức Tòa án, Viện kiểm sát, Luật Luật sư, Trợ giúp pháp lý",
+        "search": { "country": "VN", "q": "tòa án luật sư tư pháp" }
+      },
+      {
+        "id": "vn-caselaw",
+        "name": "Án lệ",
+        "desc": "Án lệ TAND Tối cao, bản án các cấp (dân sự, hình sự, hành chính, kinh tế)",
+        "link": "/cases.html?country=VN"
+      }
+    ]
+  },
+  "uk": {
+    "label": "Anh Quốc (United Kingdom)",
+    "topics": [
+      {
+        "id": "uk-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitutional Law & Foundations",
+        "desc": "Magna Carta, Parliament Acts, Constitutional Reform Act 2005, Human Rights Act 1998",
+        "search": { "country": "UK", "q": "constitutional parliament" }
+      },
+      {
+        "id": "uk-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Serious Crime Act, Proceeds of Crime Act, Criminal Justice Acts, Police and Criminal Evidence Act",
+        "search": { "country": "UK", "q": "criminal justice" }
+      },
+      {
+        "id": "uk-civil",
+        "name": "Dân sự / Tố tụng",
+        "nameEn": "Civil Procedure & Torts",
+        "desc": "Civil Procedure Rules (CPR), Limitation Act, Torts — negligence, defamation",
+        "search": { "country": "UK", "q": "civil procedure tort" }
+      },
+      {
+        "id": "uk-contract",
+        "name": "Hợp đồng",
+        "nameEn": "Contract Law",
+        "desc": "Common law contracts, Sale of Goods Act, Consumer Rights Act 2015",
+        "search": { "country": "UK", "q": "contract" }
+      },
+      {
+        "id": "uk-company",
+        "name": "Doanh nghiệp / Thương mại",
+        "nameEn": "Company & Commercial Law",
+        "desc": "Companies Act 2006, Insolvency Act, Partnerships, Financial Services and Markets Act",
+        "search": { "country": "UK", "q": "company commercial" }
+      },
+      {
+        "id": "uk-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act 2007, Corporation Tax Act, VAT Act 1994, HMRC regulations",
+        "search": { "country": "UK", "tax": "1" }
+      },
+      {
+        "id": "uk-labor",
+        "name": "Lao động",
+        "nameEn": "Employment Law",
+        "desc": "Employment Rights Act 1996, Equality Act 2010, National Minimum Wage Act, Trade Union & Labour Relations Act",
+        "search": { "country": "UK", "q": "employment" }
+      },
+      {
+        "id": "uk-land",
+        "name": "Bất động sản / Đất đai",
+        "nameEn": "Land & Property Law",
+        "desc": "Land Registration Act 2002, Law of Property Act 1925, Landlord and Tenant Acts",
+        "search": { "country": "UK", "q": "land property" }
+      },
+      {
+        "id": "uk-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Designs & Patents Act 1988, Trade Marks Act 1994, Patents Act 1977",
+        "search": { "country": "UK", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "uk-admin",
+        "name": "Hành chính công",
+        "nameEn": "Administrative & Public Law",
+        "desc": "Judicial Review, Freedom of Information Act, Data Protection Act, GDPR (UK)",
+        "search": { "country": "UK", "q": "administrative judicial review" }
+      },
+      {
+        "id": "uk-immigration",
+        "name": "Di trú",
+        "nameEn": "Immigration & Asylum",
+        "desc": "Immigration Act 1971, Nationality, Immigration and Asylum Act, post-Brexit rules",
+        "search": { "country": "UK", "q": "immigration asylum" }
+      },
+      {
+        "id": "uk-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Family Law Act 1996, Children Act 1989, Matrimonial Causes Act, Adoption Act",
+        "search": { "country": "UK", "q": "family children matrimonial" }
+      },
+      {
+        "id": "uk-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Environment Act 2021, Climate Change Act 2008, Environmental Protection Act 1990",
+        "search": { "country": "UK", "q": "environment climate" }
+      },
+      {
+        "id": "uk-health",
+        "name": "Y tế",
+        "nameEn": "Health & Social Care",
+        "desc": "National Health Service Act, Health and Social Care Act, Medicines Act",
+        "search": { "country": "UK", "q": "health social care NHS" }
+      },
+      {
+        "id": "uk-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court, Court of Appeal, High Court decisions — common law precedents",
+        "link": "/cases.html?country=UK"
+      }
+    ]
+  },
+  "fr": {
+    "label": "Pháp (France)",
+    "topics": [
+      {
+        "id": "fr-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution & Foundations",
+        "desc": "Constitution de la Ve République (1958), Déclaration des droits de l'Homme, Conseil constitutionnel",
+        "search": { "country": "FR", "q": "constitution" }
+      },
+      {
+        "id": "fr-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Law (Code Civil)",
+        "desc": "Code civil napoleonien — hợp đồng, sở hữu, hôn nhân, thừa kế; nguồn gốc BLDS Việt Nam",
+        "search": { "country": "FR", "q": "civil code" }
+      },
+      {
+        "id": "fr-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law (Code Pénal)",
+        "desc": "Code pénal, Code de procédure pénale, crimes et délits",
+        "search": { "country": "FR", "q": "penal criminal" }
+      },
+      {
+        "id": "fr-commercial",
+        "name": "Thương mại / Doanh nghiệp",
+        "nameEn": "Commercial & Corporate Law",
+        "desc": "Code de commerce, société anonyme (SA), SARL, contrats commerciaux, faillite",
+        "search": { "country": "FR", "q": "commercial company" }
+      },
+      {
+        "id": "fr-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law (Code Général des Impôts)",
+        "desc": "Code général des impôts (CGI) — IS, IR, TVA, impôts locaux",
+        "search": { "country": "FR", "tax": "1" }
+      },
+      {
+        "id": "fr-labor",
+        "name": "Lao động",
+        "nameEn": "Labour Law (Code du Travail)",
+        "desc": "Code du travail — contrat de travail, congés payés, durée du travail, syndicats",
+        "search": { "country": "FR", "q": "labour travail employment" }
+      },
+      {
+        "id": "fr-admin",
+        "name": "Hành chính / Công vụ",
+        "nameEn": "Administrative Law",
+        "desc": "Droit administratif, Conseil d'État, Code des relations entre le public et l'administration",
+        "search": { "country": "FR", "q": "administrative public" }
+      },
+      {
+        "id": "fr-property",
+        "name": "Bất động sản",
+        "nameEn": "Property & Housing Law",
+        "desc": "Loi Hoguet, bail d'habitation (loi Alur), urbanisme, copropriété",
+        "search": { "country": "FR", "q": "property housing immobilier" }
+      },
+      {
+        "id": "fr-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Code de la propriété intellectuelle — droits d'auteur, brevets, marques",
+        "search": { "country": "FR", "q": "intellectual property propriete" }
+      },
+      {
+        "id": "fr-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Code civil — mariage, divorce, adoption, autorité parentale, succession",
+        "search": { "country": "FR", "q": "family marriage divorce" }
+      },
+      {
+        "id": "fr-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Code de l'environnement, loi Energie-Climat 2019, responsabilité environnementale",
+        "search": { "country": "FR", "q": "environment climate energie" }
+      },
+      {
+        "id": "fr-health",
+        "name": "Y tế / Bảo hiểm xã hội",
+        "nameEn": "Health & Social Security",
+        "desc": "Code de la santé publique, Code de la sécurité sociale, Assurance maladie",
+        "search": { "country": "FR", "q": "health social security sante" }
+      },
+      {
+        "id": "fr-data",
+        "name": "Dữ liệu / Kỹ thuật số",
+        "nameEn": "Data Protection & Digital",
+        "desc": "RGPD (GDPR), loi Informatique et Libertés (CNIL), loi pour une République numérique",
+        "search": { "country": "FR", "q": "data protection digital RGPD" }
+      },
+      {
+        "id": "fr-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Law",
+        "desc": "Code de la consommation, pratiques commerciales déloyales, crédit à la consommation",
+        "search": { "country": "FR", "q": "consumer consommation" }
+      },
+      {
+        "id": "fr-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Cour de cassation, Conseil d'État, jurisprudence des Cours d'appel",
+        "link": "/cases.html?country=FR"
+      }
+    ]
+  },
+  "sg": {
+    "label": "Singapore",
+    "topics": [
+      {
+        "id": "sg-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution & Foundations",
+        "desc": "Constitution of the Republic of Singapore, Maintenance of Religious Harmony Act",
+        "search": { "country": "SG", "q": "constitution" }
+      },
+      {
+        "id": "sg-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Penal Code, Criminal Procedure Code, Evidence Act, Misuse of Drugs Act",
+        "search": { "country": "SG", "q": "criminal penal" }
+      },
+      {
+        "id": "sg-civil",
+        "name": "Dân sự / Tố tụng",
+        "nameEn": "Civil Procedure & Torts",
+        "desc": "Rules of Court 2021 (ROC), Civil Law Act, Limitation Act",
+        "search": { "country": "SG", "q": "civil procedure rules court" }
+      },
+      {
+        "id": "sg-company",
+        "name": "Doanh nghiệp / Thương mại",
+        "nameEn": "Company & Commercial Law",
+        "desc": "Companies Act, Partnership Act, Sale of Goods Act, Electronic Transactions Act",
+        "search": { "country": "SG", "q": "company commercial partnership" }
+      },
+      {
+        "id": "sg-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act 1947, Goods and Services Tax (GST) Act, Property Tax Act, Stamp Duties Act",
+        "search": { "country": "SG", "tax": "1" }
+      },
+      {
+        "id": "sg-labor",
+        "name": "Lao động",
+        "nameEn": "Employment Law",
+        "desc": "Employment Act, Central Provident Fund (CPF) Act, Work Injury Compensation Act",
+        "search": { "country": "SG", "q": "employment labor provident" }
+      },
+      {
+        "id": "sg-land",
+        "name": "Bất động sản / Đất đai",
+        "nameEn": "Land & Property Law",
+        "desc": "Land Titles Act, Planning Act, Housing and Development Act (HDB), Conveyancing",
+        "search": { "country": "SG", "q": "land property housing" }
+      },
+      {
+        "id": "sg-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act 2021, Patents Act, Trade Marks Act, Registered Designs Act",
+        "search": { "country": "SG", "q": "copyright patent trademark designs" }
+      },
+      {
+        "id": "sg-finance",
+        "name": "Ngân hàng / Tài chính",
+        "nameEn": "Banking & Financial Law",
+        "desc": "Banking Act, Securities and Futures Act, Monetary Authority of Singapore (MAS) regulations, Payment Services Act",
+        "search": { "country": "SG", "q": "banking finance securities MAS" }
+      },
+      {
+        "id": "sg-admin",
+        "name": "Hành chính / Tư pháp",
+        "nameEn": "Administrative & Public Law",
+        "desc": "Government Proceedings Act, Judicial Review, Public Sector Act, Freedom of Information",
+        "search": { "country": "SG", "q": "administrative government judicial" }
+      },
+      {
+        "id": "sg-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Women's Charter, Guardianship of Infants Act, Adoption of Children Act, Intestate Succession Act",
+        "search": { "country": "SG", "q": "family women charter adoption" }
+      },
+      {
+        "id": "sg-immigration",
+        "name": "Di trú",
+        "nameEn": "Immigration",
+        "desc": "Immigration Act, Employment of Foreign Manpower Act, work pass framework (EP, SP, WP)",
+        "search": { "country": "SG", "q": "immigration employment pass" }
+      },
+      {
+        "id": "sg-environment",
+        "name": "Môi trường / Bền vững",
+        "nameEn": "Environmental & Sustainability Law",
+        "desc": "Environmental Public Health Act, Carbon Pricing Act, Singapore Green Plan 2030",
+        "search": { "country": "SG", "q": "environment carbon sustainability" }
+      },
+      {
+        "id": "sg-tech",
+        "name": "CNTT / Dữ liệu",
+        "nameEn": "Technology & Data",
+        "desc": "Personal Data Protection Act (PDPA), Computer Misuse Act, Cybersecurity Act",
+        "search": { "country": "SG", "q": "data protection cyber technology PDPA" }
+      },
+      {
+        "id": "sg-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Singapore Court of Appeal, High Court decisions, Singapore Law Reports (SLR)",
+        "link": "/cases.html?country=SG"
+      }
+    ]
+  },
+  "de": {
+    "label": "Đức (Germany)",
+    "topics": [
+      {
+        "id": "de-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Basic Law (Grundgesetz)",
+        "desc": "Grundgesetz (GG), BVerfG jurisprudence, federalism",
+        "search": { "country": "DE", "q": "constitution grundgesetz" }
+      },
+      {
+        "id": "de-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Law (BGB)",
+        "desc": "Bürgerliches Gesetzbuch (BGB) — contracts, torts, property, family, inheritance",
+        "search": { "country": "DE", "q": "civil BGB" }
+      },
+      {
+        "id": "de-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law (StGB)",
+        "desc": "Strafgesetzbuch (StGB), Strafprozessordnung (StPO)",
+        "search": { "country": "DE", "q": "criminal penal StGB" }
+      },
+      {
+        "id": "de-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Abgabenordnung (AO), Einkommensteuer (EStG), Umsatzsteuer (UStG)",
+        "search": { "country": "DE", "tax": "1" }
+      },
+      {
+        "id": "de-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law (Arbeitsrecht)",
+        "desc": "Employment contracts, collective bargaining, protection against dismissal",
+        "search": { "country": "DE", "q": "labor arbeidsrecht" }
+      },
+      {
+        "id": "de-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright (Urheberrecht), Patents, Trademarks",
+        "search": { "country": "DE", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "de-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "VwVfG, administrative courts, public regulations",
+        "search": { "country": "DE", "q": "administrative" }
+      },
+      {
+        "id": "de-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "BImSchG, waste management, climate protection",
+        "search": { "country": "DE", "q": "environment" }
+      },
+      {
+        "id": "de-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "KWG, banking supervision, capital markets",
+        "search": { "country": "DE", "q": "banking finance" }
+      },
+      {
+        "id": "de-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Marriage, divorce, maintenance, custody",
+        "search": { "country": "DE", "q": "family" }
+      },
+      {
+        "id": "de-data",
+        "name": "Dữ liệu / Kỹ thuật số",
+        "nameEn": "Data & Digital",
+        "desc": "BDSG, GDPR compliance, telecommunications law",
+        "search": { "country": "DE", "q": "data protection" }
+      },
+      {
+        "id": "de-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Consumer contracts, liability, unfair competition",
+        "search": { "country": "DE", "q": "consumer" }
+      },
+      {
+        "id": "de-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "StVG, road traffic, railway law",
+        "search": { "country": "DE", "q": "transport" }
+      },
+      {
+        "id": "de-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "BVerfG, BGH, BVerwG decisions",
+        "link": "/cases.html?country=DE"
+      }
+    ]
+  },
+  "jp": {
+    "label": "Nhật Bản (Japan)",
+    "topics": [
+      {
+        "id": "jp-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution (Nihon-koku Kenpō)",
+        "desc": "1947 Constitution, Article 9, Emperor system, Diet",
+        "search": { "country": "JP", "q": "constitution" }
+      },
+      {
+        "id": "jp-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Code (Minpō)",
+        "desc": "Civil Code, Property, Obligations, Family, Succession",
+        "search": { "country": "JP", "q": "civil code" }
+      },
+      {
+        "id": "jp-criminal",
+        "name": "Hình sự",
+        "nameEn": "Penal Code (Keihō)",
+        "desc": "Penal Code, Code of Criminal Procedure",
+        "search": { "country": "JP", "q": "penal criminal" }
+      },
+      {
+        "id": "jp-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act, Corporation Tax Act, Consumption Tax",
+        "search": { "country": "JP", "tax": "1" }
+      },
+      {
+        "id": "jp-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law",
+        "desc": "Labor Standards Act, Labor Contract Act, trade unions",
+        "search": { "country": "JP", "q": "labor employment" }
+      },
+      {
+        "id": "jp-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patent Act, Trademark Act",
+        "search": { "country": "JP", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "jp-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Administrative Procedure Act, administrative litigation",
+        "search": { "country": "JP", "q": "administrative" }
+      },
+      {
+        "id": "jp-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Basic Environment Act, pollution control",
+        "search": { "country": "JP", "q": "environment" }
+      },
+      {
+        "id": "jp-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Banking Act, Financial Instruments and Exchange Act",
+        "search": { "country": "JP", "q": "banking finance" }
+      },
+      {
+        "id": "jp-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Family Register Act, marriage and succession",
+        "search": { "country": "JP", "q": "family" }
+      },
+      {
+        "id": "jp-data",
+        "name": "Dữ liệu / Kỹ thuật số",
+        "nameEn": "Data & Digital",
+        "desc": "Act on the Protection of Personal Information (APPI)",
+        "search": { "country": "JP", "q": "data protection" }
+      },
+      {
+        "id": "jp-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Consumer Contract Act, Product Liability Act",
+        "search": { "country": "JP", "q": "consumer" }
+      },
+      {
+        "id": "jp-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Road Transport Act, Railway Business Act",
+        "search": { "country": "JP", "q": "transport" }
+      },
+      {
+        "id": "jp-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court of Japan decisions",
+        "link": "/cases.html?country=JP"
+      }
+    ]
+  },
+  "au": {
+    "label": "Úc (Australia)",
+    "topics": [
+      {
+        "id": "au-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution & Foundations",
+        "desc": "Commonwealth of Australia Constitution Act, Separation of powers",
+        "search": { "country": "AU", "q": "constitution" }
+      },
+      {
+        "id": "au-company",
+        "name": "Doanh nghiệp / Thương mại",
+        "nameEn": "Corporations Law",
+        "desc": "Corporations Act 2001, ASIC regulations",
+        "search": { "country": "AU", "q": "corporations company" }
+      },
+      {
+        "id": "au-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Assessment Acts (1936/1997), GST",
+        "search": { "country": "AU", "tax": "1" }
+      },
+      {
+        "id": "au-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Criminal Code Act, state-level criminal codes",
+        "search": { "country": "AU", "q": "criminal" }
+      },
+      {
+        "id": "au-labor",
+        "name": "Lao động",
+        "nameEn": "Employment Law",
+        "desc": "Fair Work Act 2009, modern awards, enterprise agreements",
+        "search": { "country": "AU", "q": "employment labor" }
+      },
+      {
+        "id": "au-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patents Act, Trade Marks Act",
+        "search": { "country": "AU", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "au-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Administrative Appeals Tribunal (AAT), FOI Act",
+        "search": { "country": "AU", "q": "administrative" }
+      },
+      {
+        "id": "au-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "EPBC Act, sustainable development",
+        "search": { "country": "AU", "q": "environment" }
+      },
+      {
+        "id": "au-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Banking Act, National Consumer Credit Protection",
+        "search": { "country": "AU", "q": "banking finance" }
+      },
+      {
+        "id": "au-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Family Law Act 1975, custody and property settlements",
+        "search": { "country": "AU", "q": "family" }
+      },
+      {
+        "id": "au-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Australian Consumer Law (ACL), competition law",
+        "search": { "country": "AU", "q": "consumer" }
+      },
+      {
+        "id": "au-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Aviation, maritime, and road transport regulations",
+        "search": { "country": "AU", "q": "transport" }
+      },
+      {
+        "id": "au-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "High Court of Australia, Federal Court decisions",
+        "link": "/cases.html?country=AU"
+      }
+    ]
+  },
+  "cn": {
+    "label": "Trung Quốc (China)",
+    "topics": [
+      {
+        "id": "cn-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution",
+        "desc": "Constitution of the PRC, National People's Congress",
+        "search": { "country": "CN", "q": "constitution" }
+      },
+      {
+        "id": "cn-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Code",
+        "desc": "Civil Code of the PRC (2020) — Property, Contracts, Marriage",
+        "search": { "country": "CN", "q": "civil code" }
+      },
+      {
+        "id": "cn-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Individual Income Tax, Enterprise Income Tax, VAT",
+        "search": { "country": "CN", "tax": "1" }
+      },
+      {
+        "id": "cn-commerce",
+        "name": "Thương mại / Doanh nghiệp",
+        "nameEn": "Commercial Law",
+        "desc": "Company Law, Partnership Enterprise Law, Securities Law",
+        "search": { "country": "CN", "q": "company commercial" }
+      },
+      {
+        "id": "cn-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law",
+        "desc": "Labor Law, Labor Contract Law, Social Insurance Law",
+        "search": { "country": "CN", "q": "labor employment" }
+      },
+      {
+        "id": "cn-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Law, Patent Law, Trademark Law",
+        "search": { "country": "CN", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "cn-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Administrative Procedure Law, Administrative Punishment Law",
+        "search": { "country": "CN", "q": "administrative" }
+      },
+      {
+        "id": "cn-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Environmental Protection Law, Climate change policies",
+        "search": { "country": "CN", "q": "environment" }
+      },
+      {
+        "id": "cn-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Commercial Banking Law, People's Bank of China Law",
+        "search": { "country": "CN", "q": "banking finance" }
+      },
+      {
+        "id": "cn-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Marriage and Family (Civil Code Book V), Adoptions",
+        "search": { "country": "CN", "q": "family" }
+      },
+      {
+        "id": "cn-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Consumer Rights Protection Law, E-commerce Law",
+        "search": { "country": "CN", "q": "consumer" }
+      },
+      {
+        "id": "cn-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Railway Law, Civil Aviation Law",
+        "search": { "country": "CN", "q": "transport" }
+      },
+      {
+        "id": "cn-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Guiding Cases",
+        "desc": "Supreme People's Court Guiding Cases",
+        "link": "/cases.html?country=CN"
+      }
+    ]
+  },
+  "ca": {
+    "label": "Canada",
+    "topics": [
+      {
+        "id": "ca-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution & Foundations",
+        "desc": "Constitution Acts (1867, 1982), Charter of Rights and Freedoms",
+        "search": { "country": "CA", "q": "constitution charter rights" }
+      },
+      {
+        "id": "ca-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Criminal Code of Canada, Youth Criminal Justice Act",
+        "search": { "country": "CA", "q": "criminal code" }
+      },
+      {
+        "id": "ca-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act, Excise Tax Act (GST/HST)",
+        "search": { "country": "CA", "tax": "1" }
+      },
+      {
+        "id": "ca-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Law",
+        "desc": "Torts, property, contracts (Common law outside Quebec, Civil Code in Quebec)",
+        "search": { "country": "CA", "q": "civil law" }
+      },
+      {
+        "id": "ca-labor",
+        "name": "Lao động",
+        "nameEn": "Labor & Employment",
+        "desc": "Canada Labour Code, provincial labor standards",
+        "search": { "country": "CA", "q": "labor employment" }
+      },
+      {
+        "id": "ca-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patent Act, Trademarks Act",
+        "search": { "country": "CA", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "ca-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Judicial review, federal/provincial boards and tribunals",
+        "search": { "country": "CA", "q": "administrative" }
+      },
+      {
+        "id": "ca-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Divorce Act, provincial family laws, custody",
+        "search": { "country": "CA", "q": "family" }
+      },
+      {
+        "id": "ca-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Canadian Environmental Protection Act, impact assessments",
+        "search": { "country": "CA", "q": "environment" }
+      },
+      {
+        "id": "ca-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Bank Act, OSFI regulations, securities (provincial)",
+        "search": { "country": "CA", "q": "banking finance" }
+      },
+      {
+        "id": "ca-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Provincial consumer protection acts, competition law",
+        "search": { "country": "CA", "q": "consumer" }
+      },
+      {
+        "id": "ca-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Canada Transportation Act, aviation and marine safety",
+        "search": { "country": "CA", "q": "transport" }
+      },
+      {
+        "id": "ca-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court of Canada, Provincial courts",
+        "link": "/cases.html?country=CA"
+      }
+    ]
+  },
+  "kr": {
+    "label": "Hàn Quốc (South Korea)",
+    "topics": [
+      {
+        "id": "kr-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution",
+        "desc": "Constitution of the Republic of Korea, Constitutional Court",
+        "search": { "country": "KR", "q": "constitution" }
+      },
+      {
+        "id": "kr-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Act",
+        "desc": "Civil Act, Commercial Act",
+        "search": { "country": "KR", "q": "civil act" }
+      },
+      {
+        "id": "kr-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Act",
+        "desc": "Criminal Act, Criminal Procedure Act",
+        "search": { "country": "KR", "q": "criminal act" }
+      },
+      {
+        "id": "kr-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act, Corporate Tax Act",
+        "search": { "country": "KR", "tax": "1" }
+      },
+      {
+        "id": "kr-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law",
+        "desc": "Labor Standards Act, Trade Union Act",
+        "search": { "country": "KR", "q": "labor employment" }
+      },
+      {
+        "id": "kr-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patent Act, Trademark Act",
+        "search": { "country": "KR", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "kr-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Administrative Procedures Act, administrative litigation",
+        "search": { "country": "KR", "q": "administrative" }
+      },
+      {
+        "id": "kr-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Family litigation, marriage, succession",
+        "search": { "country": "KR", "q": "family" }
+      },
+      {
+        "id": "kr-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Framework Act on Environmental Policy",
+        "search": { "country": "KR", "q": "environment" }
+      },
+      {
+        "id": "kr-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Banking Act, Financial Investment Services Act",
+        "search": { "country": "KR", "q": "banking finance" }
+      },
+      {
+        "id": "kr-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Framework Act on Consumers",
+        "search": { "country": "KR", "q": "consumer" }
+      },
+      {
+        "id": "kr-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Road Traffic Act, Aviation Safety Act",
+        "search": { "country": "KR", "q": "transport" }
+      },
+      {
+        "id": "kr-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court, Constitutional Court decisions",
+        "link": "/cases.html?country=KR"
+      }
+    ]
+  },
+  "in": {
+    "label": "Ấn Độ (India)",
+    "topics": [
+      {
+        "id": "in-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Constitution",
+        "desc": "Constitution of India, Federalism, Fundamental Rights",
+        "search": { "country": "IN", "q": "constitution" }
+      },
+      {
+        "id": "in-civil",
+        "name": "Dân sự / Tố tụng",
+        "nameEn": "Civil Law",
+        "desc": "Code of Civil Procedure (CPC), Indian Contract Act, Transfer of Property",
+        "search": { "country": "IN", "q": "civil procedure contract" }
+      },
+      {
+        "id": "in-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Law",
+        "desc": "Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita, CrPC",
+        "search": { "country": "IN", "q": "penal criminal" }
+      },
+      {
+        "id": "in-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Income Tax Act 1961, Goods and Services Tax (GST)",
+        "search": { "country": "IN", "tax": "1" }
+      },
+      {
+        "id": "in-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law",
+        "desc": "Industrial Disputes Act, Code on Wages, Social Security",
+        "search": { "country": "IN", "q": "labor employment" }
+      },
+      {
+        "id": "in-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patents Act, Trademarks Act",
+        "search": { "country": "IN", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "in-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Right to Information (RTI) Act, Lokpal",
+        "search": { "country": "IN", "q": "administrative" }
+      },
+      {
+        "id": "in-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Hindu Marriage Act, Special Marriage Act, Personal laws",
+        "search": { "country": "IN", "q": "family" }
+      },
+      {
+        "id": "in-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Environment Protection Act, Air/Water Acts",
+        "search": { "country": "IN", "q": "environment" }
+      },
+      {
+        "id": "in-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Banking Regulation Act, SEBI Act",
+        "search": { "country": "IN", "q": "banking finance" }
+      },
+      {
+        "id": "in-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Consumer Protection Act 2019",
+        "search": { "country": "IN", "q": "consumer" }
+      },
+      {
+        "id": "in-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Motor Vehicles Act, Railways Act",
+        "search": { "country": "IN", "q": "transport" }
+      },
+      {
+        "id": "in-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Supreme Court of India, High Courts",
+        "link": "/cases.html?country=IN"
+      }
+    ]
+  },
+  "ch": {
+    "label": "Thụy Sĩ (Switzerland)",
+    "topics": [
+      {
+        "id": "ch-constitution",
+        "name": "Hiến pháp & nền tảng",
+        "nameEn": "Federal Constitution",
+        "desc": "Federal Constitution of the Swiss Confederation, Direct democracy",
+        "search": { "country": "CH", "q": "constitution" }
+      },
+      {
+        "id": "ch-civil",
+        "name": "Dân sự",
+        "nameEn": "Civil Code (ZGB/OR)",
+        "desc": "Swiss Civil Code (ZGB), Code of Obligations (OR)",
+        "search": { "country": "CH", "q": "civil code obligations" }
+      },
+      {
+        "id": "ch-criminal",
+        "name": "Hình sự",
+        "nameEn": "Criminal Code (StGB)",
+        "desc": "Swiss Criminal Code, Criminal Procedure Code",
+        "search": { "country": "CH", "q": "criminal penal" }
+      },
+      {
+        "id": "ch-tax",
+        "name": "Thuế",
+        "nameEn": "Tax Law",
+        "desc": "Federal Direct Tax Act, VAT, Cantonal taxes",
+        "search": { "country": "CH", "tax": "1" }
+      },
+      {
+        "id": "ch-labor",
+        "name": "Lao động",
+        "nameEn": "Labor Law",
+        "desc": "Employment contracts (OR), Labor Act",
+        "search": { "country": "CH", "q": "labor employment" }
+      },
+      {
+        "id": "ch-ip",
+        "name": "Sở hữu trí tuệ",
+        "nameEn": "Intellectual Property",
+        "desc": "Copyright Act, Patent Act, Trademark Act",
+        "search": { "country": "CH", "q": "copyright patent trademark" }
+      },
+      {
+        "id": "ch-admin",
+        "name": "Hành chính",
+        "nameEn": "Administrative Law",
+        "desc": "Federal Administrative Procedure Act",
+        "search": { "country": "CH", "q": "administrative" }
+      },
+      {
+        "id": "ch-family",
+        "name": "Gia đình",
+        "nameEn": "Family Law",
+        "desc": "Marriage, divorce, children (ZGB)",
+        "search": { "country": "CH", "q": "family" }
+      },
+      {
+        "id": "ch-environment",
+        "name": "Môi trường",
+        "nameEn": "Environmental Law",
+        "desc": "Environmental Protection Act (USG)",
+        "search": { "country": "CH", "q": "environment" }
+      },
+      {
+        "id": "ch-finance",
+        "name": "Tài chính / Ngân hàng",
+        "nameEn": "Banking & Finance",
+        "desc": "Banking Act, Stock Exchange Act",
+        "search": { "country": "CH", "q": "banking finance" }
+      },
+      {
+        "id": "ch-consumer",
+        "name": "Bảo vệ người tiêu dùng",
+        "nameEn": "Consumer Protection",
+        "desc": "Consumer Credit Act, unfair competition",
+        "search": { "country": "CH", "q": "consumer" }
+      },
+      {
+        "id": "ch-transport",
+        "name": "Giao thông",
+        "nameEn": "Transportation",
+        "desc": "Road Traffic Act, Aviation Act",
+        "search": { "country": "CH", "q": "transport" }
+      },
+      {
+        "id": "ch-caselaw",
+        "name": "Án lệ",
+        "nameEn": "Case Law",
+        "desc": "Federal Supreme Court decisions",
+        "link": "/cases.html?country=CH"
+      }
+    ]
+  }
+
+}

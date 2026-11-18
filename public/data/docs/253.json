@@ -1,0 +1,220 @@
+{
+ "id": 253,
+ "sourceId": "vn-it-1",
+ "title": "Luật Công nghệ thông tin 2006",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tech",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 253,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về hoạt động ứng dụng và phát triển công nghệ thông tin."
+  },
+  {
+   "id": 6725,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 6504,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 6283,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 6024,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 5803,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 5544,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 5323,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 5102,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 4881,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 4660,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 4439,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 3463,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 3242,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 2977,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 2756,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 2343,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 2122,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 1875,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 1620,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 1399,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 1178,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 822,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  },
+  {
+   "id": 601,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "text": "Luật Công nghệ thông tin 2006.\nĐiều 1. Phạm vi: Hoạt động ứng dụng và phát triển CNTT, quản lý nhà nước về CNTT.\nĐiều 12-18. Hạ tầng CNTT: mạng viễn thông, internet, trung tâm dữ liệu.\nĐiều 21-28. Ứng dụng CNTT: chính phủ điện tử, thương mại điện tử.\nĐiều 69-73. Bảo vệ thông tin cá nhân trên môi trường mạng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

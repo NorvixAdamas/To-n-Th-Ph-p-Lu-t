@@ -1,0 +1,70 @@
+{
+ "id": 353,
+ "sourceId": "cn-fam-1",
+ "title": "Civil Code - Marriage and Family (Luật Gia đình Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "http://english.www.gov.cn/archive/lawsregulations/202012/31/content_WS5fed6ba8c6d0f72576943005.html",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 353,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Provisions in the Civil Code regarding marriage, divorce, and adoption."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 345,
+   "title": "Civil Code of the PRC (Bộ luật Dân sự Trung Quốc)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 347,
+   "title": "Labor Law of the PRC (Luật Lao động Trung Quốc)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 943,
+   "title": "Labor Contract Law PRC 2007",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3041,
+   "title": "Civil Code of the People's Republic of China",
+   "kindLabel": "Bộ luật",
+   "year": 2021
+  }
+ ]
+}

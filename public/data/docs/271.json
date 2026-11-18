@@ -1,0 +1,50 @@
+{
+ "id": 271,
+ "sourceId": "uk-fam-1",
+ "title": "Children Act 1989 (Luật Trẻ em Anh)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+ "tags": [],
+ "fields": [
+  "family"
+ ],
+ "fieldLabels": [
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "GB",
+  "slug": "united-kingdom",
+  "nameVi": "Vương quốc Anh",
+  "nameEn": "United Kingdom",
+  "flag": "🇬🇧",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 271,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "An Act to reform the law relating to children; to provide for local authority services for children in need and others; to amend the law with respect to fostering, child minding and day care."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 893,
+   "title": "Matrimonial Causes Act 1973",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

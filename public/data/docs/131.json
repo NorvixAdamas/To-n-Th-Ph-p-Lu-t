@@ -1,0 +1,222 @@
+{
+ "id": 131,
+ "sourceId": "us-ip-6",
+ "title": "America Invents Act – AIA 2011 (Cải cách Sáng chế)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/112th-congress/house-bill/1249",
+ "tags": [],
+ "fields": [
+  "tax",
+  "ip",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Sở hữu trí tuệ",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6658,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 6437,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 6216,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 5957,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 5736,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 5477,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 5256,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 5035,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 4814,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 4593,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 4372,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 3396,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 3175,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 2910,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 2689,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 2276,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 2055,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 1808,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 1553,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 1332,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 1111,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 755,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 534,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  },
+  {
+   "id": 131,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "America Invents Act (AIA) 2011.\nChuyển hệ thống sáng chế Mỹ từ \"first to invent\" sang \"first inventor to file\" (hiệu lực 16/3/2013).\nInter Partes Review (IPR): quy trình phản đối bằng sáng chế tại PTAB.\nPost-Grant Review (PGR): phản đối trong 9 tháng đầu.\nCovered Business Method (CBM) review.\nMicro-entity: giảm 75% phí USPTO."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

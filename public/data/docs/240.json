@@ -1,0 +1,212 @@
+{
+ "id": 240,
+ "sourceId": "vn-crim-1",
+ "title": "Bộ luật Hình sự 2015",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 240,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về tội phạm và hình phạt trong hệ thống pháp luật Việt Nam."
+  },
+  {
+   "id": 6575,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 6354,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 6133,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 5874,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 5653,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 5394,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 5173,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 4952,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 4731,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 4510,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 4289,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 3313,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 3092,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 2827,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 2606,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 2193,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 1972,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 1725,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 1470,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 1249,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 1028,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 672,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  },
+  {
+   "id": 451,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "text": "BỘ LUẬT HÌNH SỰ 2015 (sửa đổi, bổ sung 2017) – Luật số 100/2015/QH13\n\nPhần thứ nhất: NHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Nhiệm vụ của Bộ luật Hình sự.\nĐiều 2. Cơ sở của trách nhiệm hình sự: Chỉ người nào phạm một tội đã được BLHS quy định mới phải chịu trách nhiệm hình sự.\nĐiều 8. Khái niệm tội phạm: hành vi nguy hiểm cho xã hội được quy định trong BLHS.\nĐiều 9. Phân loại tội phạm: ít nghiêm trọng (≤3 năm), nghiêm trọng (3-7 năm), rất nghiêm trọng (7-15 năm), đặc biệt nghiêm trọng (>15 năm/chung thân/tử hình).\nĐiều 12. Tuổi chịu TNHS: đủ 16 tuổi (mọi tội), đủ 14 tuổi (tội rất nghiêm trọng, đặc biệt nghiêm trọng).\n\nPhần thứ hai: CÁC TỘI PHẠM\nChương XIV: Các tội xâm phạm tính mạng, sức khỏe (Điều 123-156). Điều 123: Tội giết người. Điều 134: Tội cố ý gây thương tích.\nChương XV: Các tội xâm phạm quyền tự do (Điều 157-167).\nChương XVI: Các tội xâm phạm sở hữu (Điều 168-180). Điều 168: Tội cướp tài sản. Điều 173: Tội trộm cắp tài sản. Điều 174: Tội lừa đảo chiếm đoạt tài sản.\nChương XVII: Các tội xâm phạm chế độ hôn nhân và gia đình.\nChương XVIII: Các tội xâm phạm trật tự quản lý kinh tế (Điều 188-234).\nChương XXI: Các tội phạm về ma túy (Điều 247-259).\nChương XXII: Các tội xâm phạm an toàn giao thông (Điều 260-284)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 50,
+   "title": "Luật Thi hành án Hình sự 2019",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 211,
+   "title": "Luật Giám định Tư pháp 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

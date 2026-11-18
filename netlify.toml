@@ -1,0 +1,22 @@
+# Toàn thư luật pháp 2.1 — static hosting, no backend, no build step.
+[build]
+  publish = "public"
+  command = "echo 'Static site: no build step required'"
+
+[[redirects]]
+  from = "/countries/:slug"
+  to = "/countries/:slug/"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"

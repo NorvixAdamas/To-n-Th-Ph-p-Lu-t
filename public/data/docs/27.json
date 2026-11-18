@@ -1,0 +1,230 @@
+{
+ "id": 27,
+ "sourceId": "us-admin-2",
+ "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.ecfr.gov",
+ "tags": [],
+ "fields": [
+  "tax",
+  "criminal",
+  "labor",
+  "tech",
+  "commercial",
+  "environment",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật hình sự",
+  "Luật lao động",
+  "Công nghệ & dữ liệu",
+  "Luật thương mại",
+  "Môi trường",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6554,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 6333,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 6112,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 5853,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 5632,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 5373,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 5152,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 4931,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 4710,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 4489,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 4268,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 3292,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 3071,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 2806,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 2585,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 2172,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 1951,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 1704,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 1449,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 1228,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 1007,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 651,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 430,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  },
+  {
+   "id": 27,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Code of Federal Regulations (CFR).\n50 titles organized by subject area.\nTitle 7: Agriculture. Title 10: Energy. Title 12: Banks and Banking. Title 14: Aeronautics (FAA). Title 17: Commodity and Securities Exchanges. Title 21: Food and Drugs (FDA). Title 26: Internal Revenue (IRS). Title 29: Labor (DOL, OSHA). Title 33: Navigation (Coast Guard). Title 40: Protection of Environment (EPA). Title 47: Telecommunication (FCC). Title 49: Transportation (DOT)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": 909,
+ "sourceId": "sg-emp-extra",
+ "title": "Work Injury Compensation Act (Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/WICA2019",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 909,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Work Injury Compensation Act. Employment labor injury claims. Workplace safety provident fund."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 297,
+   "title": "Employment Act 1968 (Luật Lao động Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 298,
+   "title": "Central Provident Fund Act – CPF (Luật Quỹ Trung ương)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 303,
+   "title": "Employment of Foreign Manpower Act – EFMA (Luật Di trú)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 915,
+   "title": "Immigration Act Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

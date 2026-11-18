@@ -1,0 +1,218 @@
+{
+ "id": 235,
+ "sourceId": "us-trans-1",
+ "title": "Title 49 USC – Transportation",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title49",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6682,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 6461,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 6240,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 5981,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 5760,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 5501,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 5280,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 5059,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 4838,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 4617,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 4396,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 3420,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 3199,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 2934,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 2713,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 2300,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 2079,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 1832,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 1577,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 1356,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 1135,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 779,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 558,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 49 – Transportation.\nSubtitle I: Department of Transportation (DOT). §102: Nhiệm vụ DOT.\nSubtitle III: General and Intermodal Programs.\nSubtitle IV: Interstate Transportation. Surface Transportation Board.\nSubtitle V: Rail Programs.\nSubtitle VI: Motor Vehicle and Driver Programs. NHTSA (National Highway Traffic Safety Administration).\nSubtitle VII: Aviation Programs. FAA."
+  },
+  {
+   "id": 235,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Covers national transportation policies and the role of the Department of Transportation."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 108,
+   "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

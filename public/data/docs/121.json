@@ -1,0 +1,218 @@
+{
+ "id": 121,
+ "sourceId": "us-admin-5",
+ "title": "Federal Register Act (Luật Công báo Liên bang)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.archives.gov/federal-register/laws",
+ "tags": [],
+ "fields": [
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6648,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 6427,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 6206,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 5947,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 5726,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 5467,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 5246,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 5025,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 4804,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 4583,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 4362,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 3386,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 3165,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 2900,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 2679,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 2266,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 2045,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 1798,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 1543,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 1322,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 1101,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 745,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 524,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  },
+  {
+   "id": 121,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Register Act – 44 USC §1501-1511.\nFederal Register: tạp chí chính thức hàng ngày của Chính phủ Hoa Kỳ. Đăng: quy tắc đề xuất (proposed rules), quy tắc chính thức (final rules), sắc lệnh tổng thống, thông báo. Khoảng 70,000 trang/năm."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

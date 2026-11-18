@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "TL",
+  "code3": "TLS",
+  "slug": "timor-leste",
+  "nameVi": "Timor-Leste",
+  "nameEn": "Timor-Leste",
+  "flag": "🇹🇱",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "South-Eastern Asia",
+  "capital": "Dili",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

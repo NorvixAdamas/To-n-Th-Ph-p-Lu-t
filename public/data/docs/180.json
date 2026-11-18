@@ -1,0 +1,224 @@
+{
+ "id": 180,
+ "sourceId": "vn-ip-3",
+ "title": "Luật Khoa học và Công nghệ 2013",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "tech",
+  "enterprise",
+  "education"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Công nghệ & dữ liệu",
+  "Luật doanh nghiệp & đầu tư",
+  "Giáo dục"
+ ],
+ "year": 2014,
+ "effectiveDate": "2014-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6707,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 6486,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 6265,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 6006,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 5785,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 5526,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 5305,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 5084,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 4863,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 4642,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 4421,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 3445,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 3224,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 2959,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 2738,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 2325,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 2104,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 1857,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 1602,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 1381,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 1160,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 804,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 583,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  },
+  {
+   "id": 180,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Khoa học và Công nghệ 2013.\nĐiều 1. Phạm vi: Tổ chức, cá nhân hoạt động KH&CN, quỹ phát triển KH&CN, ưu đãi.\nĐiều 26-32. Tổ chức KH&CN: viện nghiên cứu, trường ĐH, doanh nghiệp KH&CN.\nĐiều 39-46. Nhiệm vụ KH&CN: đề tài, dự án, đặt hàng.\nĐiều 62-63. Quỹ phát triển KH&CN doanh nghiệp: trích 3-10% thu nhập tính thuế."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 61,
+   "title": "Luật Thuế tài nguyên 2009",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  }
+ ]
+}

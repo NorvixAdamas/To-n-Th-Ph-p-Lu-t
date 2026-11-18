@@ -1,0 +1,220 @@
+{
+ "id": 18,
+ "sourceId": "us-com-3",
+ "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.sec.gov/about/laws/sa33.pdf",
+ "tags": [],
+ "fields": [
+  "commercial",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật thương mại",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6545,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 6324,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 6103,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 5844,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 5623,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 5364,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 5143,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 4922,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 4701,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 4480,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 4259,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 3283,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 3062,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 2797,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 2576,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 2163,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 1942,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 1695,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 1440,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 1219,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 998,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 642,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 421,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  },
+  {
+   "id": 18,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Securities Act of 1933 (15 USC §77a et seq.). Regulates the initial offering of securities. §5: Registration requirement. §11: Civil liability for false registration statement. §12: Civil liability. §17: Fraudulent interstate transactions. Regulation D: Exemptions (Rule 504, 505, 506). Regulation A: Small offerings."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

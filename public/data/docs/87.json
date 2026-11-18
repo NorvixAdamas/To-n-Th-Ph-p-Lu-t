@@ -1,0 +1,220 @@
+{
+ "id": 87,
+ "sourceId": "vn-env-2",
+ "title": "Luật Xây dựng 2014 (sửa đổi 2020)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "land",
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở",
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2021,
+ "effectiveDate": "2021-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6614,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 6393,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 6172,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 5913,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 5692,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 5433,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 5212,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 4991,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 4770,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 4549,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 4328,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 3352,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 3131,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 2866,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 2645,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 2232,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 2011,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 1764,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 1509,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 1288,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 1067,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 711,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 490,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  },
+  {
+   "id": 87,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Xây dựng 2014 (sửa đổi 2020).\nĐiều 1. Phạm vi: Quản lý đầu tư xây dựng.\nĐiều 49-56. Giấy phép xây dựng. Điều 78-89. Quản lý thi công xây dựng.\nĐiều 110-113. An toàn trong thi công xây dựng.\nĐiều 118-123. Quản lý chi phí đầu tư xây dựng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 74,
+   "title": "Luật Phá sản 2014",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 75,
+   "title": "Luật Hợp tác xã 2023",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

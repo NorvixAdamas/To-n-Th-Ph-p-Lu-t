@@ -1,0 +1,224 @@
+{
+ "id": 24,
+ "sourceId": "us-labor-4",
+ "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.ada.gov/law-and-regs/ada/",
+ "tags": [],
+ "fields": [
+  "labor",
+  "tech",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Công nghệ & dữ liệu",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6551,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 6330,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 6109,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 5850,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 5629,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 5370,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 5149,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 4928,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 4707,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 4486,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 4265,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 3289,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 3068,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 2803,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 2582,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 2169,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 1948,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 1701,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 1446,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 1225,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 1004,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 648,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 427,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  },
+  {
+   "id": 24,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Americans with Disabilities Act (ADA) – 42 USC §12101 et seq.\nTitle I: Employment. Prohibits discrimination against qualified individuals with disabilities. Reasonable accommodation requirement. Undue hardship defense.\nTitle II: Public services (state and local government).\nTitle III: Public accommodations and services operated by private entities.\nTitle IV: Telecommunications.\nTitle V: Miscellaneous provisions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

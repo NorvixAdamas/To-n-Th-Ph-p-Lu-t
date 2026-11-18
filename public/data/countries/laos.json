@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "LA",
+  "code3": "LAO",
+  "slug": "laos",
+  "nameVi": "Lào",
+  "nameEn": "Laos",
+  "flag": "🇱🇦",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "South-Eastern Asia",
+  "capital": "Vientiane",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

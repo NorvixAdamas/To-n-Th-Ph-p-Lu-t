@@ -1,0 +1,29 @@
+{
+ "id": 42,
+ "sourceId": "cn-case-1",
+ "name": "Qiao Zhanxing Case (2001)",
+ "court": "Supreme People's Court",
+ "docket": "Qi Zhuan Case 2001",
+ "dateDecided": "2001-08-13",
+ "year": 2001,
+ "summary": "A \"Guiding Case\" often cited in discussions of constitutionalism in China, involving the direct application of constitutional provisions regarding the right to education.",
+ "fields": [
+  "education"
+ ],
+ "fieldLabels": [
+  "Giáo dục"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "http://www.court.gov.cn/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "related": []
+}

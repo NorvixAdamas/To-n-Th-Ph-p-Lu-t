@@ -3,90 +3,142 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Giới thiệu - Toàn thư luật pháp</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <title>Giới thiệu – Toàn thư luật pháp 2.1</title>
+  <meta name="description" content="Toàn thư luật pháp 2.1 là thư viện pháp luật toàn cầu tĩnh, không backend, không database trực tuyến, có thể deploy trực tiếp lên Netlify.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/encyclopedia.css">
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
-      <a href="/" class="logo">Toàn thư luật pháp</a>
-      <nav>
-        <a href="/">Trang chủ</a>
-        <a href="/muc-luc.html">Mục lục</a>
-        <a href="/intro.html">Giới thiệu</a>
-        <a href="/guide.html">Hướng dẫn</a>
-        <a href="/search.html">Tra cứu</a>
-        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
-        <a href="/cases.html">Án lệ</a>
+    <div class="container header-inner">
+      <a href="./" class="logo" aria-label="Toàn thư luật pháp 2.1 – Trang chủ">
+        <span class="logo-seal">§</span>
+        <span class="logo-text">Toàn thư luật pháp <small>2.1</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Điều hướng chính">
+        <a href="countries.html">Quốc gia</a>
+        <a href="search.html">Tra cứu</a>
+        <a href="cases.html">Án lệ</a>
+        <a href="topics.html">Chủ đề</a>
+        <a href="treaties.html">Điều ước</a>
+        <a href="coverage.html">Độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
       </nav>
     </div>
   </header>
-  <main class="container page-intro">
-    <h1>Lời nói đầu</h1>
-    <p class="lead">Toàn thư luật pháp là bộ sách tham khảo trực tuyến về pháp luật <strong>Hoa Kỳ</strong> và <strong>Việt Nam</strong>, mốc thời gian <strong>2026</strong>.</p>
 
-    <section class="intro-section">
-      <h2>Toàn thư này là gì?</h2>
-      <p>Đây là website tập hợp và tổ chức <strong>văn bản quy phạm pháp luật, án lệ, luật thuế</strong> từ nguồn công khai của hai quốc gia. Nội dung được sắp xếp theo cấu trúc <strong>Phần – Chương – Mục</strong> như một quyển sách tra cứu, giúp người đọc dễ dàng tìm đúng lĩnh vực luật cần xem.</p>
-      <p>Toàn thư bao gồm <strong>toàn bộ cấu trúc luật hiện có năm 2026</strong> của cả Hoa Kỳ và Việt Nam — từ Hiến pháp, Bộ luật, Luật chuyên ngành cho đến Nghị định, Thông tư, Quy định và Án lệ.</p>
+  <main class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="./">Trang chủ</a><span>/</span><span>Giới thiệu</span>
+    </nav>
+
+    <section class="page-hero">
+      <div class="eyebrow">Về dự án</div>
+      <h1>Một thư viện pháp luật toàn cầu, không cần server</h1>
+      <p>
+        Toàn thư luật pháp 2.1 là bản viết lại theo hướng tĩnh của website tra cứu pháp luật đa quốc gia.
+        Mục tiêu là một thư viện nhẹ, dễ đọc, dễ mở rộng và có thể deploy trực tiếp lên Netlify mà không
+        cần backend, API, đăng nhập hay cơ sở dữ liệu trực tuyến.
+      </p>
     </section>
 
-    <section class="intro-section">
-      <h2>Cấu trúc toàn thư</h2>
-      <div class="intro-parts">
-        <div class="intro-part">
-          <h3>Phần I – Giới thiệu &amp; Cách dùng</h3>
-          <p>Trang bạn đang đọc, cùng với <a href="/guide.html">Hướng dẫn sử dụng</a>.</p>
+    <section class="section-block mt-0">
+      <div class="section-head"><div><div class="eyebrow">Kiến trúc</div><h2>Chỉ HTML, CSS, JavaScript và JSON</h2></div></div>
+      <div class="two-col">
+        <div class="panel">
+          <h3>Không có backend</h3>
+          <p class="lead">
+            Website không chạy Express, không có API server, không dùng PostgreSQL, Supabase, Neon hay D1.
+            Mọi dữ liệu nằm trong các file JSON tĩnh và được tải bằng <code>fetch()</code> khi người dùng mở trang.
+          </p>
         </div>
-        <div class="intro-part">
-          <h3>Phần II – Luật Hoa Kỳ</h3>
-          <p>Luật liên bang (statutes, regulations), thuế, án lệ và tất cả chủ đề pháp luật Mỹ.</p>
+        <div class="panel">
+          <h3>Tách dữ liệu theo quốc gia</h3>
+          <p class="lead">
+            Danh mục, văn bản, vụ án và chỉ mục tìm kiếm được tách thành nhiều file. Trang quốc gia chỉ tải
+            dữ liệu của quốc gia đó; trang văn bản chỉ tải đúng file của văn bản đang xem.
+          </p>
         </div>
-        <div class="intro-part">
-          <h3>Phần III – Luật Việt Nam</h3>
-          <p>Văn bản QPPL, Bộ luật, Luật chuyên ngành, thuế, án lệ Việt Nam.</p>
+        <div class="panel">
+          <h3>Deploy tĩnh</h3>
+          <p class="lead">
+            Thư mục publish là <code>public</code>. Không có bước build bắt buộc khi deploy, không có biến môi trường,
+            không có tiến trình chạy thường trực. Các đường dẫn quốc gia dạng <code>/countries/vietnam/</code>
+            hoạt động khi refresh.
+          </p>
         </div>
-        <div class="intro-part">
-          <h3>Phần IV – Tra cứu &amp; Chủ đề</h3>
-          <p>Tra cứu theo từ khóa, theo chủ đề (thuế, lao động, hình sự, dân sự…), luật hiệu lực 2026.</p>
+        <div class="panel">
+          <h3>Dữ liệu có nguồn</h3>
+          <p class="lead">
+            Mỗi văn bản và vụ án đều cố gắng giữ đường dẫn nguồn chính thức. Khi chưa có dữ liệu, trang ghi rõ
+            “Chưa có dữ liệu” thay vì tạo nội dung giả. Báo cáo độ phủ công khai số quốc gia đã và chưa có dữ liệu.
+          </p>
         </div>
       </div>
     </section>
 
-    <section class="intro-section">
-      <h2>Dành cho ai?</h2>
-      <div class="intro-audience">
-        <div class="audience-card">
-          <h3>Sinh viên luật</h3>
-          <p>Ôn tập, nghiên cứu văn bản gốc, so sánh luật hai nước. Mở <a href="/muc-luc.html">Mục lục</a> để bắt đầu theo chương.</p>
-        </div>
-        <div class="audience-card">
-          <h3>Luật sư</h3>
-          <p>Tra nhanh văn bản, thuế, án lệ. Dùng <a href="/search.html">Tra cứu</a> để tìm theo từ khóa hoặc số hiệu.</p>
-        </div>
-        <div class="audience-card">
-          <h3>Thẩm phán</h3>
-          <p>Tham khảo án lệ, văn bản hiệu lực. Xem <a href="/cases.html">Án lệ</a> và <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>.</p>
-        </div>
-        <div class="audience-card">
-          <h3>Doanh nghiệp &amp; Công dân</h3>
-          <p>Tìm hiểu luật liên quan (thuế, lao động, đất đai…). Không cần biết tên luật — gõ từ thường là đủ.</p>
-        </div>
+    <section class="section-block">
+      <div class="section-head"><div><div class="eyebrow">Phạm vi</div><h2>195 quốc gia, 7 khu vực</h2></div><a href="countries.html">Mở danh mục →</a></div>
+      <p class="lead">
+        Danh mục gồm 193 quốc gia thành viên Liên Hợp Quốc cùng Palestine và Vatican, chia thành Châu Á,
+        Châu Âu, Châu Phi, Bắc Mỹ, Nam Mỹ, Châu Đại Dương và Trung Đông. Mỗi quốc gia có một trang riêng với
+        19 nhóm nội dung theo yêu cầu: hiến pháp, bộ luật, đạo luật, nghị định, thông tư, án lệ, bản án, tòa án,
+        thuế, dân sự, hình sự, thương mại, lao động, đất đai, doanh nghiệp, sở hữu trí tuệ, công nghệ &amp; dữ liệu
+        và các lĩnh vực khác.
+      </p>
+      <p class="lead">
+        Bộ dữ liệu hiện tại tập trung vào 13 quốc gia có văn bản và án lệ. Các quốc gia còn lại có trang
+        nhưng hiển thị trạng thái chưa có dữ liệu. Xem <a href="coverage.html">báo cáo độ phủ</a> để biết chi tiết.
+      </p>
+    </section>
+
+    <section class="section-block">
+      <div class="section-head"><div><div class="eyebrow">Nguyên tắc</div><h2>Điều website cố gắng giữ</h2></div></div>
+      <ul class="toc-links">
+        <li>Không bịa văn bản, vụ án, số hiệu, ngày ban hành hay cơ quan ban hành.</li>
+        <li>Không hiển thị thống kê không tính từ dữ liệu thật.</li>
+        <li>Không tải toàn bộ kho dữ liệu cùng lúc; ưu tiên tải theo nhu cầu.</li>
+        <li>Không phân phối lại toàn văn khi nguồn không cho phép; khi cần, chỉ hiển thị thông tin thư mục và liên kết nguồn.</li>
+        <li>Không thay thế tư vấn pháp lý hay văn bản chính thức.</li>
+      </ul>
+    </section>
+
+    <section class="section-block">
+      <div class="empty-state">
+        <h2>Bạn muốn đóng góp dữ liệu?</h2>
+        <p>
+          Quy trình thêm quốc gia, văn bản và vụ án được mô tả trong README của dự án. Dữ liệu đầu vào có thể
+          được nhập vào SQLite trên máy cá nhân, sau đó chạy script build để sinh JSON tĩnh và deploy lại website.
+        </p>
+        <p><a class="btn" href="guide.html#cap-nhat-du-lieu">Xem hướng dẫn cập nhật dữ liệu</a></p>
       </div>
     </section>
 
-    <section class="intro-section intro-cta">
-      <a href="/muc-luc.html" class="btn btn-primary">Mở mục lục</a>
-      <a href="/cau-truc-luat-2026.html" class="btn" style="margin-left:0.5rem">Cấu trúc luật 2026</a>
-      <a href="/search.html" class="btn" style="margin-left:0.5rem">Tra cứu</a>
-    </section>
-
-    <p class="disclaimer">Dữ liệu tham khảo từ nguồn công khai, không thay thế văn bản chính thức hay tư vấn pháp lý.</p>
+    <p class="disclaimer">
+      Website chỉ dùng cho mục đích tham khảo và học tập. Khi cần áp dụng pháp luật vào một việc cụ thể,
+      hãy đối chiếu văn bản gốc tại nguồn chính thức hoặc tham vấn người có chuyên môn.
+    </p>
   </main>
+
   <footer class="site-footer">
-    <div class="container">
-      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <strong>Toàn thư luật pháp 2.1</strong>
+        <p>Thư viện tra cứu văn bản luật và án lệ toàn cầu, chạy hoàn toàn tĩnh trên Netlify.</p>
+      </div>
+      <div class="footer-links">
+        <a href="guide.html">Hướng dẫn</a>
+        <a href="coverage.html">Báo cáo độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+        <a href="https://github.com/NorvixAdamas/toanthuluat" target="_blank" rel="noopener">Mã nguồn</a>
+      </div>
+    </div>
+    <div class="container footer-note">
+      <p>Nội dung chỉ để tham khảo, không thay thế văn bản chính thức hay tư vấn pháp lý. Luôn đối chiếu nguồn của cơ quan ban hành.</p>
     </div>
   </footer>
+
+  <script src="js/core.js"></script>
 </body>
 </html>

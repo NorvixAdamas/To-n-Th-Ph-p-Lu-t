@@ -1,0 +1,72 @@
+{
+ "id": 3033,
+ "sourceId": "in-deep-1",
+ "title": "Indian Contract Act 1872",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://legislative.gov.in/actno-9-of-1872/",
+ "tags": [
+  "in-deep",
+  "civil",
+  "contract"
+ ],
+ "fields": [
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật dân sự"
+ ],
+ "year": 1872,
+ "effectiveDate": "1872-09-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "IN",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 3033,
+   "effectiveDate": "1872-09-01",
+   "repealDate": null,
+   "text": "Foundation of Indian contract law including offer, acceptance, consideration, indemnity and guarantee."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 381,
+   "title": "Code of Civil Procedure (Bộ luật Tố tụng Dân sự Ấn Độ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 389,
+   "title": "Hindu Marriage Act (Luật Gia đình Ấn Độ)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 962,
+   "title": "Transfer of Property Act 1882 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 971,
+   "title": "Special Marriage Act 1954 India",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

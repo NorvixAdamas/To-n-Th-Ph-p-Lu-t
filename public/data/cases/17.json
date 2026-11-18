@@ -1,0 +1,56 @@
+{
+ "id": 17,
+ "sourceId": "us-case-9",
+ "name": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+ "court": "Supreme Court of the United States",
+ "docket": "376 U.S. 254",
+ "dateDecided": "1964-03-09",
+ "year": 1964,
+ "summary": "Xác lập tiêu chuẩn \"actual malice\" cho kiện phỉ báng (defamation) nhân vật công. Để thắng kiện, nhân vật công phải chứng minh phát ngôn sai sự thật được đưa ra với \"actual malice\" – biết là sai hoặc bất cần sự thật (reckless disregard for the truth). Bảo vệ quyền tự do báo chí Tu chính án 1.",
+ "fields": [
+  "tax",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Y tế"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://supreme.justia.com/cases/federal/us/376/254/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "related": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "court": "Supreme Court of the United States",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "court": "Supreme Court of the United States",
+   "year": 2022
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "court": "Supreme Court of the United States",
+   "year": 2015
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "court": "Supreme Court of the United States",
+   "year": 2010
+  }
+ ]
+}

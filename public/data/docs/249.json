@@ -1,0 +1,218 @@
+{
+ "id": 249,
+ "sourceId": "vn-edu-1",
+ "title": "Luật Giáo dục 2019",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "education"
+ ],
+ "fieldLabels": [
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 249,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học."
+  },
+  {
+   "id": 6616,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 6395,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 6174,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 5915,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 5694,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 5435,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 5214,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 4993,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 4772,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 4551,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 4330,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 3354,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 3133,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 2868,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 2647,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 2234,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 2013,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 1766,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 1511,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 1290,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 1069,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 713,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  },
+  {
+   "id": 492,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Giáo dục 2019 (Luật số 43/2019/QH14).\nĐiều 1. Phạm vi: Hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học.\nĐiều 6. Hệ thống giáo dục quốc dân: giáo dục mầm non, giáo dục phổ thông (tiểu học, THCS, THPT), giáo dục nghề nghiệp, giáo dục đại học.\nĐiều 28. Chương trình giáo dục phổ thông.\nĐiều 66-70. Nhà giáo: tiêu chuẩn, quyền, nghĩa vụ.\nĐiều 83-86. Người học: quyền và nghĩa vụ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 73,
+   "title": "Luật Cạnh tranh 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 84,
+   "title": "Luật Ngân hàng Nhà nước Việt Nam 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  }
+ ]
+}

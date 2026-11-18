@@ -1,0 +1,50 @@
+{
+ "id": 920,
+ "sourceId": "de-lab-extra",
+ "title": "Kündigungsschutzgesetz – KSchG (Protection against Dismissal)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/kschg/",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 920,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Kündigungsschutzgesetz KSchG. Protection against dismissal. Labor arbeidsrecht employment collective bargaining."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 310,
+   "title": "Arbeitsrecht (Luật Lao động Đức)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "id": 138,
+ "sourceId": "us-env-6",
+ "title": "Endangered Species Act – ESA (Luật Bảo vệ Loài nguy cấp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fws.gov/law/endangered-species-act",
+ "tags": [],
+ "fields": [
+  "environment",
+  "health"
+ ],
+ "fieldLabels": [
+  "Môi trường",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6665,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 6444,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 6223,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 5964,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 5743,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 5484,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 5263,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 5042,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 4821,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 4600,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 4379,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 3403,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 3182,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 2917,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 2696,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 2283,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 2062,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 1815,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 1560,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 1339,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 1118,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 762,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 541,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  },
+  {
+   "id": 138,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Endangered Species Act (ESA) – 16 USC §1531 et seq.\n§4: Liệt kê loài nguy cấp/bị đe dọa (endangered/threatened). §7: Tham vấn liên cơ quan – dự án liên bang không được gây hại loài được liệt kê. §9: Cấm \"take\" (giết, bắt, quấy rối) loài nguy cấp. §10: Giấy phép incidental take cho hoạt động tư nhân kèm Habitat Conservation Plan."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "id": 143,
+ "sourceId": "us-tel-6",
+ "title": "Section 230 – Communications Decency Act (Miễn trừ Trách nhiệm Nền tảng)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.law.cornell.edu/uscode/text/47/230",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6670,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 6449,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 6228,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 5969,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 5748,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 5489,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 5268,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 5047,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 4826,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 4605,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 4384,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 3408,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 3187,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 2922,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 2701,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 2288,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 2067,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 1820,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 1565,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 1344,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 1123,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 767,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 546,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  },
+  {
+   "id": 143,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Section 230 – Communications Decency Act (47 USC §230).\n§230(c)(1): \"No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.\" Miễn trừ trách nhiệm cho nền tảng về nội dung do người dùng đăng.\n§230(c)(2): Bảo vệ khi nền tảng kiểm duyệt nội dung (good faith moderation). Ngoại lệ: luật hình sự liên bang, SHTT, FOSTA."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

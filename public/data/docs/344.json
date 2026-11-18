@@ -1,0 +1,43 @@
+{
+ "id": 344,
+ "sourceId": "cn-const-1",
+ "title": "Constitution of the PRC (Hiến pháp Trung Quốc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.shtml",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 344,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Fundamental law of the People's Republic of China, socialist system."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

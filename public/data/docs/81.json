@@ -1,0 +1,222 @@
+{
+ "id": 81,
+ "sourceId": "vn-fam-3",
+ "title": "Luật Phòng, chống bạo lực gia đình 2022",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2023,
+ "effectiveDate": "2023-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6608,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 6387,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 6166,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 5907,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 5686,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 5427,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 5206,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 4985,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 4764,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 4543,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 4322,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 3346,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 3125,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 2860,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 2639,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 2226,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 2005,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 1758,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 1503,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 1282,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 1061,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 705,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 484,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  },
+  {
+   "id": 81,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bạo lực gia đình 2022.\nĐiều 1. Phạm vi: Phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi bạo lực gia đình.\nĐiều 3. Hành vi bạo lực gia đình: hành hạ, ngược đãi, đánh đập; xúc phạm; cô lập; cưỡng ép lao động; kiểm soát tài chính, tài sản.\nĐiều 22-25. Biện pháp ngăn chặn: buộc chấm dứt, cấm tiếp xúc, bố trí nơi tạm lánh."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 67,
+   "title": "Luật An toàn, Vệ sinh Lao động 2015",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  }
+ ]
+}

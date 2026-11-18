@@ -1,0 +1,46 @@
+{
+ "id": 3043,
+ "sourceId": "cn-deep-3",
+ "title": "Personal Information Protection Law",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://english.www.gov.cn/archive/laws_regulations/202112/29/content_WS61cc98fbc6d09c94e48a0b02.html",
+ "tags": [
+  "cn-deep",
+  "data"
+ ],
+ "fields": [
+  "tech"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2021,
+ "effectiveDate": "2021-11-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "CN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 3043,
+   "effectiveDate": "2021-11-01",
+   "repealDate": null,
+   "text": "China's principal personal information and privacy law."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

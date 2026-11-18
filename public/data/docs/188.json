@@ -1,0 +1,222 @@
+{
+ "id": 188,
+ "sourceId": "vn-trans-3",
+ "title": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "civil",
+  "immigration",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Di trú & quốc tịch",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2015,
+ "effectiveDate": "2015-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6715,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 6494,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 6273,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 6014,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 5793,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 5534,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 5313,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 5092,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 4871,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 4650,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 4429,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 3453,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 3232,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 2967,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 2746,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 2333,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 2112,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 1865,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 1610,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 1389,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 1168,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 812,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 591,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  },
+  {
+   "id": 188,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014).\nĐiều 1. Phạm vi: Hoạt động hàng không dân dụng trên lãnh thổ Việt Nam.\nĐiều 8-14. Cảng hàng không, sân bay. Điều 36-42. Đăng ký, quốc tịch tàu bay.\nĐiều 107-120. Vận chuyển hàng không: hợp đồng vận chuyển, trách nhiệm bồi thường.\nĐiều 147-155. An ninh hàng không."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2006
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "kindLabel": "Đạo luật",
+   "year": 2023
+  }
+ ]
+}

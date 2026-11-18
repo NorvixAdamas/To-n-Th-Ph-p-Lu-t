@@ -1,0 +1,220 @@
+{
+ "id": 20,
+ "sourceId": "us-com-5",
+ "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.law.cornell.edu/ucc",
+ "tags": [],
+ "fields": [
+  "enterprise",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6547,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 6326,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 6105,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 5846,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 5625,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 5366,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 5145,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 4924,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 4703,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 4482,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 4261,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 3285,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 3064,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 2799,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 2578,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 2165,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 1944,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 1697,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 1442,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 1221,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 1000,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 644,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 423,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  },
+  {
+   "id": 20,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Commercial Code (UCC) – adopted in all 50 states with variations.\nArticle 1: General provisions. Article 2: Sales. Article 2A: Leases. Article 3: Negotiable instruments. Article 4: Bank deposits and collections. Article 4A: Funds transfers. Article 5: Letters of credit. Article 6: Bulk sales. Article 7: Warehouse receipts, bills of lading. Article 8: Investment securities. Article 9: Secured transactions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

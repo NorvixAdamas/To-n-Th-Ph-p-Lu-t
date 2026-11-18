@@ -1,0 +1,522 @@
+{
+ "generatedAt": "2026-11-07",
+ "stats": {
+  "countries": 195,
+  "withData": 13,
+  "documents": 501,
+  "cases": 46,
+  "versions": 5515,
+  "fields": 18,
+  "sources": 84,
+  "fullTextDocuments": 2,
+  "fullTextCountries": 1,
+  "fullTextCharacters": 28847,
+  "updatedAt": "2026-04-03 02:38:01"
+ },
+ "regions": [
+  {
+   "key": "asia",
+   "name": "Châu Á",
+   "icon": "🌏",
+   "blurb": "Đông Bắc Á, Đông Nam Á và Nam Á",
+   "countries": 32,
+   "withData": 6,
+   "documents": 241,
+   "cases": 23,
+   "fullTextDocuments": 0
+  },
+  {
+   "key": "europe",
+   "name": "Châu Âu",
+   "icon": "🏛️",
+   "blurb": "Liên minh châu Âu và các quốc gia lân cận",
+   "countries": 45,
+   "withData": 4,
+   "documents": 105,
+   "cases": 7,
+   "fullTextDocuments": 0
+  },
+  {
+   "key": "africa",
+   "name": "Châu Phi",
+   "icon": "🌍",
+   "blurb": "Bắc Phi, Tây Phi, Đông Phi, Trung Phi và Nam Phi",
+   "countries": 54,
+   "withData": 0,
+   "documents": 0,
+   "cases": 0,
+   "fullTextDocuments": 0
+  },
+  {
+   "key": "north-america",
+   "name": "Bắc Mỹ",
+   "icon": "🌎",
+   "blurb": "Bắc Mỹ, Trung Mỹ và vùng Caribbean",
+   "countries": 23,
+   "withData": 2,
+   "documents": 134,
+   "cases": 15,
+   "fullTextDocuments": 2
+  },
+  {
+   "key": "south-america",
+   "name": "Nam Mỹ",
+   "icon": "🌎",
+   "blurb": "12 quốc gia Nam Mỹ",
+   "countries": 12,
+   "withData": 0,
+   "documents": 0,
+   "cases": 0,
+   "fullTextDocuments": 0
+  },
+  {
+   "key": "oceania",
+   "name": "Châu Đại Dương",
+   "icon": "🌊",
+   "blurb": "Úc, New Zealand và các đảo Thái Bình Dương",
+   "countries": 14,
+   "withData": 1,
+   "documents": 21,
+   "cases": 1,
+   "fullTextDocuments": 0
+  },
+  {
+   "key": "middle-east",
+   "name": "Trung Đông",
+   "icon": "🕌",
+   "blurb": "Tây Á và các quốc gia vùng Vịnh",
+   "countries": 15,
+   "withData": 0,
+   "documents": 0,
+   "cases": 0,
+   "fullTextDocuments": 0
+  }
+ ],
+ "countries": [
+  {
+   "code": "VN",
+   "slug": "vietnam",
+   "nameVi": "Việt Nam",
+   "flag": "🇻🇳",
+   "documents": 116,
+   "cases": 17,
+   "legalFamily": "Dân luật xã hội chủ nghĩa"
+  },
+  {
+   "code": "US",
+   "slug": "united-states",
+   "nameVi": "Hoa Kỳ",
+   "flag": "🇺🇸",
+   "documents": 114,
+   "cases": 14,
+   "legalFamily": "Common law liên bang, bang có hệ thống riêng"
+  },
+  {
+   "code": "GB",
+   "slug": "united-kingdom",
+   "nameVi": "Vương quốc Anh",
+   "flag": "🇬🇧",
+   "documents": 33,
+   "cases": 3,
+   "legalFamily": "Common law, không có hiến pháp thành văn duy nhất"
+  },
+  {
+   "code": "SG",
+   "slug": "singapore",
+   "nameVi": "Singapore",
+   "flag": "🇸🇬",
+   "documents": 32,
+   "cases": 2,
+   "legalFamily": "Hệ thống hỗn hợp common law và dân luật"
+  },
+  {
+   "code": "IN",
+   "slug": "india",
+   "nameVi": "Ấn Độ",
+   "flag": "🇮🇳",
+   "documents": 26,
+   "cases": 1,
+   "legalFamily": "Common law"
+  },
+  {
+   "code": "DE",
+   "slug": "germany",
+   "nameVi": "Đức",
+   "flag": "🇩🇪",
+   "documents": 25,
+   "cases": 1,
+   "legalFamily": "Dân luật (civil law)"
+  },
+  {
+   "code": "CH",
+   "slug": "switzerland",
+   "nameVi": "Thụy Sĩ",
+   "flag": "🇨🇭",
+   "documents": 24,
+   "cases": 1,
+   "legalFamily": "Dân luật liên bang"
+  },
+  {
+   "code": "JP",
+   "slug": "japan",
+   "nameVi": "Nhật Bản",
+   "flag": "🇯🇵",
+   "documents": 23,
+   "cases": 1,
+   "legalFamily": "Dân luật, chịu ảnh hưởng Đức và Hoa Kỳ"
+  },
+  {
+   "code": "FR",
+   "slug": "france",
+   "nameVi": "Pháp",
+   "flag": "🇫🇷",
+   "documents": 23,
+   "cases": 2,
+   "legalFamily": "Dân luật (civil law)"
+  },
+  {
+   "code": "CN",
+   "slug": "china",
+   "nameVi": "Trung Quốc",
+   "flag": "🇨🇳",
+   "documents": 23,
+   "cases": 1,
+   "legalFamily": "Dân luật xã hội chủ nghĩa"
+  },
+  {
+   "code": "AU",
+   "slug": "australia",
+   "nameVi": "Australia",
+   "flag": "🇦🇺",
+   "documents": 21,
+   "cases": 1,
+   "legalFamily": "Common law liên bang"
+  },
+  {
+   "code": "KR",
+   "slug": "south-korea",
+   "nameVi": "Hàn Quốc",
+   "flag": "🇰🇷",
+   "documents": 21,
+   "cases": 1,
+   "legalFamily": "Dân luật, chịu ảnh hưởng Đức và Nhật Bản"
+  },
+  {
+   "code": "CA",
+   "slug": "canada",
+   "nameVi": "Canada",
+   "flag": "🇨🇦",
+   "documents": 20,
+   "cases": 1,
+   "legalFamily": "Hệ thống hỗn hợp common law và dân luật"
+  }
+ ],
+ "latestDocs": [
+  {
+   "id": 3013,
+   "title": "Bürgerliches Gesetzbuch (BGB)",
+   "countryName": "Đức",
+   "countrySlug": "germany",
+   "flag": "🇩🇪",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3014,
+   "title": "Strafgesetzbuch (StGB)",
+   "countryName": "Đức",
+   "countrySlug": "germany",
+   "flag": "🇩🇪",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Luật hình sự"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3015,
+   "title": "Handelsgesetzbuch (HGB)",
+   "countryName": "Đức",
+   "countrySlug": "germany",
+   "flag": "🇩🇪",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Luật thương mại"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3016,
+   "title": "Bundesdatenschutzgesetz (BDSG)",
+   "countryName": "Đức",
+   "countrySlug": "germany",
+   "flag": "🇩🇪",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Công nghệ & dữ liệu",
+    "Hành chính"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3017,
+   "title": "Civil Code of Japan",
+   "countryName": "Nhật Bản",
+   "countrySlug": "japan",
+   "flag": "🇯🇵",
+   "kindLabel": "Bộ luật",
+   "year": 2026,
+   "fields": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3019,
+   "title": "Companies Act of Japan",
+   "countryName": "Nhật Bản",
+   "countrySlug": "japan",
+   "flag": "🇯🇵",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3020,
+   "title": "Act on the Protection of Personal Information",
+   "countryName": "Nhật Bản",
+   "countrySlug": "japan",
+   "flag": "🇯🇵",
+   "kindLabel": "Đạo luật",
+   "year": 2026,
+   "fields": [
+    "Công nghệ & dữ liệu"
+   ],
+   "hasFullText": false
+  },
+  {
+   "id": 3026,
+   "title": "Criminal Code",
+   "countryName": "Canada",
+   "countrySlug": "canada",
+   "flag": "🇨🇦",
+   "kindLabel": "Bộ luật",
+   "year": 2026,
+   "fields": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "hasFullText": false
+  }
+ ],
+ "featuredCases": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "court": "Supreme Court of the United States",
+   "year": 2024,
+   "countryName": "Hoa Kỳ",
+   "countrySlug": "united-states",
+   "flag": "🇺🇸",
+   "summary": "Lật đổ Chevron deference (1984). Tòa Tối cao: Tòa án phải tự mình giải thích luật liên bang, không được nhường (defer) cho cơ quan hành chính. \"Courts must exercise their independent judgmen"
+  },
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "year": 2024,
+   "countryName": "Việt Nam",
+   "countrySlug": "vietnam",
+   "flag": "🇻🇳",
+   "summary": "Nguồn án công khai chính thức về tranh chấp hợp đồng mua bán nhà."
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022,
+   "countryName": "Việt Nam",
+   "countrySlug": "vietnam",
+   "flag": "🇻🇳",
+   "summary": "Về vấn đề: Khi người sử dụng lao động đơn phương chấm dứt HĐLĐ trái pháp luật, phải bồi thường cho NLĐ tiền lương trong những ngày không được làm việc, trợ cấp thôi việc, và khoản bồi thường"
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022,
+   "countryName": "Việt Nam",
+   "countrySlug": "vietnam",
+   "flag": "🇻🇳",
+   "summary": "Về vấn đề: Khi doanh nghiệp bán hàng hóa không đúng chất lượng công bố, người tiêu dùng có quyền yêu cầu đổi hàng, trả hàng, bồi thường thiệt hại. Doanh nghiệp có nghĩa vụ chứng minh hàng hó"
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "court": "Supreme Court of the United States",
+   "year": 2022,
+   "countryName": "Hoa Kỳ",
+   "countrySlug": "united-states",
+   "flag": "🇺🇸",
+   "summary": "Tòa Tối cao lật đổ Roe v. Wade, trả quyền quy định phá thai về cho các bang. \"The Constitution does not confer a right to abortion.\""
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021,
+   "countryName": "Việt Nam",
+   "countrySlug": "vietnam",
+   "flag": "🇻🇳",
+   "summary": "Về vấn đề: Xác định trách nhiệm bồi thường thiệt hại do ô nhiễm môi trường. Bên gây ô nhiễm phải bồi thường toàn bộ thiệt hại thực tế, bao gồm thiệt hại về tài sản, sức khỏe, chi phí khắc ph"
+  }
+ ],
+ "fields": [
+  {
+   "key": "tax",
+   "name": "Luật thuế",
+   "count": 58
+  },
+  {
+   "key": "civil",
+   "name": "Luật dân sự",
+   "count": 96
+  },
+  {
+   "key": "criminal",
+   "name": "Luật hình sự",
+   "count": 51
+  },
+  {
+   "key": "commercial",
+   "name": "Luật thương mại",
+   "count": 112
+  },
+  {
+   "key": "labor",
+   "name": "Luật lao động",
+   "count": 65
+  },
+  {
+   "key": "land",
+   "name": "Luật đất đai & nhà ở",
+   "count": 29
+  },
+  {
+   "key": "enterprise",
+   "name": "Luật doanh nghiệp & đầu tư",
+   "count": 46
+  },
+  {
+   "key": "ip",
+   "name": "Sở hữu trí tuệ",
+   "count": 34
+  },
+  {
+   "key": "tech",
+   "name": "Công nghệ & dữ liệu",
+   "count": 49
+  },
+  {
+   "key": "constitution",
+   "name": "Hiến pháp",
+   "count": 18
+  },
+  {
+   "key": "family",
+   "name": "Gia đình",
+   "count": 46
+  },
+  {
+   "key": "administrative",
+   "name": "Hành chính",
+   "count": 90
+  },
+  {
+   "key": "immigration",
+   "name": "Di trú & quốc tịch",
+   "count": 17
+  },
+  {
+   "key": "environment",
+   "name": "Môi trường",
+   "count": 27
+  },
+  {
+   "key": "health",
+   "name": "Y tế",
+   "count": 46
+  },
+  {
+   "key": "education",
+   "name": "Giáo dục",
+   "count": 35
+  },
+  {
+   "key": "defense",
+   "name": "Quốc phòng & an ninh",
+   "count": 31
+  },
+  {
+   "key": "other",
+   "name": "Lĩnh vực khác",
+   "count": 32
+  }
+ ],
+ "treaties": [
+  {
+   "id": "un-charter-1945",
+   "nameVi": "Hiến chương Liên Hợp Quốc",
+   "adopted": "1945-06-26",
+   "place": "San Francisco, Hoa Kỳ",
+   "summary": "Văn kiện thành lập Liên Hợp Quốc, quy định mục đích, nguyên tắc và cơ cấu tổ chức của tổ chức quốc tế phổ quát này."
+  },
+  {
+   "id": "vclt-1969",
+   "nameVi": "Công ước Viên về Luật Điều ước quốc tế",
+   "adopted": "1969-05-23",
+   "place": "Viên, Áo",
+   "summary": "Công ước điều chỉnh việc ký kết, hiệu lực, giải thích, sửa đổi và chấm dứt điều ước quốc tế giữa các quốc gia."
+  },
+  {
+   "id": "iccpr-1966",
+   "nameVi": "Công ước Quốc tế về các Quyền Dân sự và Chính trị",
+   "adopted": "1966-12-16",
+   "place": "New York, Hoa Kỳ",
+   "summary": "Bảo vệ các quyền dân sự và chính trị cơ bản như tự do biểu đạt, tự do tôn giáo, quyền bầu cử, quyền xét xử công bằng và cấm tra tấn."
+  },
+  {
+   "id": "icescr-1966",
+   "nameVi": "Công ước Quốc tế về các Quyền Kinh tế, Xã hội và Văn hóa",
+   "adopted": "1966-12-16",
+   "place": "New York, Hoa Kỳ",
+   "summary": "Ghi nhận các quyền về lao động, an sinh xã hội, giáo dục, y tế, văn hóa và mức sống đầy đủ."
+  },
+  {
+   "id": "cedaw-1979",
+   "nameVi": "Công ước về Xóa bỏ mọi hình thức Phân biệt đối xử với Phụ nữ",
+   "adopted": "1979-12-18",
+   "place": "New York, Hoa Kỳ",
+   "summary": "Yêu cầu các quốc gia thành viên xóa bỏ phân biệt đối xử và bảo đảm quyền bình đẳng của phụ nữ trong đời sống chính trị, kinh tế, xã hội, văn hóa và gia đình."
+  },
+  {
+   "id": "crc-1989",
+   "nameVi": "Công ước Quốc tế về Quyền Trẻ em",
+   "adopted": "1989-11-20",
+   "place": "New York, Hoa Kỳ",
+   "summary": "Công ước nhân quyền được phê chuẩn rộng rãi nhất, quy định quyền sống, phát triển, bảo vệ và tham gia của trẻ em."
+  }
+ ]
+}

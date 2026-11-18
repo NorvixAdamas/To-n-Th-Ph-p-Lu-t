@@ -1,0 +1,218 @@
+{
+ "id": 108,
+ "sourceId": "us-civil-4",
+ "title": "Class Action Fairness Act – CAFA 2005 (Luật Kiện Tập thể)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-114",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6635,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 6414,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 6193,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 5934,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 5713,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 5454,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 5233,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 5012,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 4791,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 4570,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 4349,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 3373,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 3152,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 2887,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 2666,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 2253,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 2032,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 1785,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 1530,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 1309,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 1088,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 732,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 511,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  },
+  {
+   "id": 108,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Class Action Fairness Act (CAFA) 2005 – 28 USC §1332(d).\nMở rộng thẩm quyền liên bang cho vụ kiện tập thể: class >100 người, tổng tranh chấp >$5 triệu, minimal diversity.\n§1453: Quyền kháng cáo ngay quyết định chấp nhận/từ chối class certification.\nMục đích: Ngăn chặn forum shopping, đảm bảo xét xử công bằng."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3,
+   "title": "Amendments 11–27 (Tu chính án 11–27)",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 14,
+   "title": "Federal Rules of Evidence (Quy tắc Chứng cứ Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 110,
+   "title": "Arbitration – Federal Arbitration Act (Luật Trọng tài Liên bang)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 137,
+   "title": "Resource Conservation and Recovery Act – RCRA (Luật Bảo tồn Tài nguyên)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 139,
+   "title": "Toxic Substances Control Act – TSCA (Luật Kiểm soát Chất độc hại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 156,
+   "title": "Federal Aviation Act – FAA Regulations (Quy định Hàng không Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

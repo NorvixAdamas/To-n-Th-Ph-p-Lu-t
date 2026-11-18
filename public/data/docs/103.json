@@ -1,0 +1,222 @@
+{
+ "id": 103,
+ "sourceId": "us-crim-5",
+ "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title18/partI/chapter96",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "enterprise",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật doanh nghiệp & đầu tư",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6630,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 6409,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 6188,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 5929,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 5708,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 5449,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 5228,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 5007,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 4786,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 4565,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 4344,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 3368,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 3147,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 2882,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 2661,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 2248,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 2027,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 1780,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 1525,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 1304,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 1083,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 727,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 506,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  },
+  {
+   "id": 103,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "RICO Act – 18 USC §1961-1968.\n§1961: Định nghĩa \"racketeering activity\" gồm 35+ tội hình sự (giết người, tống tiền, ma túy, gian lận, rửa tiền, bribery).\n§1962: Cấm sử dụng thu nhập từ racketeering để đầu tư vào doanh nghiệp; cấm điều hành doanh nghiệp thông qua racketeering.\n§1963: Hình phạt: phạt tù đến 20 năm (chung thân nếu tội cơ sở cho phép), tịch thu tài sản.\n§1964: Quyền kiện dân sự RICO – bồi thường gấp 3 (treble damages) + phí luật sư."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

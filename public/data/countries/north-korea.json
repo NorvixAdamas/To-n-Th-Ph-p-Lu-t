@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "KP",
+  "code3": "PRK",
+  "slug": "north-korea",
+  "nameVi": "Triều Tiên",
+  "nameEn": "North Korea",
+  "flag": "🇰🇵",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Eastern Asia",
+  "capital": "Pyongyang",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

@@ -1,0 +1,74 @@
+{
+ "id": 327,
+ "sourceId": "jp-fin-1",
+ "title": "Banking Act (Luật Ngân hàng Nhật Bản)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=356AC0000000059",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "JP",
+  "slug": "japan",
+  "nameVi": "Nhật Bản",
+  "nameEn": "Japan",
+  "flag": "🇯🇵",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 327,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Regulations for the operation and supervision of banks in Japan."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 330,
+   "title": "Consumer Contract Act (Luật Bảo vệ Người tiêu dùng Nhật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 928,
+   "title": "Patent Act Japan (Tokkyoho)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 929,
+   "title": "Financial Instruments and Exchange Act Japan",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 932,
+   "title": "Product Liability Act Japan",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 933,
+   "title": "Railway Business Act Japan",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

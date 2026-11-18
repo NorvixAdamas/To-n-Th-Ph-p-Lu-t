@@ -1,0 +1,56 @@
+{
+ "id": 16,
+ "sourceId": "vn-case-8",
+ "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-52/2022",
+ "dateDecided": "2022-12-15",
+ "year": 2022,
+ "summary": "Về vấn đề: Khi người sử dụng lao động đơn phương chấm dứt HĐLĐ trái pháp luật, phải bồi thường cho NLĐ tiền lương trong những ngày không được làm việc, trợ cấp thôi việc, và khoản bồi thường tương đương 2 tháng tiền lương theo Điều 41 BLLĐ 2019.",
+ "fields": [
+  "labor",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  },
+  {
+   "id": 30,
+   "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  },
+  {
+   "id": 29,
+   "name": "Án lệ số 35/2020/AL – Về hợp đồng chuyển nhượng quyền sử dụng đất vi phạm điều cấm",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2020
+  }
+ ]
+}

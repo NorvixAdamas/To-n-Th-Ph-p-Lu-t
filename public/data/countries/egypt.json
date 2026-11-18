@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "EG",
+  "code3": "EGY",
+  "slug": "egypt",
+  "nameVi": "Ai Cập",
+  "nameEn": "Egypt",
+  "flag": "🇪🇬",
+  "region": "africa",
+  "regionName": "Châu Phi",
+  "subregion": "Northern Africa",
+  "capital": "Cairo",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

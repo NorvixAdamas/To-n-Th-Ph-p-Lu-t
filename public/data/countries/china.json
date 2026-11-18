@@ -1,0 +1,795 @@
+{
+ "country": {
+  "code": "CN",
+  "code3": "CHN",
+  "slug": "china",
+  "nameVi": "Trung Quốc",
+  "nameEn": "China",
+  "flag": "🇨🇳",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Eastern Asia",
+  "capital": "Beijing",
+  "legalFamily": "Dân luật xã hội chủ nghĩa",
+  "overview": "Trung Quốc xây dựng hệ thống pháp luật xã hội chủ nghĩa theo truyền thống dân luật. Hiến pháp 1982 là văn bản tối cao; Quốc hội Nhân dân Toàn quốc và Ủy ban Thường vụ thực hiện quyền lập pháp. Bộ luật Dân sự 2020 là bước hệ thống hóa quan trọng của luật tư.",
+  "sources": [
+   {
+    "name": "National Laws and Regulations Database",
+    "url": "https://flk.npc.gov.cn"
+   },
+   {
+    "name": "Supreme People’s Court",
+    "url": "https://www.court.gov.cn"
+   },
+   {
+    "name": "The State Council of China",
+    "url": "https://www.gov.cn"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 23,
+   "versions": 23,
+   "cases": 1,
+   "courts": 1,
+   "fields": 15,
+   "fullTextDocuments": 0,
+   "latestYear": 2026
+  },
+  "fieldCounts": {
+   "constitution": 1,
+   "civil": 5,
+   "family": 3,
+   "tax": 1,
+   "enterprise": 6,
+   "labor": 3,
+   "ip": 3,
+   "administrative": 1,
+   "environment": 1,
+   "education": 1,
+   "commercial": 8,
+   "land": 1,
+   "health": 1,
+   "defense": 1,
+   "tech": 1
+  },
+  "courts": [
+   {
+    "name": "Supreme People's Court",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 344,
+   "title": "Constitution of the PRC (Hiến pháp Trung Quốc)",
+   "sourceId": "cn-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.shtml",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 345,
+   "title": "Civil Code of the PRC (Bộ luật Dân sự Trung Quốc)",
+   "sourceId": "cn-civil-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/c23934/202012/f627a452b1d444c29ad9a61be65d050.shtml",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 346,
+   "title": "Enterprise Income Tax Law (Luật Thuế Doanh nghiệp TQ)",
+   "sourceId": "cn-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "tax",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 347,
+   "title": "Labor Law of the PRC (Luật Lao động Trung Quốc)",
+   "sourceId": "cn-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "labor",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 348,
+   "title": "Company Law of the PRC (Luật Công ty Trung Quốc)",
+   "sourceId": "cn-com-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 349,
+   "title": "Patent Law of the PRC (Luật Sáng chế Trung Quốc)",
+   "sourceId": "cn-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 350,
+   "title": "Administrative Procedure Law (Luật Hành chính Trung Quốc)",
+   "sourceId": "cn-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 351,
+   "title": "Environmental Protection Law (Luật Môi trường Trung Quốc)",
+   "sourceId": "cn-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 352,
+   "title": "Commercial Banking Law (Luật Ngân hàng Trung Quốc)",
+   "sourceId": "cn-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 353,
+   "title": "Civil Code - Marriage and Family (Luật Gia đình Trung Quốc)",
+   "sourceId": "cn-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "http://english.www.gov.cn/archive/lawsregulations/202012/31/content_WS5fed6ba8c6d0f72576943005.html",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 354,
+   "title": "Consumer Law (Luật Bảo vệ Người tiêu dùng Trung Quốc)",
+   "sourceId": "cn-cons-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384074.htm",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 355,
+   "title": "Railway Law (Luật Đường sắt Trung Quốc)",
+   "sourceId": "cn-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384013.htm",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 941,
+   "title": "Securities Law of the PRC",
+   "sourceId": "cn-com-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 942,
+   "title": "Antimonopoly Law of the PRC",
+   "sourceId": "cn-com-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 943,
+   "title": "Labor Contract Law PRC 2007",
+   "sourceId": "cn-lab-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "labor",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 944,
+   "title": "Social Insurance Law PRC 2010",
+   "sourceId": "cn-lab-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "labor",
+    "health",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 945,
+   "title": "Copyright Law PRC (Amended 2020)",
+   "sourceId": "cn-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 946,
+   "title": "Trademark Law PRC",
+   "sourceId": "cn-ip-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 947,
+   "title": "Securities Investment Fund Law PRC",
+   "sourceId": "cn-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "http://www.npc.gov.cn/englishnpc/Law/node_2125.shtml",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3041,
+   "title": "Civil Code of the People's Republic of China",
+   "sourceId": "cn-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/202012/08/content_323531.htm",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3042,
+   "title": "Company Law of the People's Republic of China",
+   "sourceId": "cn-deep-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/13/content_1384123.htm",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3043,
+   "title": "Personal Information Protection Law",
+   "sourceId": "cn-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://english.www.gov.cn/archive/laws_regulations/202112/29/content_WS61cc98fbc6d09c94e48a0b02.html",
+   "fields": [
+    "tech"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-11-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3044,
+   "title": "Law on Protection of Consumer Rights and Interests",
+   "sourceId": "cn-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383814.htm",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 42,
+   "name": "Qiao Zhanxing Case (2001)",
+   "sourceId": "cn-case-1",
+   "court": "Supreme People's Court",
+   "docket": "Qi Zhuan Case 2001",
+   "dateDecided": "2001-08-13",
+   "year": 2001,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "summary": "A \"Guiding Case\" often cited in discussions of constitutionalism in China, involving the direct application of constitutional provisions regarding the right to education.",
+   "sourceUrl": "http://www.court.gov.cn/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "cn-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution",
+   "desc": "Constitution of the PRC, National People's Congress",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "cn-civil",
+   "name": "Dân sự",
+   "nameEn": "Civil Code",
+   "desc": "Civil Code of the PRC (2020) — Property, Contracts, Marriage",
+   "q": "civil code",
+   "tax": false
+  },
+  {
+   "id": "cn-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Individual Income Tax, Enterprise Income Tax, VAT",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "cn-commerce",
+   "name": "Thương mại / Doanh nghiệp",
+   "nameEn": "Commercial Law",
+   "desc": "Company Law, Partnership Enterprise Law, Securities Law",
+   "q": "company commercial",
+   "tax": false
+  },
+  {
+   "id": "cn-labor",
+   "name": "Lao động",
+   "nameEn": "Labor Law",
+   "desc": "Labor Law, Labor Contract Law, Social Insurance Law",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "cn-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Law, Patent Law, Trademark Law",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "cn-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Administrative Procedure Law, Administrative Punishment Law",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "cn-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Environmental Protection Law, Climate change policies",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "cn-finance",
+   "name": "Tài chính / Ngân hàng",
+   "nameEn": "Banking & Finance",
+   "desc": "Commercial Banking Law, People's Bank of China Law",
+   "q": "banking finance",
+   "tax": false
+  },
+  {
+   "id": "cn-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Marriage and Family (Civil Code Book V), Adoptions",
+   "q": "family",
+   "tax": false
+  },
+  {
+   "id": "cn-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "Consumer Protection",
+   "desc": "Consumer Rights Protection Law, E-commerce Law",
+   "q": "consumer",
+   "tax": false
+  },
+  {
+   "id": "cn-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Railway Law, Civil Aviation Law",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "cn-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Guiding Cases",
+   "desc": "Supreme People's Court Guiding Cases",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

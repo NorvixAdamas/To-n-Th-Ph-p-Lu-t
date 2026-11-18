@@ -1,0 +1,220 @@
+{
+ "id": 135,
+ "sourceId": "us-health-7",
+ "title": "Food, Drug, and Cosmetic Act – FDCA (Luật Thực phẩm, Dược phẩm, Mỹ phẩm)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title21/chapter9",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6662,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 6441,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 6220,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 5961,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 5740,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 5481,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 5260,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 5039,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 4818,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 4597,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 4376,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 3400,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 3179,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 2914,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 2693,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 2280,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 2059,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 1812,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 1557,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 1336,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 1115,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 759,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 538,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  },
+  {
+   "id": 135,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Food, Drug, and Cosmetic Act (FDCA) – 21 USC §301 et seq.\nFDA có thẩm quyền quản lý: thực phẩm, thuốc, thiết bị y tế, mỹ phẩm, thuốc lá.\nPhê duyệt thuốc mới: NDA (New Drug Application). Thuốc generic: ANDA (viện dẫn thuốc gốc). Thiết bị y tế: phân loại I, II, III. 510(k): premarket notification."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

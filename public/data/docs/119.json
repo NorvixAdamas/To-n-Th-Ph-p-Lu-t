@@ -1,0 +1,218 @@
+{
+ "id": 119,
+ "sourceId": "us-labor-9",
+ "title": "Worker Adjustment and Retraining Notification Act – WARN (Thông báo Sa thải Hàng loạt)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.dol.gov/agencies/eta/layoffs/warn",
+ "tags": [],
+ "fields": [
+  "labor"
+ ],
+ "fieldLabels": [
+  "Luật lao động"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6646,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 6425,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 6204,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 5945,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 5724,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 5465,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 5244,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 5023,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 4802,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 4581,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 4360,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 3384,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 3163,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 2898,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 2677,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 2264,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 2043,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 1796,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 1541,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 1320,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 1099,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 743,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 522,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  },
+  {
+   "id": 119,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Worker Adjustment and Retraining Notification Act (WARN).\nNSDLĐ ≥100 nhân viên phải thông báo trước 60 ngày khi: đóng cửa nhà máy (50+ NLĐ), sa thải hàng loạt (500+ NLĐ hoặc 50-499 = 33% lực lượng).\nVi phạm: bồi thường tiền lương và phúc lợi cho mỗi ngày không thông báo.\nMini-WARN: nhiều bang có luật riêng với ngưỡng thấp hơn."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

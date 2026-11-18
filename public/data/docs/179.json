@@ -1,0 +1,220 @@
+{
+ "id": 179,
+ "sourceId": "vn-ip-2",
+ "title": "Luật Chuyển giao công nghệ 2017",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tech",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật dân sự"
+ ],
+ "year": 2018,
+ "effectiveDate": "2018-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6706,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 6485,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 6264,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 6005,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 5784,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 5525,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 5304,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 5083,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 4862,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 4641,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 4420,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 3444,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 3223,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 2958,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 2737,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 2324,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 2103,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 1856,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 1601,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 1380,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 1159,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 803,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 582,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  },
+  {
+   "id": 179,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "text": "Luật Chuyển giao công nghệ 2017.\nĐiều 1. Phạm vi: Hoạt động chuyển giao công nghệ tại Việt Nam và từ/ra nước ngoài.\nĐiều 4. Đối tượng chuyển giao: bí quyết kỹ thuật, kiến thức kỹ thuật, giải pháp kỹ thuật, phương án công nghệ.\nĐiều 7-11. Công nghệ khuyến khích/hạn chế/cấm chuyển giao.\nĐiều 31-37. Hợp đồng chuyển giao công nghệ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2006
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "kindLabel": "Đạo luật",
+   "year": 2023
+  }
+ ]
+}

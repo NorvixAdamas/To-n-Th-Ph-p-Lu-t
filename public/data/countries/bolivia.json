@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "BO",
+  "code3": "BOL",
+  "slug": "bolivia",
+  "nameVi": "Bolivia",
+  "nameEn": "Bolivia",
+  "flag": "🇧🇴",
+  "region": "south-america",
+  "regionName": "Nam Mỹ",
+  "subregion": "South America",
+  "capital": "Sucre",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

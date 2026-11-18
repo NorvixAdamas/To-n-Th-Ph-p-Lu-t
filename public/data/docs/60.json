@@ -1,0 +1,222 @@
+{
+ "id": 60,
+ "sourceId": "vn-tax-4",
+ "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật thương mại"
+ ],
+ "year": 2016,
+ "effectiveDate": "2016-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6587,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 6366,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 6145,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 5886,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 5665,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 5406,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 5185,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 4964,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 4743,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 4522,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 4301,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 3325,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 3104,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 2839,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 2618,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 2205,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 1984,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 1737,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 1482,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 1261,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 1040,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 684,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 463,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  },
+  {
+   "id": 60,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016).\nĐiều 2. Đối tượng chịu thuế: thuốc lá, rượu bia, ô tô dưới 24 chỗ, xăng, điều hòa, kinh doanh casino, golf, xổ số.\nĐiều 7. Thuế suất: thuốc lá 75%; rượu ≥20 độ: 65%; bia: 65%; ô tô dưới 9 chỗ (>3000cc): 150%."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 61,
+   "title": "Luật Thuế tài nguyên 2009",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  }
+ ]
+}

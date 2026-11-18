@@ -1,0 +1,29 @@
+{
+ "id": 44,
+ "sourceId": "kr-case-1",
+ "name": "Impeachment of Park Geun-hye (2017)",
+ "court": "Constitutional Court of Korea",
+ "docket": "2016Hun-Na1",
+ "dateDecided": "2017-03-10",
+ "year": 2017,
+ "summary": "The first successful impeachment of a sitting South Korean president. The Court ruled that Park committed acts that impaired the nature of representative democracy and the rule of law.",
+ "fields": [
+  "tax"
+ ],
+ "fieldLabels": [
+  "Luật thuế"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.constitutionalcourt.go.kr/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "KR",
+  "slug": "south-korea",
+  "nameVi": "Hàn Quốc",
+  "nameEn": "South Korea",
+  "flag": "🇰🇷",
+  "regionName": "Châu Á"
+ },
+ "related": []
+}

@@ -1,0 +1,222 @@
+{
+ "id": 62,
+ "sourceId": "vn-tax-6",
+ "title": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Hành chính"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6589,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 6368,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 6147,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 5888,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 5667,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 5408,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 5187,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 4966,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 4745,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 4524,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 4303,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 3327,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 3106,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 2841,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 2620,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 2207,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 1986,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 1739,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 1484,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 1263,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 1042,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 686,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 465,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  },
+  {
+   "id": 62,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14).\nĐiều 1. Phạm vi: Quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.\nĐiều 3. Nguyên tắc: tự khai, tự nộp.\nĐiều 16. Quyền của người nộp thuế. Điều 17. Nghĩa vụ của người nộp thuế.\nĐiều 42-47. Đăng ký thuế. Mã số thuế. Điều 55. Thời hạn nộp hồ sơ khai thuế.\nĐiều 59. Gia hạn nộp thuế. Điều 107-116. Cưỡng chế thi hành quyết định hành chính về quản lý thuế.\nĐiều 141-149. Xử phạt vi phạm hành chính về thuế."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

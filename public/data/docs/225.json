@@ -1,0 +1,222 @@
+{
+ "id": 225,
+ "sourceId": "us-civil-1",
+ "title": "Federal Rules of Civil Procedure – FRCP",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-civil-procedure",
+ "tags": [],
+ "fields": [
+  "civil",
+  "defense",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Quốc phòng & an ninh",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6540,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 6319,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 6098,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 5839,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 5618,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 5359,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 5138,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 4917,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 4696,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 4475,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 4254,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 3278,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 3057,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 2792,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 2571,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 2158,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 1937,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 1690,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 1435,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 1214,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 993,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 637,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 416,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Civil Procedure (FRCP).\nRule 1: Scope and purpose.\nRule 3: Commencing an action.\nRule 4: Summons.\nRule 8: General rules of pleading.\nRule 12: Defenses and objections (12(b)(6) failure to state a claim).\nRule 15: Amended and supplemental pleadings.\nRule 23: Class actions.\nRule 26: Duty to disclose; general provisions governing discovery.\nRule 30: Depositions.\nRule 33: Interrogatories.\nRule 34: Producing documents.\nRule 37: Failure to make disclosures or to cooperate in discovery.\nRule 56: Summary judgment."
+  },
+  {
+   "id": 225,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Governs civil procedure in US federal district courts."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

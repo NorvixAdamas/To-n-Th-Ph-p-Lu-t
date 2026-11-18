@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "NO",
+  "code3": "NOR",
+  "slug": "norway",
+  "nameVi": "Na Uy",
+  "nameEn": "Norway",
+  "flag": "🇳🇴",
+  "region": "europe",
+  "regionName": "Châu Âu",
+  "subregion": "Northern Europe",
+  "capital": "Oslo",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

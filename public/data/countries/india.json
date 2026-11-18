@@ -1,0 +1,852 @@
+{
+ "country": {
+  "code": "IN",
+  "code3": "IND",
+  "slug": "india",
+  "nameVi": "Ấn Độ",
+  "nameEn": "India",
+  "flag": "🇮🇳",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Southern Asia",
+  "capital": "New Delhi",
+  "legalFamily": "Common law",
+  "overview": "Ấn Độ theo mô hình common law với Hiến pháp 1950 là văn bản tối cao, quy định hệ thống nghị viện liên bang và các quyền cơ bản. Luật thành văn của Nghị viện và cơ quan lập pháp bang được bổ sung bởi án lệ của Tòa án Tối cao và các tòa án cấp cao.",
+  "sources": [
+   {
+    "name": "India Code",
+    "url": "https://www.indiacode.nic.in"
+   },
+   {
+    "name": "Supreme Court of India",
+    "url": "https://www.sci.gov.in"
+   },
+   {
+    "name": "Legislative Department",
+    "url": "https://legislative.gov.in"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 26,
+   "versions": 26,
+   "cases": 1,
+   "courts": 1,
+   "fields": 13,
+   "fullTextDocuments": 0,
+   "latestYear": 2024
+  },
+  "fieldCounts": {
+   "constitution": 1,
+   "civil": 5,
+   "administrative": 5,
+   "criminal": 3,
+   "tax": 1,
+   "labor": 3,
+   "ip": 3,
+   "environment": 1,
+   "education": 1,
+   "commercial": 5,
+   "family": 2,
+   "other": 3,
+   "defense": 1
+  },
+  "courts": [
+   {
+    "name": "Supreme Court of India",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 380,
+   "title": "Constitution of India (Hiến pháp Ấn Độ)",
+   "sourceId": "in-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://www.india.gov.in/my-government/constitution-india",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 381,
+   "title": "Code of Civil Procedure (Bộ luật Tố tụng Dân sự Ấn Độ)",
+   "sourceId": "in-civil-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://legislative.gov.in/actno-5-of-1908/",
+   "fields": [
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 382,
+   "title": "Indian Penal Code (Bộ luật Hình sự Ấn Độ)",
+   "sourceId": "in-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://legislative.gov.in/actno-45-of-1860/",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 383,
+   "title": "Income Tax Act 1961 (Luật Thuế Ấn Độ)",
+   "sourceId": "in-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://incometaxindia.gov.in/pages/charts-and-tables.aspx",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 384,
+   "title": "Industrial Disputes Act (Luật Lao động Ấn Độ)",
+   "sourceId": "in-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://labour.gov.in/acts-rules",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 385,
+   "title": "Copyright Act 1957 (Luật Bản quyền Ấn Độ)",
+   "sourceId": "in-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://copyright.gov.in/Documents/CopyrightRules1957.pdf",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 386,
+   "title": "Right to Information Act (Luật Hành chính Ấn Độ)",
+   "sourceId": "in-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://rti.gov.in/rti-act.pdf",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 387,
+   "title": "Environment Protection Act (Luật Môi trường Ấn Độ)",
+   "sourceId": "in-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://cpcb.nic.in/environmental-acts-rules/",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 388,
+   "title": "Banking Regulation Act (Luật Ngân hàng Ấn Độ)",
+   "sourceId": "in-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.rbi.org.in/",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 389,
+   "title": "Hindu Marriage Act (Luật Gia đình Ấn Độ)",
+   "sourceId": "in-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in/actno-25-of-1955/",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 391,
+   "title": "Motor Vehicles Act (Luật Giao thông Ấn Độ)",
+   "sourceId": "in-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://morth.nic.in/motor-vehicles-act-1988",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 962,
+   "title": "Transfer of Property Act 1882 India",
+   "sourceId": "in-civ-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in/actno-4-of-1882/",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 963,
+   "title": "Bharatiya Nyaya Sanhita 2023 (New IPC)",
+   "sourceId": "in-crim-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 964,
+   "title": "Code of Criminal Procedure India",
+   "sourceId": "in-crim-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://legislative.gov.in/actno-2-of-1974/",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 965,
+   "title": "Code on Wages 2019 India",
+   "sourceId": "in-lab-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://labour.gov.in/acts-rules",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 966,
+   "title": "Code on Social Security 2020 India",
+   "sourceId": "in-lab-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://labour.gov.in/acts-rules",
+   "fields": [
+    "labor",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 967,
+   "title": "Patents Act 1970 India",
+   "sourceId": "in-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://ipindia.gov.in/patents.htm",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 968,
+   "title": "Trade Marks Act 1999 India",
+   "sourceId": "in-ip-extra2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://ipindia.gov.in/trade-marks.htm",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 969,
+   "title": "Lokpal and Lokayuktas Act 2013",
+   "sourceId": "in-adm-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in/actno-1-of-2014/",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 970,
+   "title": "SEBI Act 1992 (Securities Regulation India)",
+   "sourceId": "in-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.sebi.gov.in/legal/acts.html",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 971,
+   "title": "Special Marriage Act 1954 India",
+   "sourceId": "in-fam-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in/actno-43-of-1954/",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 972,
+   "title": "Railways Act 1989 India",
+   "sourceId": "in-trans-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://www.indianrailways.gov.in",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3033,
+   "title": "Indian Contract Act 1872",
+   "sourceId": "in-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://legislative.gov.in/actno-9-of-1872/",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 1872,
+   "effectiveDate": "1872-09-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3034,
+   "title": "Consumer Protection Act 2019",
+   "sourceId": "in-deep-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://consumeraffairs.nic.in/acts-and-rules/consumer-protection",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-07-20",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3035,
+   "title": "Right to Information Act 2005",
+   "sourceId": "in-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://rti.gov.in/rti-act.pdf",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2005,
+   "effectiveDate": "2005-10-12",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3036,
+   "title": "Motor Vehicles Act 1988",
+   "sourceId": "in-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://morth.nic.in/motor-vehicles-act-1988",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 1988,
+   "effectiveDate": "1988-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 45,
+   "name": "Kesavananda Bharati v. State of Kerala (1973)",
+   "sourceId": "in-case-1",
+   "court": "Supreme Court of India",
+   "docket": "Writ Petition (Civil) 135 of 1970",
+   "dateDecided": "1973-04-24",
+   "year": 1973,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "fieldLabels": [],
+   "summary": "Established the \"Basic Structure Doctrine\" - Parliament cannot amend the basic structure of the Constitution. One of the most important cases in Indian constitutional law.",
+   "sourceUrl": "https://main.sci.gov.in/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "in-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution",
+   "desc": "Constitution of India, Federalism, Fundamental Rights",
+   "q": "constitution",
+   "tax": false
+  },
+  {
+   "id": "in-civil",
+   "name": "Dân sự / Tố tụng",
+   "nameEn": "Civil Law",
+   "desc": "Code of Civil Procedure (CPC), Indian Contract Act, Transfer of Property",
+   "q": "civil procedure contract",
+   "tax": false
+  },
+  {
+   "id": "in-criminal",
+   "name": "Hình sự",
+   "nameEn": "Criminal Law",
+   "desc": "Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita, CrPC",
+   "q": "penal criminal",
+   "tax": false
+  },
+  {
+   "id": "in-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Income Tax Act 1961, Goods and Services Tax (GST)",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "in-labor",
+   "name": "Lao động",
+   "nameEn": "Labor Law",
+   "desc": "Industrial Disputes Act, Code on Wages, Social Security",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "in-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Act, Patents Act, Trademarks Act",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "in-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Right to Information (RTI) Act, Lokpal",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "in-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Hindu Marriage Act, Special Marriage Act, Personal laws",
+   "q": "family",
+   "tax": false
+  },
+  {
+   "id": "in-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Environment Protection Act, Air/Water Acts",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "in-finance",
+   "name": "Tài chính / Ngân hàng",
+   "nameEn": "Banking & Finance",
+   "desc": "Banking Regulation Act, SEBI Act",
+   "q": "banking finance",
+   "tax": false
+  },
+  {
+   "id": "in-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "Consumer Protection",
+   "desc": "Consumer Protection Act 2019",
+   "q": "consumer",
+   "tax": false
+  },
+  {
+   "id": "in-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Motor Vehicles Act, Railways Act",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "in-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Supreme Court of India, High Courts",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

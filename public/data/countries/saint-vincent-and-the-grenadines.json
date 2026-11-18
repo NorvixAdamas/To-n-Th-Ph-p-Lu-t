@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "VC",
+  "code3": "VCT",
+  "slug": "saint-vincent-and-the-grenadines",
+  "nameVi": "St. Vincent và Grenadines",
+  "nameEn": "Saint Vincent and the Grenadines",
+  "flag": "🇻🇨",
+  "region": "north-america",
+  "regionName": "Bắc Mỹ",
+  "subregion": "Caribbean",
+  "capital": "Kingstown",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

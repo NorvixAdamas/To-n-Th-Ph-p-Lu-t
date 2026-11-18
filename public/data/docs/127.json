@@ -1,0 +1,220 @@
+{
+ "id": 127,
+ "sourceId": "us-fam-4",
+ "title": "Adoption and Safe Families Act 1997 (Luật Nhận con nuôi và Gia đình An toàn)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/105th-congress/house-bill/867",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6654,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 6433,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 6212,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 5953,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 5732,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 5473,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 5252,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 5031,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 4810,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 4589,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 4368,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 3392,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 3171,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 2906,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 2685,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 2272,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 2051,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 1804,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 1549,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 1328,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 1107,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 751,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 530,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  },
+  {
+   "id": 127,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Adoption and Safe Families Act (ASFA) 1997.\nThúc đẩy nhận con nuôi cho trẻ em trong hệ thống foster care. Yêu cầu nộp đơn chấm dứt quyền cha mẹ nếu trẻ ở foster care 15/22 tháng gần nhất. \"Reasonable efforts\" để bảo tồn gia đình, nhưng an toàn trẻ là ưu tiên."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 43,
+   "title": "Communications Act 1934 / Telecommunications Act 1996",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 103,
+   "title": "RICO Act – Racketeer Influenced and Corrupt Organizations (Luật Chống Tổ chức Tội phạm)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

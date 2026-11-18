@@ -1,0 +1,218 @@
+{
+ "id": 149,
+ "sourceId": "us-rights-2",
+ "title": "Voting Rights Act 1965 (Luật Quyền Bầu cử)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/89th-congress/senate-bill/1564",
+ "tags": [],
+ "fields": [
+  "health"
+ ],
+ "fieldLabels": [
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6676,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 6455,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 6234,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 5975,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 5754,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 5495,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 5274,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 5053,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 4832,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 4611,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 4390,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 3414,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 3193,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 2928,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 2707,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 2294,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 2073,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 1826,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 1571,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 1350,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 1129,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 773,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 552,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  },
+  {
+   "id": 149,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Voting Rights Act 1965.\n§2: Cấm luật bầu cử có tính phân biệt (discriminatory voting practices).\n§4-5 (preclearance): Một số bang/hạt phải được DOJ phê duyệt trước khi thay đổi luật bầu cử (bị vô hiệu hóa bởi Shelby County v. Holder 2013).\n§203: Yêu cầu tài liệu bầu cử đa ngôn ngữ.\n§208: Quyền được hỗ trợ khi bỏ phiếu."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "SK",
+  "code3": "SVK",
+  "slug": "slovakia",
+  "nameVi": "Slovakia",
+  "nameEn": "Slovakia",
+  "flag": "🇸🇰",
+  "region": "europe",
+  "regionName": "Châu Âu",
+  "subregion": "Central Europe",
+  "capital": "Bratislava",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

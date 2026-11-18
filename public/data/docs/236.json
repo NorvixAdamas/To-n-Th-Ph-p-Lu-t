@@ -1,0 +1,218 @@
+{
+ "id": 236,
+ "sourceId": "us-edu-1",
+ "title": "Title 20 USC – Education",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title20",
+ "tags": [],
+ "fields": [
+  "education"
+ ],
+ "fieldLabels": [
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6685,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 6464,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 6243,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 5984,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 5763,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 5504,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 5283,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 5062,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 4841,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 4620,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 4399,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 3423,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 3202,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 2937,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 2716,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 2303,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 2082,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 1835,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 1580,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 1359,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 1138,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 782,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 561,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 20 – Education.\nChapter 28: Higher Education Resources and Student Assistance (HEA). Federal student aid (Pell Grants, loans). Chapter 33: Education of Individuals with Disabilities (IDEA). Chapter 70: Strengthening and Improvement of Elementary and Secondary Schools (ESEA/ESSA)."
+  },
+  {
+   "id": 236,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Covers the role of the federal government in education and the Department of Education."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 41,
+   "title": "National Environmental Policy Act – NEPA (Luật Chính sách Môi trường Quốc gia)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 159,
+   "title": "Individuals with Disabilities Education Act – IDEA (Giáo dục Trẻ Khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 160,
+   "title": "Higher Education Act – HEA (Luật Giáo dục Đại học)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 161,
+   "title": "Family Educational Rights and Privacy Act – FERPA (Quyền riêng tư Giáo dục)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 233,
+   "title": "Civil Rights Act 1964",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 859,
+   "title": "Elementary and Secondary Education Act – ESEA / ESSA",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

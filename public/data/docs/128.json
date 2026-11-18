@@ -1,0 +1,224 @@
+{
+ "id": 128,
+ "sourceId": "us-fam-5",
+ "title": "Uniform Parentage Act – UPA (Luật Thống nhất Quan hệ Cha mẹ Con)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.uniformlaws.org",
+ "tags": [],
+ "fields": [
+  "tax",
+  "civil",
+  "family",
+  "immigration"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật dân sự",
+  "Gia đình",
+  "Di trú & quốc tịch"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6655,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 6434,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 6213,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 5954,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 5733,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 5474,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 5253,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 5032,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 4811,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 4590,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 4369,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 3393,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 3172,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 2907,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 2686,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 2273,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 2052,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 1805,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 1550,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 1329,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 1108,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 752,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 531,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  },
+  {
+   "id": 128,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Parentage Act (UPA).\nXác lập quan hệ cha mẹ-con bất kể tình trạng hôn nhân. Suy đoán cha (marital presumption). Thừa nhận tự nguyện (voluntary acknowledgment). Xét nghiệm di truyền (genetic testing). Đẻ thuê (gestational surrogacy): UPA 2017 bổ sung quy định."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

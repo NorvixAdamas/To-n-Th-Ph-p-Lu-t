@@ -1,0 +1,212 @@
+{
+ "id": 50,
+ "sourceId": "vn-crim-3",
+ "title": "Luật Thi hành án Hình sự 2019",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6577,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 6356,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 6135,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 5876,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 5655,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 5396,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 5175,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 4954,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 4733,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 4512,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 4291,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 3315,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 3094,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 2829,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 2608,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 2195,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 1974,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 1727,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 1472,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 1251,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 1030,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 674,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 453,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  },
+  {
+   "id": 50,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Thi hành án Hình sự 2019.\nĐiều 1. Phạm vi: Thi hành bản án, quyết định có hiệu lực pháp luật của Tòa án.\nĐiều 3. Các hình phạt: cảnh cáo, phạt tiền, cải tạo không giam giữ, trục xuất, tù có thời hạn, tù chung thân, tử hình.\nChương III: Thi hành án phạt tù. Chương IV: Thi hành hình phạt tử hình (bằng tiêm thuốc độc). Chương V: Tha tù trước thời hạn có điều kiện."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2021
+  },
+  {
+   "id": 211,
+   "title": "Luật Giám định Tư pháp 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 240,
+   "title": "Bộ luật Hình sự 2015",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

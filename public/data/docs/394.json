@@ -1,0 +1,50 @@
+{
+ "id": 394,
+ "sourceId": "ch-crim-1",
+ "title": "Swiss Criminal Code (Bộ luật Hình sự Thụy Sĩ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/en",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 394,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Penal law of the Swiss Confederation regarding crimes and offences."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 974,
+   "title": "Swiss Code of Criminal Procedure (StPO)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

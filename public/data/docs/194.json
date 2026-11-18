@@ -1,0 +1,218 @@
+{
+ "id": 194,
+ "sourceId": "vn-agri-3",
+ "title": "Luật Thủy sản 2017",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "other"
+ ],
+ "fieldLabels": [
+  "Lĩnh vực khác"
+ ],
+ "year": 2019,
+ "effectiveDate": "2019-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6721,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 6500,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 6279,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 6020,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 5799,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 5540,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 5319,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 5098,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 4877,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 4656,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 4435,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 3459,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 3238,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 2973,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 2752,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 2339,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 2118,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 1871,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 1616,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 1395,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 1174,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 818,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 597,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  },
+  {
+   "id": 194,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Thủy sản 2017.\nĐiều 1. Phạm vi: Hoạt động thủy sản: bảo vệ, nuôi trồng, khai thác, chế biến.\nĐiều 6-10. Bảo vệ nguồn lợi thủy sản: khu bảo tồn, mùa cấm khai thác.\nĐiều 30-38. Nuôi trồng thủy sản: điều kiện, giấy phép.\nĐiều 49-55. Khai thác: giấy phép, hạn ngạch, chống đánh bắt IUU."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 170,
+   "title": "Luật Phòng, chống tham nhũng 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 187,
+   "title": "Luật Trật tự, An toàn Giao thông Đường bộ 2024",
+   "kindLabel": "Đạo luật",
+   "year": 2025
+  },
+  {
+   "id": 190,
+   "title": "Luật Giao thông Đường thủy nội địa 2004 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 193,
+   "title": "Luật Lâm nghiệp 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 195,
+   "title": "Luật Trồng trọt 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 209,
+   "title": "Luật Luật sư 2006 (sửa đổi 2012)",
+   "kindLabel": "Đạo luật",
+   "year": 2013
+  }
+ ]
+}

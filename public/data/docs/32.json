@@ -1,0 +1,222 @@
+{
+ "id": 32,
+ "sourceId": "us-fam-2",
+ "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title42/chapter7/subchapterIV/partD",
+ "tags": [],
+ "fields": [
+  "enterprise",
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6559,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 6338,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 6117,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 5858,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 5637,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 5378,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 5157,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 4936,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 4715,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 4494,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 4273,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 3297,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 3076,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 2811,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 2590,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 2177,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 1956,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 1709,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 1454,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 1233,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 1012,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 656,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 435,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  },
+  {
+   "id": 32,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Child Support Enforcement – 42 USC §651 et seq.\nFederal-State cooperative system for locating absent parents, establishing paternity, establishing child support obligations, and enforcing those obligations. Federal Parent Locator Service. Income withholding. Interstate enforcement through UIFSA (Uniform Interstate Family Support Act)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

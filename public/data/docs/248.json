@@ -1,0 +1,220 @@
+{
+ "id": 248,
+ "sourceId": "vn-env-1",
+ "title": "Luật Bảo vệ Môi trường 2020",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "environment",
+  "education"
+ ],
+ "fieldLabels": [
+  "Môi trường",
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 248,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về hoạt động bảo vệ môi trường; quyền, nghĩa vụ của cơ quan, tổ chức."
+  },
+  {
+   "id": 6613,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 6392,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 6171,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 5912,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 5691,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 5432,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 5211,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 4990,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 4769,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 4548,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 4327,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 3351,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 3130,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 2865,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 2644,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 2231,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 2010,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 1763,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 1508,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 1287,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 1066,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 710,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  },
+  {
+   "id": 489,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "text": "Luật Bảo vệ Môi trường 2020 (Luật số 72/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nĐiều 28-30. Đánh giá tác động môi trường (ĐTM).\nĐiều 49-58. Quản lý chất thải: phân loại rác tại nguồn, tái chế.\nĐiều 69-73. Ứng phó biến đổi khí hậu, giảm phát thải nhà kính.\nĐiều 131-139. Trách nhiệm bồi thường thiệt hại môi trường."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 73,
+   "title": "Luật Cạnh tranh 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 84,
+   "title": "Luật Ngân hàng Nhà nước Việt Nam 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  }
+ ]
+}

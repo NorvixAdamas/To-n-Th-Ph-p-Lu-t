@@ -1,0 +1,220 @@
+{
+ "id": 134,
+ "sourceId": "us-health-6",
+ "title": "EMTALA – Emergency Medical Treatment & Labor Act (Cấp cứu Y tế Bắt buộc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.cms.gov/Regulations-and-Guidance/Legislation/EMTALA",
+ "tags": [],
+ "fields": [
+  "labor",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6661,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 6440,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 6219,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 5960,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 5739,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 5480,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 5259,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 5038,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 4817,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 4596,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 4375,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 3399,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 3178,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 2913,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 2692,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 2279,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 2058,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 1811,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 1556,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 1335,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 1114,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 758,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 537,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  },
+  {
+   "id": 134,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "EMTALA – Emergency Medical Treatment & Labor Act.\n42 USC §1395dd: Bệnh viện có phòng cấp cứu tham gia Medicare phải: (1) khám sàng lọc y tế cho mọi người đến cấp cứu (không phân biệt khả năng chi trả), (2) ổn định tình trạng y tế khẩn cấp trước khi chuyển viện. Vi phạm: phạt đến $50,000/lần."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

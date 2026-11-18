@@ -1,0 +1,58 @@
+{
+ "id": 21,
+ "sourceId": "us-case-13",
+ "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+ "court": "Supreme Court of the United States",
+ "docket": "22-451",
+ "dateDecided": "2024-06-28",
+ "year": 2024,
+ "summary": "Lật đổ Chevron deference (1984). Tòa Tối cao: Tòa án phải tự mình giải thích luật liên bang, không được nhường (defer) cho cơ quan hành chính. \"Courts must exercise their independent judgment in deciding whether an agency has acted within its statutory authority.\" Thay đổi lớn nhất trong luật hành chính Mỹ 40 năm qua.",
+ "fields": [
+  "enterprise",
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Y tế",
+  "Hành chính"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://supreme.justia.com/cases/federal/us/603/22-451/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "related": [
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "court": "Supreme Court of the United States",
+   "year": 2022
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "court": "Supreme Court of the United States",
+   "year": 2015
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "court": "Supreme Court of the United States",
+   "year": 2010
+  },
+  {
+   "id": 22,
+   "name": "Kelo v. City of New London, 545 U.S. 469 (2005)",
+   "court": "Supreme Court of the United States",
+   "year": 2005
+  }
+ ]
+}

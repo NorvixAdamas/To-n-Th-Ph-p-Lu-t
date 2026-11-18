@@ -1,0 +1,218 @@
+{
+ "id": 106,
+ "sourceId": "us-crim-8",
+ "title": "Anti-Money Laundering Act – Bank Secrecy Act (Luật Chống Rửa tiền)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.fincen.gov/resources/statutes-and-regulations",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6633,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 6412,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 6191,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 5932,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 5711,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 5452,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 5231,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 5010,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 4789,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 4568,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 4347,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 3371,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 3150,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 2885,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 2664,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 2251,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 2030,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 1783,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 1528,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 1307,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 1086,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 730,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 509,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  },
+  {
+   "id": 106,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Bank Secrecy Act (BSA) / Anti-Money Laundering (AML).\n31 USC §5311-5332: Yêu cầu tổ chức tài chính báo cáo giao dịch tiền mặt >$10,000 (CTR). Suspicious Activity Report (SAR) cho giao dịch đáng ngờ.\n18 USC §1956-1957: Tội rửa tiền – hình phạt đến 20 năm tù, phạt tiền $500,000 hoặc gấp đôi số tiền rửa.\nCorporate Transparency Act 2021: Yêu cầu khai báo chủ sở hữu thực (beneficial ownership)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 37,
+   "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

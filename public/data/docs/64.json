@@ -1,0 +1,222 @@
+{
+ "id": 64,
+ "sourceId": "vn-tax-8",
+ "title": "Luật Thuế sử dụng đất phi nông nghiệp 2010",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật thương mại"
+ ],
+ "year": 2012,
+ "effectiveDate": "2012-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6591,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 6370,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 6149,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 5890,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 5669,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 5410,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 5189,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 4968,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 4747,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 4526,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 4305,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 3329,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 3108,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 2843,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 2622,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 2209,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 1988,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 1741,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 1486,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 1265,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 1044,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 688,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 467,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  },
+  {
+   "id": 64,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế sử dụng đất phi nông nghiệp 2010.\nĐiều 2. Đối tượng chịu thuế: đất ở, đất sản xuất kinh doanh phi nông nghiệp.\nĐiều 6. Thuế suất: 0.03% (trong hạn mức), 0.07% (vượt không quá 3 lần hạn mức), 0.15% (vượt trên 3 lần hạn mức)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  }
+ ]
+}

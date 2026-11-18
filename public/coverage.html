@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Báo cáo độ phủ dữ liệu – Toàn thư luật pháp 2.1</title>
+  <meta name="description" content="Báo cáo quốc gia nào đã có văn bản pháp luật, án lệ, toàn văn và quốc gia nào chưa có dữ liệu trong thư viện.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/encyclopedia.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="./" class="logo" aria-label="Toàn thư luật pháp 2.1 – Trang chủ">
+        <span class="logo-seal">§</span>
+        <span class="logo-text">Toàn thư luật pháp <small>2.1</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Điều hướng chính">
+        <a href="countries.html">Quốc gia</a>
+        <a href="search.html">Tra cứu</a>
+        <a href="cases.html">Án lệ</a>
+        <a href="topics.html">Chủ đề</a>
+        <a href="treaties.html">Điều ước</a>
+        <a href="coverage.html">Độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="./">Trang chủ</a><span>/</span><span>Độ phủ dữ liệu</span>
+    </nav>
+
+    <section class="page-hero">
+      <div class="eyebrow">Minh bạch dữ liệu</div>
+      <h1>Báo cáo độ phủ 195 quốc gia</h1>
+      <p>
+        Số liệu dưới đây được tính trực tiếp từ bộ dữ liệu tĩnh của website. Quốc gia “chưa có dữ liệu”
+        vẫn có trang riêng nhưng chưa có văn bản hoặc vụ án nào; website không tự tạo nội dung để lấp chỗ trống.
+      </p>
+    </section>
+
+    <div id="coverageStats" class="coverage-summary">
+      <p class="loading">Đang tải số liệu…</p>
+    </div>
+
+    <form class="filters-grid" role="search" onsubmit="return false">
+      <div class="filter-field">
+        <label for="coverageStatus">Trạng thái dữ liệu</label>
+        <select id="coverageStatus">
+          <option value="">Tất cả quốc gia</option>
+          <option value="with">Đã có dữ liệu</option>
+          <option value="without">Chưa có dữ liệu</option>
+          <option value="fulltext">Có văn bản toàn văn</option>
+        </select>
+      </div>
+      <div class="filter-field">
+        <label for="coverageRegion">Khu vực</label>
+        <select id="coverageRegion"></select>
+      </div>
+      <div class="filter-field filter-wide">
+        <label for="coverageSearch">Tìm quốc gia</label>
+        <input type="search" id="coverageSearch" placeholder="Tên quốc gia hoặc mã ISO…">
+      </div>
+      <div class="filter-actions">
+        <button type="button" id="downloadCsv" class="btn">Tải CSV</button>
+        <a class="btn" href="data/coverage-report.json" target="_blank" rel="noopener">Báo cáo JSON</a>
+      </div>
+    </form>
+
+    <div id="coverageCount" class="results-toolbar"><span class="result-count">Đang tải…</span></div>
+
+    <div class="coverage-table-wrap">
+      <table id="coverageTable" class="coverage-table">
+        <thead><tr><th>Quốc gia</th><th>Khu vực</th><th class="num">Văn bản</th><th class="num">Vụ án</th><th class="num">Toàn văn</th><th>Trạng thái</th></tr></thead>
+        <tbody><tr><td colspan="6"><p class="loading">Đang tải bảng dữ liệu…</p></td></tr></tbody>
+      </table>
+    </div>
+
+    <p class="disclaimer">
+      Báo cáo chỉ phản ánh dữ liệu đã nhập vào website tại thời điểm build gần nhất. Cột “Toàn văn” chỉ đếm văn bản có nội dung nguyên văn được phép lưu trữ; metadata hoặc liên kết ngoài không được tính là toàn văn. Việc thiếu dữ liệu
+      không đánh giá chất lượng hay mức độ hoàn thiện của hệ thống pháp luật quốc gia đó.
+      Muốn bổ sung dữ liệu, xem <a href="guide.html#cap-nhat-du-lieu">hướng dẫn cập nhật dữ liệu</a>.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <strong>Toàn thư luật pháp 2.1</strong>
+        <p>Thư viện tra cứu văn bản luật và án lệ toàn cầu, chạy hoàn toàn tĩnh trên Netlify.</p>
+      </div>
+      <div class="footer-links">
+        <a href="guide.html">Hướng dẫn</a>
+        <a href="coverage.html">Báo cáo độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+        <a href="https://github.com/NorvixAdamas/toanthuluat" target="_blank" rel="noopener">Mã nguồn</a>
+      </div>
+    </div>
+    <div class="container footer-note">
+      <p>Nội dung chỉ để tham khảo, không thay thế văn bản chính thức hay tư vấn pháp lý. Luôn đối chiếu nguồn của cơ quan ban hành.</p>
+    </div>
+  </footer>
+
+  <script src="js/core.js"></script>
+  <script src="js/coverage.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+ "id": 290,
+ "sourceId": "sg-crim-1",
+ "title": "Penal Code 1871 (Bộ luật Hình sự Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/PC1871",
+ "tags": [],
+ "fields": [
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 290,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Penal Code 1871. Offences against body (murder, hurt), property (theft, robbery), and public order. Death penalty provisions for serious offences."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 291,
+   "title": "Criminal Procedure Code 2010 – CPC (Tố tụng Hình sự)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 906,
+   "title": "Misuse of Drugs Act (Luật Ma túy Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3009,
+   "title": "Evidence Act 1893",
+   "kindLabel": "Đạo luật",
+   "year": 1893
+  }
+ ]
+}

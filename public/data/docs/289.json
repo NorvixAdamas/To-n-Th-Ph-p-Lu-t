@@ -1,0 +1,43 @@
+{
+ "id": 289,
+ "sourceId": "sg-const-1",
+ "title": "Constitution of the Republic of Singapore (Hiến pháp Singapore)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/CONS1963",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 289,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Constitution of the Republic of Singapore. Fundamental Liberties: Liberty of person, Equal protection, Freedom of speech. Parliament, President, and Judiciary."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

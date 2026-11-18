@@ -1,0 +1,226 @@
+{
+ "id": 229,
+ "sourceId": "us-health-1",
+ "title": "Affordable Care Act – ACA (Obamacare)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/3590",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "labor",
+  "civil",
+  "health",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật lao động",
+  "Luật dân sự",
+  "Y tế",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6563,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 6342,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 6121,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 5862,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 5641,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 5382,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 5161,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 4940,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 4719,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 4498,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 4277,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 3301,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 3080,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 2815,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 2594,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 2181,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 1960,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 1713,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 1458,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 1237,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 1016,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 660,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 439,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 42 – The Public Health and Welfare.\nChapter 6A: Public Health Service. §201: Definitions. §247d: Public health emergencies.\nChapter 7: Social Security Act. §301: Old-age and survivors insurance. §401: Hospital insurance (Medicare Part A). §1395: Medicare. §1396: Medicaid.\nChapter 21: Civil Rights Act of 1964.\nChapter 126: Equal Opportunity for Individuals with Disabilities (ADA).\nChapter 136: Violent Crime Control."
+  },
+  {
+   "id": 229,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Major healthcare reform aimed at increasing health insurance coverage and affordability."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

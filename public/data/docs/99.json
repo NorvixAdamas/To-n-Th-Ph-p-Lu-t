@@ -1,0 +1,226 @@
+{
+ "id": 99,
+ "sourceId": "us-tax-6",
+ "title": "Earned Income Tax Credit – EITC (Tín dụng thuế thu nhập kiếm được)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "labor",
+  "enterprise",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật lao động",
+  "Luật doanh nghiệp & đầu tư",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6626,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 6405,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 6184,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 5925,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 5704,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 5445,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 5224,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 5003,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 4782,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 4561,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 4340,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 3364,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 3143,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 2878,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 2657,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 2244,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 2023,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 1776,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 1521,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 1300,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 1079,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 723,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 502,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  },
+  {
+   "id": 99,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Earned Income Tax Credit (EITC) – 26 USC §32. Tín dụng thuế hoàn lại cho người lao động thu nhập thấp-trung bình. Mức tối đa (2024): $7,830 (3+ con). Điều kiện: có thu nhập kiếm được, thu nhập đầu tư dưới ngưỡng, nộp tờ khai. EITC là chương trình chống nghèo lớn nhất Hoa Kỳ."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 12,
+   "title": "Controlled Substances Act (Luật Chất bị kiểm soát)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

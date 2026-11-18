@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "FJ",
+  "code3": "FJI",
+  "slug": "fiji",
+  "nameVi": "Fiji",
+  "nameEn": "Fiji",
+  "flag": "🇫🇯",
+  "region": "oceania",
+  "regionName": "Châu Đại Dương",
+  "subregion": "Melanesia",
+  "capital": "Suva",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

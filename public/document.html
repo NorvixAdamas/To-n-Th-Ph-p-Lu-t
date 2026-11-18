@@ -3,35 +3,56 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Văn bản - Toàn thư luật pháp</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <title>Văn bản pháp luật – Toàn thư luật pháp 2.1</title>
+  <meta name="description" content="Thông tin văn bản pháp luật, ngày hiệu lực, phiên bản, nội dung lưu trữ và nguồn chính thức.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/encyclopedia.css">
 </head>
 <body>
   <header class="site-header">
-    <div class="container">
-      <a href="/" class="logo">Toàn thư luật pháp</a>
-      <nav>
-        <a href="/">Trang chủ</a>
-        <a href="/muc-luc.html">Mục lục</a>
-        <a href="/intro.html">Giới thiệu</a>
-        <a href="/guide.html">Hướng dẫn</a>
-        <a href="/search.html">Tra cứu</a>
-        <a href="/cau-truc-luat-2026.html">Cấu trúc luật 2026</a>
-        <a href="/cases.html">Án lệ</a>
+    <div class="container header-inner">
+      <a href="./" class="logo" aria-label="Toàn thư luật pháp 2.1 – Trang chủ">
+        <span class="logo-seal">§</span>
+        <span class="logo-text">Toàn thư luật pháp <small>2.1</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Điều hướng chính">
+        <a href="countries.html">Quốc gia</a>
+        <a href="search.html">Tra cứu</a>
+        <a href="cases.html">Án lệ</a>
+        <a href="topics.html">Chủ đề</a>
+        <a href="treaties.html">Điều ước</a>
+        <a href="coverage.html">Độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
       </nav>
     </div>
   </header>
-  <main class="container">
+
+  <main class="container document-page">
     <div id="content">
-      <p class="loading">Đang tải...</p>
+      <p class="loading">Đang tải văn bản…</p>
     </div>
   </main>
+
   <footer class="site-footer">
-    <div class="container">
-      <p>Nội dung chỉ mang tính tham khảo. Ưu tiên đối chiếu văn bản gốc.</p>
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <strong>Toàn thư luật pháp 2.1</strong>
+        <p>Thư viện tra cứu văn bản luật và án lệ toàn cầu, chạy hoàn toàn tĩnh trên Netlify.</p>
+      </div>
+      <div class="footer-links">
+        <a href="guide.html">Hướng dẫn</a>
+        <a href="coverage.html">Báo cáo độ phủ</a>
+        <a href="intro.html">Giới thiệu</a>
+        <a href="https://github.com/NorvixAdamas/toanthuluat" target="_blank" rel="noopener">Mã nguồn</a>
+      </div>
+    </div>
+    <div class="container footer-note">
+      <p>Nội dung chỉ để tham khảo, không thay thế văn bản chính thức hay tư vấn pháp lý. Luôn đối chiếu nguồn của cơ quan ban hành.</p>
     </div>
   </footer>
-  <script src="/js/app.js"></script>
-  <script src="/js/document.js"></script>
+
+  <script src="js/core.js"></script>
+  <script src="js/document.js"></script>
 </body>
 </html>

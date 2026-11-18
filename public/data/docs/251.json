@@ -1,0 +1,218 @@
+{
+ "id": 251,
+ "sourceId": "vn-def-1",
+ "title": "Luật Quốc phòng 2018",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "defense"
+ ],
+ "fieldLabels": [
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 251,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Quy định về nguyên tắc, chính sách, hoạt động quốc phòng; tiềm lực quốc phòng."
+  },
+  {
+   "id": 6708,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 6487,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 6266,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 6007,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 5786,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 5527,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 5306,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 5085,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 4864,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 4643,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 4422,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 3446,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 3225,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 2960,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 2739,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 2326,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 2105,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 1858,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 1603,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 1382,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 1161,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 805,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  },
+  {
+   "id": 584,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "text": "Luật Quốc phòng 2018.\nĐiều 1. Phạm vi: Nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng, nghĩa vụ quốc phòng.\nĐiều 4. Nguyên tắc: quốc phòng toàn dân, chiến tranh nhân dân.\nĐiều 6-8. Lực lượng vũ trang: quân đội nhân dân, công an nhân dân, dân quân tự vệ.\nĐiều 16-19. Tình trạng chiến tranh, tình trạng khẩn cấp, thiết quân luật, giới nghiêm."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 182,
+   "title": "Luật An ninh quốc gia 2004",
+   "kindLabel": "Đạo luật",
+   "year": 2005
+  },
+  {
+   "id": 183,
+   "title": "Luật Công an nhân dân 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 184,
+   "title": "Luật Nghĩa vụ quân sự 2015",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 185,
+   "title": "Luật An ninh mạng 2018",
+   "kindLabel": "Đạo luật",
+   "year": 2019
+  },
+  {
+   "id": 188,
+   "title": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  }
+ ]
+}

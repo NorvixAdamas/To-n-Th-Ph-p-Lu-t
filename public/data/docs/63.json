@@ -1,0 +1,220 @@
+{
+ "id": 63,
+ "sourceId": "vn-tax-7",
+ "title": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax"
+ ],
+ "fieldLabels": [
+  "Luật thuế"
+ ],
+ "year": 2016,
+ "effectiveDate": "2016-09-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6590,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 6369,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 6148,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 5889,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 5668,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 5409,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 5188,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 4967,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 4746,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 4525,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 4304,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 3328,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 3107,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 2842,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 2621,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 2208,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 1987,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 1740,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 1485,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 1264,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 1043,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 687,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 466,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  },
+  {
+   "id": 63,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "text": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016.\nĐiều 2. Đối tượng chịu thuế: hàng hóa xuất nhập khẩu qua cửa khẩu, biên giới Việt Nam.\nĐiều 5. Thuế suất: thuế suất ưu đãi (MFN), thuế suất ưu đãi đặc biệt (FTA), thuế suất thông thường.\nĐiều 15-18. Miễn thuế, giảm thuế, hoàn thuế."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 61,
+   "title": "Luật Thuế tài nguyên 2009",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 62,
+   "title": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

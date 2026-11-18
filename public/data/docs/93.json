@@ -1,0 +1,218 @@
+{
+ "id": 93,
+ "sourceId": "vn-health-3",
+ "title": "Luật Phòng, chống bệnh truyền nhiễm 2007",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "health"
+ ],
+ "fieldLabels": [
+  "Y tế"
+ ],
+ "year": 2008,
+ "effectiveDate": "2008-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6620,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 6399,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 6178,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 5919,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 5698,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 5439,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 5218,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 4997,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 4776,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 4555,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 4334,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 3358,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 3137,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 2872,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 2651,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 2238,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 2017,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 1770,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 1515,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 1294,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 1073,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 717,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 496,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  },
+  {
+   "id": 93,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "text": "Luật Phòng, chống bệnh truyền nhiễm 2007.\nĐiều 1. Phạm vi: Phân loại bệnh truyền nhiễm, phòng bệnh, chống dịch.\nĐiều 3. Phân loại: nhóm A (đặc biệt nguy hiểm: bạch hầu, Ebola, SARS, COVID-19), nhóm B (nguy hiểm: HIV, lao, sốt rét), nhóm C (ít nguy hiểm).\nĐiều 43-47. Chống dịch: công bố dịch, ban bố tình trạng khẩn cấp, cách ly y tế."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 67,
+   "title": "Luật An toàn, Vệ sinh Lao động 2015",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 69,
+   "title": "Luật Bảo hiểm Y tế 2008 (sửa đổi 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2015
+  },
+  {
+   "id": 92,
+   "title": "Luật Dược 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 162,
+   "title": "Luật Công chứng 2014 (sửa đổi 2024)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

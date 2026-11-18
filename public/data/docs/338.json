@@ -1,0 +1,43 @@
+{
+ "id": 338,
+ "sourceId": "au-admin-1",
+ "title": "Administrative Appeals Tribunal Act (Luật Hành chính Úc)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legislation.gov.au/Details/C2023C00155",
+ "tags": [],
+ "fields": [
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "versions": [
+  {
+   "id": 338,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Establishment of the AAT for review of administrative decisions."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": []
+}

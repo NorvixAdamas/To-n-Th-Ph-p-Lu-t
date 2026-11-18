@@ -1,0 +1,222 @@
+{
+ "id": 7,
+ "sourceId": "us-tax-4",
+ "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/5376",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "enterprise"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật doanh nghiệp & đầu tư"
+ ],
+ "year": 2022,
+ "effectiveDate": "2022-08-16",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6534,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 6313,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 6092,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 5833,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 5612,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 5353,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 5132,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 4911,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 4690,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 4469,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 4248,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 3272,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 3051,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 2786,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 2565,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 2152,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 1931,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 1684,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 1429,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 1208,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 987,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 631,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 410,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  },
+  {
+   "id": 7,
+   "effectiveDate": "2022-08-16",
+   "repealDate": null,
+   "text": "Inflation Reduction Act of 2022 – Tax Provisions. Clean energy tax credits: Production Tax Credit (PTC), Investment Tax Credit (ITC). Electric vehicle tax credits (Section 30D). Energy efficient home improvement credits. Corporate Alternative Minimum Tax (15% on large corporations). 1% excise tax on stock buybacks. IRS funding: $80 billion for enforcement and modernization."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 32,
+   "title": "Child Support Enforcement Act (Luật Thi hành Trợ cấp Trẻ em)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

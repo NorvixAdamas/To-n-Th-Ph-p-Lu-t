@@ -1,0 +1,29 @@
+{
+ "id": 41,
+ "sourceId": "au-case-1",
+ "name": "Mabo v Queensland (No 2) (1992)",
+ "court": "High Court of Australia",
+ "docket": "(1992) 175 CLR 1",
+ "dateDecided": "1992-06-03",
+ "year": 1992,
+ "summary": "Overturned the legal doctrine of terra nullius (land belonging to no one) and recognised native title in Australia, a milestone for Indigenous land rights.",
+ "fields": [
+  "land"
+ ],
+ "fieldLabels": [
+  "Luật đất đai & nhà ở"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.hcourt.gov.au/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "AU",
+  "slug": "australia",
+  "nameVi": "Australia",
+  "nameEn": "Australia",
+  "flag": "🇦🇺",
+  "regionName": "Châu Đại Dương"
+ },
+ "related": []
+}

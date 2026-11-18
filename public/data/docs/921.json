@@ -1,0 +1,82 @@
+{
+ "id": 921,
+ "sourceId": "de-ip-extra",
+ "title": "Patentgesetz (Patentrecht Germany)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/patg/",
+ "tags": [],
+ "fields": [
+  "ip",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 921,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patentgesetz. Patent registration Germany. Copyright patent trademark Urheberrecht Markenrecht."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 311,
+   "title": "Urheberrechtsgesetz (Luật Bản quyền Đức)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 314,
+   "title": "Kreditwesengesetz (KWG) – Luật Ngân hàng Đức",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 317,
+   "title": "UWG (Luật Chống cạnh tranh không lành mạnh)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 922,
+   "title": "WpHG – Securities Trading Act Germany",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 924,
+   "title": "Verbraucherschutzgesetz – Consumer Protection",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 3015,
+   "title": "Handelsgesetzbuch (HGB)",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

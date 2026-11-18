@@ -1,0 +1,218 @@
+{
+ "id": 125,
+ "sourceId": "us-imm-5",
+ "title": "Illegal Immigration Reform and Immigrant Responsibility Act – IIRIRA 1996",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/104th-congress/house-bill/3610",
+ "tags": [],
+ "fields": [
+  "immigration"
+ ],
+ "fieldLabels": [
+  "Di trú & quốc tịch"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6652,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 6431,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 6210,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 5951,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 5730,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 5471,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 5250,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 5029,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 4808,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 4587,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 4366,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 3390,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 3169,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 2904,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 2683,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 2270,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 2049,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 1802,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 1547,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 1326,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 1105,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 749,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 528,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  },
+  {
+   "id": 125,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "IIRIRA 1996 – Illegal Immigration Reform.\nTăng cường biên giới, tăng phạt nhập cư bất hợp pháp. Bars: 3 năm (ở quá 180 ngày-1 năm), 10 năm (ở quá 1 năm). Expedited removal: trục xuất nhanh tại biên giới. 287(g): Hợp tác liên bang-tiểu bang về thực thi nhập cư. REAL ID Act: yêu cầu giấy tờ tùy thân."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 30,
+   "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 124,
+   "title": "Refugee Act 1980 (Luật Tị nạn)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 128,
+   "title": "Uniform Parentage Act – UPA (Luật Thống nhất Quan hệ Cha mẹ Con)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 151,
+   "title": "Fair Housing Act (Luật Nhà ở Công bằng)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 228,
+   "title": "Immigration and Nationality Act – INA",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

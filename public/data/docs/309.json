@@ -1,0 +1,66 @@
+{
+ "id": 309,
+ "sourceId": "de-tax-1",
+ "title": "Abgabenordnung (AO) – Luật Quản lý Thuế Đức",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/ao_1977/",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật hình sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 309,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Tax Code of Germany. General tax regulations, assessment, collection, and criminal tax law."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 308,
+   "title": "Strafgesetzbuch (StGB) – Bộ luật Hình sự Đức",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 919,
+   "title": "Strafprozessordnung (StPO) – Code of Criminal Procedure",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 3014,
+   "title": "Strafgesetzbuch (StGB)",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "id": 78,
+ "sourceId": "vn-land-3",
+ "title": "Luật Kinh doanh Bất động sản 2023",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "land",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật đất đai & nhà ở",
+  "Luật thương mại"
+ ],
+ "year": 2025,
+ "effectiveDate": "2025-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6605,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 6384,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 6163,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 5904,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 5683,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 5424,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 5203,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 4982,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 4761,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 4540,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 4319,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 3343,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 3122,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 2857,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 2636,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 2223,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 2002,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 1755,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 1500,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 1279,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 1058,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 702,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 481,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  },
+  {
+   "id": 78,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "text": "Luật Kinh doanh Bất động sản 2023.\nĐiều 1. Phạm vi: Kinh doanh BĐS, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh BĐS.\nĐiều 10. Điều kiện kinh doanh BĐS: có vốn pháp định ≥ 20 tỷ đồng.\nĐiều 24-41. Mua bán, chuyển nhượng, cho thuê, cho thuê mua BĐS.\nĐiều 53-61. Kinh doanh dịch vụ BĐS: môi giới, định giá, tư vấn, quản lý."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  }
+ ]
+}

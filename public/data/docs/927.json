@@ -1,0 +1,82 @@
+{
+ "id": 927,
+ "sourceId": "jp-lab-extra",
+ "title": "Labor Contract Act Japan (Rodokeiyakuho)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://elaws.e-gov.go.jp/document?lawid=419AC0000000128",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "JP",
+  "slug": "japan",
+  "nameVi": "Nhật Bản",
+  "nameEn": "Japan",
+  "flag": "🇯🇵",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 927,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Labor Contract Act Japan. Employment contracts, labor relations. Working conditions labor employment."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 323,
+   "title": "Labor Standards Act (Luật Lao động Nhật Bản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 328,
+   "title": "Family Register Act (Luật Hộ tịch Nhật Bản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 330,
+   "title": "Consumer Contract Act (Luật Bảo vệ Người tiêu dùng Nhật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 930,
+   "title": "Marriage and Divorce Law Japan – Civil Code Books IV-V",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 931,
+   "title": "My Number Act (Japanese Data Identification)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 932,
+   "title": "Product Liability Act Japan",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

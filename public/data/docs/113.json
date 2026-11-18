@@ -1,0 +1,220 @@
+{
+ "id": 113,
+ "sourceId": "us-com-8",
+ "title": "Sherman Antitrust Act (Luật Chống Độc quyền Sherman)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter1",
+ "tags": [],
+ "fields": [
+  "commercial",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật thương mại",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6640,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 6419,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 6198,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 5939,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 5718,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 5459,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 5238,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 5017,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 4796,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 4575,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 4354,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 3378,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 3157,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 2892,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 2671,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 2258,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 2037,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 1790,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 1535,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 1314,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 1093,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 737,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 516,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  },
+  {
+   "id": 113,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Sherman Antitrust Act – 15 USC §1-7.\n§1: Mọi hợp đồng, liên kết, hoặc âm mưu nhằm hạn chế thương mại là bất hợp pháp. Phạt: tội felony, phạt đến $100 triệu (tổ chức), $1 triệu (cá nhân), 10 năm tù.\n§2: Monopolizing hoặc cố monopolize bất kỳ phần nào của thương mại liên bang là bất hợp pháp.\nRule of reason vs. per se illegal."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,3781 @@
+{
+ "country": {
+  "code": "VN",
+  "code3": "VNM",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "South-Eastern Asia",
+  "capital": "Hanoi",
+  "legalFamily": "Dân luật xã hội chủ nghĩa",
+  "overview": "Việt Nam xây dựng hệ thống pháp luật theo truyền thống dân luật, chịu ảnh hưởng của mô hình xã hội chủ nghĩa. Hiến pháp 2013 là văn bản có hiệu lực pháp lý cao nhất; Bộ luật Dân sự 2015 và Bộ luật Hình sự 2015 (sửa đổi 2017) là các bộ luật nền tảng. Văn bản quy phạm pháp luật được ban hành theo thứ bậc: Hiến pháp, luật/bộ luật, nghị quyết của Quốc hội, nghị định của Chính phủ, thông tư và các văn bản dưới luật.",
+  "sources": [
+   {
+    "name": "Cơ sở dữ liệu quốc gia về văn bản pháp luật",
+    "url": "https://vbpl.vn"
+   },
+   {
+    "name": "Cổng thông tin điện tử Chính phủ",
+    "url": "https://chinhphu.vn"
+   },
+   {
+    "name": "Công báo nước Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+    "url": "https://congbao.chinhphu.vn"
+   },
+   {
+    "name": "Tòa án nhân dân tối cao",
+    "url": "https://toaan.gov.vn"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 116,
+   "versions": 2715,
+   "cases": 17,
+   "courts": 2,
+   "fields": 18,
+   "fullTextDocuments": 0,
+   "latestYear": 2025
+  },
+  "fieldCounts": {
+   "land": 17,
+   "constitution": 3,
+   "administrative": 33,
+   "criminal": 6,
+   "civil": 20,
+   "labor": 14,
+   "commercial": 24,
+   "family": 7,
+   "tax": 26,
+   "education": 17,
+   "defense": 7,
+   "enterprise": 17,
+   "health": 19,
+   "tech": 17,
+   "environment": 6,
+   "other": 9,
+   "immigration": 3,
+   "ip": 2
+  },
+  "courts": [
+   {
+    "name": "Hội đồng Thẩm phán TANDTC",
+    "count": 16
+   },
+   {
+    "name": "TANDCC tại Thành phố Hồ Chí Minh",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "sourceId": "vn-const-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "constitution",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Hiến pháp",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "sourceId": "vn-civil-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "criminal",
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "sourceId": "vn-crim-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 50,
+   "title": "Luật Thi hành án Hình sự 2019",
+   "sourceId": "vn-crim-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "sourceId": "vn-civpro-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "commercial",
+    "civil",
+    "family",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật thương mại",
+    "Luật dân sự",
+    "Gia đình",
+    "Hành chính"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "sourceId": "vn-civpro-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2011,
+   "effectiveDate": "2011-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "sourceId": "vn-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "sourceId": "vn-admin-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Hành chính"
+   ],
+   "year": 2022,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "sourceId": "vn-admin-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "constitution",
+    "education",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Hiến pháp",
+    "Giáo dục",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 56,
+   "title": "Luật Tổ chức chính quyền địa phương 2015 (sửa đổi 2019)",
+   "sourceId": "vn-admin-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "sourceId": "vn-tax-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land",
+    "enterprise",
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở",
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "sourceId": "vn-tax-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "labor",
+    "health",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Y tế",
+    "Giáo dục"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 60,
+   "title": "Luật Thuế tiêu thụ đặc biệt 2008 (sửa đổi 2014, 2016)",
+   "sourceId": "vn-tax-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 61,
+   "title": "Luật Thuế tài nguyên 2009",
+   "sourceId": "vn-tax-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2010,
+   "effectiveDate": "2010-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 62,
+   "title": "Luật Quản lý thuế 2019 (Luật số 38/2019/QH14)",
+   "sourceId": "vn-tax-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 63,
+   "title": "Luật Thuế xuất khẩu, thuế nhập khẩu 2016",
+   "sourceId": "vn-tax-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-09-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 64,
+   "title": "Luật Thuế sử dụng đất phi nông nghiệp 2010",
+   "sourceId": "vn-tax-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại"
+   ],
+   "year": 2012,
+   "effectiveDate": "2012-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "sourceId": "vn-labor-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 67,
+   "title": "Luật An toàn, Vệ sinh Lao động 2015",
+   "sourceId": "vn-labor-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 68,
+   "title": "Luật Việc làm 2013",
+   "sourceId": "vn-labor-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "education",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Giáo dục",
+    "Hành chính"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 69,
+   "title": "Luật Bảo hiểm Y tế 2008 (sửa đổi 2014)",
+   "sourceId": "vn-labor-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "family",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Gia đình",
+    "Y tế"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 71,
+   "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+   "sourceId": "vn-ent-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "criminal",
+    "land",
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật hình sự",
+    "Luật đất đai & nhà ở",
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "sourceId": "vn-ent-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2006,
+   "effectiveDate": "2006-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 73,
+   "title": "Luật Cạnh tranh 2018",
+   "sourceId": "vn-ent-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Giáo dục"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 74,
+   "title": "Luật Phá sản 2014",
+   "sourceId": "vn-ent-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "commercial",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại",
+    "Hành chính"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 75,
+   "title": "Luật Hợp tác xã 2023",
+   "sourceId": "vn-ent-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 77,
+   "title": "Luật Nhà ở 2023 (Luật số 27/2023/QH15)",
+   "sourceId": "vn-land-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 78,
+   "title": "Luật Kinh doanh Bất động sản 2023",
+   "sourceId": "vn-land-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở",
+    "Luật thương mại"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "sourceId": "vn-fam-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "family",
+    "education",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Gia đình",
+    "Giáo dục",
+    "Hành chính"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-06-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "sourceId": "vn-fam-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 84,
+   "title": "Luật Ngân hàng Nhà nước Việt Nam 2010",
+   "sourceId": "vn-bank-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Giáo dục"
+   ],
+   "year": 2011,
+   "effectiveDate": "2011-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 85,
+   "title": "Luật Chứng khoán 2019 (Luật số 54/2019/QH14)",
+   "sourceId": "vn-bank-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "commercial",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại",
+    "Giáo dục"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 87,
+   "title": "Luật Xây dựng 2014 (sửa đổi 2020)",
+   "sourceId": "vn-env-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 88,
+   "title": "Luật Quy hoạch 2017",
+   "sourceId": "vn-env-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 90,
+   "title": "Luật Giáo dục Đại học 2012 (sửa đổi 2018)",
+   "sourceId": "vn-edu-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 92,
+   "title": "Luật Dược 2016",
+   "sourceId": "vn-health-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Y tế"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 93,
+   "title": "Luật Phòng, chống bệnh truyền nhiễm 2007",
+   "sourceId": "vn-health-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "year": 2008,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 94,
+   "title": "Nghị định 145/2020/NĐ-CP – Hướng dẫn Bộ luật Lao động",
+   "sourceId": "vn-nd-1",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "tech",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Luật dân sự"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-02-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 95,
+   "title": "Nghị định 126/2020/NĐ-CP – Hướng dẫn Luật Quản lý thuế",
+   "sourceId": "vn-nd-2",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-12-19",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 96,
+   "title": "Nghị định 01/2021/NĐ-CP – Đăng ký doanh nghiệp",
+   "sourceId": "vn-nd-3",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "enterprise",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật doanh nghiệp & đầu tư",
+    "Hành chính"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-04",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 97,
+   "title": "Nghị định 100/2019/NĐ-CP – Xử phạt hành chính giao thông",
+   "sourceId": "vn-nd-4",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 98,
+   "title": "Nghị định 15/2021/NĐ-CP – Quản lý dự án đầu tư xây dựng",
+   "sourceId": "vn-nd-5",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-03-03",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 162,
+   "title": "Luật Công chứng 2014 (sửa đổi 2024)",
+   "sourceId": "vn-civil-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "environment",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Môi trường",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 163,
+   "title": "Luật Thi hành án Dân sự 2008 (sửa đổi 2014, 2022)",
+   "sourceId": "vn-civil-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2022,
+   "effectiveDate": "2022-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 164,
+   "title": "Luật Hòa giải, đối thoại tại Tòa án 2020",
+   "sourceId": "vn-civil-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 165,
+   "title": "Luật Khiếu nại 2011",
+   "sourceId": "vn-admin-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "education",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Giáo dục",
+    "Hành chính"
+   ],
+   "year": 2012,
+   "effectiveDate": "2012-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 166,
+   "title": "Luật Tố cáo 2018",
+   "sourceId": "vn-admin-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 167,
+   "title": "Luật Tiếp cận thông tin 2016",
+   "sourceId": "vn-admin-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 168,
+   "title": "Luật Cán bộ, Công chức 2008 (sửa đổi 2019)",
+   "sourceId": "vn-admin-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "environment",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 169,
+   "title": "Luật Viên chức 2010 (sửa đổi 2019)",
+   "sourceId": "vn-admin-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 170,
+   "title": "Luật Phòng, chống tham nhũng 2018",
+   "sourceId": "vn-admin-10",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 171,
+   "title": "Luật Đấu thầu 2023",
+   "sourceId": "vn-ent-7",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 172,
+   "title": "Luật Đầu tư công 2019",
+   "sourceId": "vn-ent-8",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Giáo dục"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 173,
+   "title": "Luật Đầu tư theo phương thức đối tác công tư – PPP 2020",
+   "sourceId": "vn-ent-9",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "civil",
+    "health",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật dân sự",
+    "Y tế",
+    "Giáo dục"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 174,
+   "title": "Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất kinh doanh 2014",
+   "sourceId": "vn-ent-10",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 175,
+   "title": "Luật Hỗ trợ doanh nghiệp nhỏ và vừa 2017",
+   "sourceId": "vn-ent-11",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "labor",
+    "tech",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 176,
+   "title": "Luật Thuế sử dụng đất nông nghiệp 1993 (miễn thuế đến 2025)",
+   "sourceId": "vn-land-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 1993,
+   "effectiveDate": "1993-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 177,
+   "title": "Nghị định 43/2014/NĐ-CP – Hướng dẫn Luật Đất đai 2013",
+   "sourceId": "vn-land-5",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 178,
+   "title": "Nghị định 44/2014/NĐ-CP – Quy định về giá đất",
+   "sourceId": "vn-land-6",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở",
+    "Giáo dục"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 179,
+   "title": "Luật Chuyển giao công nghệ 2017",
+   "sourceId": "vn-ip-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật dân sự"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 180,
+   "title": "Luật Khoa học và Công nghệ 2013",
+   "sourceId": "vn-ip-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "tech",
+    "enterprise",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Công nghệ & dữ liệu",
+    "Luật doanh nghiệp & đầu tư",
+    "Giáo dục"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 182,
+   "title": "Luật An ninh quốc gia 2004",
+   "sourceId": "vn-def-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2005,
+   "effectiveDate": "2005-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 183,
+   "title": "Luật Công an nhân dân 2018",
+   "sourceId": "vn-def-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 184,
+   "title": "Luật Nghĩa vụ quân sự 2015",
+   "sourceId": "vn-def-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "civil",
+    "family",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Gia đình",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 185,
+   "title": "Luật An ninh mạng 2018",
+   "sourceId": "vn-def-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "enterprise",
+    "defense",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật doanh nghiệp & đầu tư",
+    "Quốc phòng & an ninh",
+    "Hành chính"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 187,
+   "title": "Luật Trật tự, An toàn Giao thông Đường bộ 2024",
+   "sourceId": "vn-trans-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 188,
+   "title": "Luật Hàng không dân dụng Việt Nam 2006 (sửa đổi 2014)",
+   "sourceId": "vn-trans-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "immigration",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Di trú & quốc tịch",
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 189,
+   "title": "Luật Đường sắt 2017",
+   "sourceId": "vn-trans-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "commercial",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật thương mại",
+    "Luật dân sự"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 190,
+   "title": "Luật Giao thông Đường thủy nội địa 2004 (sửa đổi 2014)",
+   "sourceId": "vn-trans-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2015,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 191,
+   "title": "Bộ luật Hàng hải Việt Nam 2015",
+   "sourceId": "vn-trans-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor",
+    "civil",
+    "immigration"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật dân sự",
+    "Di trú & quốc tịch"
+   ],
+   "year": 2017,
+   "effectiveDate": "2017-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 192,
+   "title": "Luật Tài nguyên nước 2023",
+   "sourceId": "vn-agri-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 193,
+   "title": "Luật Lâm nghiệp 2017",
+   "sourceId": "vn-agri-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 194,
+   "title": "Luật Thủy sản 2017",
+   "sourceId": "vn-agri-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2019,
+   "effectiveDate": "2019-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 195,
+   "title": "Luật Trồng trọt 2018",
+   "sourceId": "vn-agri-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 196,
+   "title": "Luật Chăn nuôi 2018",
+   "sourceId": "vn-agri-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 197,
+   "title": "Luật Khoáng sản 2010",
+   "sourceId": "vn-agri-6",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2011,
+   "effectiveDate": "2011-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 199,
+   "title": "Luật Giao dịch điện tử 2023",
+   "sourceId": "vn-it-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "civil"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 200,
+   "title": "Luật Viễn thông 2023",
+   "sourceId": "vn-it-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 201,
+   "title": "Luật Báo chí 2016",
+   "sourceId": "vn-it-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Hành chính"
+   ],
+   "year": 2016,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 204,
+   "title": "Luật An toàn Thực phẩm 2010",
+   "sourceId": "vn-consumer-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial",
+    "health",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật thương mại",
+    "Y tế",
+    "Hành chính"
+   ],
+   "year": 2011,
+   "effectiveDate": "2011-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 205,
+   "title": "Luật Chất lượng Sản phẩm, Hàng hóa 2007",
+   "sourceId": "vn-consumer-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2008,
+   "effectiveDate": "2008-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 206,
+   "title": "Luật Tiêu chuẩn và Quy chuẩn Kỹ thuật 2006",
+   "sourceId": "vn-consumer-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2007,
+   "effectiveDate": "2007-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 207,
+   "title": "Luật Tổ chức Tòa án nhân dân 2024",
+   "sourceId": "vn-legal-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 208,
+   "title": "Luật Tổ chức Viện kiểm sát nhân dân 2014 (sửa đổi 2024)",
+   "sourceId": "vn-legal-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "environment"
+   ],
+   "fieldLabels": [
+    "Môi trường"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 209,
+   "title": "Luật Luật sư 2006 (sửa đổi 2012)",
+   "sourceId": "vn-legal-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2013,
+   "effectiveDate": "2013-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 210,
+   "title": "Luật Trợ giúp pháp lý 2017",
+   "sourceId": "vn-legal-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "family",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình",
+    "Y tế"
+   ],
+   "year": 2018,
+   "effectiveDate": "2018-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 211,
+   "title": "Luật Giám định Tư pháp 2012 (sửa đổi 2020)",
+   "sourceId": "vn-legal-5",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "criminal",
+    "land",
+    "civil",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Luật đất đai & nhà ở",
+    "Luật dân sự",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 212,
+   "title": "Nghị định 13/2023/NĐ-CP – Bảo vệ dữ liệu cá nhân",
+   "sourceId": "vn-nd-6",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "immigration",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Di trú & quốc tịch",
+    "Hành chính"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 213,
+   "title": "Nghị định 98/2020/NĐ-CP – Xử phạt hành chính thương mại, hàng giả",
+   "sourceId": "vn-nd-7",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "commercial",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật thương mại",
+    "Hành chính"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-10-15",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 214,
+   "title": "Nghị định 38/2024/NĐ-CP – Xử phạt hành chính vi phạm đất đai",
+   "sourceId": "vn-nd-8",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-04-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 215,
+   "title": "Nghị định 46/2014/NĐ-CP – Thu tiền thuê đất, thuê mặt nước",
+   "sourceId": "vn-nd-9",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "enterprise",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật doanh nghiệp & đầu tư",
+    "Y tế"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-09-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 216,
+   "title": "Nghị định 10/2023/NĐ-CP – Sửa đổi về giấy chứng nhận quyền sử dụng đất",
+   "sourceId": "vn-nd-10",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-03-20",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 217,
+   "title": "Nghị định 123/2020/NĐ-CP – Quy định về hóa đơn, chứng từ",
+   "sourceId": "vn-nd-11",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "tech",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Công nghệ & dữ liệu",
+    "Giáo dục"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-11-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 218,
+   "title": "Nghị định 44/2023/NĐ-CP – Giảm thuế GTGT 2% (8%)",
+   "sourceId": "vn-nd-12",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "decree",
+   "kindLabel": "Nghị định",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "labor",
+    "tech",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Công nghệ & dữ liệu",
+    "Luật thương mại"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 219,
+   "title": "Thông tư 78/2014/TT-BTC – Hướng dẫn thuế TNDN",
+   "sourceId": "vn-nd-13",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "circular",
+   "kindLabel": "Thông tư",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "commercial",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật thương mại",
+    "Y tế"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-06-18",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 220,
+   "title": "Thông tư 111/2013/TT-BTC – Hướng dẫn thuế TNCN",
+   "sourceId": "vn-nd-14",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "circular",
+   "kindLabel": "Thông tư",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax"
+   ],
+   "fieldLabels": [
+    "Luật thuế"
+   ],
+   "year": 2013,
+   "effectiveDate": "2013-08-15",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 221,
+   "title": "Thông tư 219/2013/TT-BTC – Hướng dẫn thuế GTGT",
+   "sourceId": "vn-nd-15",
+   "type": "regulation",
+   "typeLabel": "Quy định / Văn bản dưới luật",
+   "kind": "circular",
+   "kindLabel": "Thông tư",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "labor",
+    "health",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật lao động",
+    "Y tế",
+    "Giáo dục"
+   ],
+   "year": 2014,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 238,
+   "title": "Hiến pháp 2013",
+   "sourceId": "vn-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://vbpl.vn/botuphap/Pages/vbpq-toanvan.aspx?ItemID=32801",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 239,
+   "title": "Bộ luật Dân sự 2015",
+   "sourceId": "vn-civil-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 240,
+   "title": "Bộ luật Hình sự 2015",
+   "sourceId": "vn-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 242,
+   "title": "Bộ luật Lao động 2019",
+   "sourceId": "vn-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 243,
+   "title": "Luật Doanh nghiệp 2020",
+   "sourceId": "vn-ent-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 244,
+   "title": "Luật Đất đai 2024",
+   "sourceId": "vn-land-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tax",
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 245,
+   "title": "Luật Hôn nhân và Gia đình 2014",
+   "sourceId": "vn-fam-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 246,
+   "title": "Luật Sở hữu trí tuệ 2005 (sửa đổi 2022)",
+   "sourceId": "vn-ip-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 247,
+   "title": "Luật Các tổ chức tín dụng 2024",
+   "sourceId": "vn-bank-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 248,
+   "title": "Luật Bảo vệ Môi trường 2020",
+   "sourceId": "vn-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 249,
+   "title": "Luật Giáo dục 2019",
+   "sourceId": "vn-edu-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "education"
+   ],
+   "fieldLabels": [
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 250,
+   "title": "Luật Khám bệnh, Chữa bệnh 2023",
+   "sourceId": "vn-health-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "health"
+   ],
+   "fieldLabels": [
+    "Y tế"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 251,
+   "title": "Luật Quốc phòng 2018",
+   "sourceId": "vn-def-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "defense"
+   ],
+   "fieldLabels": [
+    "Quốc phòng & an ninh"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 252,
+   "title": "Luật Giao thông Đường bộ 2024",
+   "sourceId": "vn-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "land"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở"
+   ],
+   "year": 2025,
+   "effectiveDate": "2025-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 253,
+   "title": "Luật Công nghệ thông tin 2006",
+   "sourceId": "vn-it-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 254,
+   "title": "Luật Bảo vệ quyền lợi Người tiêu dùng 2023",
+   "sourceId": "vn-consumer-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn",
+   "fields": [
+    "tech",
+    "commercial",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật thương mại",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 24,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 1650,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật",
+   "sourceId": "vn-law-promulgation",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn/TW/Pages/default.aspx",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2020,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:26:17"
+  },
+  {
+   "id": 1665,
+   "title": "Luật Sở hữu trí tuệ (sửa đổi 2022)",
+   "sourceId": "vn-ip-law",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn/TW/Pages/default.aspx",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2023,
+   "effectiveDate": "2023-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:26:17"
+  },
+  {
+   "id": 1672,
+   "title": "Luật Giao thông đường bộ",
+   "sourceId": "vn-road-traffic",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://vbpl.vn/TW/Pages/default.aspx",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2009,
+   "effectiveDate": "2009-07-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:26:17"
+  }
+ ],
+ "cases": [
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "sourceId": "vn-2024-dsgdt-33",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "docket": "33/2024/DS-GĐT",
+   "dateDecided": "2024-01-11",
+   "year": 2024,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "summary": "Nguồn án công khai chính thức về tranh chấp hợp đồng mua bán nhà.",
+   "sourceUrl": "https://anle.toaan.gov.vn/webcenter/portal/anle/chitietnguonanle?dDocName=TAND340881"
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "sourceId": "vn-case-8",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-52/2022",
+   "dateDecided": "2022-12-15",
+   "year": 2022,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Khi người sử dụng lao động đơn phương chấm dứt HĐLĐ trái pháp luật, phải bồi thường cho NLĐ tiền lương trong những ngày không được làm việc, trợ cấp thôi việc, và khoản bồi thường tương đương 2 tháng tiền lương theo Điều 41 BLLĐ 2019.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "sourceId": "vn-case-16",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-55/2022",
+   "dateDecided": "2022-12-15",
+   "year": 2022,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật doanh nghiệp & đầu tư",
+    "Luật thương mại"
+   ],
+   "summary": "Về vấn đề: Khi doanh nghiệp bán hàng hóa không đúng chất lượng công bố, người tiêu dùng có quyền yêu cầu đổi hàng, trả hàng, bồi thường thiệt hại. Doanh nghiệp có nghĩa vụ chứng minh hàng hóa đạt chất lượng (đảo nghĩa vụ chứng minh).",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "sourceId": "vn-case-7",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-42/2021",
+   "dateDecided": "2021-07-12",
+   "year": 2021,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Giáo dục"
+   ],
+   "summary": "Về vấn đề: Xác định trách nhiệm bồi thường thiệt hại do ô nhiễm môi trường. Bên gây ô nhiễm phải bồi thường toàn bộ thiệt hại thực tế, bao gồm thiệt hại về tài sản, sức khỏe, chi phí khắc phục hậu quả.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 30,
+   "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+   "sourceId": "vn-case-15",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-43/2021",
+   "dateDecided": "2021-07-12",
+   "year": 2021,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "criminal",
+    "education"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Giáo dục"
+   ],
+   "summary": "Về vấn đề: Người điều khiển phương tiện vi phạm luật giao thông gây tai nạn chết người bị truy tố theo Điều 260 BLHS 2015. Tình tiết tăng nặng: có nồng độ cồn vượt mức, bỏ chạy khỏi hiện trường.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 29,
+   "name": "Án lệ số 35/2020/AL – Về hợp đồng chuyển nhượng quyền sử dụng đất vi phạm điều cấm",
+   "sourceId": "vn-case-14",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-35/2020",
+   "dateDecided": "2020-10-15",
+   "year": 2020,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "civil",
+    "defense"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật dân sự",
+    "Quốc phòng & an ninh"
+   ],
+   "summary": "Về vấn đề: Hợp đồng chuyển nhượng đất thuộc quy hoạch đất quốc phòng an ninh là vô hiệu do vi phạm điều cấm (Điều 123 BLDS 2015). Hậu quả: hoàn trả cho nhau, bên có lỗi bồi thường thiệt hại.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 27,
+   "name": "Án lệ số 22/2018/AL – Về trách nhiệm hình sự đối với hành vi giết người",
+   "sourceId": "vn-case-12",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-22/2018",
+   "dateDecided": "2018-10-15",
+   "year": 2018,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "criminal"
+   ],
+   "fieldLabels": [
+    "Luật hình sự"
+   ],
+   "summary": "Về vấn đề: Phân biệt giữa \"giết người\" (Điều 123 BLHS) và \"cố ý gây thương tích dẫn đến chết người\" (Điều 134 BLHS). Căn cứ vào: vị trí tấn công (vùng trọng yếu hay không), công cụ, cường độ, thái độ sau khi gây thương tích.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 28,
+   "name": "Án lệ số 26/2018/AL – Về quyền sử dụng đất khi ly hôn",
+   "sourceId": "vn-case-13",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-26/2018",
+   "dateDecided": "2018-10-15",
+   "year": 2018,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil",
+    "family",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Khi ly hôn, đất được cấp cho hộ gia đình mà vợ chồng là thành viên: Tòa án chỉ chia phần quyền sử dụng đất tương ứng với phần của vợ chồng trong hộ gia đình, không chia toàn bộ thửa đất.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 14,
+   "name": "Án lệ số 13/2017/AL – Về quyền lập di chúc",
+   "sourceId": "vn-case-6",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-13/2017",
+   "dateDecided": "2017-10-14",
+   "year": 2017,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "tech",
+    "civil",
+    "health"
+   ],
+   "fieldLabels": [
+    "Công nghệ & dữ liệu",
+    "Luật dân sự",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Người để lại di sản có quyền lập di chúc để lại tài sản cho bất kỳ ai, không bắt buộc phải để lại cho người thừa kế theo pháp luật. Tuy nhiên, di chúc phải dành một phần cho những người được hưởng di sản không phụ thuộc vào nội dung di chúc (Điều 644 BLDS 2015).",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 26,
+   "name": "Án lệ số 15/2017/AL – Về di sản thừa kế theo di chúc miệng",
+   "sourceId": "vn-case-11",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-15/2017",
+   "dateDecided": "2017-10-14",
+   "year": 2017,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "summary": "Về vấn đề: Di chúc miệng (Điều 629 BLDS 2015) chỉ có hiệu lực nếu: (1) người lập trong tình trạng tính mạng bị đe dọa, (2) sau 3 tháng mà còn sống, minh mẫn, sáng suốt thì di chúc miệng mặc nhiên bị hủy bỏ.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 12,
+   "name": "Án lệ số 06/2016/AL – Về vấn đề giải quyết ly hôn",
+   "sourceId": "vn-case-4",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-06/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil",
+    "family",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Khi hai bên đã ly thân, không còn tình cảm, mục đích hôn nhân không đạt được thì Tòa án xử cho ly hôn theo yêu cầu của đương sự, dù bên kia không đồng ý ly hôn.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 13,
+   "name": "Án lệ số 09/2016/AL – Về hiệu lực của hợp đồng bảo hiểm",
+   "sourceId": "vn-case-5",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-09/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "labor",
+    "enterprise",
+    "civil",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật lao động",
+    "Luật doanh nghiệp & đầu tư",
+    "Luật dân sự",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Hợp đồng bảo hiểm nhân thọ có hiệu lực khi bên mua bảo hiểm đã đóng phí bảo hiểm và doanh nghiệp bảo hiểm đã nhận phí, kể cả khi giấy chứng nhận bảo hiểm chưa được cấp.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 25,
+   "name": "Án lệ số 08/2016/AL – Về thu hồi tài sản trong hợp đồng tín dụng",
+   "sourceId": "vn-case-10",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-08/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "commercial",
+    "civil",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật thương mại",
+    "Luật dân sự",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Khi bên vay không trả được nợ, ngân hàng có quyền yêu cầu xử lý tài sản bảo đảm. Tuy nhiên, nếu tài sản bảo đảm là nhà ở duy nhất của bên vay, Tòa án cần xem xét cho bên vay thời gian di dời hợp lý.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 9,
+   "name": "Án lệ số 01/2016/AL – Tranh chấp hợp đồng mua bán nhà",
+   "sourceId": "vn-case-1",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-01/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "civil",
+    "health"
+   ],
+   "fieldLabels": [
+    "Luật đất đai & nhà ở",
+    "Luật dân sự",
+    "Y tế"
+   ],
+   "summary": "Về vấn đề: Khi hợp đồng mua bán nhà ở không được công chứng, chứng thực theo quy định nhưng bên mua đã thực hiện nghĩa vụ thanh toán, bên bán đã giao nhà và bên mua đã nhận nhà, sử dụng ổn định, thì hợp đồng có hiệu lực. Tòa án không tuyên bố hợp đồng vô hiệu.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 10,
+   "name": "Án lệ số 02/2016/AL – Tranh chấp đòi lại tài sản",
+   "sourceId": "vn-case-2",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-02/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "summary": "Về vấn đề: Xác định thời hiệu khởi kiện đối với tranh chấp quyền sử dụng đất. Khi Nhà nước đã cấp giấy chứng nhận quyền sử dụng đất cho người khác, thì không áp dụng thời hiệu để kiện đòi lại đất đó.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 11,
+   "name": "Án lệ số 04/2016/AL – Về tranh chấp bồi thường thiệt hại ngoài hợp đồng",
+   "sourceId": "vn-case-3",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-04/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "summary": "Về vấn đề: Xác định trách nhiệm bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra. Chủ sở hữu phương tiện giao thông phải bồi thường cho người bị thiệt hại, kể cả khi người điều khiển phương tiện không có lỗi.",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  },
+  {
+   "id": 24,
+   "name": "Án lệ số 03/2016/AL – Về trách nhiệm bồi thường trong hợp đồng mua bán",
+   "sourceId": "vn-case-9",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-03/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "summary": "Về vấn đề: Khi bên bán vi phạm hợp đồng (giao hàng không đúng chất lượng), bên mua có quyền yêu cầu bồi thường thiệt hại thực tế bao gồm: chênh lệch giá trị hàng hóa, chi phí khắc phục, lợi nhuận bị mất (kỳ vọng hợp lý).",
+   "sourceUrl": "https://anle.toaan.gov.vn"
+  }
+ ],
+ "topics": [
+  {
+   "id": "vn-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "",
+   "desc": "Hiến pháp 2013, Luật Ban hành văn bản QPPL",
+   "q": "hiến pháp",
+   "tax": false
+  },
+  {
+   "id": "vn-civil",
+   "name": "Dân sự",
+   "nameEn": "",
+   "desc": "Bộ luật Dân sự 2015 (sửa đổi), Luật Trách nhiệm bồi thường của Nhà nước",
+   "q": "dân sự",
+   "tax": false
+  },
+  {
+   "id": "vn-criminal",
+   "name": "Hình sự",
+   "nameEn": "",
+   "desc": "Bộ luật Hình sự 2015 (sửa đổi), Bộ luật Tố tụng hình sự",
+   "q": "hình sự",
+   "tax": false
+  },
+  {
+   "id": "vn-civil-procedure",
+   "name": "Tố tụng dân sự",
+   "nameEn": "",
+   "desc": "Bộ luật Tố tụng dân sự, Luật Trọng tài thương mại",
+   "q": "tố tụng dân sự",
+   "tax": false
+  },
+  {
+   "id": "vn-admin",
+   "name": "Hành chính",
+   "nameEn": "",
+   "desc": "Luật Tố tụng hành chính, Luật Xử lý vi phạm hành chính",
+   "q": "hành chính",
+   "tax": false
+  },
+  {
+   "id": "vn-tax",
+   "name": "Thuế",
+   "nameEn": "",
+   "desc": "Thuế TNDN, TNCN, GTGT, Tiêu thụ đặc biệt, Tài nguyên, Quản lý thuế",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "vn-labor",
+   "name": "Lao động",
+   "nameEn": "",
+   "desc": "Bộ luật Lao động 2019, Luật BHXH, Luật An toàn vệ sinh lao động",
+   "q": "lao động",
+   "tax": false
+  },
+  {
+   "id": "vn-enterprise",
+   "name": "Doanh nghiệp / Thương mại",
+   "nameEn": "",
+   "desc": "Luật Doanh nghiệp, Luật Đầu tư, Luật Thương mại, Luật Cạnh tranh, Luật Phá sản",
+   "q": "doanh nghiệp thương mại",
+   "tax": false
+  },
+  {
+   "id": "vn-land",
+   "name": "Đất đai / Nhà ở",
+   "nameEn": "",
+   "desc": "Luật Đất đai, Luật Nhà ở, Luật Kinh doanh bất động sản",
+   "q": "đất đai nhà ở",
+   "tax": false
+  },
+  {
+   "id": "vn-family",
+   "name": "Hôn nhân & Gia đình",
+   "nameEn": "",
+   "desc": "Luật Hôn nhân và gia đình",
+   "q": "hôn nhân gia đình",
+   "tax": false
+  },
+  {
+   "id": "vn-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "",
+   "desc": "Luật Sở hữu trí tuệ",
+   "q": "sở hữu trí tuệ",
+   "tax": false
+  },
+  {
+   "id": "vn-banking",
+   "name": "Ngân hàng / Chứng khoán",
+   "nameEn": "",
+   "desc": "Luật Các tổ chức tín dụng, Luật Chứng khoán",
+   "q": "ngân hàng chứng khoán",
+   "tax": false
+  },
+  {
+   "id": "vn-environment",
+   "name": "Môi trường / Xây dựng",
+   "nameEn": "",
+   "desc": "Luật Bảo vệ môi trường, Luật Xây dựng",
+   "q": "môi trường xây dựng",
+   "tax": false
+  },
+  {
+   "id": "vn-education",
+   "name": "Giáo dục",
+   "nameEn": "",
+   "desc": "Luật Giáo dục, Luật Giáo dục đại học",
+   "q": "giáo dục",
+   "tax": false
+  },
+  {
+   "id": "vn-health",
+   "name": "Y tế / Dược",
+   "nameEn": "",
+   "desc": "Luật Khám bệnh chữa bệnh, Luật Dược, Luật BHYT",
+   "q": "y tế dược",
+   "tax": false
+  },
+  {
+   "id": "vn-defense",
+   "name": "Quốc phòng / An ninh",
+   "nameEn": "",
+   "desc": "Luật Quốc phòng, Luật An ninh quốc gia, An ninh mạng, Nghĩa vụ quân sự",
+   "q": "quốc phòng an ninh",
+   "tax": false
+  },
+  {
+   "id": "vn-transport",
+   "name": "Giao thông vận tải",
+   "nameEn": "",
+   "desc": "Luật Giao thông đường bộ, Hàng không, Đường sắt, Hàng hải",
+   "q": "giao thông",
+   "tax": false
+  },
+  {
+   "id": "vn-agriculture",
+   "name": "Tài nguyên / Nông nghiệp",
+   "nameEn": "",
+   "desc": "Luật Tài nguyên nước, Lâm nghiệp, Thủy sản, Khoáng sản",
+   "q": "tài nguyên lâm nghiệp thủy sản",
+   "tax": false
+  },
+  {
+   "id": "vn-it",
+   "name": "CNTT / Truyền thông",
+   "nameEn": "",
+   "desc": "Luật CNTT, Giao dịch điện tử, Viễn thông, Báo chí",
+   "q": "công nghệ viễn thông",
+   "tax": false
+  },
+  {
+   "id": "vn-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "",
+   "desc": "Luật Bảo vệ quyền lợi NTD, An toàn thực phẩm, Chất lượng sản phẩm",
+   "q": "bảo vệ người tiêu dùng",
+   "tax": false
+  },
+  {
+   "id": "vn-judiciary",
+   "name": "Tư pháp / Luật sư",
+   "nameEn": "",
+   "desc": "Luật Tổ chức Tòa án, Viện kiểm sát, Luật Luật sư, Trợ giúp pháp lý",
+   "q": "tòa án luật sư tư pháp",
+   "tax": false
+  },
+  {
+   "id": "vn-caselaw",
+   "name": "Án lệ",
+   "nameEn": "",
+   "desc": "Án lệ TAND Tối cao, bản án các cấp (dân sự, hình sự, hành chính, kinh tế)",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

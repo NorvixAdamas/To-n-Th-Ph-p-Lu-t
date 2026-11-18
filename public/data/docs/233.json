@@ -1,0 +1,224 @@
+{
+ "id": 233,
+ "sourceId": "us-rights-1",
+ "title": "Civil Rights Act 1964",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/88th-congress/house-bill/7152",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil",
+  "immigration",
+  "education"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự",
+  "Di trú & quốc tịch",
+  "Giáo dục"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6675,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 6454,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 6233,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 5974,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 5753,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 5494,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 5273,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 5052,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 4831,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 4610,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 4389,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 3413,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 3192,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 2927,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 2706,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 2293,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 2072,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 1825,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 1570,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 1349,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 1128,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 772,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 551,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Rights Act 1964.\nTitle I: Quyền bầu cử. Title II: Cấm phân biệt đối xử trong cơ sở công cộng (nhà hàng, khách sạn, rạp phim). Title III: Desegregation cơ sở công. Title IV: Desegregation trường công. Title VI: Cấm phân biệt trong chương trình nhận tài trợ liên bang. Title VII: Cấm phân biệt trong lao động (chủng tộc, màu da, tôn giáo, giới tính, quốc tịch). EEOC thực thi."
+  },
+  {
+   "id": 233,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Outlawed discrimination based on race, color, religion, sex, or national origin."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "id": 71,
+ "sourceId": "vn-ent-2",
+ "title": "Luật Đầu tư 2020 (Luật số 61/2020/QH14)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tax",
+  "criminal",
+  "land",
+  "enterprise",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật hình sự",
+  "Luật đất đai & nhà ở",
+  "Luật doanh nghiệp & đầu tư",
+  "Luật thương mại"
+ ],
+ "year": 2021,
+ "effectiveDate": "2021-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6598,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 6377,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 6156,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 5897,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 5676,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 5417,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 5196,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 4975,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 4754,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 4533,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 4312,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 3336,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 3115,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 2850,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 2629,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 2216,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 1995,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 1748,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 1493,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 1272,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 1051,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 695,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 474,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  },
+  {
+   "id": 71,
+   "effectiveDate": "2021-01-01",
+   "repealDate": null,
+   "text": "Luật Đầu tư 2020 (Luật số 61/2020/QH14).\nĐiều 1. Phạm vi: Hoạt động đầu tư kinh doanh tại Việt Nam và đầu tư ra nước ngoài.\nĐiều 5. Chính sách đầu tư: bảo đảm quyền sở hữu, quyền đầu tư kinh doanh.\nĐiều 6. Ngành nghề cấm đầu tư kinh doanh: ma túy, mại dâm, buôn bán người, mô phôi người, pháo nổ.\nĐiều 7. Ngành nghề đầu tư kinh doanh có điều kiện (227 ngành nghề).\nĐiều 15-16. Ưu đãi đầu tư: thuế, đất đai, khấu hao.\nĐiều 33-40. Lựa chọn nhà đầu tư: đấu giá quyền sử dụng đất, đấu thầu."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 50,
+   "title": "Luật Thi hành án Hình sự 2019",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  }
+ ]
+}

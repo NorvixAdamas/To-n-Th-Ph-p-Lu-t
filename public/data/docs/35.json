@@ -1,0 +1,220 @@
+{
+ "id": 35,
+ "sourceId": "us-ip-3",
+ "title": "Lanham Act – Trademark (Nhãn hiệu)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title15/chapter22",
+ "tags": [],
+ "fields": [
+  "ip",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6562,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 6341,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 6120,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 5861,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 5640,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 5381,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 5160,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 4939,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 4718,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 4497,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 4276,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 3300,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 3079,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 2814,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 2593,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 2180,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 1959,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 1712,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 1457,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 1236,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 1015,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 659,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 438,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  },
+  {
+   "id": 35,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Lanham Act – Trademark (15 USC §1051 et seq.).\n§1051: Registration (§1(a) use in commerce, §1(b) intent to use).\n§1052: Marks registrable – bars to registration (immoral, deceptive, confusingly similar).\n§1057: Certificates of registration – prima facie evidence.\n§1065: Incontestability.\n§1114: Infringement of registered mark.\n§1125(a): False designations of origin, false descriptions (unregistered marks, trade dress).\n§1125(c): Dilution (famous marks)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 17,
+   "title": "Title 11 USC – Bankruptcy (Phá sản)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

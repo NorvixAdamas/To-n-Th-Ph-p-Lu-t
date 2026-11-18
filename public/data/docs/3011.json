@@ -1,0 +1,66 @@
+{
+ "id": 3011,
+ "sourceId": "sg-deep-3",
+ "title": "Personal Data Protection Act 2012",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/PDPA2012",
+ "tags": [
+  "sg-deep",
+  "data",
+  "technology"
+ ],
+ "fields": [
+  "tech"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2012,
+ "effectiveDate": "2012-10-15",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 3011,
+   "effectiveDate": "2012-10-15",
+   "repealDate": null,
+   "text": "Main Singapore data protection statute governing collection, use and disclosure of personal data."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 302,
+   "title": "Personal Data Protection Act – PDPA (Luật Bảo vệ Dữ liệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 912,
+   "title": "Payment Services Act (Fintech Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 917,
+   "title": "Cybersecurity Act 2018 Singapore",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 46,
+ "sourceId": "ch-case-1",
+ "name": "Minaret Ban Case (2009)",
+ "court": "Federal Supreme Court of Switzerland",
+ "docket": "1C_570/2009",
+ "dateDecided": "2009-11-29",
+ "year": 2009,
+ "summary": "While the ban was approved via a referendum and became part of the Constitution, it triggered significant judicial and international debate regarding freedom of religion.",
+ "fields": [],
+ "fieldLabels": [],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.bger.ch/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "CH",
+  "slug": "switzerland",
+  "nameVi": "Thụy Sĩ",
+  "nameEn": "Switzerland",
+  "flag": "🇨🇭",
+  "regionName": "Châu Âu"
+ },
+ "related": []
+}

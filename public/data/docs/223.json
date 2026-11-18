@@ -1,0 +1,226 @@
+{
+ "id": 223,
+ "sourceId": "us-tax-1",
+ "title": "Internal Revenue Code – Title 26 USC (Bộ luật Thuế nội bộ)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title26",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "labor",
+  "enterprise",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật lao động",
+  "Luật doanh nghiệp & đầu tư",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6531,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 6310,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 6089,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 5830,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 5609,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 5350,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 5129,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 4908,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 4687,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 4466,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 4245,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 3269,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 3048,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 2783,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 2562,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 2149,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 1928,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 1681,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 1426,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 1205,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 984,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 628,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 407,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Internal Revenue Code – Title 26, United States Code.\nSubtitle A – Income Taxes. Chapter 1: Normal Taxes and Surtaxes. Section 1: Tax imposed on individuals. Section 11: Tax imposed on corporations. Subchapter B: Computation of Taxable Income. Section 61: Gross income defined. Section 63: Taxable income defined.\nSubtitle B – Estate and Gift Taxes. Chapter 11: Estate Tax.\nSubtitle C – Employment Taxes. Chapter 21: Federal Insurance Contributions Act (FICA). Chapter 23: Federal Unemployment Tax Act (FUTA).\nSubtitle D – Miscellaneous Excise Taxes.\nSubtitle F – Procedure and Administration. Section 6011: General requirement of return. Section 6501: Limitations on assessment. Section 7201: Attempt to evade or defeat tax (felony)."
+  },
+  {
+   "id": 223,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "The foundation of federal tax law. Covers income, estate, gift, and employment taxes."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

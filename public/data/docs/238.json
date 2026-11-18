@@ -1,0 +1,194 @@
+{
+ "id": 238,
+ "sourceId": "vn-const-1",
+ "title": "Hiến pháp 2013",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "constitution",
+ "kindLabel": "Hiến pháp",
+ "sourceUrl": "https://vbpl.vn/botuphap/Pages/vbpq-toanvan.aspx?ItemID=32801",
+ "tags": [],
+ "fields": [
+  "constitution"
+ ],
+ "fieldLabels": [
+  "Hiến pháp"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 238,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Luật cơ bản của Nhà nước Việt Nam, có hiệu lực pháp lý cao nhất."
+  },
+  {
+   "id": 6571,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 6350,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 6129,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 5870,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 5649,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 5390,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 5169,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 4948,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 4727,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 4506,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 4285,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 3309,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 3088,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 2823,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 2602,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 2189,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 1968,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 1721,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 1466,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 1245,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 1024,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 668,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  },
+  {
+   "id": 447,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "HIẾN PHÁP NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM (2013)\n\nChương I: CHẾ ĐỘ CHÍNH TRỊ (Điều 1-13)\nĐiều 1. Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ.\nĐiều 2. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân.\nĐiều 4. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Nhà nước và xã hội.\n\nChương II: QUYỀN CON NGƯỜI, QUYỀN VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN (Điều 14-49)\nĐiều 14. Ở nước Cộng hòa xã hội chủ nghĩa Việt Nam, các quyền con người, quyền công dân về chính trị, dân sự, kinh tế, văn hóa, xã hội được công nhận, tôn trọng, bảo vệ, bảo đảm.\nĐiều 16. Mọi người đều bình đẳng trước pháp luật.\nĐiều 20. Mọi người có quyền bất khả xâm phạm về thân thể.\nĐiều 25. Công dân có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình.\n\nChương V: QUỐC HỘI (Điều 69-85)\nChương VI: CHỦ TỊCH NƯỚC (Điều 86-93)\nChương VII: CHÍNH PHỦ (Điều 94-101)\nChương VIII: TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN (Điều 102-112)\nChương IX: CHÍNH QUYỀN ĐỊA PHƯƠNG (Điều 110-116)\nChương XI: HIỆU LỰC CỦA HIẾN PHÁP VÀ VIỆC SỬA ĐỔI HIẾN PHÁP (Điều 119-120)"
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

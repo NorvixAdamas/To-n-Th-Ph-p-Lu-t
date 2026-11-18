@@ -1,0 +1,218 @@
+{
+ "id": 232,
+ "sourceId": "us-def-1",
+ "title": "Title 10 USC – Armed Forces",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title10",
+ "tags": [],
+ "fields": [
+  "defense"
+ ],
+ "fieldLabels": [
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6671,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 6450,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 6229,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 5970,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 5749,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 5490,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 5269,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 5048,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 4827,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 4606,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 4385,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 3409,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 3188,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 2923,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 2702,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 2289,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 2068,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 1821,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 1566,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 1345,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 1124,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 768,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 547,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 10 – Armed Forces.\nSubtitle A: General military law. §101: Definitions. §502: Enlistment oath.\nSubtitle B: Army. Subtitle C: Navy and Marine Corps. Subtitle D: Air Force and Space Force. Subtitle E: Reserve Components.\nChapter 47: Uniform Code of Military Justice. §801-946."
+  },
+  {
+   "id": 232,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Provides the legal basis for the roles, missions and organization of each of the services as well as the Department of Defense."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 38,
+   "title": "Social Security Act (Luật An sinh Xã hội)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 104,
+   "title": "Computer Fraud and Abuse Act – CFAA (Luật Gian lận Máy tính)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 122,
+   "title": "Government in the Sunshine Act (Luật Chính phủ Minh bạch)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

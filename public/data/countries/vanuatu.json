@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "VU",
+  "code3": "VUT",
+  "slug": "vanuatu",
+  "nameVi": "Vanuatu",
+  "nameEn": "Vanuatu",
+  "flag": "🇻🇺",
+  "region": "oceania",
+  "regionName": "Châu Đại Dương",
+  "subregion": "Melanesia",
+  "capital": "Port Vila",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

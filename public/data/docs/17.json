@@ -1,0 +1,218 @@
+{
+ "id": 17,
+ "sourceId": "us-com-2",
+ "title": "Title 11 USC – Bankruptcy (Phá sản)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title11",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6544,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 6323,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 6102,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 5843,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 5622,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 5363,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 5142,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 4921,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 4700,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 4479,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 4258,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 3282,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 3061,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 2796,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 2575,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 2162,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 1941,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 1694,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 1439,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 1218,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 997,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 641,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 420,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  },
+  {
+   "id": 17,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 11 – Bankruptcy.\nChapter 1: General provisions. §101: Definitions.\nChapter 3: Case administration. §301: Voluntary cases. §303: Involuntary cases.\nChapter 5: Creditors, the debtor, and the estate. §362: Automatic stay.\nChapter 7: Liquidation.\nChapter 11: Reorganization. §1101: Definitions. §1121: Plan. §1129: Confirmation of plan.\nChapter 13: Adjustment of debts of an individual with regular income."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 16,
+   "title": "Title 15 USC – Commerce and Trade (Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 18,
+   "title": "Securities Act 1933 (Luật Chứng khoán 1933)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 19,
+   "title": "Securities Exchange Act 1934 (Luật Giao dịch Chứng khoán 1934)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 20,
+   "title": "Uniform Commercial Code – UCC (Bộ luật Thương mại Thống nhất)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

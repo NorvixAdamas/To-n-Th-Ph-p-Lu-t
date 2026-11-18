@@ -1,0 +1,68 @@
+{
+ "id": 954,
+ "sourceId": "ca-fin-extra",
+ "title": "Trust and Loan Companies Act Canada",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/T-19.8/",
+ "tags": [],
+ "fields": [
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "CA",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 954,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Trust and Loan Companies Act. Banking finance OSFI. Securities regulation provincial markets."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 363,
+   "title": "Bank Act (Luật Ngân hàng Canada)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 365,
+   "title": "Competition Act (Luật Cạnh tranh và Bảo vệ NTD)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 951,
+   "title": "Patent Act Canada",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 955,
+   "title": "Consumer Product Safety Act Canada",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

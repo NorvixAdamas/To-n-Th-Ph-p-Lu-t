@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "CR",
+  "code3": "CRI",
+  "slug": "costa-rica",
+  "nameVi": "Costa Rica",
+  "nameEn": "Costa Rica",
+  "flag": "🇨🇷",
+  "region": "north-america",
+  "regionName": "Bắc Mỹ",
+  "subregion": "Central America",
+  "capital": "San José",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

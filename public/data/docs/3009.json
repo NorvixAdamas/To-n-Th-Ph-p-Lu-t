@@ -1,0 +1,86 @@
+{
+ "id": 3009,
+ "sourceId": "sg-deep-1",
+ "title": "Evidence Act 1893",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://sso.agc.gov.sg/Act/EA1893",
+ "tags": [
+  "sg-deep",
+  "civil",
+  "criminal"
+ ],
+ "fields": [
+  "civil",
+  "criminal"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Luật hình sự"
+ ],
+ "year": 1893,
+ "effectiveDate": "1893-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-04-03 02:38:01",
+ "country": {
+  "code": "SG",
+  "slug": "singapore",
+  "nameVi": "Singapore",
+  "nameEn": "Singapore",
+  "flag": "🇸🇬",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 3009,
+   "effectiveDate": "1893-01-01",
+   "repealDate": null,
+   "text": "Core evidentiary rules for civil and criminal proceedings in Singapore."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 290,
+   "title": "Penal Code 1871 (Bộ luật Hình sự Singapore)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 291,
+   "title": "Criminal Procedure Code 2010 – CPC (Tố tụng Hình sự)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 292,
+   "title": "Rules of Court 2021 (Quy tắc Tố tụng Dân sự Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 302,
+   "title": "Personal Data Protection Act – PDPA (Luật Bảo vệ Dữ liệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 305,
+   "title": "Women's Charter (Luật Hôn nhân và Gia đình Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 906,
+   "title": "Misuse of Drugs Act (Luật Ma túy Singapore)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

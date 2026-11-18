@@ -1,0 +1,70 @@
+{
+ "id": 897,
+ "sourceId": "fr-com-extra",
+ "title": "Loi Sapin II (Anti-corruption)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033558528/",
+ "tags": [],
+ "fields": [
+  "enterprise",
+  "commercial"
+ ],
+ "fieldLabels": [
+  "Luật doanh nghiệp & đầu tư",
+  "Luật thương mại"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:55:36",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 897,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Loi Sapin II. Anti-corruption, transparency in commercial company operations. Code de commerce compliance."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 280,
+   "title": "Code de commerce (Bộ luật Thương mại Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 282,
+   "title": "Code de la propriété intellectuelle – CPI (Bộ luật Sở hữu Trí tuệ)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 287,
+   "title": "Code de la consommation (Bộ luật Bảo vệ Người tiêu dùng)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 900,
+   "title": "Brevet / Marque – Institut National de la Propriété Industrielle",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": 283,
+ "sourceId": "fr-family-1",
+ "title": "Code civil - Mariage et Divorce (Luật Hôn nhân và Gia đình Pháp)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006082498/",
+ "tags": [],
+ "fields": [
+  "civil",
+  "family"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Gia đình"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "FR",
+  "slug": "france",
+  "nameVi": "Pháp",
+  "nameEn": "France",
+  "flag": "🇫🇷",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 283,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Civil Code sections on marriage, divorce, parental authority, and adoption."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 276,
+   "title": "Code civil français (Bộ luật Dân sự Pháp)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  },
+  {
+   "id": 286,
+   "title": "RGPD / Dữ liệu cá nhân (GDPR áp dụng tại Pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 901,
+   "title": "PACS – Pacte civil de solidarité",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

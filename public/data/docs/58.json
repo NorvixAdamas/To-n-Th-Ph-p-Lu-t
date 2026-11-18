@@ -1,0 +1,228 @@
+{
+ "id": 58,
+ "sourceId": "vn-tax-2",
+ "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [
+  "thue"
+ ],
+ "fields": [
+  "tax",
+  "land",
+  "enterprise",
+  "commercial",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật đất đai & nhà ở",
+  "Luật doanh nghiệp & đầu tư",
+  "Luật thương mại",
+  "Luật dân sự"
+ ],
+ "year": 2014,
+ "effectiveDate": "2014-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6585,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 6364,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 6143,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 5884,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 5663,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 5404,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 5183,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 4962,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 4741,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 4520,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 4299,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 3323,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 3102,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 2837,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 2616,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 2203,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 1982,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 1735,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 1480,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 1259,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 1038,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 682,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 461,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  },
+  {
+   "id": 58,
+   "effectiveDate": "2014-01-01",
+   "repealDate": null,
+   "text": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014).\nĐiều 1. Phạm vi: Thuế TNCN đánh trên thu nhập chịu thuế của cá nhân cư trú và không cư trú.\nĐiều 3. Thu nhập chịu thuế: tiền lương, tiền công; kinh doanh; đầu tư vốn; chuyển nhượng bất động sản; trúng thưởng; bản quyền; nhượng quyền thương mại; thừa kế; quà tặng.\nĐiều 22. Biểu thuế lũy tiến từng phần (thu nhập từ tiền lương): 7 bậc, 5% đến 35%.\nĐiều 19. Giảm trừ gia cảnh: 11 triệu đồng/tháng (bản thân), 4.4 triệu đồng/tháng (người phụ thuộc)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 52,
+   "title": "Luật Trọng tài Thương mại 2010",
+   "kindLabel": "Đạo luật",
+   "year": 2011
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  }
+ ]
+}

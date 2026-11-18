@@ -1,0 +1,224 @@
+{
+ "id": 184,
+ "sourceId": "vn-def-4",
+ "title": "Luật Nghĩa vụ quân sự 2015",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor",
+  "civil",
+  "family",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật dân sự",
+  "Gia đình",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2016,
+ "effectiveDate": "2016-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6711,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 6490,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 6269,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 6010,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 5789,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 5530,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 5309,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 5088,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 4867,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 4646,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 4425,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 3449,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 3228,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 2963,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 2742,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 2329,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 2108,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 1861,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 1606,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 1385,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 1164,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 808,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 587,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  },
+  {
+   "id": 184,
+   "effectiveDate": "2016-01-01",
+   "repealDate": null,
+   "text": "Luật Nghĩa vụ quân sự 2015.\nĐiều 1. Phạm vi: Nghĩa vụ quân sự, đăng ký, nhập ngũ, xuất ngũ, dự bị động viên.\nĐiều 4. Nghĩa vụ quân sự: công dân nam đủ 18-27 tuổi. Thời hạn: 24 tháng.\nĐiều 14-15. Tạm hoãn, miễn gọi nhập ngũ: sinh viên, lao động chính gia đình.\nĐiều 41-43. Dự bị động viên: đăng ký, huấn luyện."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 55,
+   "title": "Luật Tổ chức Chính phủ 2015 (sửa đổi 2019)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 59,
+   "title": "Luật Thuế giá trị gia tăng 2008 (sửa đổi 2013, 2016)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  },
+  {
+   "id": 66,
+   "title": "Luật Bảo hiểm Xã hội 2014 (Luật số 58/2014/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2016
+  }
+ ]
+}

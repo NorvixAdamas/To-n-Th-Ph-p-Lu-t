@@ -1,0 +1,220 @@
+{
+ "id": 199,
+ "sourceId": "vn-it-2",
+ "title": "Luật Giao dịch điện tử 2023",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "tech",
+  "civil"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Luật dân sự"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6726,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 6505,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 6284,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 6025,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 5804,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 5545,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 5324,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 5103,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 4882,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 4661,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 4440,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 3464,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 3243,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 2978,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 2757,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 2344,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 2123,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 1876,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 1621,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 1400,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 1179,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 823,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 602,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  },
+  {
+   "id": 199,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Giao dịch điện tử 2023.\nĐiều 1. Phạm vi: Giao dịch điện tử, chữ ký điện tử, hợp đồng điện tử.\nĐiều 8-12. Thông điệp dữ liệu: giá trị pháp lý, điều kiện.\nĐiều 22-30. Chữ ký điện tử: chữ ký số, chứng thực chữ ký số.\nĐiều 33-38. Hợp đồng điện tử: giao kết, hiệu lực.\nĐiều 46-48. Định danh và xác thực điện tử."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 58,
+   "title": "Luật Thuế thu nhập cá nhân 2007 (sửa đổi 2012, 2014)",
+   "kindLabel": "Đạo luật",
+   "year": 2014
+  },
+  {
+   "id": 72,
+   "title": "Luật Thương mại 2005",
+   "kindLabel": "Đạo luật",
+   "year": 2006
+  },
+  {
+   "id": 80,
+   "title": "Luật Trẻ em 2016",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 81,
+   "title": "Luật Phòng, chống bạo lực gia đình 2022",
+   "kindLabel": "Đạo luật",
+   "year": 2023
+  }
+ ]
+}

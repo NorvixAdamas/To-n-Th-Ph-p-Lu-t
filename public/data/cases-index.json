@@ -1,0 +1,854 @@
+{
+ "generatedAt": "2026-11-07",
+ "entries": [
+  {
+   "id": 21,
+   "name": "Loper Bright Enterprises v. Raimondo, 603 U.S. ___ (2024)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "22-451",
+   "dateDecided": "2024-06-28",
+   "year": 2024,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "enterprise",
+    "health",
+    "administrative"
+   ],
+   "summary": "Lật đổ Chevron deference (1984). Tòa Tối cao: Tòa án phải tự mình giải thích luật liên bang, không được nhường (defer) cho cơ quan hành chính. \"Courts must exercise their independent judgment in deciding whether an agenc",
+   "url": "/case.html?id=21"
+  },
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "docket": "33/2024/DS-GĐT",
+   "dateDecided": "2024-01-11",
+   "year": 2024,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Nguồn án công khai chính thức về tranh chấp hợp đồng mua bán nhà.",
+   "url": "/case.html?id=203"
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-52/2022",
+   "dateDecided": "2022-12-15",
+   "year": 2022,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "labor",
+    "health"
+   ],
+   "summary": "Về vấn đề: Khi người sử dụng lao động đơn phương chấm dứt HĐLĐ trái pháp luật, phải bồi thường cho NLĐ tiền lương trong những ngày không được làm việc, trợ cấp thôi việc, và khoản bồi thường tương đương 2 tháng tiền lươn",
+   "url": "/case.html?id=16"
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-55/2022",
+   "dateDecided": "2022-12-15",
+   "year": 2022,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "enterprise",
+    "commercial"
+   ],
+   "summary": "Về vấn đề: Khi doanh nghiệp bán hàng hóa không đúng chất lượng công bố, người tiêu dùng có quyền yêu cầu đổi hàng, trả hàng, bồi thường thiệt hại. Doanh nghiệp có nghĩa vụ chứng minh hàng hóa đạt chất lượng (đảo nghĩa vụ",
+   "url": "/case.html?id=31"
+  },
+  {
+   "id": 6,
+   "name": "Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "19-1392",
+   "dateDecided": "2022-06-24",
+   "year": 2022,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "health"
+   ],
+   "summary": "Tòa Tối cao lật đổ Roe v. Wade, trả quyền quy định phá thai về cho các bang. \"The Constitution does not confer a right to abortion.\"",
+   "url": "/case.html?id=6"
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-42/2021",
+   "dateDecided": "2021-07-12",
+   "year": 2021,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "environment",
+    "education"
+   ],
+   "summary": "Về vấn đề: Xác định trách nhiệm bồi thường thiệt hại do ô nhiễm môi trường. Bên gây ô nhiễm phải bồi thường toàn bộ thiệt hại thực tế, bao gồm thiệt hại về tài sản, sức khỏe, chi phí khắc phục hậu quả.",
+   "url": "/case.html?id=15"
+  },
+  {
+   "id": 30,
+   "name": "Án lệ số 43/2021/AL – Về trách nhiệm hình sự trong tai nạn giao thông",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-43/2021",
+   "dateDecided": "2021-07-12",
+   "year": 2021,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "criminal",
+    "education"
+   ],
+   "summary": "Về vấn đề: Người điều khiển phương tiện vi phạm luật giao thông gây tai nạn chết người bị truy tố theo Điều 260 BLHS 2015. Tình tiết tăng nặng: có nồng độ cồn vượt mức, bỏ chạy khỏi hiện trường.",
+   "url": "/case.html?id=30"
+  },
+  {
+   "id": 29,
+   "name": "Án lệ số 35/2020/AL – Về hợp đồng chuyển nhượng quyền sử dụng đất vi phạm điều cấm",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-35/2020",
+   "dateDecided": "2020-10-15",
+   "year": 2020,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "civil",
+    "defense"
+   ],
+   "summary": "Về vấn đề: Hợp đồng chuyển nhượng đất thuộc quy hoạch đất quốc phòng an ninh là vô hiệu do vi phạm điều cấm (Điều 123 BLDS 2015). Hậu quả: hoàn trả cho nhau, bên có lỗi bồi thường thiệt hại.",
+   "url": "/case.html?id=29"
+  },
+  {
+   "id": 27,
+   "name": "Án lệ số 22/2018/AL – Về trách nhiệm hình sự đối với hành vi giết người",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-22/2018",
+   "dateDecided": "2018-10-15",
+   "year": 2018,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "criminal"
+   ],
+   "summary": "Về vấn đề: Phân biệt giữa \"giết người\" (Điều 123 BLHS) và \"cố ý gây thương tích dẫn đến chết người\" (Điều 134 BLHS). Căn cứ vào: vị trí tấn công (vùng trọng yếu hay không), công cụ, cường độ, thái độ sau khi gây thương t",
+   "url": "/case.html?id=27"
+  },
+  {
+   "id": 28,
+   "name": "Án lệ số 26/2018/AL – Về quyền sử dụng đất khi ly hôn",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-26/2018",
+   "dateDecided": "2018-10-15",
+   "year": 2018,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil",
+    "family",
+    "health"
+   ],
+   "summary": "Về vấn đề: Khi ly hôn, đất được cấp cho hộ gia đình mà vợ chồng là thành viên: Tòa án chỉ chia phần quyền sử dụng đất tương ứng với phần của vợ chồng trong hộ gia đình, không chia toàn bộ thửa đất.",
+   "url": "/case.html?id=28"
+  },
+  {
+   "id": 14,
+   "name": "Án lệ số 13/2017/AL – Về quyền lập di chúc",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-13/2017",
+   "dateDecided": "2017-10-14",
+   "year": 2017,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "tech",
+    "civil",
+    "health"
+   ],
+   "summary": "Về vấn đề: Người để lại di sản có quyền lập di chúc để lại tài sản cho bất kỳ ai, không bắt buộc phải để lại cho người thừa kế theo pháp luật. Tuy nhiên, di chúc phải dành một phần cho những người được hưởng di sản không",
+   "url": "/case.html?id=14"
+  },
+  {
+   "id": 26,
+   "name": "Án lệ số 15/2017/AL – Về di sản thừa kế theo di chúc miệng",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-15/2017",
+   "dateDecided": "2017-10-14",
+   "year": 2017,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Về vấn đề: Di chúc miệng (Điều 629 BLDS 2015) chỉ có hiệu lực nếu: (1) người lập trong tình trạng tính mạng bị đe dọa, (2) sau 3 tháng mà còn sống, minh mẫn, sáng suốt thì di chúc miệng mặc nhiên bị hủy bỏ.",
+   "url": "/case.html?id=26"
+  },
+  {
+   "id": 44,
+   "name": "Impeachment of Park Geun-hye (2017)",
+   "c": "south-korea",
+   "cn": "Hàn Quốc",
+   "r": "asia",
+   "court": "Constitutional Court of Korea",
+   "docket": "2016Hun-Na1",
+   "dateDecided": "2017-03-10",
+   "year": 2017,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tax"
+   ],
+   "summary": "The first successful impeachment of a sitting South Korean president. The Court ruled that Park committed acts that impaired the nature of representative democracy and the rule of law.",
+   "url": "/case.html?id=44"
+  },
+  {
+   "id": 12,
+   "name": "Án lệ số 06/2016/AL – Về vấn đề giải quyết ly hôn",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-06/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil",
+    "family",
+    "health"
+   ],
+   "summary": "Về vấn đề: Khi hai bên đã ly thân, không còn tình cảm, mục đích hôn nhân không đạt được thì Tòa án xử cho ly hôn theo yêu cầu của đương sự, dù bên kia không đồng ý ly hôn.",
+   "url": "/case.html?id=12"
+  },
+  {
+   "id": 13,
+   "name": "Án lệ số 09/2016/AL – Về hiệu lực của hợp đồng bảo hiểm",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-09/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "labor",
+    "enterprise",
+    "civil",
+    "health"
+   ],
+   "summary": "Về vấn đề: Hợp đồng bảo hiểm nhân thọ có hiệu lực khi bên mua bảo hiểm đã đóng phí bảo hiểm và doanh nghiệp bảo hiểm đã nhận phí, kể cả khi giấy chứng nhận bảo hiểm chưa được cấp.",
+   "url": "/case.html?id=13"
+  },
+  {
+   "id": 25,
+   "name": "Án lệ số 08/2016/AL – Về thu hồi tài sản trong hợp đồng tín dụng",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-08/2016",
+   "dateDecided": "2016-10-17",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "commercial",
+    "civil",
+    "health"
+   ],
+   "summary": "Về vấn đề: Khi bên vay không trả được nợ, ngân hàng có quyền yêu cầu xử lý tài sản bảo đảm. Tuy nhiên, nếu tài sản bảo đảm là nhà ở duy nhất của bên vay, Tòa án cần xem xét cho bên vay thời gian di dời hợp lý.",
+   "url": "/case.html?id=25"
+  },
+  {
+   "id": 9,
+   "name": "Án lệ số 01/2016/AL – Tranh chấp hợp đồng mua bán nhà",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-01/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "land",
+    "civil",
+    "health"
+   ],
+   "summary": "Về vấn đề: Khi hợp đồng mua bán nhà ở không được công chứng, chứng thực theo quy định nhưng bên mua đã thực hiện nghĩa vụ thanh toán, bên bán đã giao nhà và bên mua đã nhận nhà, sử dụng ổn định, thì hợp đồng có hiệu lực.",
+   "url": "/case.html?id=9"
+  },
+  {
+   "id": 10,
+   "name": "Án lệ số 02/2016/AL – Tranh chấp đòi lại tài sản",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-02/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "other"
+   ],
+   "summary": "Về vấn đề: Xác định thời hiệu khởi kiện đối với tranh chấp quyền sử dụng đất. Khi Nhà nước đã cấp giấy chứng nhận quyền sử dụng đất cho người khác, thì không áp dụng thời hiệu để kiện đòi lại đất đó.",
+   "url": "/case.html?id=10"
+  },
+  {
+   "id": 11,
+   "name": "Án lệ số 04/2016/AL – Về tranh chấp bồi thường thiệt hại ngoài hợp đồng",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-04/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Về vấn đề: Xác định trách nhiệm bồi thường thiệt hại do nguồn nguy hiểm cao độ gây ra. Chủ sở hữu phương tiện giao thông phải bồi thường cho người bị thiệt hại, kể cả khi người điều khiển phương tiện không có lỗi.",
+   "url": "/case.html?id=11"
+  },
+  {
+   "id": 24,
+   "name": "Án lệ số 03/2016/AL – Về trách nhiệm bồi thường trong hợp đồng mua bán",
+   "c": "vietnam",
+   "cn": "Việt Nam",
+   "r": "asia",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "docket": "AL-03/2016",
+   "dateDecided": "2016-04-06",
+   "year": 2016,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Về vấn đề: Khi bên bán vi phạm hợp đồng (giao hàng không đúng chất lượng), bên mua có quyền yêu cầu bồi thường thiệt hại thực tế bao gồm: chênh lệch giá trị hàng hóa, chi phí khắc phục, lợi nhuận bị mất (kỳ vọng hợp lý).",
+   "url": "/case.html?id=24"
+  },
+  {
+   "id": 5,
+   "name": "Obergefell v. Hodges, 576 U.S. 644 (2015)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "576 U.S. 644",
+   "dateDecided": "2015-06-26",
+   "year": 2015,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "summary": "Tòa Tối cao công nhận quyền kết hôn đồng giới trong tất cả 50 bang. Tu chính án 14 bảo đảm quyền bình đẳng cho các cặp đồng giới trong việc kết hôn.",
+   "url": "/case.html?id=5"
+  },
+  {
+   "id": 38,
+   "name": "Lim Meng Suang v AG [2015] 1 SLR 26",
+   "c": "singapore",
+   "cn": "Singapore",
+   "r": "asia",
+   "court": "Court of Appeal of Singapore",
+   "docket": "[2014] SGCA 53",
+   "dateDecided": "2014-10-29",
+   "year": 2014,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "summary": "Court of Appeal upheld Section 377A Penal Code (criminalising male homosexual acts) as constitutional. Government subsequently announced repeal in September 2022. Section 377A repealed by Penal Code (Amendment) Act 2022.",
+   "url": "/case.html?id=38"
+  },
+  {
+   "id": 8,
+   "name": "Citizens United v. FEC, 558 U.S. 310 (2010)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "558 U.S. 310",
+   "dateDecided": "2010-01-21",
+   "year": 2010,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "enterprise"
+   ],
+   "summary": "Tòa Tối cao cho phép doanh nghiệp và tổ chức chi tiêu không giới hạn cho quảng cáo chính trị. Tu chính án 1 bảo vệ quyền tự do ngôn luận của tổ chức. Dẫn đến sự gia tăng Super PACs.",
+   "url": "/case.html?id=8"
+  },
+  {
+   "id": 46,
+   "name": "Minaret Ban Case (2009)",
+   "c": "switzerland",
+   "cn": "Thụy Sĩ",
+   "r": "europe",
+   "court": "Federal Supreme Court of Switzerland",
+   "docket": "1C_570/2009",
+   "dateDecided": "2009-11-29",
+   "year": 2009,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "summary": "While the ban was approved via a referendum and became part of the Constitution, it triggered significant judicial and international debate regarding freedom of religion.",
+   "url": "/case.html?id=46"
+  },
+  {
+   "id": 37,
+   "name": "Spandeck Engineering v DSTA [2007] 4 SLR 100",
+   "c": "singapore",
+   "cn": "Singapore",
+   "r": "asia",
+   "court": "Court of Appeal of Singapore",
+   "docket": "[2007] SGCA 37",
+   "dateDecided": "2007-08-11",
+   "year": 2007,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "summary": "Landmark Singapore Court of Appeal establishing unified two-stage test for duty of care in negligence: (1) factual foreseeability, then (2) proximity and policy considerations. Departing from English Caparo three-stage t",
+   "url": "/case.html?id=37"
+  },
+  {
+   "id": 22,
+   "name": "Kelo v. City of New London, 545 U.S. 469 (2005)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "545 U.S. 469",
+   "dateDecided": "2005-06-23",
+   "year": 2005,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "administrative"
+   ],
+   "summary": "Eminent domain / Tước quyền sở hữu: Chính phủ có thể tước quyền sở hữu tài sản tư nhân cho mục đích phát triển kinh tế tư nhân, miễn là phục vụ \"public use\" (mở rộng khái niệm). Tu chính án 5: just compensation required.",
+   "url": "/case.html?id=22"
+  },
+  {
+   "id": 42,
+   "name": "Qiao Zhanxing Case (2001)",
+   "c": "china",
+   "cn": "Trung Quốc",
+   "r": "asia",
+   "court": "Supreme People's Court",
+   "docket": "Qi Zhuan Case 2001",
+   "dateDecided": "2001-08-13",
+   "year": 2001,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "education"
+   ],
+   "summary": "A \"Guiding Case\" often cited in discussions of constitutionalism in China, involving the direct application of constitutional provisions regarding the right to education.",
+   "url": "/case.html?id=42"
+  },
+  {
+   "id": 43,
+   "name": "Reference re Secession of Quebec [1998] 2 SCR 217",
+   "c": "canada",
+   "cn": "Canada",
+   "r": "north-america",
+   "court": "Supreme Court of Canada",
+   "docket": "25506",
+   "dateDecided": "1998-08-20",
+   "year": 1998,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "summary": "Landmark case on the legality of a unilateral secession of Quebec. The Court identified four underlying constitutional principles: federalism, democracy, constitutionalism and the rule of law, and protection of minoritie",
+   "url": "/case.html?id=43"
+  },
+  {
+   "id": 34,
+   "name": "Pepper v Hart [1992] UKHL 3 – Hansard",
+   "c": "united-kingdom",
+   "cn": "Vương quốc Anh",
+   "r": "europe",
+   "court": "House of Lords",
+   "docket": "[1993] AC 593",
+   "dateDecided": "1992-11-26",
+   "year": 1992,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "summary": "House of Lords permitted reference to Hansard (parliamentary debates) when interpreting ambiguous legislation. Overturned prior exclusionary rule. Courts may look at ministerial statements on the purpose of legislation. ",
+   "url": "/case.html?id=34"
+  },
+  {
+   "id": 41,
+   "name": "Mabo v Queensland (No 2) (1992)",
+   "c": "australia",
+   "cn": "Australia",
+   "r": "oceania",
+   "court": "High Court of Australia",
+   "docket": "(1992) 175 CLR 1",
+   "dateDecided": "1992-06-03",
+   "year": 1992,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "land"
+   ],
+   "summary": "Overturned the legal doctrine of terra nullius (land belonging to no one) and recognised native title in Australia, a milestone for Indigenous land rights.",
+   "url": "/case.html?id=41"
+  },
+  {
+   "id": 33,
+   "name": "R v R [1991] UKHL 12 – Marital Rape",
+   "c": "united-kingdom",
+   "cn": "Vương quốc Anh",
+   "r": "europe",
+   "court": "House of Lords",
+   "docket": "[1992] 1 AC 599",
+   "dateDecided": "1991-10-23",
+   "year": 1991,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "criminal"
+   ],
+   "summary": "House of Lords abolished marital rape exemption. The fiction of implied consent had no useful purpose. Husband can be convicted of raping his wife. Major step in gender equality and criminal law. Later codified in Sexual",
+   "url": "/case.html?id=33"
+  },
+  {
+   "id": 35,
+   "name": "Arret Blieck – Responsabilite du fait dautrui (1991)",
+   "c": "france",
+   "cn": "Pháp",
+   "r": "europe",
+   "court": "Assemblee pleniere – Cour de cassation",
+   "docket": "Ass. plen. 29 mars 1991",
+   "dateDecided": "1991-03-29",
+   "year": 1991,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Arret fondateur de la Cour de cassation sur la responsabilite generale du fait dautrui (art.1384 al.1 Code civil). Une association chargee dun handicape mental responsable du dommage cause par celui-ci. Principe: celui q",
+   "url": "/case.html?id=35"
+  },
+  {
+   "id": 20,
+   "name": "Chevron U.S.A., Inc. v. Natural Resources Defense Council, 467 U.S. 837 (1984)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "467 U.S. 837",
+   "dateDecided": "1984-06-25",
+   "year": 1984,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "defense",
+    "administrative"
+   ],
+   "summary": "Chevron deference: khi luật mơ hồ, tòa án phải tuân theo cách giải thích hợp lý của cơ quan hành chính. Bước 1: Quốc hội đã phát biểu rõ ràng chưa? Bước 2: Nếu chưa, giải thích của cơ quan có hợp lý không? BỊ LẬT ĐỔ BỞI ",
+   "url": "/case.html?id=20"
+  },
+  {
+   "id": 36,
+   "name": "Conseil constitutionnel – Loi Veil IVG (1975)",
+   "c": "france",
+   "cn": "Pháp",
+   "r": "europe",
+   "court": "Conseil constitutionnel",
+   "docket": "No 74-54 DC",
+   "dateDecided": "1975-01-15",
+   "year": 1975,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "summary": "Decision du Conseil constitutionnel sur la loi autorisant lIVG (loi Veil). Loi declaree conforme a la Constitution. Principe important: le Conseil constitutionnel nest pas juge de la conformite aux traites internationaux",
+   "url": "/case.html?id=36"
+  },
+  {
+   "id": 45,
+   "name": "Kesavananda Bharati v. State of Kerala (1973)",
+   "c": "india",
+   "cn": "Ấn Độ",
+   "r": "asia",
+   "court": "Supreme Court of India",
+   "docket": "Writ Petition (Civil) 135 of 1970",
+   "dateDecided": "1973-04-24",
+   "year": 1973,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "summary": "Established the \"Basic Structure Doctrine\" - Parliament cannot amend the basic structure of the Constitution. One of the most important cases in Indian constitutional law.",
+   "url": "/case.html?id=45"
+  },
+  {
+   "id": 4,
+   "name": "Roe v. Wade, 410 U.S. 113 (1973)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "410 U.S. 113",
+   "dateDecided": "1973-01-22",
+   "year": 1973,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tech",
+    "health"
+   ],
+   "summary": "Tòa Tối cao công nhận quyền phá thai trong khuôn khổ quyền riêng tư theo Tu chính án 14. Bị lật đổ bởi Dobbs v. Jackson Women's Health Organization (2022).",
+   "url": "/case.html?id=4"
+  },
+  {
+   "id": 3,
+   "name": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "384 U.S. 436",
+   "dateDecided": "1966-06-13",
+   "year": 1966,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "summary": "Xác lập quyền Miranda: cảnh sát phải thông báo quyền của nghi phạm trước khi thẩm vấn. \"You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an a",
+   "url": "/case.html?id=3"
+  },
+  {
+   "id": 17,
+   "name": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "376 U.S. 254",
+   "dateDecided": "1964-03-09",
+   "year": 1964,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "tax",
+    "health"
+   ],
+   "summary": "Xác lập tiêu chuẩn \"actual malice\" cho kiện phỉ báng (defamation) nhân vật công. Để thắng kiện, nhân vật công phải chứng minh phát ngôn sai sự thật được đưa ra với \"actual malice\" – biết là sai hoặc bất cần sự thật (reck",
+   "url": "/case.html?id=17"
+  },
+  {
+   "id": 7,
+   "name": "Gideon v. Wainwright, 372 U.S. 335 (1963)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "372 U.S. 335",
+   "dateDecided": "1963-03-18",
+   "year": 1963,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "criminal",
+    "health"
+   ],
+   "summary": "Tòa Tối cao xác lập quyền được luật sư bào chữa miễn phí trong vụ án hình sự cho bị cáo không có khả năng tài chính. Tu chính án 6 áp dụng cho cả tòa bang thông qua Tu chính án 14.",
+   "url": "/case.html?id=7"
+  },
+  {
+   "id": 18,
+   "name": "Mapp v. Ohio, 367 U.S. 643 (1961)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "367 U.S. 643",
+   "dateDecided": "1961-06-19",
+   "year": 1961,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "health"
+   ],
+   "summary": "Exclusionary Rule: chứng cứ thu được bất hợp pháp (vi phạm Tu chính án 4) không được sử dụng tại tòa bang. \"Fruit of the poisonous tree\" – bất kỳ bằng chứng nào có nguồn gốc từ khám xét/thu giữ bất hợp pháp đều bị loại b",
+   "url": "/case.html?id=18"
+  },
+  {
+   "id": 40,
+   "name": "The Sunagawa Case (1959)",
+   "c": "japan",
+   "cn": "Nhật Bản",
+   "r": "asia",
+   "court": "Supreme Court of Japan",
+   "docket": "Gyo-Tsu No. 110",
+   "dateDecided": "1959-12-16",
+   "year": 1959,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "defense"
+   ],
+   "summary": "Major Japanese constitutional case regarding Article 9 and US-Japan Security Treaty. Court ruled it lacked jurisdiction on political questions (Acts of State doctrine).",
+   "url": "/case.html?id=40"
+  },
+  {
+   "id": 39,
+   "name": "Lüth Case (1958)",
+   "c": "germany",
+   "cn": "Đức",
+   "r": "europe",
+   "court": "Federal Constitutional Court",
+   "docket": "BVerfGE 7, 198",
+   "dateDecided": "1958-01-15",
+   "year": 1958,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "other"
+   ],
+   "summary": "Landmark German case on basic rights. Established that fundamental rights (Grundrechte) serve as an objective order of values influencing all areas of law, including private law (Horizontale Wirkung).",
+   "url": "/case.html?id=39"
+  },
+  {
+   "id": 2,
+   "name": "Brown v. Board of Education, 347 U.S. 483 (1954)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "347 U.S. 483",
+   "dateDecided": "1954-05-17",
+   "year": 1954,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "education"
+   ],
+   "summary": "Tòa Tối cao tuyên bố phân biệt chủng tộc trong trường công là vi hiến. \"Separate educational facilities are inherently unequal.\" Lật đổ án lệ Plessy v. Ferguson (1896). Nền tảng cho phong trào dân quyền.",
+   "url": "/case.html?id=2"
+  },
+  {
+   "id": 23,
+   "name": "Wickard v. Filburn, 317 U.S. 111 (1942)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "317 U.S. 111",
+   "dateDecided": "1942-11-09",
+   "year": 1942,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "commercial",
+    "civil",
+    "family"
+   ],
+   "summary": "Commerce Clause: mở rộng quyền lực Quốc hội. Nông dân trồng lúa mì cho gia đình dùng cũng thuộc thẩm quyền Quốc hội vì ảnh hưởng tổng hợp đến thương mại liên bang. Nền tảng cho quyền lực liên bang mở rộng trong thế kỷ 20",
+   "url": "/case.html?id=23"
+  },
+  {
+   "id": 32,
+   "name": "Donoghue v Stevenson [1932] AC 562 (Neighbour Principle)",
+   "c": "united-kingdom",
+   "cn": "Vương quốc Anh",
+   "r": "europe",
+   "court": "House of Lords",
+   "docket": "[1932] AC 562",
+   "dateDecided": "1932-05-26",
+   "year": 1932,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [
+    "civil"
+   ],
+   "summary": "Landmark UK negligence case. Mrs Donoghue drank ginger beer containing decomposed snail. Lord Atkin established Neighbour Principle: you must take reasonable care to avoid acts or omissions which you can reasonably fores",
+   "url": "/case.html?id=32"
+  },
+  {
+   "id": 1,
+   "name": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
+   "c": "united-states",
+   "cn": "Hoa Kỳ",
+   "r": "north-america",
+   "court": "Supreme Court of the United States",
+   "docket": "5 U.S. 137",
+   "dateDecided": "1803-02-24",
+   "year": 1803,
+   "kind": "precedent",
+   "kindLabel": "Án lệ",
+   "fields": [
+    "other"
+   ],
+   "summary": "Án lệ xác lập quyền judicial review (tư pháp thẩm tra). Tòa Tối cao có quyền xem xét tính hợp hiến của đạo luật do Quốc hội ban hành. Chief Justice John Marshall: \"It is emphatically the province and duty of the judicial",
+   "url": "/case.html?id=1"
+  }
+ ]
+}

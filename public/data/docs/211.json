@@ -1,0 +1,224 @@
+{
+ "id": 211,
+ "sourceId": "vn-legal-5",
+ "title": "Luật Giám định Tư pháp 2012 (sửa đổi 2020)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "land",
+  "civil",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật đất đai & nhà ở",
+  "Luật dân sự",
+  "Hành chính"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6738,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 6517,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 6296,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 6037,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 5816,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 5557,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 5336,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 5115,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 4894,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 4673,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 4452,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 3476,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 3255,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 2990,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 2769,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 2356,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 2135,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 1888,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 1633,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 1412,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 1191,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 835,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 614,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  },
+  {
+   "id": 211,
+   "effectiveDate": "2020-01-01",
+   "repealDate": null,
+   "text": "Luật Giám định Tư pháp 2012 (sửa đổi 2020).\nĐiều 1. Phạm vi: Giám định tư pháp trong tố tụng hình sự, dân sự, hành chính.\nĐiều 2. Giám định tư pháp: người giám định sử dụng kiến thức chuyên môn để kết luận vấn đề.\nĐiều 7-8. Lĩnh vực: pháp y, pháp y tâm thần, kỹ thuật hình sự, tài chính, xây dựng.\nĐiều 25-30. Thực hiện giám định: trưng cầu, thời hạn, kết luận."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 50,
+   "title": "Luật Thi hành án Hình sự 2019",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  }
+ ]
+}

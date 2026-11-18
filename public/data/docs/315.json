@@ -1,0 +1,50 @@
+{
+ "id": 315,
+ "sourceId": "de-data-1",
+ "title": "BDSG / GDPR (Luật Bảo vệ Dữ liệu Đức)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.gesetze-im-internet.de/bdsg_2018/",
+ "tags": [],
+ "fields": [
+  "tech"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "DE",
+  "slug": "germany",
+  "nameVi": "Đức",
+  "nameEn": "Germany",
+  "flag": "🇩🇪",
+  "regionName": "Châu Âu"
+ },
+ "versions": [
+  {
+   "id": 315,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Data Protection Act and GDPR implementation in Germany."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 3016,
+   "title": "Bundesdatenschutzgesetz (BDSG)",
+   "kindLabel": "Đạo luật",
+   "year": 2026
+  }
+ ]
+}

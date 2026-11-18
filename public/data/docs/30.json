@@ -1,0 +1,220 @@
+{
+ "id": 30,
+ "sourceId": "us-imm-2",
+ "title": "8 CFR – Aliens and Nationality (Quy định Di trú)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.ecfr.gov/current/title-8",
+ "tags": [],
+ "fields": [
+  "labor",
+  "immigration"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Di trú & quốc tịch"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6557,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 6336,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 6115,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 5856,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 5635,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 5376,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 5155,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 4934,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 4713,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 4492,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 4271,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 3295,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 3074,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 2809,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 2588,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 2175,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 1954,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 1707,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 1452,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 1231,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 1010,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 654,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 433,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  },
+  {
+   "id": 30,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "8 CFR – Aliens and Nationality.\nPart 204: Immigrant petitions.\nPart 207-209: Refugees and asylees.\nPart 214: Nonimmigrant classes (H-1B, L-1, F-1, J-1, O-1, etc.).\nPart 245: Adjustment of status.\nPart 274a: Control of employment of aliens (I-9 requirements)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}

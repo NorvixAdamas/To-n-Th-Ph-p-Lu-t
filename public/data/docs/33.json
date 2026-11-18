@@ -1,0 +1,218 @@
+{
+ "id": 33,
+ "sourceId": "us-ip-1",
+ "title": "Title 17 USC – Copyright (Bản quyền)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title17",
+ "tags": [],
+ "fields": [
+  "ip"
+ ],
+ "fieldLabels": [
+  "Sở hữu trí tuệ"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6560,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 6339,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 6118,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 5859,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 5638,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 5379,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 5158,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 4937,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 4716,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 4495,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 4274,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 3298,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 3077,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 2812,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 2591,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 2178,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 1957,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 1710,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 1455,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 1234,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 1013,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 657,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 436,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  },
+  {
+   "id": 33,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 17 – Copyrights.\n§102: Subject matter of copyright – original works of authorship fixed in tangible medium (literary, musical, dramatic, pictorial, audiovisual, sound recordings, architectural).\n§106: Exclusive rights – reproduce, prepare derivative works, distribute, perform, display.\n§107: Fair use – purpose and character, nature of work, amount used, market effect.\n§302: Duration – life of author + 70 years.\n§501: Copyright infringement. §504: Remedies – statutory damages $750-$30,000 (up to $150,000 willful)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 28,
+   "title": "Freedom of Information Act – FOIA (Luật Tự do Thông tin)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 34,
+   "title": "Title 35 USC – Patents (Sáng chế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 35,
+   "title": "Lanham Act – Trademark (Nhãn hiệu)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 129,
+   "title": "Digital Millennium Copyright Act – DMCA (Bản quyền Kỹ thuật số)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 130,
+   "title": "Defend Trade Secrets Act 2016 – DTSA (Bảo vệ Bí mật Thương mại)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 131,
+   "title": "America Invents Act – AIA 2011 (Cải cách Sáng chế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

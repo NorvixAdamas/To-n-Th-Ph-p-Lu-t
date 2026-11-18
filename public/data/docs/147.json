@@ -1,0 +1,220 @@
+{
+ "id": 147,
+ "sourceId": "us-def-4",
+ "title": "Uniform Code of Military Justice – UCMJ (Bộ luật Quân sự Thống nhất)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "code",
+ "kindLabel": "Bộ luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title10/subtitleA/partII/chapter47",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "defense"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Quốc phòng & an ninh"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6674,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 6453,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 6232,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 5973,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 5752,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 5493,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 5272,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 5051,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 4830,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 4609,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 4388,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 3412,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 3191,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 2926,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 2705,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 2292,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 2071,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 1824,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 1569,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 1348,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 1127,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 771,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 550,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  },
+  {
+   "id": 147,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Uniform Code of Military Justice (UCMJ) – 10 USC §§801-946.\nBộ luật hình sự quân đội Hoa Kỳ. Áp dụng cho quân nhân tại ngũ, dự bị khi phục vụ, tù binh.\n§85: Đào ngũ (desertion). §90: Bất tuân lệnh sĩ quan. §92: Không tuân thủ mệnh lệnh. §118: Giết người (murder). §120: Tội xâm hại tình dục.\nTòa án quân sự: summary, special, general court-martial."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 25,
+   "title": "Family and Medical Leave Act – FMLA (Luật Nghỉ phép Gia đình Y tế)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

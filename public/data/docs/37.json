@@ -1,0 +1,224 @@
+{
+ "id": 37,
+ "sourceId": "us-health-2",
+ "title": "Affordable Care Act – ACA / Obamacare (Luật Chăm sóc Sức khỏe)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.congress.gov/bill/111th-congress/house-bill/3590",
+ "tags": [],
+ "fields": [
+  "tax",
+  "criminal",
+  "enterprise",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật thuế",
+  "Luật hình sự",
+  "Luật doanh nghiệp & đầu tư",
+  "Y tế"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6564,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 6343,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 6122,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 5863,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 5642,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 5383,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 5162,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 4941,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 4720,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 4499,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 4278,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 3302,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 3081,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 2816,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 2595,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 2182,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 1961,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 1714,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 1459,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 1238,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 1017,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 661,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 440,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  },
+  {
+   "id": 37,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Patient Protection and Affordable Care Act (ACA / Obamacare).\nTitle I: Quality, affordable health care for all Americans. Individual mandate (penalty reduced to $0 in 2019). Health insurance exchanges/marketplaces. Essential health benefits. Pre-existing conditions protections. Dependent coverage to age 26.\nTitle II: Role of public programs (Medicaid expansion).\nTitle IX: Revenue provisions. Net investment income tax (3.8%). Additional Medicare tax (0.9%)."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 6,
+   "title": "Tax Cuts and Jobs Act 2017 (Luật Cắt giảm thuế)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 7,
+   "title": "Inflation Reduction Act 2022 – Phần thuế năng lượng",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  }
+ ]
+}

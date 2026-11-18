@@ -1,0 +1,32 @@
+{
+ "country": {
+  "code": "UZ",
+  "code3": "UZB",
+  "slug": "uzbekistan",
+  "nameVi": "Uzbekistan",
+  "nameEn": "Uzbekistan",
+  "flag": "🇺🇿",
+  "region": "asia",
+  "regionName": "Châu Á",
+  "subregion": "Central Asia",
+  "capital": "Tashkent",
+  "legalFamily": "",
+  "overview": "",
+  "sources": [],
+  "hasData": false,
+  "stats": {
+   "documents": 0,
+   "versions": 0,
+   "cases": 0,
+   "courts": 0,
+   "fields": 0,
+   "fullTextDocuments": 0,
+   "latestYear": null
+  },
+  "fieldCounts": {},
+  "courts": []
+ },
+ "documents": [],
+ "cases": [],
+ "topics": []
+}

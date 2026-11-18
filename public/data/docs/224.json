@@ -1,0 +1,224 @@
+{
+ "id": 224,
+ "sourceId": "us-crim-1",
+ "title": "Title 18 USC – Crimes and Criminal Procedure",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://uscode.house.gov/browse/prelim@title18",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "civil",
+  "family",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Luật dân sự",
+  "Gia đình",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6536,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 6315,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 6094,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 5835,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 5614,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 5355,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 5134,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 4913,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 4692,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 4471,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 4250,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 3274,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 3053,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 2788,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 2567,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 2154,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 1933,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 1686,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 1431,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 1210,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 989,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 633,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 412,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Title 18 – Crimes and Criminal Procedure.\nPart I – Crimes. Chapter 1: General provisions. Chapter 2: Aircraft and motor vehicles. Chapter 7: Assault. Chapter 11: Bribery, graft. Chapter 25: Counterfeiting and forgery. Chapter 31: Embezzlement. Chapter 33: Emblems, insignia. Chapter 41: Extortion and threats. Chapter 47: Fraud and false statements (wire fraud §1343, mail fraud §1341, bank fraud §1344). Chapter 73: Obstruction of justice. Chapter 95: Racketeering (RICO §1961-1968). Chapter 96: Racketeer Influenced and Corrupt Organizations. Chapter 109A: Sexual abuse. Chapter 110: Sexual exploitation of children. Chapter 113B: Terrorism.\nPart II – Criminal Procedure. Chapter 201: Arrests and commitments. Chapter 207: Release and detention. Chapter 213: Limitations. Chapter 227: Sentences. Chapter 229: Postsentence administration."
+  },
+  {
+   "id": 224,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Main criminal code of the US federal government. Defines federal crimes and procedures."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

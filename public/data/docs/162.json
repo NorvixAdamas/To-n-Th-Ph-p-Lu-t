@@ -1,0 +1,224 @@
+{
+ "id": 162,
+ "sourceId": "vn-civil-3",
+ "title": "Luật Công chứng 2014 (sửa đổi 2024)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "civil",
+  "environment",
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật dân sự",
+  "Môi trường",
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6689,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 6468,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 6247,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 5988,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 5767,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 5508,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 5287,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 5066,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 4845,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 4624,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 4403,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 3427,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 3206,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 2941,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 2720,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 2307,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 2086,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 1839,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 1584,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 1363,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 1142,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 786,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 565,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  },
+  {
+   "id": 162,
+   "effectiveDate": "2024-07-01",
+   "repealDate": null,
+   "text": "Luật Công chứng 2014 (sửa đổi 2024).\nĐiều 1. Phạm vi: Công chứng hợp đồng, giao dịch, bản dịch.\nĐiều 2. Công chứng viên: người được bổ nhiệm để thực hiện công chứng.\nĐiều 40-48. Thủ tục công chứng hợp đồng, giao dịch: xác minh, ký, đóng dấu.\nĐiều 53-54. Công chứng di chúc. Điều 62. Công chứng bản dịch."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

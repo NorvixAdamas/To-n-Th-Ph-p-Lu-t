@@ -1,0 +1,220 @@
+{
+ "id": 10,
+ "sourceId": "us-crim-2",
+ "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+ "type": "regulation",
+ "typeLabel": "Quy định / Văn bản dưới luật",
+ "kind": "regulation",
+ "kindLabel": "Văn bản dưới luật",
+ "sourceUrl": "https://www.uscourts.gov/rules-policies/current-rules-practice-procedure/federal-rules-criminal-procedure",
+ "tags": [],
+ "fields": [
+  "criminal",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật hình sự",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6537,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 6316,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 6095,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 5836,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 5615,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 5356,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 5135,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 4914,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 4693,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 4472,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 4251,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 3275,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 3054,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 2789,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 2568,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 2155,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 1934,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 1687,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 1432,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 1211,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 990,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 634,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 413,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  },
+  {
+   "id": 10,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Federal Rules of Criminal Procedure.\nRule 1: Scope; definitions.\nRule 3: Complaint.\nRule 4: Arrest warrant or summons.\nRule 5: Initial appearance.\nRule 6: Grand jury.\nRule 7: Indictment.\nRule 10: Arraignment.\nRule 11: Pleas (guilty, not guilty, nolo contendere).\nRule 12: Motions.\nRule 16: Discovery.\nRule 23: Jury or nonjury trial.\nRule 29: Motion for judgment of acquittal.\nRule 32: Sentencing and judgment.\nRule 33: New trial.\nRule 41: Search and seizure."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 2,
+   "title": "Bill of Rights – 10 Tu chính án đầu tiên",
+   "kindLabel": "Hiến pháp",
+   "year": 2024
+  },
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 11,
+   "title": "Federal Sentencing Guidelines (Hướng dẫn Lượng hình Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 23,
+   "title": "Occupational Safety and Health Act – OSHA (Luật An toàn Sức khỏe Nghề nghiệp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  }
+ ]
+}

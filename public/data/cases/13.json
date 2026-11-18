@@ -1,0 +1,60 @@
+{
+ "id": 13,
+ "sourceId": "vn-case-5",
+ "name": "Án lệ số 09/2016/AL – Về hiệu lực của hợp đồng bảo hiểm",
+ "court": "Hội đồng Thẩm phán TANDTC",
+ "docket": "AL-09/2016",
+ "dateDecided": "2016-10-17",
+ "year": 2016,
+ "summary": "Về vấn đề: Hợp đồng bảo hiểm nhân thọ có hiệu lực khi bên mua bảo hiểm đã đóng phí bảo hiểm và doanh nghiệp bảo hiểm đã nhận phí, kể cả khi giấy chứng nhận bảo hiểm chưa được cấp.",
+ "fields": [
+  "labor",
+  "enterprise",
+  "civil",
+  "health"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Luật doanh nghiệp & đầu tư",
+  "Luật dân sự",
+  "Y tế"
+ ],
+ "kind": "precedent",
+ "kindLabel": "Án lệ",
+ "sourceUrl": "https://anle.toaan.gov.vn",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "related": [
+  {
+   "id": 203,
+   "name": "Quyết định giám đốc thẩm số 33/2024/DS-GĐT ngày 11-01-2024",
+   "court": "TANDCC tại Thành phố Hồ Chí Minh",
+   "year": 2024
+  },
+  {
+   "id": 16,
+   "name": "Án lệ số 52/2022/AL – Về tranh chấp lao động",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 31,
+   "name": "Án lệ số 55/2022/AL – Về bảo vệ quyền lợi người tiêu dùng",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2022
+  },
+  {
+   "id": 15,
+   "name": "Án lệ số 42/2021/AL – Về xác định thiệt hại do ô nhiễm môi trường",
+   "court": "Hội đồng Thẩm phán TANDTC",
+   "year": 2021
+  }
+ ]
+}

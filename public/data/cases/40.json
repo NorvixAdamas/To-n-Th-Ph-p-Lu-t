@@ -1,0 +1,29 @@
+{
+ "id": 40,
+ "sourceId": "jp-case-1",
+ "name": "The Sunagawa Case (1959)",
+ "court": "Supreme Court of Japan",
+ "docket": "Gyo-Tsu No. 110",
+ "dateDecided": "1959-12-16",
+ "year": 1959,
+ "summary": "Major Japanese constitutional case regarding Article 9 and US-Japan Security Treaty. Court ruled it lacked jurisdiction on political questions (Acts of State doctrine).",
+ "fields": [
+  "defense"
+ ],
+ "fieldLabels": [
+  "Quốc phòng & an ninh"
+ ],
+ "kind": "judgment",
+ "kindLabel": "Bản án",
+ "sourceUrl": "https://www.courts.go.jp/",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "JP",
+  "slug": "japan",
+  "nameVi": "Nhật Bản",
+  "nameEn": "Japan",
+  "flag": "🇯🇵",
+  "regionName": "Châu Á"
+ },
+ "related": []
+}

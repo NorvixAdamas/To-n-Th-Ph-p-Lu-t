@@ -1,0 +1,220 @@
+{
+ "id": 169,
+ "sourceId": "vn-admin-9",
+ "title": "Luật Viên chức 2010 (sửa đổi 2019)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "health",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Y tế",
+  "Hành chính"
+ ],
+ "year": 2020,
+ "effectiveDate": "2020-07-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6696,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 6475,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 6254,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 5995,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 5774,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 5515,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 5294,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 5073,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 4852,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 4631,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 4410,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 3434,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 3213,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 2948,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 2727,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 2314,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 2093,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 1846,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 1591,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 1370,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 1149,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 793,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 572,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  },
+  {
+   "id": 169,
+   "effectiveDate": "2020-07-01",
+   "repealDate": null,
+   "text": "Luật Viên chức 2010 (sửa đổi 2019).\nĐiều 1. Phạm vi: Viên chức trong đơn vị sự nghiệp công lập.\nĐiều 2. Viên chức: người được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập.\nĐiều 25-29. Tuyển dụng: xét tuyển, thi tuyển.\nĐiều 41-43. Đánh giá, phân loại."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

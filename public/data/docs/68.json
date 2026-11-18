@@ -1,0 +1,222 @@
+{
+ "id": 68,
+ "sourceId": "vn-labor-4",
+ "title": "Luật Việc làm 2013",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://vbpl.vn",
+ "tags": [],
+ "fields": [
+  "labor",
+  "education",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Luật lao động",
+  "Giáo dục",
+  "Hành chính"
+ ],
+ "year": 2015,
+ "effectiveDate": "2015-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "VN",
+  "slug": "vietnam",
+  "nameVi": "Việt Nam",
+  "nameEn": "Vietnam",
+  "flag": "🇻🇳",
+  "regionName": "Châu Á"
+ },
+ "versions": [
+  {
+   "id": 6595,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 6374,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 6153,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 5894,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 5673,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 5414,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 5193,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 4972,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 4751,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 4530,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 4309,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 3333,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 3112,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 2847,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 2626,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 2213,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 1992,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 1745,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 1490,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 1269,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 1048,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 692,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 471,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  },
+  {
+   "id": 68,
+   "effectiveDate": "2015-01-01",
+   "repealDate": null,
+   "text": "Luật Việc làm 2013.\nĐiều 1. Phạm vi: Chính sách hỗ trợ tạo việc làm, thông tin thị trường lao động, đánh giá kỹ năng nghề, bảo hiểm thất nghiệp.\nĐiều 42-50. Bảo hiểm thất nghiệp. Điều kiện hưởng: đóng BHTN ≥12 tháng trong 24 tháng trước khi thất nghiệp. Mức trợ cấp: 60% bình quân tiền lương 6 tháng trước."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 45,
+   "title": "Luật Ban hành văn bản quy phạm pháp luật 2015 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2020
+  },
+  {
+   "id": 47,
+   "title": "Luật Trách nhiệm bồi thường của Nhà nước 2017",
+   "kindLabel": "Đạo luật",
+   "year": 2018
+  },
+  {
+   "id": 49,
+   "title": "Bộ luật Tố tụng Hình sự 2015 (Luật số 101/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2018
+  },
+  {
+   "id": 51,
+   "title": "Bộ luật Tố tụng Dân sự 2015 (Luật số 92/2015/QH13)",
+   "kindLabel": "Bộ luật",
+   "year": 2017
+  },
+  {
+   "id": 53,
+   "title": "Luật Tố tụng Hành chính 2015 (Luật số 93/2015/QH13)",
+   "kindLabel": "Đạo luật",
+   "year": 2017
+  },
+  {
+   "id": 54,
+   "title": "Luật Xử lý vi phạm Hành chính 2012 (sửa đổi 2020)",
+   "kindLabel": "Đạo luật",
+   "year": 2022
+  }
+ ]
+}

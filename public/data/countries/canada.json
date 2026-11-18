@@ -1,0 +1,701 @@
+{
+ "country": {
+  "code": "CA",
+  "code3": "CAN",
+  "slug": "canada",
+  "nameVi": "Canada",
+  "nameEn": "Canada",
+  "flag": "🇨🇦",
+  "region": "north-america",
+  "regionName": "Bắc Mỹ",
+  "subregion": "North America",
+  "capital": "Ottawa",
+  "legalFamily": "Hệ thống hỗn hợp common law và dân luật",
+  "overview": "Canada kết hợp common law ở các tỉnh và vùng lãnh thổ ngoài Québec với dân luật tại Québec. Hiến pháp 1867 và 1982, trong đó có Hiến chương Quyền và Tự do, là nền tảng hiến định. Luật liên bang được công bố trên Justice Laws Website; án lệ của Tòa án Tối cao Canada có vai trò quan trọng.",
+  "sources": [
+   {
+    "name": "Justice Laws Website",
+    "url": "https://laws-lois.justice.gc.ca"
+   },
+   {
+    "name": "Supreme Court of Canada",
+    "url": "https://www.scc-csc.ca"
+   },
+   {
+    "name": "CanLII",
+    "url": "https://www.canlii.org"
+   }
+  ],
+  "hasData": true,
+  "stats": {
+   "documents": 20,
+   "versions": 20,
+   "cases": 1,
+   "courts": 1,
+   "fields": 14,
+   "fullTextDocuments": 0,
+   "latestYear": 2026
+  },
+  "fieldCounts": {
+   "constitution": 2,
+   "criminal": 2,
+   "administrative": 4,
+   "tax": 1,
+   "enterprise": 1,
+   "labor": 2,
+   "environment": 1,
+   "health": 1,
+   "education": 1,
+   "commercial": 5,
+   "other": 1,
+   "civil": 2,
+   "ip": 2,
+   "family": 2
+  },
+  "courts": [
+   {
+    "name": "Supreme Court of Canada",
+    "count": 1
+   }
+  ]
+ },
+ "documents": [
+  {
+   "id": 356,
+   "title": "Constitution Acts (Hiến pháp Canada)",
+   "sourceId": "ca-const-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "constitution",
+   "kindLabel": "Hiến pháp",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/Const/index.html",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 357,
+   "title": "Criminal Code of Canada (Bộ luật Hình sự Canada)",
+   "sourceId": "ca-crim-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 358,
+   "title": "Income Tax Act (Luật Thuế Canada)",
+   "sourceId": "ca-tax-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/",
+   "fields": [
+    "tax",
+    "enterprise"
+   ],
+   "fieldLabels": [
+    "Luật thuế",
+    "Luật doanh nghiệp & đầu tư"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 359,
+   "title": "Canada Labour Code (Luật Lao động Canada)",
+   "sourceId": "ca-labor-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/L-2/",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 361,
+   "title": "Financial Administration Act (Luật Hành chính Canada)",
+   "sourceId": "ca-admin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/F-11/",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 362,
+   "title": "CEPA (Luật Bảo vệ Môi trường Canada)",
+   "sourceId": "ca-env-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-15.31/",
+   "fields": [
+    "environment",
+    "health",
+    "education"
+   ],
+   "fieldLabels": [
+    "Môi trường",
+    "Y tế",
+    "Giáo dục"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 363,
+   "title": "Bank Act (Luật Ngân hàng Canada)",
+   "sourceId": "ca-fin-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/B-1.01/",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 365,
+   "title": "Competition Act (Luật Cạnh tranh và Bảo vệ NTD)",
+   "sourceId": "ca-cons-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-34/",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 366,
+   "title": "Canada Transportation Act (Luật Giao thông Canada)",
+   "sourceId": "ca-trans-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/T-18/",
+   "fields": [
+    "other"
+   ],
+   "fieldLabels": [
+    "Lĩnh vực khác"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:41:33"
+  },
+  {
+   "id": 949,
+   "title": "Quebec Civil Code / Common Law Torts",
+   "sourceId": "ca-civ-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://www.legisquebec.gouv.qc.ca/en/document/cs/CCQ-1991",
+   "fields": [
+    "civil"
+   ],
+   "fieldLabels": [
+    "Luật dân sự"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 950,
+   "title": "Employment Insurance Act Canada",
+   "sourceId": "ca-lab-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/E-5.6/",
+   "fields": [
+    "labor"
+   ],
+   "fieldLabels": [
+    "Luật lao động"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 951,
+   "title": "Patent Act Canada",
+   "sourceId": "ca-ip-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/P-4/",
+   "fields": [
+    "ip",
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ",
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 952,
+   "title": "Federal Courts Act Canada",
+   "sourceId": "ca-adm-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/F-7/",
+   "fields": [
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Hành chính"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 953,
+   "title": "Children Law Reform Act / Custody",
+   "sourceId": "ca-fam-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
+   "fields": [
+    "civil",
+    "family"
+   ],
+   "fieldLabels": [
+    "Luật dân sự",
+    "Gia đình"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 954,
+   "title": "Trust and Loan Companies Act Canada",
+   "sourceId": "ca-fin-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/T-19.8/",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 955,
+   "title": "Consumer Product Safety Act Canada",
+   "sourceId": "ca-cons-extra",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-1.68/",
+   "fields": [
+    "commercial"
+   ],
+   "fieldLabels": [
+    "Luật thương mại"
+   ],
+   "year": 2024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-03-15 01:55:36"
+  },
+  {
+   "id": 3025,
+   "title": "Canadian Charter of Rights and Freedoms",
+   "sourceId": "ca-deep-1",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/const/page-12.html",
+   "fields": [
+    "constitution"
+   ],
+   "fieldLabels": [
+    "Hiến pháp"
+   ],
+   "year": 1982,
+   "effectiveDate": "1982-04-17",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3026,
+   "title": "Criminal Code",
+   "sourceId": "ca-deep-2",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "code",
+   "kindLabel": "Bộ luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-46/",
+   "fields": [
+    "criminal",
+    "administrative"
+   ],
+   "fieldLabels": [
+    "Luật hình sự",
+    "Hành chính"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3027,
+   "title": "Copyright Act",
+   "sourceId": "ca-deep-3",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/C-42/",
+   "fields": [
+    "ip"
+   ],
+   "fieldLabels": [
+    "Sở hữu trí tuệ"
+   ],
+   "year": 2026,
+   "effectiveDate": "2026-01-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  },
+  {
+   "id": 3028,
+   "title": "Divorce Act",
+   "sourceId": "ca-deep-4",
+   "type": "statute",
+   "typeLabel": "Luật / Đạo luật",
+   "kind": "statute",
+   "kindLabel": "Đạo luật",
+   "sourceUrl": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
+   "fields": [
+    "family"
+   ],
+   "fieldLabels": [
+    "Gia đình"
+   ],
+   "year": 2021,
+   "effectiveDate": "2021-03-01",
+   "repealDate": null,
+   "status": "in_force",
+   "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+   "versionCount": 1,
+   "fullTextAvailable": false,
+   "fullTextLength": 0,
+   "updatedAt": "2026-04-03 02:38:01"
+  }
+ ],
+ "cases": [
+  {
+   "id": 43,
+   "name": "Reference re Secession of Quebec [1998] 2 SCR 217",
+   "sourceId": "ca-case-1",
+   "court": "Supreme Court of Canada",
+   "docket": "25506",
+   "dateDecided": "1998-08-20",
+   "year": 1998,
+   "kind": "judgment",
+   "kindLabel": "Bản án",
+   "fields": [],
+   "fieldLabels": [],
+   "summary": "Landmark case on the legality of a unilateral secession of Quebec. The Court identified four underlying constitutional principles: federalism, democracy, constitutionalism and the rule of law, and protection of minorities.",
+   "sourceUrl": "https://scc-csc.lexum.com/"
+  }
+ ],
+ "topics": [
+  {
+   "id": "ca-constitution",
+   "name": "Hiến pháp & nền tảng",
+   "nameEn": "Constitution & Foundations",
+   "desc": "Constitution Acts (1867, 1982), Charter of Rights and Freedoms",
+   "q": "constitution charter rights",
+   "tax": false
+  },
+  {
+   "id": "ca-criminal",
+   "name": "Hình sự",
+   "nameEn": "Criminal Law",
+   "desc": "Criminal Code of Canada, Youth Criminal Justice Act",
+   "q": "criminal code",
+   "tax": false
+  },
+  {
+   "id": "ca-tax",
+   "name": "Thuế",
+   "nameEn": "Tax Law",
+   "desc": "Income Tax Act, Excise Tax Act (GST/HST)",
+   "q": "Thuế",
+   "tax": true
+  },
+  {
+   "id": "ca-civil",
+   "name": "Dân sự",
+   "nameEn": "Civil Law",
+   "desc": "Torts, property, contracts (Common law outside Quebec, Civil Code in Quebec)",
+   "q": "civil law",
+   "tax": false
+  },
+  {
+   "id": "ca-labor",
+   "name": "Lao động",
+   "nameEn": "Labor & Employment",
+   "desc": "Canada Labour Code, provincial labor standards",
+   "q": "labor employment",
+   "tax": false
+  },
+  {
+   "id": "ca-ip",
+   "name": "Sở hữu trí tuệ",
+   "nameEn": "Intellectual Property",
+   "desc": "Copyright Act, Patent Act, Trademarks Act",
+   "q": "copyright patent trademark",
+   "tax": false
+  },
+  {
+   "id": "ca-admin",
+   "name": "Hành chính",
+   "nameEn": "Administrative Law",
+   "desc": "Judicial review, federal/provincial boards and tribunals",
+   "q": "administrative",
+   "tax": false
+  },
+  {
+   "id": "ca-family",
+   "name": "Gia đình",
+   "nameEn": "Family Law",
+   "desc": "Divorce Act, provincial family laws, custody",
+   "q": "family",
+   "tax": false
+  },
+  {
+   "id": "ca-environment",
+   "name": "Môi trường",
+   "nameEn": "Environmental Law",
+   "desc": "Canadian Environmental Protection Act, impact assessments",
+   "q": "environment",
+   "tax": false
+  },
+  {
+   "id": "ca-finance",
+   "name": "Tài chính / Ngân hàng",
+   "nameEn": "Banking & Finance",
+   "desc": "Bank Act, OSFI regulations, securities (provincial)",
+   "q": "banking finance",
+   "tax": false
+  },
+  {
+   "id": "ca-consumer",
+   "name": "Bảo vệ người tiêu dùng",
+   "nameEn": "Consumer Protection",
+   "desc": "Provincial consumer protection acts, competition law",
+   "q": "consumer",
+   "tax": false
+  },
+  {
+   "id": "ca-transport",
+   "name": "Giao thông",
+   "nameEn": "Transportation",
+   "desc": "Canada Transportation Act, aviation and marine safety",
+   "q": "transport",
+   "tax": false
+  },
+  {
+   "id": "ca-caselaw",
+   "name": "Án lệ",
+   "nameEn": "Case Law",
+   "desc": "Supreme Court of Canada, Provincial courts",
+   "q": "Án lệ",
+   "tax": false
+  }
+ ]
+}

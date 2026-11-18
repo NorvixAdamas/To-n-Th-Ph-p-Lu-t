@@ -1,0 +1,220 @@
+{
+ "id": 120,
+ "sourceId": "us-admin-4",
+ "title": "Privacy Act 1974 (Luật Quyền riêng tư)",
+ "type": "statute",
+ "typeLabel": "Luật / Đạo luật",
+ "kind": "statute",
+ "kindLabel": "Đạo luật",
+ "sourceUrl": "https://www.justice.gov/opcl/privacy-act-1974",
+ "tags": [],
+ "fields": [
+  "tech",
+  "administrative"
+ ],
+ "fieldLabels": [
+  "Công nghệ & dữ liệu",
+  "Hành chính"
+ ],
+ "year": 2024,
+ "effectiveDate": "2024-01-01",
+ "repealDate": null,
+ "status": "in_force",
+ "statusLabel": "Còn hiệu lực (theo dữ liệu)",
+ "updatedAt": "2026-03-15 01:41:33",
+ "country": {
+  "code": "US",
+  "slug": "united-states",
+  "nameVi": "Hoa Kỳ",
+  "nameEn": "United States",
+  "flag": "🇺🇸",
+  "regionName": "Bắc Mỹ"
+ },
+ "versions": [
+  {
+   "id": 6647,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 6426,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 6205,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 5946,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 5725,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 5466,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 5245,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 5024,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 4803,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 4582,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 4361,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 3385,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 3164,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 2899,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 2678,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 2265,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 2044,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 1797,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 1542,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 1321,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 1100,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 744,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 523,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  },
+  {
+   "id": 120,
+   "effectiveDate": "2024-01-01",
+   "repealDate": null,
+   "text": "Privacy Act 1974 – 5 USC §552a.\nBảo vệ thông tin cá nhân trong hồ sơ cơ quan liên bang.\nQuyền truy cập hồ sơ cá nhân. Quyền yêu cầu sửa đổi hồ sơ.\n12 ngoại lệ cho phép tiết lộ (luật, Census, thống kê, thực thi pháp luật, quốc hội, GAO, tòa án).\nCơ quan phải công bố System of Records Notice (SORN) trong Federal Register."
+  }
+ ],
+ "fullTextAvailable": false,
+ "fullTextLength": 0,
+ "fullText": null,
+ "related": [
+  {
+   "id": 5,
+   "title": "Treasury Regulations (Quy định Kho bạc về thuế)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 8,
+   "title": "FATCA – Foreign Account Tax Compliance Act",
+   "kindLabel": "Đạo luật",
+   "year": 2010
+  },
+  {
+   "id": 10,
+   "title": "Federal Rules of Criminal Procedure (Quy tắc Tố tụng Hình sự Liên bang)",
+   "kindLabel": "Văn bản dưới luật",
+   "year": 2024
+  },
+  {
+   "id": 15,
+   "title": "Title 28 USC – Judiciary and Judicial Procedure (Tổ chức Tư pháp)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 24,
+   "title": "Americans with Disabilities Act – ADA (Luật Người khuyết tật)",
+   "kindLabel": "Đạo luật",
+   "year": 2024
+  },
+  {
+   "id": 27,
+   "title": "Code of Federal Regulations – CFR (Bộ Quy định Liên bang)",
+   "kindLabel": "Bộ luật",
+   "year": 2024
+  }
+ ]
+}
