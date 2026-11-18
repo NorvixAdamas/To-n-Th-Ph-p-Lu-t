@@ -27,9 +27,6 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          # Tự bật Pages (source: GitHub Actions) ở lần chạy đầu, không cần vào Settings thủ công.
-          enablement: true
 
       - name: Upload static site (public/)
         uses: actions/upload-pages-artifact@v3
