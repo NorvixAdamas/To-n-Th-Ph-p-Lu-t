@@ -7,8 +7,8 @@ Website không có backend, không API server, không PostgreSQL/Supabase/Neon/D
 - **Publish directory:** `public`
 - **Build command khi deploy:** không cần (website đã là file tĩnh)
 - **Biến môi trường khi chạy:** không cần
-- **Repo:** <https://github.com/NorvixAdamas/To-n-Th-Lu-t-Ph-p>
-- **Website (GitHub Pages):** <https://norvixadamas.github.io/To-n-Th-Lu-t-Ph-p/>
+- **Repo:** <https://github.com/NorvixAdamas/To-n-Th-Ph-p-Lu-t>
+- **Website (GitHub Pages):** <https://norvixadamas.github.io/To-n-Th-Ph-p-Lu-t/>
 
 > Nội dung chỉ dùng để tham khảo và học tập. Website không thay thế văn bản pháp luật chính thức hay tư vấn pháp lý.
 
